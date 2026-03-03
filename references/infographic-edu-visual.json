@@ -56,6 +56,138 @@
     "needReferenceImages": false
   },
   {
+    "id": 11270,
+    "content": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality",
+    "title": "Exploded View Infographic Diagram Prompt",
+    "description": "A template prompt for generating highly detailed, quality infographics and product design diagrams using an exploded view perspective. It specifies a white background, three-dimensional rendering, detailed internal components, and product photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519703684_klovml_HCbTfBgXQAAtlhh.jpg",
+      "https://cms-assets.youmind.com/media/1772519703692_qr978r_HCbTcfuXMAECTaT.jpg",
+      "https://cms-assets.youmind.com/media/1772519703677_qcue28_HCbTdfRW0AA5eR9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11335,
+    "content": "Combine these three objects into one single absurd but legally patentable invention. Output:\nOfficial patent title (overly long)\nUSPTO-style abstract (150 words)\n4 ridiculous ‘claims’\nOne real-sounding problem it solves Style: 100% serious US patent office document.\n\nCreate four clean black-and-white technical patent drawings (exploded view, side, top, perspective) of this new invention in classic patent illustration style.\n\nNow render the final product in glossy Apple-product-photography style on white infinity background with subtle reflection. Add fake patent number in corner.",
+    "title": "Multi-step prompt for generating absurd patent documents and product renders",
+    "description": "A complex, multi-step prompt designed for Nano Banana 2 to invent an absurd, legally patentable gadget by combining three random home appliances. The process involves generating a formal patent document (title, abstract, claims, problem solved), technical patent drawings, and a final glossy product render in Apple-product-photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519740440_44cqpn_HCIO0skXQAAujD_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11267,
+    "content": "Image 1: Premium commercial photograph of assorted sushi rolls arranged elegantly on a slate plate. Soft diffused lighting, clean Japanese restaurant background blur, crisp textures, vibrant colors.\n\nImage 2: Exploded visualization of one sushi roll showing rice layer, nori sheet, fish filling, vegetables — precise vertical separation, minimal elegant labels.",
+    "title": "Sushi Commercial Photography and Exploded Diagram Prompt",
+    "description": "A dual-image prompt for generating two distinct visual styles of sushi: a premium commercial photograph of assorted rolls and an exploded visualization diagram of a single roll, emphasizing precise vertical separation and minimal labels for visual design purposes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519702278_1lpdss_HCX-BNsWoAA1N2J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11257,
+    "content": "Infographic-style images that are on another level, in this case a {argument name=\"object\" default=\"Nvidia RTX 5090\"}, just change OBJECT to what you want to create an infographic of, prompt in the following post",
+    "title": "Infographic Style Image Generation Prompt for Nano Banana 2",
+    "description": "This tweet describes a prompt for generating high-level infographic-style images using Google Nano Banana 2, specifically mentioning an Nvidia RTX 5090 as an example object. The user advises replacing 'OBJETO' (OBJECT) with the desired subject for the infographic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433527626_7jezbj_HCW2O1lX0AEnqu0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11218,
+    "content": "Variable Guide\n1. OVERALL_DIORAMA_THEME = Scenes from the book  Twenty Thousand leagues under the sea  by Jules Verne, in the order in which they are presented in the book\n2. CUPBOARD_BASE_MATERIAL = \n3. CUPBOARD_LINING_MATERIAL = \n4. RACK_MATERIAL = \n5. ORNAMENTATION_STYLE = [e.g., Gothic carved wood, Art Deco brass, Elven interlaced vines]\n6. ART_STYLE = Hyper-Realistic Render\n7. TOP_SHELF_SCENE = [Describe specific actions of miniature figures defining the scene]\n8. MIDDLE_SHELF_SCENE = [Describe specific actions of miniature figures defining the scene]\n9. BOTTOM_SHELF_SCENE = [Describe specific actions of miniature figures defining the scene]\n10. LIGHTING = \n11. CAMERA_ANGLE = A straight-on, front-facing view, captured from a moderately high angle looking distinctly downward.\n12. ASPECT_RATIO = 3:4\n\nGeneration Directives\n(Note: If any variable is left blank, intelligently infer the most appropriate detail based on the OVERALL_DIORAMA_THEME)\n\nDirective 1: Framing & Composition (Highest Priority)\nA direct, front-facing photograph captured from CAMERA_ANGLE. The composition must perfectly center the open display structure, looking down at a distinct angle into the shelves to clearly reveal the floor plates and top-down depth of the miniature objects within the dioramas, while ensuring the exterior side panels remain completely hidden. The entire free-standing structure must be completely visible with negative space around it against a simple background. The aspect ratio is 3:4.\n\nDirective 2: The Main Structure (Strict Constraints)\nRender the image in the style of ART_STYLE. The central object is a highly detailed, permanently open-front curio display structure. It must not possess doors, hinges, or door frames of any kind. The exterior is constructed from CUPBOARD_BASE_MATERIAL and detailed with ORNAMENTATION_STYLE. The interior back wall is lined with CUPBOARD_LINING_MATERIAL, and the individual shelves are made of RACK_MATERIAL.\n\nDirective 3: The Miniature Dioramas & Figures\nThe structure houses a cohesive miniature world divided across three shelves, adhering to the OVERALL_DIORAMA_THEME. Crucially, each shelf must contain miniature figures engaged in a specific narrative action.\n* Top Shelf: Miniature figures are depicted [TOP_SHELF_SCENE].\n* Middle Shelf: Miniature figures are depicted [MIDDLE_SHELF_SCENE].\n* Bottom Shelf: Miniature figures are depicted [BOTTOM_SHELF_SCENE].\nEnsure the scale clearly reads as miniature dioramas housed within a furniture piece.\n\nDirective 4: Atmosphere & Lighting\nThe scene is illuminated by LIGHTING. The lighting should cast appropriate micro-shadows within each shelf to emphasize the depth, the figures, and the miniature scale of the dioramas.",
+    "title": "Ornate Box Diorama Prompt for Twenty Thousand Leagues Under the Sea",
+    "description": "A highly structured, variable-driven prompt template for generating an ornate box diorama based on Jules Verne's 'Twenty Thousand Leagues Under the Sea'. The prompt uses variables for theme, materials, style, and scene descriptions across three shelves, along with strict directives for framing, composition, and lighting to ensure a miniature scale aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433514977_llvsgj_HCWkSRabwAA8r2a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11153,
+    "content": "<instructions>for {argument name=\"book title\" default=\"1984\"}\nAct as a literary deep-dive recommendation engine + antique typewriter automaton builder.\nStep 1: Analyze the input book—narrative voice, philosophical undercurrents, world atmosphere, and character psychology.\nStep 2: Select 4 obscure books with mirroring intellectual/emotional resonance.\nStep 3: ONE 2x2 grid. Each panel features a vintage typewriter with exposed mechanics; keys strike to \"type\" floating 3D paper sculptures forming key symbolic scenes; ink ribbons spell year subtly. Under each: typed label “Author – Title (Year)”.\nStyle: dimly lit writer’s study, warm desk lamp, mechanical patina, floating paper fragments.\n</instructions>",
+    "title": "Literary Deep-Dive Recommendation Engine Prompt",
+    "description": "A multi-step prompt designed to act as a literary recommendation engine and antique typewriter automaton builder. It instructs the AI to analyze a specified book (1984) and select four obscure, intellectually resonant books, then visualize them in a 2x2 grid featuring vintage typewriters and 3D paper sculptures of symbolic scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433487682_tbv1la_HCIKukFbMAAV8oZ.jpg",
+      "https://cms-assets.youmind.com/media/1772433487693_pjg6to_HCIKvM-WwAA2IpB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11211,
+    "content": "[Iphone], technical blueprint drawing, orthographic view, front view + side view + top view, white vector line art, thin construction lines, precise measurements, annotation labels, dimension arrows, grid background, deep blue background, minimal design, engineering schematic style, high detail",
+    "title": "Technical Blueprint Drawing Prompt",
+    "description": "A detailed prompt for generating a technical blueprint drawing of an iPhone, utilizing orthographic views, precise measurements, and a deep blue background, inspired by an engineering schematic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433511864_no5yz9_HCU_ufcacAAZMH2.jpg",
+      "https://cms-assets.youmind.com/media/1772433511938_nic9m6_HCU_ufRb0AAtxNj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11165,
+    "content": "Create a high-resolution professional infographic of [{argument name=\"object name\" default=\"OBJECT NAME\"}].\nDisplay the object in a clean, semi-realistic technical illustration style. Include both external structure and internal components using a cutaway view, cross-section, or exploded layout where appropriate.\nAutomatically detect and label all major structural, mechanical, electronic, or functional components using accurate technical terminology.\nUse thin leader lines connecting each label precisely to the correct part. Ensure labels are clear, readable, and professionally formatted.\nAdd a bold headline at the top:\n“OBJECT NAME – Complete Structural Breakdown”\nLayout should be balanced and organized like a modern engineering manual or product teardown poster.\nBackground: clean white or light neutral tone.\nLighting: neutral studio lighting with soft shadows for depth.\nMaterials and textures must look realistic and detailed.\nUse modern sans-serif typography with clear hierarchy (bold headings, smaller technical labels).\nUltra-detailed, sharp focus, 4K resolution, professional educational infographic style.\nNo artistic distortion, no clutter, no decorative elements unrelated to structure.",
+    "title": "Technical Infographic Cutaway Prompt",
+    "description": "A prompt template for generating a high-resolution, professional technical infographic of an object. It requires a clean, semi-realistic cutaway view showing internal components, automatic labeling with technical terminology, and a balanced layout suitable for an engineering manual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433492844_q6zr64_HCTasgQaYAADK5w.jpg",
+      "https://cms-assets.youmind.com/media/1772433492828_rtz9na_HCTasgVacAEMa7s.jpg",
+      "https://cms-assets.youmind.com/media/1772433493530_9ulyhy_HCTasgRa4AAh2YG.jpg",
+      "https://cms-assets.youmind.com/media/1772433493769_1405cw_HCTasgQbEAEuwwx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11163,
+    "content": "Pergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden garden pergola on white paper. Front and slight side elevation view with clear proportions.\n\nConstruction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.\n\nFinished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.",
+    "title": "Pergola Blueprint to Photoreal Structure Prompt",
+    "description": "A dual prompt used to transform an architectural pencil sketch of a wooden pergola into a photorealistic image of the fully built structure in a garden. The prompt ensures the final image matches the exact structure and proportions of the hand-drawn blueprint.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433492283_7m36ql_HCStFo8bEAAX3bG.jpg",
+      "https://cms-assets.youmind.com/media/1772433492300_lkb5wi_HCStFovbEAYN1HF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11083,
+    "content": "Create an info graphic about the 1969 Woodstock Festival",
+    "title": "Infographic Creation with Simple Text Prompt",
+    "description": "A simple text prompt used with Adobe Firefly Boards and Nano Banana 2 (with Google Search enabled) to create an infographic about the 1969 Woodstock Festival.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346671213_t80l5b_HCQNKriWgAAC67s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11074,
+    "content": "A conceptual architectural isometric model of an organic-form corporate office tower, presented as an exhibition-scale diorama. The building is shown with a cutaway section, exposing fluid spatial flow, curved meeting rooms, and lounge zoning from a top-down isometric perspective. Volumes are lightly separated by seamlessly curved translucent partitions to suggest circulation and function. Warm micro-LEDs illuminate the individual floors from within. Strong use of negative space and clear compositional hierarchy. Thin structural outlines, soft pastel lavender and mint, ribbed wood and dark terrazzo tones, minimal abstract signage, subtle human-scale markers. Smooth surfaces, pill-shaped rounded edges, dramatic controlled studio lighting, architectural model photography style, clean dark neutral background, high-detail yet minimal.",
+    "title": "Conceptual Isometric Office Tower Model",
+    "description": "A prompt for generating a conceptual architectural isometric model (diorama style) of an organic-form corporate office tower, viewed from a top-down perspective, emphasizing fluid spatial flow, soft pastel colors, ribbed wood, and controlled studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346666853_pe8t48_HCPbtcyXkAAgMJV.jpg",
+      "https://cms-assets.youmind.com/media/1772346666829_k3fjgc_HCPbtcpWUAAQ9AV.jpg",
+      "https://cms-assets.youmind.com/media/1772346666814_7tjdub_HCPbtcyWwAA2iC0.jpg",
+      "https://cms-assets.youmind.com/media/1772346667640_lilznm_HCPbtctW8AAo105.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11138,
+    "content": "Referencing this character, generate a Pokémon Zukan-style illustration. The Zukan No. is {argument name=\"Zukan Number\" default=\"[Enter Zukan No.]\"}. The background is white. The Zukan description text is {argument name=\"Description Text\" default=\"[Enter description text]\"}. Reproduce the Zukan layout and design.",
+    "title": "Generating Pokémon Zukan (Illustrated Guide) Style Art",
+    "description": "The user generated Pokémon Zukan-style illustrations of their characters using Nano Banana (not Pro) to celebrate Pokémon's 30th anniversary. The prompt is shared in the ALT text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346692714_c8s49l_HCOoVFubEAAoja7.jpg",
+      "https://cms-assets.youmind.com/media/1772346693074_6ksinz_HCOoVFra8AA44Pf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11032,
     "content": "{\n  \"Objective\": \"Create a 3:4 vertical sports equipment breakdown layout of Victor Osimhen with a more visually appealing and premium left panel design.\",\n  \"AspectRatio\": \"3:4\",\n  \"Layout\": {\n    \"Type\": \"Vertical split infographic\",\n    \"LeftPanel\": {\n      \"Width\": \"38%\",\n      \"Background\": {\n        \"BaseColor\": \"Soft warm ivory\",\n        \"Texture\": \"Subtle luxury paper texture\",\n        \"Overlay\": \"Very light gradient from top left (brighter) to bottom right (slightly darker)\",\n        \"AccentElements\": [\n          \"Faint abstract stadium-light glow in background\",\n          \"Soft diagonal shadow for depth\"\n        ]\n      },\n      \"LightingStyle\": \"Soft studio lighting from upper left\",\n      \"ShadowStyle\": {\n        \"UnderItems\": \"Soft drop shadows beneath each product\",\n        \"SideShadow\": \"Gentle panel shadow near split line for dimensional separation\",\n        \"Realism\": \"Natural soft shadows, not harsh\"\n      },\n      \"ItemsDisplayedAsImages\": true,\n      \"ItemPresentation\": {\n        \"Layout\": \"Vertical stack with breathing space\",\n        \"CardStyle\": \"Each item slightly elevated with subtle shadow\",\n        \"Spacing\": \"Balanced luxury spacing between elements\"\n      },\n      \"Items\": [\n        {\n          \"ItemName\": \"Protective Face Mask\",\n          \"ImageStyle\": \"Isolated product image floating slightly with soft shadow\",\n          \"TextPlacement\": \"Centered underneath in refined typography\"\n        },\n        {\n          \"ItemName\": \"Galatasaray Home Jersey\",\n          \"ImageStyle\": \"Front-facing flat-lay with realistic fabric texture\",\n          \"TextPlacement\": \"Centered underneath\"\n        },\n        {\n          \"ItemName\": \"Match Shorts\",\n          \"ImageStyle\": \"Clean product cut-out with depth shadow\",\n          \"TextPlacement\": \"Centered underneath\"\n        },\n        {\n          \"ItemName\": \"Elite Football Cleats\",\n          \"ImageStyle\": \"Angled product shot with subtle reflective shadow\",\n          \"TextPlacement\": \"Centered underneath\"\n        },\n        {\n          \"ItemName\": \"Performance Socks\",\n          \"ImageStyle\": \"Minimal isolated display with soft grounding shadow\",\n          \"TextPlacement\": \"Centered underneath\"\n        }\n      ],\n      \"Typography\": {\n        \"Font\": \"Modern elegant sans-serif\",\n        \"Weight\": \"Medium\",\n        \"Color\": \"Deep charcoal\",\n        \"Spacing\": \"Generous letter spacing for premium feel\"\n      }\n    },\n    \"RightPanel\": {\n      \"Width\": \"62%\",\n      \"ImageStyle\": \"Smartphone photograph\",\n      \"Scene\": {\n        \"Subject\": \"Victor Osimhen celebrating a goal\",\n        \"Action\": \"Running with a smile, slight fist pump\",\n        \"Location\": \"Football pitch\",\n        \"Lighting\": \"Natural stadium lighting\",\n        \"Background\": \"Crowd naturally blurred\",\n        \"Realism\": \"Authentic phone camera clarity\"\n      }\n    }\n  },\n  \"VisualStyle\": {\n    \"OverallLook\": \"Premium modern sports editorial\",\n    \"Dept",
     "title": "Sports Equipment Infographic Layout of Victor Osimhen",

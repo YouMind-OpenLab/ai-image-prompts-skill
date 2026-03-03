@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-02-28T10:35:00Z",
-  "totalPrompts": 14398,
+  "updatedAt": "2026-03-03T10:46:38.596Z",
+  "totalPrompts": 10541,
   "categories": [
-    {
-      "slug": "app-web-design",
-      "title": "App / Web Design",
-      "file": "app-web-design.json",
-      "count": 167
-    },
-    {
-      "slug": "comic-storyboard",
-      "title": "Comic / Storyboard",
-      "file": "comic-storyboard.json",
-      "count": 290
-    },
-    {
-      "slug": "ecommerce-main-image",
-      "title": "E-commerce Main Image",
-      "file": "ecommerce-main-image.json",
-      "count": 382
-    },
-    {
-      "slug": "game-asset",
-      "title": "Game Asset",
-      "file": "game-asset.json",
-      "count": 378
-    },
-    {
-      "slug": "infographic-edu-visual",
-      "title": "Infographic / Edu Visual",
-      "file": "infographic-edu-visual.json",
-      "count": 458
-    },
-    {
-      "slug": "others",
-      "title": "Uncategorized",
-      "file": "others.json",
-      "count": 910
-    },
-    {
-      "slug": "poster-flyer",
-      "title": "Poster / Flyer",
-      "file": "poster-flyer.json",
-      "count": 485
-    },
-    {
-      "slug": "product-marketing",
-      "title": "Product Marketing",
-      "file": "product-marketing.json",
-      "count": 3709
-    },
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 1064
+      "count": 1091
     },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 6382
+      "count": 6543
+    },
+    {
+      "slug": "infographic-edu-visual",
+      "title": "Infographic / Edu Visual",
+      "file": "infographic-edu-visual.json",
+      "count": 470
     },
     {
       "slug": "youtube-thumbnail",
       "title": "YouTube Thumbnail",
       "file": "youtube-thumbnail.json",
-      "count": 173
+      "count": 176
+    },
+    {
+      "slug": "comic-storyboard",
+      "title": "Comic / Storyboard",
+      "file": "comic-storyboard.json",
+      "count": 298
+    },
+    {
+      "slug": "product-marketing",
+      "title": "Product Marketing",
+      "file": "product-marketing.json",
+      "count": 3828
+    },
+    {
+      "slug": "ecommerce-main-image",
+      "title": "E-commerce Main Image",
+      "file": "ecommerce-main-image.json",
+      "count": 400
+    },
+    {
+      "slug": "game-asset",
+      "title": "Game Asset",
+      "file": "game-asset.json",
+      "count": 393
+    },
+    {
+      "slug": "poster-flyer",
+      "title": "Poster / Flyer",
+      "file": "poster-flyer.json",
+      "count": 502
+    },
+    {
+      "slug": "app-web-design",
+      "title": "App / Web Design",
+      "file": "app-web-design.json",
+      "count": 171
+    },
+    {
+      "slug": "others",
+      "title": "Uncategorized",
+      "file": "others.json",
+      "count": 934
     }
   ]
 }

@@ -1,5 +1,211 @@
 [
   {
+    "id": 11328,
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"high-speed commercial luxury burger photography\",\n    \"product\": {\n      \"type\": \"premium gourmet burger with glossy brioche bun\",\n      \"brand_name\": \"ROYAL STACK\",\n      \"label_design\": \"subtle embossed gold foil logo on a matte black burger wrap\",\n      \"main_components\": \"double flame-grilled beef patties, aged cheddar, fresh lettuce, heirloom tomato slices, caramelized onions, signature sauce\"\n    },\n    \"composition\": {\n      \"action\": \"dramatic high-velocity ingredient explosion captured mid-assembly\",\n      \"surrounding_elements\": [\n        \"flame-kissed beef patties descending into place\",\n        \"melted cheese cascading in silky folds\",\n        \"fresh crisp lettuce leaves suspended mid-air\",\n        \"juicy tomato slices with visible seeds and texture\",\n        \"glossy sauce splashes forming sculptural arcs\",\n        \"sesame seeds scattering dynamically\"\n      ],\n      \"placement\": \"centered hero burger with a sharp reflection on a polished dark stone surface\"\n    },\n    \"lighting\": {\n      \"style\": \"luxury cinematic studio food lighting\",\n      \"effects\": [\n        \"dramatic rim lighting to define bun and patty texture\",\n        \"brilliant highlights on melted cheese and sauce gloss\",\n        \"warm directional key light enhancing grill texture\",\n        \"soft smoky backlight for depth and richness\"\n      ]\n    },\n    \"color_palette\": {\n      \"background\": \"deep charcoal fading into warm amber glow\",\n      \"accents\": \"golden brioche, rich brown beef, vibrant green lettuce, deep red tomato, molten cheddar tones\"\n    },\n    \"technical_specs\": {\n      \"camera\": \"macro lens, slight low angle for dominance\",\n      \"shutter\": \"ultra-fast freeze-motion capture\",\n      \"depth_of_field\": \"shallow focus on the front bun logo and cheese melt, gentle blur on flying ingredients\",\n      \"quality\": \"8K resolution, ultra-photorealistic texture\"\n    }\n  }\n}",
+    "title": "High-Speed Commercial Luxury Burger Photography",
+    "description": "A structured JSON prompt for generating high-speed commercial photography of a luxury gourmet burger (ROYAL STACK), capturing a dramatic ingredient explosion mid-assembly, emphasizing cinematic studio lighting, texture, and ultra-photorealistic 8K detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519736922_7ytq80_HCavMCrbAAAf-fi.jpg",
+      "https://cms-assets.youmind.com/media/1772519737028_w56rbf_HCavMSsbwAApUn7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11286,
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"high-speed commercial luxury shake photography\",\n    \"product\": {\n      \"type\": \"elegant frosted glass bottle filled with velvety mango shake\",\n      \"brand_name\": \"{argument name=\"Brand Name\" default=\"MANGO AURÉLIA\"}\",\n      \"label_design\": \"minimalist vertical ivory label with embossed brushed-gold serif typography\",\n      \"liquid_color\": \"creamy golden mango with rich natural pulp swirls\"\n    },\n    \"composition\": {\n      \"action\": \"dynamic high-velocity creamy mango splash explosion\",\n      \"surrounding_elements\": [\n        \"sculptural waves of thick mango shake splashing outward\",\n        \"silky ribbons of rich mango puree suspended mid-air\",\n        \"floating fresh mango cubes with juicy glossy texture\",\n        \"mango slices with vibrant yellow-orange flesh\",\n        \"fine droplets of creamy golden mist catching the light\"\n      ],\n      \"placement\": \"centered hero bottle with a crisp reflection on a polished ivory marble surface\"\n    },\n    \"lighting\": {\n      \"style\": \"luxury glossy studio product lighting\",\n      \"effects\": [\n        \"sharp rim lighting to define bottle silhouette\",\n        \"brilliant highlights on creamy splashes and glossy mango surfaces\",\n        \"soft warm golden glow in the background for richness and elegance\"\n      ]\n    },\n    \"color_palette\": {\n      \"background\": \"smooth gradient of warm mango gold fading into soft champagne cream\",\n      \"accents\": \"vibrant mango yellow, tropical orange, brushed gold, and vanilla cream tones\"\n    },\n    \"technical_specs\": {\n      \"camera\": \"macro lens, eye-level angle\",\n      \"shutter\": \"ultra-fast freeze-motion capture\",\n      \"depth_of_field\": \"shallow focus on the label, gentle blur on dynamic splash elements\",\n      \"quality\": \"8K resolution, ultra-photorealistic texture\"\n    }\n  }\n}",
+    "title": "Luxury Mango Shake Splash Photography Prompt",
+    "description": "A highly structured prompt for generating an ultra-photorealistic, high-speed commercial photograph of a luxury mango shake bottle, focusing on a dynamic splash explosion, specific lighting effects (rim lighting, golden glow), and technical camera details (macro lens, freeze-motion capture).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519712386_42j9fk_HCaX-KYaMAA6KHW.jpg",
+      "https://cms-assets.youmind.com/media/1772519712477_iph8w1_HCaX-KWaoAAG_0u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11322,
+    "content": "{\n  \"prompt_name\": \"Prompt 17\",\n  \"description\": \"Ultra-realistic 3D commercial-style product shot of a premium cherry juice bottle suspended mid-air, covered in intricate condensation droplets reflecting ambient light for enhanced photorealism. The bottle appears fresh, vibrant, and slightly tilted for dynamic sophistication. Surrounding elements include high-speed frozen splashes of cherry juice, whole cherries, sharp ice cubes, floating stems, and fresh green leaves — all crisply defined with vibrant clarity. Background features a rich deep red to burgundy gradient evoking indulgence and premium quality. Cinematic studio lighting with bright highlights, crisp shadows, high contrast, and subtle reflective surface beneath the bottle. Label clearly visible with realistic reflections and depth. Overall aesthetic: luxurious, fresh, energetic, high-end commercial beverage advertising.\",\n  \"technical_specifications\": {\n    \"aspect_ratio\": \"4:5\",\n    \"resolution\": \"Ultra-HD\",\n    \"lighting\": \"Studio-style cinematic, bright highlights, subtle reflections, high contrast\",\n    \"detailing\": \"Extreme attention to condensation, droplets, and frozen high-speed motion elements\"\n  }\n}",
+    "title": "3D Commercial Shot of Cherry Juice Bottle",
+    "description": "A structured JSON prompt for generating an ultra-realistic 3D commercial product shot of a premium cherry juice bottle suspended mid-air, focusing on condensation, high-speed frozen splashes, and cinematic studio lighting against a rich red gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519734244_7c5rpe_HCaRuxEacAANYoz.jpg",
+      "https://cms-assets.youmind.com/media/1772519734196_dl455v_HCaRusFbUAA5uGJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11317,
+    "content": "Ultra-realistic luxury beauty product photography featuring a transparent amber-toned body oil bottle labeled “{argument name=\"product name\" default=\"the act\"}” with the variant name “{argument name=\"variant name\" default=\"VIRGIN\"}” clearly visible on the front. The bottle has a sleek black pump and is suspended mid-air in a dynamic floating composition. It is elegantly wrapped in a deep burgundy satin ribbon printed with “THE ACT” in white lettering, spiraling around the bottle without covering the main branding. Fine condensation droplets cover the glass",
+    "title": "Ultra-Realistic Luxury Body Oil Product Photography",
+    "description": "A prompt designed for generating ultra-realistic product photography of a luxury body oil bottle, focusing on high detail, dynamic composition, and specific branding elements like condensation and satin ribbon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519730164_vlgwvn_HCaQGAxa8AAVb7c.jpg",
+      "https://cms-assets.youmind.com/media/1772519730142_y2633m_HCaQES-asAI0jcI.jpg",
+      "https://cms-assets.youmind.com/media/1772519730192_tlq2yt_HCaQGA8akAAZ1iY.jpg",
+      "https://cms-assets.youmind.com/media/1772519731118_3orqn5_HCaQGBAboAAlLut.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11309,
+    "content": "Ultra-realistic luxury beauty product photography featuring a transparent amber-toned body oil bottle labeled “{argument name=\"product name\" default=\"the act\"}” with the variant name “{argument name=\"variant name\" default=\"VIRGIN\"}” clearly visible on the front. The bottle has a sleek black pump and is suspended mid-air in a dynamic floating composition. It is elegantly wrapped in a deep burgundy satin ribbon printed with “THE ACT” in white lettering, spiraling around the bottle without covering the main branding. Fine condensation droplets cover the glass",
+    "title": "Luxury Beauty Product Photography Prompt",
+    "description": "A prompt for Nano Banana Pro on the Gemini app to create ultra-realistic luxury beauty product photography. It details a transparent amber body oil bottle labeled 'the act' and 'VIRGIN', suspended mid-air, wrapped in a burgundy satin ribbon, and covered in fine condensation droplets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519725994_zg9d37_HCaQGAxa8AAVb7c.jpg",
+      "https://cms-assets.youmind.com/media/1772519725927_erxykx_HCaQES-asAI0jcI.jpg",
+      "https://cms-assets.youmind.com/media/1772519725998_o9p4yi_HCaQGA8akAAZ1iY.jpg",
+      "https://cms-assets.youmind.com/media/1772519726892_0a7u0c_HCaQGBAboAAlLut.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11358,
+    "content": "product design, {argument name=\"object or vehicle\" default=\"[object or vehicle with material accents]\"}, exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality",
+    "title": "Exploded View Product Design Diagram Prompt",
+    "description": "A concise prompt for generating a clean, three-dimensional exploded view diagram of a product or vehicle with material accents, emphasizing highly detailed internal components, studio lighting, and product photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519750823_kg7gtf_HCZ50ChbkAAcNFK.jpg",
+      "https://cms-assets.youmind.com/media/1772519750828_33ivx9_HCZ50CkbQAAQw0T.jpg",
+      "https://cms-assets.youmind.com/media/1772519750819_lvdpsr_HCZ50Dka0AAFQtC.jpg",
+      "https://cms-assets.youmind.com/media/1772519751567_zj27ix_HCZ50FMbgAEXndC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11318,
+    "content": "Ultra-luxurious skincare product photography, AQUAVÉR premium natural beauty line displayed on a pristine alpine mountain stream scene, glacial clear water flowing gently around moss-covered rocks and wild edelweiss flowers, dramatic snow-capped peaks in background under golden hour sunlight, products include: tall frosted mint-green eucalyptus & mint gentle cleanser bottle, elegant silver-capped glacial water hydration spray mist bottle, creamy white bergamot & chamomile soothing fusion lotion pump bottle, small amber glass jar of alpine herb restorative balm with gold lid, fresh edelweiss flowers blooming around products, crystal clear water reflections, dewdrops on glass, cinematic lighting, ethereal misty atmosphere, hyper-realistic details, 8k, professional commercial ad style, serene and pure nature luxury vibe, highly detailed, vibrant yet calming colors --ar 4:5 --v 6 --q 2",
+    "title": "Ultra-Luxurious Skincare Product Photography in Alpine Setting",
+    "description": "A detailed prompt for generating ultra-luxurious skincare product photography, setting the scene in a pristine alpine mountain stream during golden hour, emphasizing hyper-realistic details, crystal clear water, and a serene, pure nature luxury vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519731976_2zlhqg_HCZ45qgawAA15gA.jpg",
+      "https://cms-assets.youmind.com/media/1772519732049_e55xea_HCZ45oAbYAAmz4Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11269,
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"high-speed commercial luxury shake photography\",\n    \"product\": {\n      \"type\": \"elegant frosted glass bottle filled with velvety strawberry shake\",\n      \"brand_name\": \"ROSÉ VELVET\",\n      \"label_design\": \"minimalist vertical blush label with embossed rose-gold serif typography\",\n      \"liquid_color\": \"creamy pastel pink with natural strawberry swirls\"\n    },\n    \"composition\": {\n      \"action\": \"dynamic high-velocity creamy splash explosion\",\n      \"surrounding_elements\": [\n        \"sculptural waves of thick strawberry shake splashing outward\",\n        \"silky ribbons of strawberry puree suspended mid-air\",\n        \"floating fresh strawberry halves with visible seeds and juicy texture\",\n        \"soft dusting of powdered sugar diffusing delicately\",\n        \"fine droplets of creamy pink mist catching the light\"\n      ],\n      \"placement\": \"centered hero bottle with a crisp reflection on a polished white marble surface\"\n    },\n    \"lighting\": {\n      \"style\": \"luxury glossy studio product lighting\",\n      \"effects\": [\n        \"sharp rim lighting to define bottle silhouette\",\n        \"brilliant highlights on creamy splashes and glossy strawberry surfaces\",\n        \"soft rosy glow in the background for warmth and elegance\"\n      ]\n    },\n    \"color_palette\": {\n      \"background\": \"smooth gradient of blush pink fading into soft champagne ivory\",\n      \"accents\": \"fresh strawberry red, rose gold, and creamy vanilla tones\"\n    },\n    \"technical_specs\": {\n      \"camera\": \"macro lens, eye-level angle\",\n      \"shutter\": \"ultra-fast freeze-motion capture\",\n      \"depth_of_field\": \"shallow focus on the label, gentle blur on dynamic splash elements\",\n      \"quality\": \"8K resolution, ultra-photorealistic texture\"\n    }\n  }\n}",
+    "title": "Luxury High-Speed Shake Commercial Photography Prompt",
+    "description": "A highly structured prompt for generating a high-speed commercial photograph of a luxury strawberry shake bottle ('ROSÉ VELVET'). It details the product, composition (dynamic creamy splash explosion, floating strawberries), lighting (luxury glossy studio lighting, rim lighting), color palette, and technical specs (macro lens, ultra-fast freeze-motion capture).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519703327_pia51e_HCXlRu-bcAAaGDv.jpg",
+      "https://cms-assets.youmind.com/media/1772519703475_0mc53j_HCXlRwWbgAAG6tt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11195,
+    "content": "High-end cinematic product photography of luxury skincare bottles labeled 'AQUAVÉR'. The scene is set in a breathtaking Alpine landscape with snow-capped mountains and crystal-clear glacial water. The bottles are placed on mossy rocks inside a shallow stream with realistic water splashes and reflections. Includes delicate white Edelweiss flowers and a pouring water stream on the side. Ultra-realistic, 8k resolution, bright natural daylight, refreshing and premium aesthetic. --ar 16:9.",
+    "title": "Luxury Skincare Product Photography Prompt",
+    "description": "A prompt for Nano Banana Pro on Gemini to create high-end cinematic product photography for luxury skincare bottles ('AQUAVÉR'). The scene is set in a breathtaking Alpine landscape with glacial water, mossy rocks, and Edelweiss flowers, emphasizing ultra-realism, 8k resolution, and a refreshing, premium aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433505306_twy2cv_HCWq3rcboAAw1mG.jpg",
+      "https://cms-assets.youmind.com/media/1772433505291_qzl4wf_HCWq4Ska0AAY9uV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11159,
+    "content": "Ultra-realistic premium skincare serum bottle (dark green glass with dropper), golden liquid inside, placed on sunlit marble surface with fresh orange slices around, natural citrus vibe, water splash frozen mid-air, detailed droplets and reflections, soft natural sunlight with sharp shadows, minimal aesthetic, macro photography, high detail textures, glossy glass reflections, fresh and vibrant color tones, luxury skincare advertising, 8K, perfect composition.",
+    "title": "Citrus Skincare Product Macro Photography Prompt",
+    "description": "A prompt for generating ultra-realistic macro photography of a luxury skincare serum bottle. The scene features a dark green glass bottle with golden liquid, placed on sunlit marble, surrounded by fresh orange slices, with a water splash frozen mid-air, emphasizing vibrant colors and a natural citrus aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433489994_3zyeju_HCVhnUxasAEhtGP.jpg",
+      "https://cms-assets.youmind.com/media/1772433489981_ma8law_HCVhjWZbMAEbxxH.jpg",
+      "https://cms-assets.youmind.com/media/1772433489938_q3mbnv_HCVhjTVbkAALqqQ.jpg",
+      "https://cms-assets.youmind.com/media/1772433490853_rctoq4_HCVhnWEaoAADBpm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11256,
+    "content": ": {\n\"task\": \"image_generation\",\n\"aspect_ratio\": \"vertical\",\n\"style\": [\n\"professional commercial food photography\",\n\"award-winning advertising quality\",\n\"hyper-realistic\",\n\"cinematic 8k resolution\"\n],\n\"subject\": {\n\"element\": \"chili peppers\",\n\"attributes\": [\"vibrant intense red\", \"glossy skin\"],\n\"position\": \"exact center of the frame, dynamically suspended in mid-air\"\n},\n\"environment_and_fx\": {\n\"background\": \"dark, moody, slightly smoky\",\n\"effects\": [\n\"explosive burst of roaring fire\",\n\"glowing embers\",\n\"flying sparks violently erupting around the peppers\"\n],\n\"atmosphere\": \"scorching hot, dramatic contrast\"\n},\n\"lighting_and_camera\": {\n\"lighting\": [\"high-end studio lighting\", \"strong rim lighting to separate subject from flames\"],\n\"focus\": \"razor-sharp focus on the glossy skin of the peppers\"\n}\n}",
+    "title": "Explosive Chili Peppers Food Photography Prompt for Nano Banana 2",
+    "description": "A structured prompt for Nano Banana 2 designed to generate a hyper-realistic, cinematic commercial food photograph of vibrant red chili peppers suspended in mid-air amidst an explosive burst of fire and glowing embers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433527400_rtxq3x_HCVW3pvaIAApLtM.jpg",
+      "https://cms-assets.youmind.com/media/1772433527398_j5p9yw_HCVW4CAXUAAybsJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11227,
+    "content": "\"A photorealistic, highly detailed commercial product photograph of a heavy cylindrical midnight-blue glass Dior perfume bottle centered against a minimal, textured dusky twilight blue paper background, with subtle fibers visible. A single, continuous horizontal paper-tear strip runs across the entire width of the frame, seamless from the far-right edge to the far-left edge. The torn channel cuts through the thick glass body of the referance perfume bottle and continues across the background on both sides with a barely perceptible and minimal diagonal slope towards the upper-left. The tear channel is significantly broader, revealing a dense, glistening, and vibrant layer of citrus and bright bergamot zest tightly packed inside. Near the extreme far-left end of this tear, the paper is neatly rolled into a tight, realistic coil that occupies almost the entire left margin. The lighting is soft and cinematic, casting delicate drop shadows beneath the torn paper edges and the large left coil. 8k resolution, macro details on fibrous paper and glossy citrus texture.\"",
+    "title": "Perfume Bottle Product Shot with Torn Paper Effect",
+    "description": "A highly specific, photorealistic prompt for a commercial product photograph of a Dior perfume bottle. The key feature is a single, continuous horizontal tear in the background paper that visually cuts through the glass bottle, revealing a dense, vibrant layer of citrus zest inside the tear channel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433518726_0qhr9g_HCUPYa_bEAAfrEt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11157,
+    "content": "Nano Banana 2 :- Hyper realistic edible version of uploaded product,preserve exact original shape, proportions and silhouette, product fully intact and uncut, surface transformed into soft matte mousse texture, natural sponge-like edible detailing, no glossy or shiny finish, subtle velvet spray coating, straight front view, eye-level camera angle, camera positioned directly in front of the product, centered symmetrical composition, natural soft daylight coming from a nearby window, realistic gentle shadows, placed on a wooden or beige marble table, soft neutral linen fabric background, bright natural lighting, not overexposed, shallow depth of field, macro lens photography, premium yet natural dessert styling, hand holding a simple spoon close to the surface but not cutting, ultra realistic, 8k high detailfinal image in 3:4.\n\nVeo 3.1 :- Turn the uploaded product into a hyper realistic edible cake, preserve exact shape and front view. Soft matte mousse texture, no gloss.Natural daylight setting.A spoon gently cuts one edge, surface breaks softly, inside reveals layered sponge cake and cream.Slow smooth motion, macro lens, ultra realistic.",
+    "title": "Hyper-Realistic Edible Product Transformation Prompt (Image & Video)",
+    "description": "A dual prompt set for transforming an uploaded product image into a hyper-realistic edible dessert. The first prompt (Nano Banana 2) focuses on generating a static image with a soft matte mousse texture and natural daylight. The second prompt (Veo 3.1) focuses on generating a slow-motion video where a spoon gently cuts the edible product, revealing layered cake inside.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433490043_lohpqm_HCTZTTuagAEqEum.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11192,
+    "content": "Prompt 1:\n\nA pastel pink vintage Volkswagen Beetle driving along a scenic mountain highway, massive olive green luxury handbag strapped to the car roof with thick rope, surreal oversized fashion accessory, alpine landscape with tall rocky mountains and pine forests, soft golden hour lighting, cinematic travel photography, motion blur on road, ultra-detailed, realistic shadows, shallow depth of field, high resolution, editorial fashion campaign style, whimsical luxury concept\n\nPrompt 2:\n\nTop-down flat lay of a sage green leather handbag placed inside a rustic wooden crate filled with fresh citrus fruits and pears, oranges, lemons, grapefruit (including sliced blood orange), natural textures, vibrant contrasting colors, soft diffused daylight, high-detail product photography, luxury fashion aesthetic, symmetrical composition, crisp focus, editorial still life, warm tones, 8k resolution, clean background, premium brand campaign style",
+    "title": "Luxury Fashion Campaign Prompts (2 Prompts)",
+    "description": "Two distinct prompts for Gemini Nano Banana Pro focusing on luxury fashion and product photography. Prompt 1 describes a whimsical travel scene with a vintage car and an oversized handbag, while Prompt 2 details a top-down flat lay of a leather handbag with fresh citrus fruits, emphasizing natural textures and high-detail product photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433504370_2th281_HCSKtWqbEAgqpq4.jpg",
+      "https://cms-assets.youmind.com/media/1772433504413_h48hxd_HCSKtV9bEAMJtj3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11125,
+    "content": "{\n  \"image_generation_request\": {\n    \"subject\": {\n      \"placeholder\": \"{argument name=\"product name\" default=\"INSERT PRODUCT HERE\"}\",\n      \"position\": \"dead center, eye-level, perfectly centered in frame\",\n      \"presentation\": \"levitating, floating in a weightless void, no stands, no platforms, no pedestals, no visible supports\"\n    },\n    \"environment\": {\n      \"background\": \"absolute solid pitch black, hex code #000000, infinite void\",\n      \"lighting\": \"rim lighting, cinematic chiaroscuro, high-contrast glints on metallic edges, soft orange glow from internal recesses\"\n    },\n    \"aesthetic_style\": {\n      \"textures\": [\n        \"shot-blasted matte titanium\",\n        \"brushed aerospace-grade aluminum\",\n        \"anodized dark grey metal\",\n        \"ribbed industrial vertical cooling fins\"\n      ],\n      \"optical_effects\": \"viewed through vertical fluted reeded glass, subtle chromatic distortion, refractive glass warping, radial motion blur on outer edges\",\n      \"color_palette\": {\n        \"primary_background\": \"#000000\",\n        \"secondary_metal\": \"#8E8E8E\",\n        \"accent_glow\": \"#FF8C00\",\n        \"highlights\": \"#FFFFFF\"\n      }\n    },\n    \"composition_constraints\": {\n      \"framing\": \"ensure full product visibility, do not cut off edges, wide safety margins around the subject\",\n      \"elements_to_exclude\": [\n        \"text\",\n        \"logos\",\n        \"watermarks\",\n        \"softboxes\",\n        \"light stands\",\n        \"floor\",\n        \"horizon line\",\n        \"props\",\n        \"human hands\",\n        \"shadows on surfaces\"\n      ]\n    },\n    \"technical_specs\": {\n      \"focal_length\": \"85mm macro lens\",\n      \"depth_of_field\": \"deep focus on product, blurred refractive foreground glass\",\n      \"render_engine\": \"photorealistic octane render, 8k resolution, ray-traced reflections\"\n    }\n  }\n}",
+    "title": "Restomod Product Shot with Chiaroscuro Lighting",
+    "description": "A structured JSON prompt for generating a photorealistic 8k Octane render of a product (placeholder) centered and levitating in a pitch-black void. The prompt specifies technical details like rim lighting, high-contrast chiaroscuro, specific metallic textures (titanium, aluminum), and optical effects like fluted glass distortion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346687595_bcrg7q_HCOeiR2WEAAnYoC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11102,
+    "content": "Ultra-realistic luxury cosmetic product photography in a dramatic monochromatic blue-violet composition. A sleek satin-finish periwinkle-blue squeeze tube labeled “{argument name=\"brand name\" default=\"STENDERS\"}” stands vertically centered in the frame, featuring elegant silver typography and a reflective metallic chrome cap. The tube is surrounded by voluminous swirling clouds of ink-like smoke in layered shades of lavender, indigo, and icy blue, creating a soft, billowing texture that wraps around the product. Interwoven throughout the smoke are fresh purple and lilac flowers with intricate petal details and vibrant yellow centers, along with delicate sprigs of tiny violet blossoms for added dimension. Soft directional lighting from the upper left highlights the smooth curvature of the tube, adds subtle sheen to the metallic cap, and creates depth within the smoke plumes. The background seamlessly blends cool blue and purple tones, enhancing the ethereal, floral fragrance aesthetic. Hyper-detailed textures of petals and vapor, cinematic depth, high-end perfumed skincare advertising style, 8K ultra-high resolution",
+    "title": "Luxury Cosmetic Product Photography",
+    "description": "A detailed prompt for generating ultra-realistic luxury cosmetic product photography. It focuses on a periwinkle-blue squeeze tube surrounded by swirling, ink-like clouds of blue and violet smoke, interwoven with fresh purple and lilac flowers, emphasizing dramatic monochromatic composition and high-end advertising style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346678300_sowfar_HCPwzkRbEAQCCOw.jpg",
+      "https://cms-assets.youmind.com/media/1772346678345_gzn8ud_HCPwzlTaAAEI4RA.jpg",
+      "https://cms-assets.youmind.com/media/1772346678408_4bytwx_HCPwzlWaUAAOVO3.jpg",
+      "https://cms-assets.youmind.com/media/1772346679547_l1c2u2_HCPwzmJaAAAalmy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11087,
+    "content": "Turn just the subject into a gold enamel pin. It's a minimal photo of the pin on a desk, no other items.",
+    "title": "Subject-to-Enamel Pin Conversion",
+    "description": "A simple prompt demonstrating how to use Nano Banana 2 to convert a subject into a gold enamel pin. The prompt specifies a minimal photo of the pin on a desk with no other items.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346673111_m4rcxp_HCPlWdDXoAADqvk.jpg",
+      "https://cms-assets.youmind.com/media/1772346673123_tgqh51_HCPlZ3pbEAYSK2J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11141,
+    "content": "Please create a front-diagonal angle of the figure in the image. Respect and accurately reproduce the figure's details and color scheme based on the original design. The background should be white, the aspect ratio should be 1:1 square, and the size should be adjusted so that the entire figure fits comfortably within the frame.",
+    "title": "Comparing ChatGPT 5.2 and Nano Banana 2 for Devilman modeling",
+    "description": "A comparison of generation results between ChatGPT 5.2 and Nano Banana 2 using past modeling data for 'Devilman Ver-Showa Anime Taste Edition'. The prompt asks for a front-diagonal angle of a figure based on a reference image, respecting the original design's details and coloring.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346693898_kcxvcb_HCO4IkObEAUFRoT.jpg",
+      "https://cms-assets.youmind.com/media/1772346693923_48bj2a_HCO4JJTaEAIDEF3.jpg",
+      "https://cms-assets.youmind.com/media/1772346693868_izcgpr_HCO4L-daYAA4_-4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10951,
     "content": "[Brand Name], conceptualized as a cohesive, premium \"capsule collection\" of branded merchandise and functional souvenirs. The image displays a curated set of various physical objects (such as tech accessories, utility gear, lifestyle items, or stationery) that are semantically relevant to the brand's specific industry and audience. Every item is designed using the brand's official signature color palette and features bold logo integration.\nThe objects are arranged in a clean, organized group composition (knolling or isometric perspective) on a seamless, infinite studio white background. The lighting is soft and professional, creating subtle shadows. The framing is wide, ensuring significant negative space (air) surrounds the product grouping on all sides.",
     "title": "Premium Branded Merchandise Capsule Collection (Knolling Perspective)",
@@ -13,13 +219,13 @@
   },
   {
     "id": 10971,
-    "content": "Give me this front packaging on a 2D flat white background",
-    "title": "Simple 2D Flat Packaging Generation Prompt",
-    "description": "A simple prompt used with Nano Banana Pro to convert packaging into a 2D flat version on a white background.",
+    "content": "\"Give me this front packaging on a 2D flat white background\"",
+    "title": "2D Flat Packaging Generation",
+    "description": "A simple prompt used to generate a 2D flat version of a product's front packaging against a white background, likely used for design or e-commerce purposes.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1772259922175_1xxn83_HCOMeamXgAAzwiQ.jpg"
+      "https://cms-assets.youmind.com/media/1772346679731_3cj70c_HCOMeamXgAAzwiQ.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 10972,

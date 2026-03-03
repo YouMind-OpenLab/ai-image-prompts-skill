@@ -1,5 +1,48 @@
 [
   {
+    "id": 11355,
+    "content": "Please renovate this attached photo that showing a room under finishing work.\n\nPlease complete this finishing work for this toom to be home office of Mercedes branch.\n\nPlease renovate the ceilings, floor, windows, and wall professionally.\n\nDecorate this main office room to be suitable for 2026 modern design.\n\nAdd cupboards, chairs, sofa, main office table with chair.",
+    "title": "Office Renovation and Decoration Prompt",
+    "description": "A simple text prompt used to renovate an attached photo of a room under finishing work, transforming it into a modern 2026 home office for a Mercedes branch, specifying the completion of ceilings, floors, windows, and walls, and the addition of furniture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519749314_5l01qt_HCbsZcPWMAAmJlQ.jpg",
+      "https://cms-assets.youmind.com/media/1772519749369_5um5fq_HCbsZdRaEAAYjfT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11304,
+    "content": "the prompt help nano banana strictly maintain the exact layout, wall positions, door swing, shelving placement, toilet and sink position, and dimensions as shown. No structural or proportional changes",
+    "title": "Nano Banana Layout Preservation Prompt",
+    "description": "A prompt designed to ensure Nano Banana strictly maintains the exact structural layout, dimensions, and placement of elements (walls, doors, shelving, fixtures) when rendering a bedroom. This is a constraint-focused prompt for architectural rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519723088_7vauaz_HCaB0LFbIAABmSb.jpg",
+      "https://cms-assets.youmind.com/media/1772519723272_zc0rx4_HCaB0Vgb0AAdWeh.jpg",
+      "https://cms-assets.youmind.com/media/1772519723474_oyse5b_HCaB0g1aUAA14p6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11248,
+    "content": "a plunger in the style of a video game wiki website's page",
+    "title": "Video Game Wiki Style Plunger",
+    "description": "An image generation prompt for Google Gemini 3.1 via Nano Banana Pro, instructing the AI to create an image of a plunger rendered in the style of a video game wiki website's page.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433524665_r15wio_HCEJKavaMAE1o8j.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11117,
+    "content": "Based on the uploaded 2D floor plan, generate a professional interior design presentation board in a single image. Layout : The final image should be a collage with one large main image at the top, and several smaller images below it. Content of Each Panel :\n\n1. Main Image (Top) : A wide-angle perspective view of the main living area , showing the connection between the living room and dining area.\n\n2. Small Image (Bottom Left) : A view of the Master Bedroom , focusing on the bed and window.\n\n3. Small Image (Bottom Middle) : A view of the Home Office / Study room .\n\n4. Small Image (Bottom Right) : A 3D top-down floor plan view showing the furniture layout. Overall Style : Apply a consistent Modern Minimalist style with warm oak wood flooring and off-white walls across ALL images. Quality : Photorealistic rendering, soft natural lighting.\nImage Ratio 3:4",
+    "title": "Modern Minimalist Interior Design Presentation Board",
+    "description": "A prompt for generating a professional interior design presentation board based on an uploaded 2D floor plan. The output should be a collage featuring a large main image of the living/dining area and three smaller images showing the Master Bedroom, Home Office, and a 3D top-down floor plan, all rendered in a consistent Modern Minimalist style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346684789_0n5kmy_HCNiK1QaMAAFRnN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10810,
     "content": "Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and bottom. Give the wallpaper a subtle top to bottom gradient. No blur effects or cropping. Keep the scene simple.\n({argument name=\"image concept\" default=\"[Enter the image concept you want to generate]\"})",
     "title": "Nano Banana Pro Prompt: 9:16 Wallpaper Generation",

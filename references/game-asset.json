@@ -1,5 +1,164 @@
 [
   {
+    "id": 11280,
+    "content": "Anchor:   `[{argument name=\"board game\" default=\"Chess Set / Backgammon\"}] :: [{argument name=\"architectural theme\" default=\"Cyberpunk Neon City / Gothic Cathedrals\"}]::3`\n    Morphology:   `Hyper-detailed playable diorama, [Board Game] board and pieces constructed entirely via the assemblage of [Architectural Theme] components, pawns and tiles formed from miniature constituent parts of [Architectural Theme], tabletop structural engineering::3`\n    Material Physics:   `Material properties of [Architectural Theme] applied to game pieces, illuminated windows, realistic city textures replacing wood/plastic, perfect grid layout maintained within the chaos::3`\n    Illumination:   `Top-down dramatic table lighting, glowing elements from within the [Architectural Theme], deep ambient occlusion in the miniature streets::2`\n    Render Stack:   `Tilt-shift tabletop photography, macro lens, f/4, 8k, extreme depth of field, photorealistic miniatures::1`\n    Negative:   `[Standard Staunton chess pieces, flat cardboard, people playing, giant hands, messy, disorganized, 2D]:: -1`",
+    "title": "Custom Architectural Chessboard Diorama Prompt Template",
+    "description": "A complex, multi-part prompt template for generating hyper-detailed, playable diorama chessboards where the board and pieces are constructed entirely from miniature architectural components (e.g., Cyberpunk Neon City or Gothic Cathedrals). It uses anchors and morphology sections to enforce the structural engineering and material physics of the chosen theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519709787_qj2uoc_HCIgUT1WQAA27Tn.jpg",
+      "https://cms-assets.youmind.com/media/1772519709870_e4f1et_HCIgUUSaYAEdDAi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11310,
+    "content": "Create a Lego set for {argument name=\"subject\" default=\"[place, movie, image reference]\"}, {argument name=\"set type\" default=\"[type of set, adventure, architecture]\"} set, include box and instructions",
+    "title": "Lego Set Design Prompt Template",
+    "description": "A prompt template for generating a Lego set design (including the box and instructions) based on a specific subject (place, movie, image reference) and set type (adventure, architecture). The example shows it was made using Adobe Firefly with Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519726551_8u3myy_HCabsmiXIAEklYr.jpg",
+      "https://cms-assets.youmind.com/media/1772519726581_f1534s_HCabspLXwAEHqXP.jpg",
+      "https://cms-assets.youmind.com/media/1772519726577_e8dqvz_HCabsoEXwAAQ8C3.jpg",
+      "https://cms-assets.youmind.com/media/1772519727477_bh5o4x_HCabsq6XoAAAM_U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11284,
+    "content": "Scene:\nORNATE BOX DIORAMA — AUTO-THEME MASTER PROMPT\n========================\nSMART VARIABLE GUIDE\nTHEME_LOCATION = {argument name=\"Theme Location\" default=\"Cyberpunk pub\"}\nAUTO RULES:\n• If THEME_LOCATION is filled → automatically infer:\nPRIMARY_ACTIVITY\nSTAIR_TYPE\nCEILING_DETAILS\nTHEME_MATERIAL_STYLE\nPROP_LIST\nTHEME_LIGHT_SOURCE\nBASE_MATERIAL_COLOR\nTHEME_PALETTE\nFOCAL_SUBJECT\nAll inferred values must be logically consistent with THEME_LOCATION.\n• If THEME_LOCATION is blank → first invent a visually rich miniature environment theme, assign it to THEME_LOCATION, then automatically infer all other variables from it.\n• Always prioritize strong environmental storytelling, believable materials, and handcrafted miniature realism when inferring values.\n========================\nSUBJECT:\nA two-level miniature THEME_LOCATION where the ornate open box itself forms the architecture, the base container acting as the full ground floor chamber with the box walls serving directly as the structural walls. The sides of the box must contain functional doors and windows, with the front-facing side featuring a wide open doorway and visible windows. No side of the box may be removed, cut away, or missing. The box height:width:length ratio is 1:4:7 (the width four times the height). The scene features PRIMARY_ACTIVITY actively interacting with the environment. The structure must be fully integrated into the box material itself — not a room inserted inside, not a display frame, not a cutaway model. The ground floor must be constructed from the same material as the box exterior.\nENVIRONMENT:\nThe base of the ornate box forms the ground floor surface and foundation. Its interior sides transform into the architectural walls containing carved doorways and window openings seamlessly cut into the box sides and aligned with exterior ornamentation. A mezzanine or upper level is built above with structural elements attached directly to the box walls and connected via STAIR_TYPE. The inside of the open lid functions as the vaulted ceiling decorated with CEILING_DETAILS.\nDETAILS:\nIntricately carved ornate box styled according to THEME_MATERIAL_STYLE. Exterior ornamentation must continue logically into interior architecture. Doors and windows must be precisely cut into the box sides following decorative carving patterns. Include believable miniature structural joins where beams meet the container walls. Include ultra-fine theme-specific props such as PROP_LIST. Include floating dust, micro-surface wear, tactile handcrafted realism, and environmental storytelling details.\nSTYLE:\nUltra-realistic cinematic miniature diorama photography, museum-grade handcrafted realism, extreme macro detail, physically believable materials, strong architectural integration of container and structure.\nLIGHTING:\nPrimary lighting motivated by THEME_LIGHT_SOURCE combined with subtle environmental secondary lighting entering through box windows and openings. Volumetric dus",
+    "title": "Ornate Box Diorama Prompt (Cyberpunk Pub)",
+    "description": "A highly detailed, structured prompt template (AUTO-THEME MASTER PROMPT) for generating an ultra-realistic miniature diorama inside an ornate box, specifically themed as a Cyberpunk pub. The prompt dictates architectural integration, material style, lighting, and extreme macro detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519711914_mwmi19_HCaO3aebwAAcfDJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11312,
+    "content": "Variable Guide\n1. OVERALL_DIORAMA_THEME = {argument name=\"diorama theme\" default=\"Scenes from Adventures of Sherlock Holmes by Arthur Conan Doyle, in the order in which they are presented in the book\"}\n2. CUPBOARD_BASE_MATERIAL = \n3. CUPBOARD_LINING_MATERIAL = \n4. RACK_MATERIAL = \n5. ORNAMENTATION_STYLE = [e.g., Gothic carved wood, Art Deco brass, Elven interlaced vines]\n6. ART_STYLE = Hyper-Realistic Render\n7. TOP_SHELF_SCENE = {argument name=\"top shelf scene\" default=\"[Describe specific actions of miniature figures defining the scene]\"}\n8. MIDDLE_SHELF_SCENE = [Describe specific actions of miniature figures defining the scene]\n9. BOTTOM_SHELF_SCENE = [Describe specific actions of miniature figures defining the scene]\n10. LIGHTING = \n11. CAMERA_ANGLE = A straight-on, front-facing view, captured from a moderately high angle looking distinctly downward.\n12. ASPECT_RATIO = 3:4\n\nGeneration Directives\n(Note: If any variable is left blank, intelligently infer the most appropriate detail based on the OVERALL_DIORAMA_THEME)\n\nDirective 1: Framing & Composition (Highest Priority)\nA direct, front-facing photograph captured from CAMERA_ANGLE. The composition must perfectly center the open display structure, looking down at a distinct angle into the shelves to clearly reveal the floor plates and top-down depth of the miniature objects within the dioramas, while ensuring the exterior side panels remain completely hidden. The entire free-standing structure must be completely visible with negative space around it against a simple background. The aspect ratio is 3:4.\n\nDirective 2: The Main Structure (Strict Constraints)\nRender the image in the style of ART_STYLE. The central object is a highly detailed, permanently open-front curio display structure. It must not possess doors, hinges, or door frames of any kind. The exterior is constructed from CUPBOARD_BASE_MATERIAL and detailed with ORNAMENTATION_STYLE. The interior back wall is lined with CUPBOARD_LINING_MATERIAL, and the individual shelves are made of RACK_MATERIAL.\n\nDirective 3: The Miniature Dioramas & Figures\nThe structure houses a cohesive miniature world divided across three shelves, adhering to the OVERALL_DIORAMA_THEME. Crucially, each shelf must contain miniature figures engaged in a specific narrative action.\n* Top Shelf: Miniature figures are depicted [TOP_SHELF_SCENE].\n* Middle Shelf: Miniature figures are depicted [MIDDLE_SHELF_SCENE].\n* Bottom Shelf: Miniature figures are depicted [BOTTOM_SHELF_SCENE].\nEnsure the scale clearly reads as miniature dioramas housed within a furniture piece.\n\nDirective 4: Atmosphere & Lighting\nThe scene is illuminated by LIGHTING. The lighting should cast appropriate micro-shadows within each shelf to emphasize the depth, the figures, and the miniature scale of the dioramas.",
+    "title": "Sherlock Holmes Ornate Cupboard Diorama Prompt",
+    "description": "A complex, structured prompt template for Nano Banana 2 to generate a hyper-realistic render of an ornate cupboard diorama. The diorama must contain three shelves, each depicting a scene from 'Adventures of Sherlock Holmes'. The prompt uses variable guides for materials, style, lighting, and camera angle, and provides strict directives on composition and structure (must be open-front, no doors).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519728539_psugzr_HCaOVaEasAAR2n7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11282,
+    "content": "Subject inserts a glowing Ridewatch into the Ziku-Driver and spins it 360 degrees. A 'mechanical reveal' begins as white and gold armor plates materialize piece-by-piece, snapping onto the torso, shoulders, and legs with robotic precision. Rapidly rotating golden clock hands and glowing orange pixelated data streams wrap around her body against a giant glowing crescent moon background. The sequence concludes with the helmet visor flashing pink katakana eyes as she shifts into a powerful combat stance, executing a sharp martial arts strike with her white cape flowing majestically.",
+    "title": "Kamen Rider Armor Transformation Sequence Prompt",
+    "description": "A detailed prompt for generating a dynamic video sequence of a subject inserting a glowing Ridewatch into a Ziku-Driver, triggering a 'mechanical reveal' transformation into armored form, concluding with a combat stance. Designed for video generation tools like Veo 3.1 or Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519710354_f5knxn_HCaCpT6a8AAFv9y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11337,
+    "content": "Create a dominance portrait of the uploaded reference character seated on a divine throne that feels engineered from their own world and design language.\n\nThe camera observes the ruler from a partially obstructed viewpoint, as if the viewer is looking through the monumental structure of the throne itself.\n\nLikeness Integrity (HIGHEST PRIORITY)\n\nMaintain exact:\n\n• Head-to-body proportions\n\n• Eye shape, spacing, stylization\n\n• Surface materials\n\n• Silhouette and structural design\n\nDo not humanize.\n\nDo not reinterpret anatomy.\n\nDo not add unintended accessories.\n\nPerspective exaggeration must come only from camera placement, not structural redesign.\n\nIdentity always wins.\n\nThrone Adaptation System (UNIVERSAL LOGIC)\n\nThe throne must feel like a structural extension of the character’s design universe and must feel divine.\n\nRules:\n\nExtract design language from the character:\n\nDominant material logic\n\nGeometric language\n\nColor\n\nWorld energy\n\nTranslate, never copy.\n\nEcho shapes subtly in silhouette\n\nReflect material family, not exact textures\n\nUse tonal harmony, not color duplication\n\nPatterns may appear in architecture, structure, or ornamentation but must remain subordinate to the character’s identity.\n\nCamera & Perspective\n\n• Camera positioned slightly below the throne platform but offset laterally\n\n• 16–20mm wide cinematic lens\n\n• The throne structure partially obstructs the frame\n\n• Large architectural element of the throne occupies the foreground edge of the frame\n\n• Character visible through the throne’s structural opening or between its elements\n\n• Horizon slightly tilted 5–8 degrees\n\n• The viewer feels as if witnessing the ruler from behind the architecture of power\n\nForeground elements must feel massive and close to the lens, framing the character like a monumental gateway.\n\nComposition\n\n• The character sits centered within the throne structure but partially framed by its geometry\n\n• Throne architecture creates a natural visual tunnel toward the character\n\n• Foreground throne elements remain slightly out of focus\n\n• Character remains the focal authority within the frame\n\nLighting\n\n• Singular vertical divine beam descending from above the throne\n\n• Volumetric haze revealing light shafts\n\n• Strong rim light outlining the character silhouette\n\n• Controlled specular spikes along throne edges\n\n• Foreground throne elements remain darker, creating contrast against the illuminated ruler\n\nDepth & Focus\n\n• Eyes in absolute clarity\n\n• Character face and upper torso remain sharp\n\n• Foreground throne structure slightly blurred from proximity to lens\n\n• Background dissolves into atmospheric layers\n\nThe image must feel layered in depth:\n\nforeground architecture → seated ruler → atmospheric background.\n\nBackground\n\n• Vast negative space above the throne\n\n• Atmospheric tension\n\n• Light beam",
+    "title": "Dominance portrait generation prompt (Gemini - Thinking mode)",
+    "description": "An extremely detailed, structured prompt for Nano Banana (Gemini - Thinking mode) designed to create a 'dominance portrait' of an uploaded reference character seated on a divine throne. The prompt emphasizes strict likeness integrity, engineering the throne from the character's design language, and specific cinematic camera/lighting techniques (wide lens, partial obstruction, vertical divine beam).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519741252_1nxgb4_HCY4uF-WYAAMH3U.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11158,
+    "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"{argument name=\"subject name\" default=\"Sabrina Carpenter\"}\",\n      \"facial_morphology\": \"Heart-shaped visage, defined zygomatic arches with an approximate 15-degree elevation, petite nasal bridge with a slightly upturned apex, and a distinct cupid's bow philtrum.\",\n      \"dentition\": \"Natural maxillary central incisors with anatomical symmetry, visible during a neutral or closed-mouth expression as per cranial structure.\",\n      \"ocular_physics\": {\n        \"iris_pattern\": \"Highly detailed cerulean blue iris with distinct radiating stroma and a dark pupillary ring.\",\n        \"sclera_clarity\": \"High-vascularity detail, photorealistic moisture levels.\"\n      }\n    },\n    \"body\": {\n      \"somatotype\": \"Petite mesomorph with high muscle definition in the lower extremities.\",\n      \"height_cm\": 152,\n      \"morphology\": \"Hourglass silhouette with a biological waist-to-hip ratio of approximately 0.70. Natural skin texture with visible micro-pores and subtle epidermal variations.\",\n      \"skin_tone\": {\n        \"hex\": \"#F5E1D2\",\n        \"physics\": \"Subsurface scattering (SSS) with realistic light absorption and reflectance on the dermis.\"\n      },\n      \"hair\": {\n        \"color_hex\": \"#E3C58B\",\n        \"texture\": \"Voluminous, long blonde waves with realistic follicular density and specular highlights on individual strands.\"\n      }\n    },\n    \"wardrobe\": {\n      \"primary\": {\n        \"type\": \"Ribbed cotton bodysuit\",\n        \"color_hex\": \"#FFFFFF\",\n        \"material_physics\": \"Micro-weave texture, elastic tension pulling at the seams, realistic fabric folds.\"\n      },\n      \"secondary\": {\n        \"type\": \"High-denier opaque tights\",\n        \"color_hex\": \"#FFFFFF\",\n        \"opacity\": \"90%\",\n        \"texture\": \"Matte nylon finish with subtle sheen on curved surfaces.\"\n      },\n      \"accessory\": {\n        \"type\": \"Plush rabbit ear headband\",\n        \"material\": \"Faux fur and satin interior, white with pale pink inner lining (#F8D7DA).\"\n      }\n    },\n    \"pose_action\": {\n      \"description\": \"Reclining laterally on a sofa, weight distributed on the left hip and forearm. The right leg is elevated at a 45-degree angle with the foot pointed in plantar flexion. The left leg remains bent at the knee, resting naturally on the seat cushion.\",\n      \"gaze\": \"Candid, looking slightly downward and away from the lens.\",\n      \"hand_placement\": \"Natural finger curvature resting on the abdominal region, displaying anatomical knuckle detail and nail bed realism.\"\n    },\n    \"scene\": {\n      \"furniture\": {\n        \"type\": \"Oversized faux-fur sofa\",\n        \"color_hex\": \"#F4C2C2\",\n        \"physics\": \"High-density fiber simulations, individual fur strands reacting to the subject's weight via compression physics.\"\n      },\n      \"background\": {\n        \"type\": \"Solid studio backdrop with embedded neon sign\",\n        \"color_hex\": \"#D38B8E\",\n        \"finish\": \"Matte, seaml\"\n      }\n    }\n  }\n}",
+    "title": "Sabrina Carpenter Hyper-Realistic Portrait Prompt",
+    "description": "An extremely detailed, structured JSON prompt for generating a hyper-realistic portrait of Sabrina Carpenter. It meticulously specifies biometric details, body morphology, wardrobe (ribbed cotton bodysuit, rabbit ears), pose, and scene physics, including subsurface scattering and high-density fiber simulations for the sofa.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433489591_unt2fq_HCW4v1CXoAAnlfP.jpg",
+      "https://cms-assets.youmind.com/media/1772433489544_crfm8o_HCW4yWzWAAAVGZr.jpg",
+      "https://cms-assets.youmind.com/media/1772433489593_3t43vh_HCW4tE_XIAE67jt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11196,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"studio_expression_contact_sheet_6x8_clean\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_48_PANEL_FACE_LOCK\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"very_high\",\n      \"preserve_identity\": true,\n      \"preserve_facial_features\": true,\n      \"preserve_hairstyle\": true,\n      \"preserve_wardrobe\": true,\n      \"notes\": \"Create a 6x8 grid (48 panels) studio expression contact sheet. Same adult male identity in every panel. White seamless background. Head-and-shoulders framing locked. Only facial expressions and minimal hand gestures change. No text, no watermark, no logos.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"layout\": {\n        \"type\": \"grid\",\n        \"rows\": 8,\n        \"cols\": 6,\n        \"gutter\": \"thin_white\",\n        \"outer_border\": \"none\",\n        \"panel_consistency\": \"extreme\"\n      },\n      \"sharpness\": \"studio_crisp\",\n      \"grain\": \"none\",\n      \"render_style\": \"clean_editorial_portrait\"\n    },\n    \"scene\": {\n      \"environment\": \"white seamless studio backdrop\",\n      \"lighting\": {\n        \"style\": \"soft frontal portrait lighting\",\n        \"key_light\": \"large diffused softbox centered\",\n        \"fill\": \"balanced fill, minimal shadow\",\n        \"avoid\": \"dramatic contrast, colored gels, HDR\"\n      },\n      \"camera\": {\n        \"lens\": \"85mm portrait lens\",\n        \"distance\": \"tight head-and-shoulders crop\",\n        \"focus\": \"eyes razor sharp\",\n        \"perspective_lock\": \"strict\"\n      }\n    },\n    \"subject\": {\n      \"type\": \"adult male\",\n      \"wardrobe\": \"simple white shirt\",\n      \"hair\": \"natural medium-length dark hair\",\n      \"anatomy_rules\": \"realistic proportions, correct hands and fingers\"\n    },\n    \"expression_rule\": \"Each of the 48 panels must show a different expression: neutral, subtle smile, full smile, laugh, smirk, raised eyebrow, wink, surprise, shock, wide eyes, open mouth, dramatic gasp, side-eye, squint, anger, frown, clenched jaw, puffed cheeks, tongue out, exaggerated grin, mock scream, intense stare, skeptical look, confused look, doubtful smirk, playful cross-eye, big laugh, fake cry, hands on cheeks, fingers around eyes binocular gesture, covering face partially, stretching mouth sideways, chin on fist, overjoyed grin, serious stare, calm look, narrowed eyes, mock frustration, dramatic sigh, exaggerated shock, goofy face, proud smile, sarcastic grin, puzzled tilt, confident smirk, blank expression, relaxed ending pose.\",\n    \"quality_control\": {\n      \"identity_lock\": \"maximum\",\n      \"background_lock\": \"maximum\",\n      \"crop_lock\": \"maximum\",\n      \"avoid\": [\n        \"face distortion\",\n        \"eye misalignment\",\n        \"extra fingers\",\n        \"missing fingers\",\n        \"warped anatomy\",\n        \"h\"\n    ]\n  }\n}",
+    "title": "48-Panel Studio Expression Contact Sheet",
+    "description": "A highly detailed, structured prompt for Nano Banana Pro to generate a 6x8 grid (48 panels) contact sheet. The goal is to maintain the exact identity, framing, and background of an adult male subject while generating 48 distinct facial expressions and minimal hand gestures, ensuring extreme consistency across all panels for a clean editorial portrait style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433505320_mdycka_HCWmvwKXkAEpArG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11156,
+    "content": "Scene:\nORNATE BOX DIORAMA — AUTO-THEME MASTER PROMPT\n========================\nSMART VARIABLE GUIDE\nTHEME_LOCATION = {argument name=\"theme location\" default=\"Marble Mughal Hall Interior\"}\nAUTO RULES:\n• If THEME_LOCATION is filled → automatically infer:\nPRIMARY_ACTIVITY\nSTAIR_TYPE\nCEILING_DETAILS\nTHEME_MATERIAL_STYLE \nPROP_LIST\nTHEME_LIGHT_SOURCE\nBASE_MATERIAL_COLOR\nTHEME_PALETTE\nFOCAL_SUBJECT\nAll inferred values must be logically consistent with THEME_LOCATION.\n• If THEME_LOCATION is blank → first invent a visually rich miniature environment theme, assign it to THEME_LOCATION, then automatically infer all other variables from it.\n• Always prioritize strong environmental storytelling, believable materials, and handcrafted miniature realism when inferring values.\n========================\nSUBJECT:\nA two-level miniature THEME_LOCATION where the ornate open box itself forms the architecture, the base container acting as the full ground floor chamber with the box walls serving directly as the structural walls. The sides of the box must contain functional doors and windows, with the front-facing side featuring a wide open doorway and visible windows. No side of the box may be removed, cut away, or missing. The box height:width:length ratio is 1:4:7 (the width four times the height). The scene features PRIMARY_ACTIVITY actively interacting with the environment. The structure must be fully integrated into the box material itself — not a room inserted inside, not a display frame, not a cutaway model. The ground floor must be constructed from the same material as the box exterior.\nENVIRONMENT:\nThe base of the ornate box forms the ground floor surface and foundation. Its interior sides transform into the architectural walls containing carved doorways and window openings seamlessly cut into the box sides and aligned with exterior ornamentation. A mezzanine or upper level is built above with structural elements attached directly to the box walls and connected via STAIR_TYPE. The inside of the open lid functions as the vaulted ceiling decorated with CEILING_DETAILS.\nDETAILS:\nIntricately carved ornate box styled according to THEME_MATERIAL_STYLE. Exterior ornamentation must continue logically into interior architecture. Doors and windows must be precisely cut into the box sides following decorative carving patterns. Include believable miniature structural joins where beams meet the container walls. Include ultra-fine theme-specific props such as PROP_LIST. Include floating dust, micro-surface wear, tactile handcrafted realism, and environmental storytelling details.\nSTYLE:\nUltra-realistic cinematic miniature diorama photography, museum-grade handcrafted realism, extreme macro detail, physically believable materials, strong architectural style integration of container and structure.\nLIGHTING:\nPrimary lighting motivated by THEME_LIGHT_SOURCE combined with subtle environmental secondary lighting entering through box windows",
+    "title": "Ornate Box Diorama Master Prompt (Mughal Hall Interior)",
+    "description": "A complex, structured master prompt for generating an ultra-realistic miniature diorama inside an ornate box, using an auto-theming system. The box itself forms the architecture of a Marble Mughal Hall Interior, detailing structural integration, material style, lighting, and miniature realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433489043_019tka_HCWlPr4bQAAtbWl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11253,
+    "content": "a background that graphic looks like a PlayStation1's low-poly video game",
+    "title": "PS1 Low-Poly Video Game Background",
+    "description": "A prompt used with Google Gemini 3.1 Image Generator by Nano Banana Pro to create a background image that looks like a low-poly video game from the PlayStation 1 era.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433526401_qr2qyg_HCEK8WPaMAInKus.jpg",
+      "https://cms-assets.youmind.com/media/1772433526462_gxgbvr_HCEK8VUacAAr6Re.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11084,
+    "content": "create a screenshot of the overworld for this game in the same area, with one pokemon following the player, fit the vibe of the reference",
+    "title": "Pokémon Overworld Screenshot Generation",
+    "description": "A prompt for Nano Banana 2 instructing it to create a screenshot of a game's overworld in a specific area, featuring one Pokémon following the player, while matching the vibe of a provided reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346671943_pd1plw_HCPy5O3XYAE3vlk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11139,
+    "content": "Final Fantasy\nPlace the person (I) in the bottom right of the screen, facing diagonally up and to the left\nTransform into the Great Sorceress Barbara\nBackground is space, many shining shooting stars\nVS Griever",
+    "title": "Final Fantasy transformation prompt (Nano Banana Pro)",
+    "description": "An image generation attempt using Nano Banana Pro (Gemini 3 Pro Image). The prompt instructs the AI to transform the user (referred to as 'I') into the Great Sorceress Barbara from Final Fantasy, positioned in the bottom right, looking up and to the left, with a background of space and many shining shooting stars, battling Griever. (Duplicate prompt of 2027718880488264322)",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346694252_eqmhsp_HCPn0ETbEAI1EUy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11140,
+    "content": "Final Fantasy\nPlace the person (I) in the bottom right of the screen, facing diagonally up and to the left\nTransform into the Great Sorceress Barbara\nBackground is space, many shining shooting stars\nVS Griever",
+    "title": "Final Fantasy transformation prompt (Nano Banana Pro)",
+    "description": "An image generation attempt using Nano Banana Pro (Gemini 3 Pro Image). The prompt instructs the AI to transform the user (referred to as 'I') into the Great Sorceress Barbara from Final Fantasy, positioned in the bottom right, looking up and to the left, with a background of space and many shining shooting stars, battling Griever.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346693771_6ry2b6_HCPnkdrbwAAzBZ5.jpg",
+      "https://cms-assets.youmind.com/media/1772346693801_j7x29e_HCPnkflbEAAKxL5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11138,
+    "content": "Referencing this character, generate a Pokémon Zukan-style illustration. The Zukan No. is {argument name=\"Zukan Number\" default=\"[Enter Zukan No.]\"}. The background is white. The Zukan description text is {argument name=\"Description Text\" default=\"[Enter description text]\"}. Reproduce the Zukan layout and design.",
+    "title": "Generating Pokémon Zukan (Illustrated Guide) Style Art",
+    "description": "The user generated Pokémon Zukan-style illustrations of their characters using Nano Banana (not Pro) to celebrate Pokémon's 30th anniversary. The prompt is shared in the ALT text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346692714_c8s49l_HCOoVFubEAAoja7.jpg",
+      "https://cms-assets.youmind.com/media/1772346693074_6ksinz_HCOoVFra8AA44Pf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11052,
+    "content": "Referencing this character, create a cute deformation. Design 16 types of LINE stickers. Ensure a rich variety of sets by devising poses and text placements so that there are no similar stickers. The dialogue should be in Japanese with pop-style characters. The background should be white. Create a set that is easy to use in the daily conversations of a \"{argument name=\"target\" default=\"high school girl\"}\".",
+    "title": "Creating LINE Stickers with Nano Banana 2",
+    "description": "A prompt template for generating a set of 16 LINE stickers using Nano Banana 2, emphasizing cute deformation, variety in poses and text, and suitability for high school girl daily conversations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346692709_x04nrb_HCOQfkabEAIBJz7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11045,
     "content": "A hand-drawn treasure map on aged parchment, with the adventure erupting into three-dimensional quest. {argument name=\"starting point\" default=\"STARTING_POINT\"} rises at the map's edge with {argument name=\"departure scene\" default=\"DEPARTURE_SCENE\"}, the dotted path becomes an actual trail traversing {argument name=\"terrain 1\" default=\"TERRAIN_1\"} with {argument name=\"danger 1\" default=\"DANGER_1\"}, passing {LANDMARK_1} where {OBSTACLE_1} awaits. {TERRAIN_2} features {WILDLIFE_1} and {ENVIRONMENTAL_HAZARD}. The X marking the spot glows beneath {FINAL_LOCATION}, treasure partially visible, {GUARDIAN_ELEMENT} protecting it. Miniature expedition party frozen mid-journey at various points along the route. Torn edges of the map become cliffs. Coffee stains become lakes. Burn marks become scorched earth from battles past. Candlelight flicker, adventure novel lighting, 8K, the map as the story it promises.",
     "title": "Treasure Map Adventure Prompt for Nano Banana 2",

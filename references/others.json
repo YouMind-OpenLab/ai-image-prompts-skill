@@ -13,6 +13,266 @@
     "needReferenceImages": true
   },
   {
+    "id": 11260,
+    "content": "Convert this into an ultra-realistic, cinematic, fully photorealistic scene. The characters must be transformed into real human versions of the original uploaded references, keeping their identity, facial structure, key features, and overall likeness intact.",
+    "title": "Ultra-Realistic Character Transformation Prompt",
+    "description": "A concise prompt used with Nano Banana 2 to transform uploaded character references into ultra-realistic, cinematic, fully photorealistic human versions while strictly maintaining their identity, facial structure, and key likeness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519698499_c2xanc_HCbXoVyW0AA7Eit.png",
+      "https://cms-assets.youmind.com/media/1772519699784_8v1bzq_HCbXoWJXwAA6uB_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11313,
+    "content": "{\n  \"prompt\": \"A creative 3D illusion artwork of a cute young boy stepping out of a spiral notebook page placed on a wooden desk. The notebook has lined paper with handwritten text at the top. The boy appears in a semi-realistic 3D cartoon style, with soft messy brown hair, natural fresh face, and a cheerful smile. He is wearing a pastel oversized t-shirt, high-waisted light grey jeans, and clean white sneakers. His lower body is sketched in pencil on the notebook page, while his upper body looks fully realistic and popping out of the paper, creating a striking 3D illusion effect. Warm soft lighting, detailed wooden desk texture, shallow depth of field, ultra-detailed, high resolution.\",\n  \"style\": \"semi-realistic 3D cartoon\",\n  \"lighting\": \"warm soft lighting\",\n  \"resolution\": \"high resolution\",\n  \"effect\": \"3D pop-out illusion with pencil sketch lower body\"\n}",
+    "title": "3D Pop-Out Illusion Artwork Prompt",
+    "description": "A structured prompt for Nano Banana Pro on Gemini to generate a creative 3D illusion artwork. The image features a cute young boy stepping out of a spiral notebook page placed on a wooden desk. The prompt specifies the style (semi-realistic 3D cartoon), clothing, and the illusion effect (lower body sketched in pencil, upper body fully realistic and popping out).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519728967_u923ha_HCaZv2cbwAAwTYF.jpg",
+      "https://cms-assets.youmind.com/media/1772519729034_uw92k1_HCaZv2aa0AALtOX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11291,
+    "content": "A High resolution a playful notebook-style crayon drawing of the person [Use the uploaded image as reference] , keeping the same face, hairstyle, and outfit. Also, draw with uneven crayon strokes and bold outlines for a hand-drawn effect. Meanwhile, add doodle-style elements like a sun, clouds, trees, and small colorful houses in the background on blue lined paper with a red margin. Next, make the image look like a fun school notebook sketch, full of bright colors and childlike charm. Finally, use a vertical portrait to complete the composition.",
+    "title": "Playful Crayon Drawing Notebook Style Prompt",
+    "description": "A prompt for generating a high-resolution image that mimics a playful crayon drawing in a school notebook style. It requires using a reference image for the subject's identity and specifies the aesthetic details like uneven crayon strokes, bold outlines, and doodle elements on blue lined paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519715659_kjpcs1_HCaYM4CWAAAGE27.jpg",
+      "https://cms-assets.youmind.com/media/1772519715457_mohpbc_HCaYM4fbsAA8fwD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11299,
+    "content": "{\n  “subject”: {\n    “description”: “A full-body photograph of a woman resembling {argument name=\"celebrity name\" default=\"Sabrina Carpenter\"} posing in a vintage 1950s kitchen.”,\n    “body”: {\n      “physique”: “A striking, curvaceous hourglass figure with pronounced natural proportions. She has an ample, full bust with deep cleavage pushed up by the outfit, a narrow, defined waist creating a strong curve, and shapely wide hips and rounded glutes creating a voluptuous silhouette prominent in the sitting pose.”,\n      “pose”: “Sitting elegantly on the dark retro Formica countertop, posing like a professional model. Her legs are crossed gracefully, showing off the stockings and heels. One hand is delicately placed on her thigh, the other rests on the counter behind her, supporting a slightly leaned-back, arched posture that emphasizes her hourglass silhouette. Her head is turned to look directly at the camera.”,\n“features”: “Uncanny resemblance to Sabrina Carpenter. Signature blonde hair with bangs styled in retro waves with volume. A small white lace maid headpiece. Playful makeup with red lips and natural skin texture. Sultry, alluring expression with a slight smile.”\n    },\n    “wardrobe”: {\n      “outfit”: “An extremely short micro-mini black satin french maid dress featuring elaborate white lace trim and frills, a small white apron tied at the waist, sheer black stockings with visible garters, and black high heels. The fit is extremely tight and corset-style in the bodice, snugly containing her curves.”,\n      “accessories”: “White lace maid headpiece.”\n    }\n  },\n  “pose_action”: “Sabrina Carpenter lookalike in a skimpy maid costume sitting elegantly on a retro kitchen counter, posing like a model with legs crossed and looking at the camera.”,\n  “scene”: {\n“environment”: “A retro 1950s style kitchen with a vintage, nostalgic, kitschy aesthetic.”,\n    “elements”: “Distinctive red, white, and black geometric patterned linoleum floor, green tiled lower walls, white cabinetry with red trim and handles, dark countertops, a vintage green stool, and a fruit-patterned wallpaper border near the ceiling.”,\n    “composition”: “A vertical (9:16) amateur full-body photograph framing her completely while seated on the counter.”\n  },\n  “lighting”: {\n    “setup”: “Bright retro indoor lighting mixed with natural light from a window.”,\n    “details”: “Creating a vintage film glow. No filter, sharp focus.”\n  },\n  “camera”: {\n    “technical”: “Ultra_photorealistic, raw style, 8k image captured on an iPhone 15 Pro Max. Amateur full-body photograph style.”,\n    “aspect_ratio”: “9:16”\n  }\n}",
+    "title": "Sabrina Carpenter Lookalike in Retro Maid Outfit",
+    "description": "A detailed, structured prompt for Nano Banana Pro to generate a photorealistic image of a woman resembling Sabrina Carpenter in a vintage 1950s kitchen, wearing a skimpy French maid outfit. The prompt specifies physical attributes, pose, wardrobe, scene details, lighting, and camera settings for an ultra-photorealistic result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519721159_104aie_HCaNT_Ma4AA-Dif.jpg",
+      "https://cms-assets.youmind.com/media/1772519721296_zadfvn_HCaNT6SWgAAk1F1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11296,
+    "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"{argument name=\"Character Reference\" default=\"Sabrina Carpenter\"}\",\n      \"facial_structure\": {\n        \"morphology\": \"Heart-shaped facial architecture with soft malar definition and a delicate mandibular line. High-fidelity replication of the philtrum and a pronounced Cupid's bow.\",\n        \"eyes\": \"Almond-shaped ocular structure with complex blue iris patterns (Hex: #5D8AA8). Hyper-realistic limbal rings and symmetrical lash distribution.\",\n        \"skin\": \"Fair complexion with authentic dermis textures, including fine pores and natural subsurface scattering (Hex: #FCE5D6). No digital smoothing or artificial filters.\",\n        \"lips\": \"Neutral closed-mouth posture with a high-gloss satin pink finish (Hex: #F48FB1). Precise vermilion border definition with anatomical lip volume preservation.\"\n      },\n      \"body\": {\n        \"somatotype\": \"Petite and slender ectomorphic build. Accurate representation of the subject's 1.52m height-to-frame proportions with a high waist-to-hip ratio.\",\n        \"lower_extremities\": \"Complete exposure of the lower limbs with high-resolution epidermal rendering. Detailed patellar (kneecap) anatomy and visible muscular tone in the quadriceps. No hosiery, no stockings, no fabric coverage on legs.\",\n        \"extremities\": \"Anatomically perfect hands and feet. Five distinct fingers and toes with realistic nail bed textures and joint articulation. One hand interacting naturally with the pigtail hair.\",\n        \"integrity\": \"Zero tolerance for skeletal distortion. Correct bone-to-muscle ratio in the clavicle and limb regions.\"\n      }\n    },\n    \"hair\": {\n      \"style\": \"Signature voluminous honey-blonde (#EADFB4) hair partitioned into high twin pigtails. Individual strand rendering with fine texture and natural specular highlights.\",\n      \"accessories\": \"Decorated with various pastel geometric clips. Left side: blue star (#87CEEB), purple flower (#DA70D6), pink star (#FF69B4), green rectangle (#32CD32). Right side: purple star, blue star, yellow star.\"\n    },\n    \"wardrobe\": {\n      \"top\": \"Baby pink (Hex: #F8C3CD) sleeveless cropped tank top. Heavyweight ribbed cotton-poly blend with visible fiber weaving. Form-fitting silhouette with zero text or commercial branding.\",\n      \"graphic_on_top\": \"Central high-fidelity graphic of a stylized white feline character featuring a pink bow (Hex: #FF69B4), green attire (Hex: #8BC34A), and yellow accents.\",\n      \"bottom\": \"Compact-cut checkered bottoms with a high-waisted athletic hemline. Woven pattern consists of alternating yellow (Hex: #FFD700) and lime green (Hex: #D4E157) squares.\",\n      \"accessories\": \"Pink (Hex: #F48FB1) ribbed-knit fingerless arm warmers on both forearms with clear 1x1 knit texture definition.\"\n    },\n    \"pose_action\": {\n      \"description\": \"Seated centrally on a plush surface, facing the lens with a direct gaze. Left hand hol",
+    "title": "Hyper-Realistic Sabrina Carpenter Portrait Prompt",
+    "description": "An extremely detailed, biometrically focused JSON prompt for generating a hyper-realistic portrait of Sabrina Carpenter, specifying exact facial structure, skin texture, hair style (twin pigtails with geometric clips), and wardrobe (ribbed cropped tank top, checkered bottoms). It includes strict integrity checks against skeletal distortion and digital smoothing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519718958_seue0g_HCaEj7AX0AA-ND3.jpg",
+      "https://cms-assets.youmind.com/media/1772519718956_gb38eq_HCaEnCXbYAA34fr.jpg",
+      "https://cms-assets.youmind.com/media/1772519718911_cvicpa_HCaElIDWsAAKWB8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11292,
+    "content": "{\n  \"title\": \"Intimate Artistic Portrait of Two Women in Cozy Bohemian Bedroom\",\n  \"description\": \"Ultra-realistic cinematic portrait of two young adult women sitting closely together on a colorful bed inside a cozy, softly lit bohemian-style bedroom. The mood is intimate, emotional, and tender rather than explicit. The composition captures a quiet, vulnerable moment between them.\",\n  \"subjects\": [\n    {\n      \"gender\": \"female\",\n      \"age\": \"young adult (20-25)\",\n      \"hair\": \"jet black hair styled in two loose braids with soft bangs framing the face\",\n      \"expression\": \"serious, contemplative, slightly guarded\",\n      \"pose\": \"sitting cross-legged on bed, torso slightly turned toward the other woman, one hand lightly holding her shirt near the chest\",\n      \"outfit\": \"oversized black pinstriped button-down shirt, partially unbuttoned, subtle glimpse of midriff\",\n      \"accessories\": \"black lace knee-high stockings\",\n      \"skin_tone\": \"fair with natural soft texture\",\n      \"makeup\": \"minimal, soft eyeliner, natural lips\"\n    },\n    {\n      \"gender\": \"female\",\n      \"age\": \"young adult (20-25)\",\n      \"hair\": \"shoulder-length platinum blonde hair with subtle pastel lavender tint, soft waves\",\n      \"expression\": \"gentle, affectionate, slightly intense gaze directed at the other woman\",\n      \"pose\": \"sitting very close, knees touching, leaning inward, one hand resting lightly near the other woman's chest\",\n      \"outfit\": \"oversized lavender striped button-down shirt, partially unbuttoned\",\n      \"accessories\": \"white lace ankle socks\",\n      \"skin_tone\": \"fair with smooth natural finish\",\n      \"makeup\": \"soft pink lips, subtle blush, natural eye makeup\"\n    }\n  ],\n  \"environment\": {\n    \"location\": \"cozy attic-style bedroom\",\n    \"bed\": \"small bed with colorful patterned bedspread featuring floral and abstract prints\",\n    \"background_elements\": [\n      \"soft warm table lamp with yellow glow\",\n      \"wooden interior walls\",\n      \"colorful draped fabrics in green, red, and purple hanging from ceiling\",\n      \"plush toys and decorative items on shelf\",\n      \"soft ambient indoor lighting\"\n    ],\n    \"atmosphere\": \"warm, intimate, dreamy, slightly bohemian aesthetic\"\n  },\n  \"lighting\": {\n    \"type\": \"soft cinematic indoor lighting\",\n    \"key_light\": \"warm lamp light from upper left side creating gentle highlights\",\n    \"fill_light\": \"subtle ambient fill to maintain skin detail\",\n    \"shadows\": \"soft natural shadows with depth\",\n    \"color_temperature\": \"warm golden tones balanced with natural skin colors\"\n  },\n  \"camera\": {\n    \"angle\": \"eye-level medium full shot\",\n    \"framing\": \"vertical portrait orientation\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/1.8\",\n    \"depth_of_field\": \"shallow depth of field, softly blurred background\",\n    \"focus\": \"sharp focus on faces and hands\",\n    \"resolution\": \"8K ultra-detailed\"\n  },\n  \"style\": {\n    \"photorealism\": \"hyper-realistic",
+    "title": "Intimate Bohemian Portrait Prompt (Jenna Ortega & Emma Myers)",
+    "description": "A highly detailed JSON prompt for generating an ultra-realistic, intimate cinematic portrait of two young women (referencing Jenna Ortega and Emma Myers) sitting closely in a cozy, softly lit bohemian-style bedroom, focusing on specific poses, wardrobe, and lighting details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519715613_gbzpmq_HCZ4KFbbwAATwSH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11302,
+    "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"{argument name=\"biometric reference\" default=\"Sabrina Carpenter\"}\",\n      \"facial_structure\": \"Heart-shaped face morphology with a defined, narrow mandibular angle and prominent zygomatic arches; specific philtrum depth and pronounced Cupid's bow on full vermilion lips; distinct nasal bridge linearity.\",\n      \"hair\": {\n        \"style\": \"Voluminous blonde hair styled in soft, cinematic waves; signature thick curtain bangs framing the face with precise layering; high-fidelity strand separation and natural movement.\",\n        \"color\": \"#FBF2D5 pale honey blonde with subtle platinum highlights\",\n        \"physics\": \"Natural hair luster with realistic subsurface scattering on fine strands; zero synthetic clumpiness.\"\n      },\n      \"ocular_details\": \"Iris pattern with intricate radial furrows in a blue-grey #7A9E9F hue; visible limbal rings; anatomically correct sclera hydration; realistic lacrimal caruncle placement.\",\n      \"dentition\": \"Standard human dental alignment with natural incisor transparency and subtle occlusal surface textures; visible when lips are slightly parted.\"\n    },\n    \"body\": {\n      \"somatotype\": \"Ecto-mesomorphic petite frame with a high waist-to-hip ratio; precise anatomical muscle definition in the rectus femoris and gastrocnemius; defined clavicle and suprasternal notch visibility.\",\n      \"skin_physics\": {\n        \"base_tone\": \"#F5E1D2 creamy porcelain\",\n        \"surface_properties\": \"High-fidelity subsurface scattering (SSS) on epidermal layers; visible follicular pores and micro-creases on joints; zero artificial smoothing filters.\",\n        \"details\": \"Natural mole and freckle distribution mapped to biometric reference; absence of digital artifacts.\"\n      }\n    }\n  },\n  \"wardrobe\": {\n    \"primary_garment\": {\n      \"type\": \"Form-fitting corset-style mini-dress\",\n      \"color\": \"#E8ACC0 pale pink and #FFFFFF optic white gingham pattern\",\n      \"material_physics\": \"Fine-weave cotton gingham fabric with subtle texture; realistic fabric micro-creases indicating tension; structural bodice construction with defined waist cinching.\"\n    },\n    \"neckwear\": {\n      \"type\": \"Matching gingham bowtie with a white detachable Peter Pan collar\",\n      \"color\": \"Bowtie: #E8ACC0 and #FFFFFF gingham; Collar: #FFFFFF optic white\",\n      \"material_physics\": \"Structured fabric bowtie with realistic knot compression; crisp, starched cotton collar texture.\"\n    },\n    \"gloves\": {\n      \"type\": \"Short white lace gloves\",\n      \"color\": \"#FFFFFF optic white\",\n      \"material_physics\": \"Intricate lace micro-patterns with variable translucency; realistic folding around finger joints and palm.\"\n    },\n    \"earrings\": {\n      \"type\": \"Flower-shaped studs\",\n      \"color\": \"#E8ACC0 pale pink\",\n      \"material_physics\": \"Detailed multi-petal floral structure; matte ceramic finish with subtle glossy center.\"\n    }\n  },\n  \"pose_action\": {\n    \"description\": \"Seated centrall",
+    "title": "Hyper-realistic Sabrina Carpenter Biometric Prompt",
+    "description": "An extremely detailed, structured prompt for Nano Banana Pro focusing on generating a hyper-realistic image with the biometric fidelity of Sabrina Carpenter. It meticulously defines facial structure, hair physics, ocular details, skin physics (including SSS and pores), and wardrobe (pink and white gingham corset dress) to achieve high anatomical fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519723136_jucocv_HCZ3atKa0AAJZjs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11300,
+    "content": "{ \"subject\": { \"description\": \"A young blonde Caucasian woman delivering a speech at a podium, wearing a highly stylized, fitted olive green military uniform jacket paired with a provocatively short mini skirt and sheer black pantyhose.\", \"mirror_rules\": \"None, direct shot.\", \"age\": \"late 20s\", \"expression\": { \"eyes\": { \"look\": \"focused forward, intense and determined\", \"energy\": \"authoritative, commanding attention\", \"direction\": \"straight ahead, slightly elevated\" }, \"mouth\": { \"position\": \"open, actively speaking into the microphone\", \"energy\": \"confident, articulate\" }, \"overall\": \"serious, resolute, holding the room's attention\" }, \"face\": { \"preserve_original\": true, \"makeup\": \"clean professional makeup, matte foundation, subtle contouring, pale natural lips\" }, \"hair\": { \"color\": \"light platinum blonde\", \"style\": \"sleek, tightly pulled back into a neat low bun\", \"effect\": \"smooth and disciplined, catching the overhead stage light\" }, \"body\": { \"frame\": \"fit and strong posture, standing tall, prominent toned leg muscles\", \"skin\": { \"visible_areas\": \"face, hands, legs\", \"tone\": \"pale warm ivory\", \"texture\": \"legs are wrapped tightly in smooth, sheer black nylon, emphasizing the firm musculature underneath\", \"lighting_effect\": \"harsh overhead stage lighting creating a subtle rim light on the hair and shoulders\" } }, \"pose\": { \"position\": \"standing behind a wooden podium, body facing slightly left but head facing forward\", \"base\": \"standing firmly in black stiletto pumps\", \"overall\": \"formal, imposing, yet physically provocative due to the attire\" }, \"clothing\": { \"top\": { \"type\": \"fitted military service uniform jacket\", \"color\": \"dark olive green\", \"details\": \"colorful ribbon racks on the chest, silver badges, Staff Sergeant chevron patches on the sleeves, gold buttons\", \"effect\": \"tailored and authoritative\" }, \"bottom\": { \"type\": \"ultra-short mini skirt with sheer black pantyhose\", \"color\": \"olive green skirt, translucent black tights\", \"details\": \"tight fit, exposing the full length of the legs, paired with black pointed-toe stiletto heels\" } } }, \"accessories\": { \"headwear\": \"\", \"jewelry\": \"\", \"device\": \"two black microphones on gooseneck stands attached to the podium\", \"prop\": \"a clear glass teleprompter panel positioned to the left, a wooden podium with a blue and white sign reading 'BORDER OF PEACE'\" }, \"photography\": { \"camera_style\": \"press photography, photojournalism, political rally coverage\", \"angle\": \"slight low angle, shooting up at the speaker from the floor or press pit\", \"shot_type\": \"full body to medium-full shot, capturing from the feet up\", \"aspect_ratio\": \"4:5\", \"texture\": \"sharp subject focus, slight digital grain typical of high-ISO event photography, cinematic tension\", \"lighting\": \"stadium event lighting, bright spotlights on the speaker, darker ambient light in the audience\", \"depth_of_field\": \"telephoto lens compression (e.g., 200mm), keeping the VIPs in the immediate backgr",
+    "title": "Political Speaker in Provocative Military Uniform",
+    "description": "A highly detailed, structured prompt for Nano Banana Pro generating an image of a blonde woman delivering a speech at a podium, wearing a stylized olive green military jacket and an ultra-short mini skirt with sheer black pantyhose. The prompt specifies facial features, expression, pose, clothing details, accessories, and photography style (press photography, low angle).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519721592_v4iu4j_HCZqxtEbUAAgNsl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11333,
+    "content": "Make the lines sharper and add the following text back in \"(original unhallucinated text)\"",
+    "title": "Sharpening and Text Insertion Prompt",
+    "description": "A simple text prompt instructing the model to sharpen the lines of an image or video output and re-insert a specific piece of text, likely used for post-processing or correction.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519739606_ae5w4t_HCZiQM5WwAEzUTM.jpg",
+      "https://cms-assets.youmind.com/media/1772519739696_mvv5ma_HCZiQ7pWIAEXce0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11297,
+    "content": "[\n  {\n    \"biographical_info\": {\n      \"full_name\": \"{argument name=\"Character 1 Name\" default=\"Sadie Elizabeth Sink\"}\",\n      \"profession\": \"American Actress\",\n      \"birth_year\": 2002,\n      \"notable_works\": [\"Stranger Things (Max Mayfield)\", \"The Whale\", \"All Too Well: The Short Film\"]\n    },\n    \"visual_analysis\": {\n      \"physical_traits\": {\n        \"hair_style\": \"Long, wavy, natural ginger/red hair\",\n        \"eye_color\": \"Blue\",\n        \"pose\": \"Sitting on floor, finger on lip direct gaze\"\n      },\n      \"wardrobe_details\": {\n        \"upper_garment\": \"Forest green corset-style top with black lace trim\",\n        \"sleeves\": \"Detachable long black floral lace gloves/sleeves\",\n        \"lower_garment\": \"High-waisted blue and white plaid pleated mini skirt\",\n        \"hosiery\": \"Sheer black tights with small velvet heart patterns\",\n        \"footwear\": \"Classic white pointed-toe stiletto pumps\",\n        \"jewelry\": \"Thin white choker and a silver necklace with a red gemstone pendant\"\n      }\n    },\n    \"environment_metadata\": {\n      \"location_type\": \"Indoor Studio/Room\",\n      \"color_palette\": [\"Deep Red\", \"Emerald Green\", \"Warm Wood\"],\n      \"background_props\": [\n        \"Large classical oil painting depicting a romantic couple\",\n        \"Pink neon 'Keor Unreal' sign on the wall\",\n        \"Light oak wooden sideboard/cabinet\",\n        \"Polished hardwood flooring with natural sunlight shadows\"\n      ]\n  }\n    \"biographical_info\": {\n      \"full_name\": \"{argument name=\"Character 2 Name\" default=\"Ana Celia de Armas Caso\"}\",\n      \"profession\": \"Cuban-Spanish Actress\",\n      \"notable_works\": [\"Blonde\", \"No Time to Die\", \"Blade Runner 2049\", \"Knives Out\"]\n    },\n    \"visual_analysis\": {\n      \"physical_traits\": {\n        \"hair_style\": \"Long, dark brown flowing hair with the center part\",\n        \"eye_color\": \"Green/Hazel\",\n        \"pose\": \"Seated on a white fur stool, reflective expression\"\n      },\n      \"wardrobe_details\": {\n        \"upper_garment\": \"Royal blue satin corset with black lace overlays\",\n        \"sleeves\": \"Full-length black lace sleeves covering hands\",\n        \"lower_garment\": \"Matching blue plaid schoolgirl-style skirt\",\n        \"hosiery\": \"Denim-blue tinted tights with heart embroidery\",\n        \"footwear\": \"Red strappy high heels worn over black ankle socks\",\n        \"jewelry\": \"Thick blue velvet choker\"\n      }\n    },\n    \"environment_metadata\": {\n      \"location_type\": \"Modern Minimalist Interior\",\n      \"lighting\": \"Soft natural side-lighting\",\n      \"background_elements\": [\n        \"Beige/Neutral matte walls\",\n        \"Light-colored wooden floor planks\",\n        \"White fluffy sheepskin-style seating\",\n        \"Clean, uncluttered architectural line's \n  },\n    \"biographical_info\": {\n      \"full_name\": \"{argument name=\"Character 3 Name\" default=\"Sydney Bernice Sweeney\"}\",\n      \"profession\": \"American Actress & Producer\",\n      \"notable_works\": [\"Euphoria (Cassie Howard)\", \"The White Lotus\", \"Anyone But You\"]\n    },\n    \"visual_analysis\": {\n      \"physi",
+    "title": "Multi-Subject Editorial Fashion Prompt (Sadie Sink, Ana de Armas, Sydney Sweeney)",
+    "description": "A complex JSON prompt containing detailed visual analysis and environment metadata for generating editorial fashion portraits of three different actresses (Sadie Sink, Ana de Armas, and Sydney Sweeney), specifying unique outfits, poses, and background settings for each.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519718915_u4z543_HCZhDrIbkAAULI0.jpg",
+      "https://cms-assets.youmind.com/media/1772519719188_g9pl8u_HCZhDoDaUAEUIos.jpg",
+      "https://cms-assets.youmind.com/media/1772519719358_cjza9p_HCZhDpaW0AAN1vK.jpg",
+      "https://cms-assets.youmind.com/media/1772519720026_ujhkgf_HCZhDtwXIAAh-H_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11363,
+    "content": "A sketch of a {argument name=\"subject\" default=\"snow leopard\"} is drawn on a notebook on the table, and the lifelike entity stands on or emerges from the sketch. Centered profile, detailed texture, low-angle shot, close-up, studio lighting, hyper-realistic, 8K --ar 1:1",
+    "title": "Nano Banana 2 General Image Generation Prompt",
+    "description": "A general-purpose prompt for Nano Banana 2, designed to produce detailed, high-quality images without requiring specialized terminology. It focuses on generating a subject standing on or emerging from a sketch in a notebook, emphasizing texture, low-angle perspective, and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519752894_9pr8id_HCZZPubaAAAbHm-.jpg",
+      "https://cms-assets.youmind.com/media/1772519752844_advut8_HCZZMEGbEAIwAC6.jpg",
+      "https://cms-assets.youmind.com/media/1772519752884_olixrd_HCZZKpsacAAGAOe.jpg",
+      "https://cms-assets.youmind.com/media/1772519754206_lgi9ym_HCZZTbuakAA5Nt6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11288,
+    "content": "Create a striking, ultra-detailed, high-contrast monochrome lack-and-white) portrait based on the uploaded reference image. The subject’s facial structure and identity must match the reference precisely accurately replicate bone structure, eye shape, nose proportions, jawline definition, beard density (if present), hairline, and overall facial symmetry. Maintain authentic skin texture and natural features without artificial smoothing.\nSubject & Expression A mature, confident man with a strong facial structure and deep-set eyes looking directly into the camera. Expression should be serious, contemplative, and quietly authoritative. Preserve natural skin details such as pores, fine lines, and subtle texture for realism. The gaze should feel focused and introspective, not aggressive.\nFacial Hair (Adaptive)\nIf facial hair is present in the reference image, replicate it exactly — density, length, shape, and edges. Maintain natural tonal variation (including salt-and-pepper graying if applicable). Beard lines should be clean and structured.\n\nIf clean-shaven, preserve realistic skin texture and jaw definition.\nHairstyle (Adaptive)\nMatch the hairstyle from the reference image exactly — volume, direction, hairline, and texture. Hair should look natural with visible strand detail and subtle specular highlights from overhead directional lighting.\nPose\nClassic “thinker” pose. One hand raised to the chin with thumb along the jawline and index finger slightly curled. Knuckles and tendons subtly defined for realism. Hand in sharp focus with visible skin texture and natural tonal gradation.\n🔥 Lighting & Technical Style (Accurately Customized)\nLow-key fine-art studio photography with controlled high-contrast sculpting.\n• Primary key light positioned slightly above eye level and slightly toward the viewer’s left, angled downward to create strong top-plane highlights.\n\n• Light is soft but directional (large softbox or diffused beauty dish), producing crisp edge definition without harsh clipping.\n\n• Strong highlight concentration on forehead center, nose bridge, upper cheekbones, beard texture, and the top planes of the hand.\n\n• Subtle shadow shaping under the brow ridge and cheekbones to enhance bone structure.\n\n• The shadow side of the face remains deep but not fully crushed — maintaining controlled midtone detail.\n\n• Minimal fill light from front-center to retain facial symmetry while preserving depth.\n\n• Very subtle rim separation along hair edges and outer shoulder to prevent blending into background.\n\n• Catchlights centered and natural — small, soft rectangular reflection in both eyes.\n\n• Background is fully black with zero visible texture, absorbing all spill light.\nContrast ratio should be high but refined — not blown highlights, not muddy blacks. Clean tonal roll-off.\nComposition\nTight vertical head-and-shoulders crop (portrait orientation, 4:5 ratio recommended). Subject centered symmetrically for a formal, balan",
+    "title": "High-Contrast Monochrome Portrait Prompt",
+    "description": "An extremely detailed prompt for generating a high-contrast, black-and-white fine-art studio portrait, requiring precise replication of the subject's identity, facial features, and expression from a reference image. It specifies complex lighting setup (low-key, directional softbox) and composition (tight vertical crop, 'thinker' pose).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519713802_rhqp8h_HCZJGaDbMAExqCv.jpg",
+      "https://cms-assets.youmind.com/media/1772519713839_mqoi7e_HCZJGana4AADgjR.jpg",
+      "https://cms-assets.youmind.com/media/1772519713818_sn66fu_HCZJGaGbIAAtx9W.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11361,
+    "content": "Close-up shot, a notebook on the table, an Eastern Dragon is drawn on it, and the physical entity of an identical dragon, except for its tail, extends completely out of the paper and becomes a living dragon --ar 4:3",
+    "title": "Nano Banana 2 Eastern Dragon Prompt",
+    "description": "A simple, non-technical prompt for Nano Banana 2, describing a close-up shot of an Eastern Dragon sketch in a notebook, where the physical entity of the dragon emerges from the paper, except for its tail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519753263_f1aadt_HCY9U5Va8AA8Gs_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11308,
+    "content": "{\n  “subject”: {\n    “description”: “A vertical photograph of a strikingly beautiful young woman with an exaggerated curvy build, pumping gas into a car at a gas station at night.”,\n    “body”: {\n      “physique”: “She possesses an incredibly exaggerated ‘slim-thick’ hourglass figure. Her waist is extremely tiny and snatched, transitioning dramatically into massively prominent, round, and wide glutes and thick, shapely thighs. The contrast between her very small waist and exaggerated lower body is the defining feature.”,\n      “pose”: “Standing at the gas pump, holding the nozzle into the car. She is twisted slightly, looking back over her right shoulder directly at the viewer, similar to the previous pose. Her stance emphasizes the extreme curve of her lower back and glutes.”,\n“features”: “Dark hair pulled up in a casual messy bun with a gold star-shaped hair clip. Her face is strikingly beautiful and gorgeous but with realistic skin texture, natural pores, and genuine features, not looking artificial or like porcelain. Her arms are bare and have NO tattoos.”\n    }\n  },\n  “wardrobe”: {\n    “outfit”: “She is wearing a {argument name=\"top color\" default=\"light yellow\"} cropped t-shirt that hugs her upper body. On her lower body, she wears fitted {argument name=\"legging color\" default=\"grey\"} athletic leggings that stretch tightly over her exaggerated curves.”\n  },\n  “pose_action”: “Filling up her car with gas at a station at night, looking back over her shoulder.”,\n  “scene”: {\n    “environment”: “A brightly lit gas station at night.”,\n    “elements”: “She is standing next to a bright {argument name=\"car color\" default=\"pink\"} Mini Cooper car, inserting the pump nozzle. The background shows the gas pumps, concrete ground, the overhead canopy structure with industrial lights, and brightly lit convenience store signage in the distance against the dark night sky.”,\n“composition”: “Vertical 9:16 aspect ratio. A medium-full shot capturing the subject from the knees up while pumping gas.”\n  },\n  “lighting”: {\n    “setup”: “Nighttime mixed lighting: bright overhead fluorescent canopy lights casting strong light and distinct shadows, mixed with the glow of neon signs from the station.”,\n    “details”: “The artificial lighting highlights the realistic texture of her skin, the fabric of the light yellow top and grey leggings, and the glossy paint of the pink car.”\n  },\n  “camera”: {\n    “technical”: “High-resolution photograph. Sharp focus on the main subject. Realistic, candid style captures during the night.”,\n    “aspect_ratio\": “9:16”,\n    “constraints”: [\n      “CRITICAL: The subject must have the specific EXAGGERATED hourglass physique with a tiny waist and massive glutes.”,\n“CRITICAL: The face must be incredibly beautiful but REALISTIC, not doll-like.”,\n      “CRITICAL: There must be NO TATTOOS on her arms.”,\n      “CRITICAL: Outfit colors must be LIGHT YELLOW top and GREY leggings.”,\n      “CRITICAL: Scene must be a GAS STATION AT NIGHT with a PINK MINI COOPER.”,\n      “The final image must be a photorealistic ve”\n    ]\n  }\n}",
+    "title": "Exaggerated Curvy Figure at Gas Station",
+    "description": "A highly specific, constraint-heavy prompt for Nano Banana Pro to generate a photorealistic vertical image of a woman with an extremely exaggerated 'slim-thick' hourglass figure (tiny waist, massive glutes) pumping gas at a brightly lit station at night. The prompt strictly dictates physique, pose (looking over the shoulder), wardrobe (light yellow crop top, grey leggings), scene elements (pink Mini Cooper), and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519725820_7glyut_HCYyZzaagAAnq9t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11277,
+    "content": "\"replace the {argument name=\"object\" default=\"object\"} with a banana-shaped {argument name=\"style\" default=\"style\"}, surreal nano banana aesthetic, realistic lighting, cinematic composition, seamless integration, preserve {argument name=\"subject\" default=\"subject\"}, preserve {argument name=\"pose\" default=\"pose\"}, preserve {argument name=\"background\" default=\"background\"}, ultra realistic, high detail\"",
+    "title": "Surreal Nano Banana Aesthetic Template Prompt",
+    "description": "A flexible template prompt designed to apply a surreal 'nano banana aesthetic' to any object, replacing it with a banana-shaped version in a specified style while preserving the original subject, pose, and background details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519708291_q9c5ym_HCYi9uibQAAdu_S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11307,
+    "content": "Wong Kar-wai style realistic portrait using photo uploads as a face model, emphasizing the jawline and neck to be sharp as a sculpture, the same face and uniqueness. Do not change the face. Posture: sitting with head leaning on mirror, hands on the edge, eyes staring at the street light. Scene: an old taxi. Pale leather seats. Rain-smudge windows. Street lights streak blur. Camera Angle: Taken from outside the mirror. Shadows reflecting on the face. Lighting: Neon red-green running through. Face changes color according to light. Clothes: Black button down shirt. Slightly relaxed. Hair is wet, Image tone: Contrast red-green. Film grain thick. Motion blur clear. Glow blur around carlight. Mood: Lonely, solitary, big city with no answers",
+    "title": "Wong Kar-wai Style Portrait in Taxi",
+    "description": "A prompt for NANO BANANA to generate a realistic portrait in the style of Wong Kar-wai, using a photo upload for face consistency. The scene is set inside an old taxi with pale leather seats and rain-smudged windows, emphasizing neon red-green lighting, film grain, and a lonely, solitary mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519725270_hrnrm6_HCYH5uIawAAC8hz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11298,
+    "content": "{\n  \"character\": {\n    \"name\": \"Young Woman\",\n    \"type\": \"real_person\",\n    \"portrayal_style\": \"cosplay fashion editorial\",\n    \"age_appearance\": \"young adult\"\n  },\n  \"appearance\": {\n    \"hair\": {\n      \"color\": \"blonde\",\n      \"style\": \"long, loose, wavy\",\n      \"detail_level\": \"individual hair strands visible\"\n    },\n    \"expression\": {\n      \"mood\": \"confident, playful\",\n      \"gaze\": \"direct gaze over shoulder\"\n    },\n    \"pose\": {\n      \"body_orientation\": \"side profile\",\n      \"leg_position\": \"one leg forward slightly bent\",\n      \"hips\": \"cocked\",\n      \"back\": \"arched\",\n      \"left_hand\": \"resting lightly on hip\",\n      \"right_hand\": \"holding helmet near waist\"\n    },\n    \"accessories\": [\n      \"small gold hoop earrings\"\n    ]\n  },\n  \"costume\": {\n    \"theme\": \"pink power rangers inspired\",\n    \"top\": {\n      \"type\": \"glossy bodysuit-style crop top\",\n      \"color\": \"pink\",\n      \"details\": \"white diamond accents, thin straps\",\n      \"material\": \"high-gloss synthetic\"\n    },\n    \"bottom\": {\n      \"type\": \"high-waisted leggings\",\n      \"color\": \"pink\",\n      \"details\": \"white diamond pattern panels\",\n      \"material\": \"high-gloss synthetic\"\n    },\n    \"gloves\": {\n      \"type\": \"long gloves\",\n      \"color\": \"white\",\n      \"trim\": \"pink\"\n    },\n    \"boots\": {\n      \"type\": \"thigh-high boots\",\n      \"color\": \"white\",\n      \"details\": \"pink diamond accents\",\n      \"heel_type\": \"high heels\",\n      \"finish\": \"high gloss\"\n    },\n    \"prop\": {\n      \"item\": \"pink Power Rangers-style helmet\",\n      \"surface\": \"glossy, reflective\"\n    }\n  },\n  \"photography\": {\n    \"style\": \"ultra realistic photorealistic high-fashion cosplay\",\n    \"camera\": {\n      \"lens_type\": \"cinematic movie lens\",\n      \"depth_of_field\": \"shallow\"\n    },\n    \"lighting\": {\n      \"setup\": \"bright neutral clean studio background\",\n      \"type\": \"even soft lighting\",\n      \"purpose\": \"emphasize glossy fabric reflections and skin texture\"\n    },\n    \"resolution\": \"8K\",\n    \"quality_tags\": [\n      \"high detail\",\n      \"realistic material shine\",\n      \"glove texture detail\",\n      \"boot gloss detail\",\n      \"helmet surface reflection\",\n      \"authentic unedited photoshoot look\",\n      \"no AI artifacts\"\n    ]\n  },\n  \"environment\": {\n    \"background\": \"neutral clean studio\",\n    \"color_palette\": [\"pink\", \"white\", \"neutral tones\"],\n    \"vibe\": \"cinematic, polished, editorial\"\n  }\n}",
+    "title": "Pink Power Rangers Cosplay Fashion Editorial Prompt",
+    "description": "A detailed JSON prompt for generating an ultra-realistic, high-fashion cosplay editorial image inspired by the Pink Power Ranger. It focuses on specific glossy synthetic materials, detailed costume elements (crop top, thigh-high boots, helmet prop), and studio lighting to emphasize reflections and texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519718752_qz1qu7_HCYEesnXoAAoj-z.jpg",
+      "https://cms-assets.youmind.com/media/1772519718678_e21c2q_HCYEdm2bgAAFxOU.jpg",
+      "https://cms-assets.youmind.com/media/1772519718776_0y4y9q_HCYEfj-W8AEKCkx.jpg",
+      "https://cms-assets.youmind.com/media/1772519720315_arwysd_HCYEg4FXAAAmtDP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11287,
+    "content": "Create an ultra-realistic, cinematic 8K image with high-contrast dramatic lighting and a photo-real digital painting aesthetic-use face reference exactly. The man is shown in a full-body side profile facing right, his face and hairstyle copied perfectly with no alterations He wears modern casual streetwear; a light grey crewneck t-shirt, light neutral cargo pants, light-colored high-top boots, and a watch on his left wrist. His posture is slightly slumped, head bowed, eyes looking downward, hands relaxed at his sides, conveying deep introspection and sorrow. Nearly half of his body is dissolving into extremely thick, cloud-like grey smoke filled with glowing yellow dust particles. His left arm, shoulder, torso, legs, and part of his hair become transparent as they break into luminous particles, suggesting active disintegration Behind and partially surrounding him is a massive glowing crescent (C-shaped) energy aura, emitting fiery golden-white plasma light. This aura acts as a powerful rim and backlight, highlighting the smoke, dust, and silhouette. The setting is minimal and stark: a concrete or desolate paved surface meeting a heavily overcast sky. The color palette is nearly monochrome greys and whites, contrasted by intense amber-gold glow, Shallow depth of field, glow/bloom lighting, particle dispersion, cinematic composition, emotional and dramatic atmosphere.",
+    "title": "Cinematic Disintegration Portrait Prompt",
+    "description": "A detailed prompt for creating an ultra-realistic, cinematic 8K image of a man undergoing disintegration into smoke and glowing particles, emphasizing high-contrast dramatic lighting, a specific pose conveying sorrow, and a massive glowing crescent energy aura as a backlight. Requires a face reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519713148_qftx5c_HCXif_NakAAnBho.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11205,
+    "content": "take a photo at {argument name=\"latitude\" default=\"31.2001° N\"}, {argument name=\"longitude\" default=\"29.9187° E\"}, {argument name=\"date\" default=\"August 12, 30 BCE\"}, {argument name=\"time\" default=\"16:00 hours\"}",
+    "title": "Historical Moment Capture Prompt",
+    "description": "A prompt attempting to capture a historical moment by specifying exact geographical coordinates, date, and time (August 12, 30 BCE, 16:00 hours at 31.2001° N, 29.9187° E, which is near Alexandria, Egypt).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433507796_j5eoqw_HCUGaf5XYAAMJ39.jpg",
+      "https://cms-assets.youmind.com/media/1772433507798_6pb0dr_HCUGaheWkAE_Aa4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11254,
+    "content": "𝗣𝗥𝗢𝗠𝗣𝗧 𝗜𝗗𝗘𝗔𝗦\n𝐹͟𝑂͟𝑅͟ 𝐴͟𝑃͟𝑅͟𝐸͟𝑆͟𝐼͟𝐴͟𝑆͟𝐼͟ 𝑃͟𝐿͟𝑂͟𝑇.",
+    "title": "Prompt Ideas for Apreciasi Plot",
+    "description": "A tweet sharing a resource or collection of prompt ideas specifically for generating 'Apreciasi Plot' content, likely for use with an LLM or text generation tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433526678_t43zx9_HCTiBvDbEAM8N19.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11065,
+    "content": "A highly detailed 4K digital painting of a young woman [Use the uploaded image as reference] with light eyes and wavy dark hair. She wears a high-neck white lace garment, with one hand gracefully positioned near her collarbone showing neutral manicured nails. The color palette is warm and earthy, dominated by browns, burnt sienna, and copper. Soft, diffused lighting creates a gentle glow on her face. The composition is a close-up portrait. The background is textured and mottled with faint vintage damask overlays that softly blend into the subject's edges. Ethereal, romantic, and subtly mysterious mood with a stylized painterly finish.",
+    "title": "Ethereal Digital Painting Portrait",
+    "description": "A prompt for generating a highly detailed 4K digital painting portrait of a young woman, emphasizing warm, earthy colors, soft diffused lighting, a high-neck white lace garment, and a textured background with faint vintage damask overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346663197_wdg8hk_HCSHYEHXgAEVMcl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11062,
+    "content": "Scene:\nA traveling herbalist’s wooden wagon parked in a wide flower-filled meadow, shelves of glass jars and bundled dried herbs hanging from the sides, a small folding table covered in potions and plants, a canvas shade stretched overhead, and butterflies drifting lazily through the warm open field.\n\nStyle:\nFantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.",
+    "title": "Fantasy Watercolor Herbalist Wagon",
+    "description": "A prompt for generating a fantasy hand-drawn watercolor illustration of a traveling herbalist's wooden wagon parked in a flower-filled meadow, focusing on traditional watercolor techniques, delicate linework, and a soft, storybook aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346661962_99xzkm_HCRFzYqb0AAxD31.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11147,
+    "content": "Make me a panorama of this location in an anime style",
+    "title": "Google Maps to Anime Panorama Conversion",
+    "description": "A prompt used with Nano Banana 2 to convert a Google Maps screenshot into a detailed anime-style panorama, demonstrating the model's improved realism and prompt interpretation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346697026_8t1fl6_HCPWtUFaoAASs2N.jpg",
+      "https://cms-assets.youmind.com/media/1772346697246_2igj4u_HCPWtiRbEAECIPT.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11145,
+    "content": "Make me a panorama of this location in anime style.",
+    "title": "Map to Anime Panorama Conversion",
+    "description": "A prompt used with Nano Banana 2's AI animation feature to convert a map screenshot into an anime-style panorama, highlighting its compatibility with Adobe Firefly.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346696653_n7s2t6_HCNoZUYawAA86Df.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10929,
     "content": "Debussy\nPetite Suite \"En Bateau\"\nMake it a painting like Monet's \"Boating\"\n\nMake the water color sparkling blue!",
     "title": "Debussy's 'En Bateau' in Monet Style Prompt",

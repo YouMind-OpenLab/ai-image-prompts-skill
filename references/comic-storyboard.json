@@ -1,5 +1,89 @@
 [
   {
+    "id": 11366,
+    "content": "Galdodon discovers a demon\nGaldodon says, \"What? A demon?\"\nGaldodon fires Jigodein\nBeating up the demon...\n4 vertical panels\n4-panel comic strip",
+    "title": "Galdodon Comic Strip Prompt",
+    "description": "A prompt for generating a 4-panel comic strip using Nano Banana Pro (Gemini 3 Pro Image) featuring Galdodon from Dragon Quest, where Galdodon encounters and defeats a demon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519754590_i2zepn_HCcOFevbMAAjD_T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11276,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"night_drive_filmstrip_3frame_micro_expression\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_NIGHT_CAR_WINDOW_FILMSTRIP_3FRAME_WARM_BOKEH\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": true,\n      \"preserve_facial_features\": true,\n      \"preserve_hairstyle\": true,\n      \"notes\": \"Use the reference as the primary anchor. Create a 3-frame horizontal film strip (three stacked widescreen frames). Same adult woman identity, same car window composition, same night street background. Only micro facial expression changes per frame. Warm tungsten streetlights, soft film grain, bokeh headlights, subtle lens flare. No text, no logos, no watermark.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"9:16\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"layout\": {\n        \"type\": \"filmstrip\",\n        \"frames\": 3,\n        \"direction\": \"vertical_stack\",\n        \"gutter\": \"thin_black\",\n        \"outer_border\": \"none\",\n        \"panel_consistency\": \"maximum\"\n      },\n      \"sharpness\": \"soft_film\",\n      \"grain\": \"true_film\",\n      \"render_style\": \"cinematic_night_film\"\n    },\n    \"scene\": {\n      \"concept\": \"night drive cinematic filmstrip\",\n      \"environment\": \"moving car at night, city street, distant headlights, streetlamp bokeh\",\n      \"lighting\": {\n        \"style\": \"warm night street lighting\",\n        \"key_light\": \"tungsten streetlights + soft bounce from car body\",\n        \"highlights\": \"gentle specular highlights on skin and car paint\",\n        \"avoid\": \"flash, daylight, HDR\"\n      },\n      \"camera\": {\n        \"lens\": \"50mm cinematic\",\n        \"look\": \"shallow depth of field, creamy bokeh, subtle anamorphic flare\",\n        \"focus\": \"eyes and face sharp enough, background very soft\"\n      }\n    },\n    \"subject\": {\n      \"type\": \"adult woman\",\n      \"pose\": \"leaning out of the car window with forearms resting on the window frame, head resting on arms\",\n      \"hair\": \"long dark hair loose, softly moving\",\n      \"makeup\": \"natural warm makeup, soft lips\",\n      \"anatomy_rules\": \"correct facial proportions, realistic arms and hands, no warped skin\"\n    },\n    \"frame_directions\": {\n      \"frame_01\": \"soft direct eye contact, calm dreamy expression\",\n      \"frame_02\": \"eyes gently closed or half-closed, peaceful sleepy moment\",\n      \"frame_03\": \"eyes open again, slightly more melancholic gaze, subtle micro-smile fade\"\n    },\n    \"style\": {\n      \"color_palette\": \"warm amber streetlights + deep teal night shadows\",\n      \"contrast\": \"low-medium\",\n      \"finish\": \"cinematic film scan: soft halation, grain, mild vignette\"\n    },\n    \"quality_control\": {\n      \"identity_lock\": \"strict\",\n      \"composition_lock\": \"maximum\",\n      \"avoid\": [\n        \"changin",
+    "title": "Cinematic Night Drive Filmstrip Prompt",
+    "description": "A highly structured prompt for generating a 3-frame vertical filmstrip showing a woman leaning out of a car window during a night drive. It requires preserving the identity from a reference image and focuses on cinematic night lighting (warm tungsten streetlights, bokeh headlights), subtle film grain, and micro facial expression changes across the three frames (dreamy, peaceful, melancholic).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519708023_uhitgo_HCarIsJWkAEBMpA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11282,
+    "content": "Subject inserts a glowing Ridewatch into the Ziku-Driver and spins it 360 degrees. A 'mechanical reveal' begins as white and gold armor plates materialize piece-by-piece, snapping onto the torso, shoulders, and legs with robotic precision. Rapidly rotating golden clock hands and glowing orange pixelated data streams wrap around her body against a giant glowing crescent moon background. The sequence concludes with the helmet visor flashing pink katakana eyes as she shifts into a powerful combat stance, executing a sharp martial arts strike with her white cape flowing majestically.",
+    "title": "Kamen Rider Armor Transformation Sequence Prompt",
+    "description": "A detailed prompt for generating a dynamic video sequence of a subject inserting a glowing Ridewatch into a Ziku-Driver, triggering a 'mechanical reveal' transformation into armored form, concluding with a combat stance. Designed for video generation tools like Veo 3.1 or Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519710354_f5knxn_HCaCpT6a8AAFv9y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11164,
+    "content": "low angle wide shot at 45-degree side view of an astronaut walking down a desolate street at night, the time period is 1852, the astronaut is from 2027 and works for space x. The street is dirt and the air is hazy with light fog, there are two horses by a water trough in front of a hotel on the left of frame, there is a sign on the hotel that says Hilton, and on the right in the background a small building with a sign that says jail is just beginning to burn on fire, flames from inside the windows and licking up out of the roof, none of the other buildings in the small town street are on fire. on the right in the foreground slightly out of focus is a tesla with rocket boosters strapped to the back of it and standing near it is a beautiful woman in a mid 1800's dress is lighting a stick of dynamite, she has a devious smirk on her face. this scene is shot on a 35mm film camera with kodak film that has a daylight hue and has been graded with a muted color pallet",
+    "title": "Wild West Sci-Fi Time Travel Scene Prompt",
+    "description": "A highly specific, cinematic prompt comparing Nano Banana Pro and Nano Banana 2. It describes a low-angle, wide shot of a 2027 astronaut from SpaceX walking down a desolate 1852 street, featuring a Tesla with rocket boosters, a burning jail, and a woman lighting dynamite, all shot on 35mm film with a muted color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433492763_z94ra3_HCVZF-LX0AAdIEu.jpg",
+      "https://cms-assets.youmind.com/media/1772433492756_tsjaso_HCVY_ZDWoAAXQ27.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11249,
+    "content": "Create a slice-of-life heartwarming 4-panel manga starring the cat \"Matatabi.\" Also, feature the red-haired girl \"Zan-chan.\"",
+    "title": "4-Panel Manga Generation Prompt",
+    "description": "A prompt used to generate a 4-panel slice-of-life manga in one shot using Nano Banana 2, featuring the cat 'Matatabi' and the red-haired girl 'Zan-chan'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433525362_yd61oe_HCSNtnIbEAUEZiU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11069,
+    "content": "Read the opening of the novel [{argument name=\"book\" default=\"BOOK\"}]  by  [{argument name=\"author\" default=\"AUTHOR\"}]. Create a manga page with one opening panel on the left side and four panels on the right side that visually retell the very beginning of the story. Each panel should follow the narrative progression of the opening scene. Classic black and white manga style, expressive ink lines, cinematic framing, strong storytelling composition.",
+    "title": "Manga Retelling of a Novel Opening",
+    "description": "A story prompt designed to instruct an AI (Nano Banana 2 in Firefly) to read the opening of a specified novel and visually retell the beginning scene across five manga panels (one large, four small), using a classic black and white manga style with expressive ink lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346664541_y8gqle_HCQ-tXVW8AAEbl4.jpg",
+      "https://cms-assets.youmind.com/media/1772346665118_e0czfu_HCQ_DiyXcAEomBA.jpg",
+      "https://cms-assets.youmind.com/media/1772346665138_s7qng6_HCQ_GtlWAAA_RXH.jpg",
+      "https://cms-assets.youmind.com/media/1772346665401_s32glb_HCQ_KgOWwAAERrr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11076,
+    "content": "action shot of all 5 [character references] in an epic car chase, Onomatopoeia style graphic punctuates the action, cinematic shot",
+    "title": "Epic Car Chase Action Shot",
+    "description": "A simple prompt for Adobe Firefly using Nano Banana 2 to generate a cinematic action shot of five characters in a car chase, punctuated by Onomatopoeia-style graphic text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346668626_nn45uy_HCPwDDlXYAA7UGp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11126,
+    "content": "Photorealistic cinematic film still live-action (no CGI). Preserve the subject's identity exactly from the reference photo: same facial structure, asymmetry, skin texture, pores, dirt, sweat. No beautification. Three-quarter body portrait, vertical. Torso angled sideways, head toward camera. Hands gripping a rugged improvised shotgun at waist level. Wasteland survivor - Mad Max: Fury Road visual language. Practical, battle-worn realism. Environment: open desert wasteland, orange sand and dust clouds, saturated turquoise sky. Background: slightly blurred post-apocalyptic pursuit vehicles, sense of imminent chase. Subtle motion blur and heat haze. Lighting: harsh overhead desert sun, extremely hard shadows. Rich detail in sun-bleached highlights and deep crushed shadows. Wardrobe & details: distressed leather, scarf around neck, dusty welding goggles on forehead. Windblown messy hair. Face smeared with engine grease and sand (naturalistic). Look & color: shot on 35mm film, Kodak Vision3 feel. Organic film grain, high contrast. Strong teal & orange grading, realistic skin tones. Emphasis on tactile realism: rusted metal, sand particles, sweat, grease, fabric weave. Final: raw, tense, sun-blasted, high-energy cinematic still.",
+    "title": "Mad Max Wasteland Survivor Film Still",
+    "description": "A detailed prompt for generating a photorealistic cinematic film still (no CGI) in the style of Mad Max: Fury Road. It emphasizes preserving the exact identity and imperfections of a subject from a reference photo, featuring them as a wasteland survivor gripping an improvised shotgun in a harsh, sun-blasted desert environment with strong teal and orange color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346687677_003o3q_HCOEFGlbEAQP7g1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10979,
     "content": "create a cute style cel shaded cartoon comic strip  with textures that depicts the One Ring poem from LOTR.",
     "title": "Cel-Shaded Comic Strip Prompt for LOTR Poem",

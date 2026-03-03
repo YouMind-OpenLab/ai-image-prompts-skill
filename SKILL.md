@@ -247,25 +247,19 @@ For each recommended prompt, provide in user's input language:
 **CRITICAL — Full prompt in context**: Even though the display is truncated, the agent MUST hold the complete prompt text in its context so it can use it for customization in Step 5. Never discard the full prompt.
 
 **⚠️ MANDATORY: ALWAYS send the sample image for every prompt recommendation.**
-If `sourceMedia` is empty, skip. Otherwise, you MUST send the image — never skip this step.
+If `sourceMedia` is empty, skip that prompt. Otherwise, you MUST send the image — never skip this step.
 
-**How to send the image (choose based on platform):**
+**How to send the image — just use the URL directly (all platforms):**
 
-- **OpenClaw / Telegram**: External CDN URLs are blocked. Must download first:
-  ```
-  1. exec: curl -fsSL --retry 2 "{sourceMedia[0]}" -o ~/clawd/tmp_nb_img.jpg
-  2. message tool: action=send, channel=telegram, media=~/clawd/tmp_nb_img.jpg
-     caption: "[Prompt Title]"  ← plain title only, no \n, no markdown
-  3. exec: rm ~/clawd/tmp_nb_img.jpg
-  ```
+```
+message tool: action=send, media="{sourceMedia[0]}", caption="[Prompt Title]"
+```
 
-- **Other platforms** (Discord, Slack, web chat, etc.): Send the image URL directly:
-  ```
-  message tool: action=send, media="{sourceMedia[0]}", caption: "[Prompt Title]"
-  ```
-  If `message` tool unavailable, embed in response: `![preview]({sourceMedia[0]})`
+If `message` tool is unavailable, embed in your response: `![preview]({sourceMedia[0]})`
 
-**One image per prompt is enough** (use `sourceMedia[0]`). Do NOT skip image sending because of platform uncertainty — always try.
+The `sourceMedia` URLs are hosted on Twitter/X CDN (`pbs.twimg.com`) — they work on all platforms including Telegram. **No download needed.**
+
+**One image per prompt is enough** (use `sourceMedia[0]`). Do NOT skip image sending — always send it.
 
 **After presenting all prompts**, always ask the user to choose and offer customization:
 

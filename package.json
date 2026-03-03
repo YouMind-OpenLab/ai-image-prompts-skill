@@ -1,6 +1,6 @@
 {
   "name": "ai-image-prompts-skill",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "AI skill: 10,000+ curated image generation prompts for any model — Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more. Auto-downloads library on install. Works with OpenClaw, Claude Code, Cursor and more.",
   "type": "module",
   "scripts": {

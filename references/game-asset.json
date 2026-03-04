@@ -1,5 +1,15 @@
 [
   {
+    "id": 11376,
+    "content": "lego explorer minifigure driving a mini snowmobile across icy terrain chased by a massive roaring polar bear, snow spraying dramatically behind, frozen mist in the air, intense cinematic backlight, dynamic tilted camera shot, blockbuster action style, exaggerated comic motion, crisp lego plastic texture, dramatic cold color grading",
+    "title": "Lego Explorer Chased by Polar Bear (Video Prompt)",
+    "description": "A prompt for generating a dynamic, action-packed video using Gemini Nano Banana Pro and Kling 3.0. It describes a Lego explorer minifigure driving a snowmobile, chased by a polar bear, emphasizing cinematic effects, motion, and the crisp texture of Lego plastic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605585280_r4tnr4_HCec2AVbUAALMGP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11280,
     "content": "Anchor:   `[{argument name=\"board game\" default=\"Chess Set / Backgammon\"}] :: [{argument name=\"architectural theme\" default=\"Cyberpunk Neon City / Gothic Cathedrals\"}]::3`\n    Morphology:   `Hyper-detailed playable diorama, [Board Game] board and pieces constructed entirely via the assemblage of [Architectural Theme] components, pawns and tiles formed from miniature constituent parts of [Architectural Theme], tabletop structural engineering::3`\n    Material Physics:   `Material properties of [Architectural Theme] applied to game pieces, illuminated windows, realistic city textures replacing wood/plastic, perfect grid layout maintained within the chaos::3`\n    Illumination:   `Top-down dramatic table lighting, glowing elements from within the [Architectural Theme], deep ambient occlusion in the miniature streets::2`\n    Render Stack:   `Tilt-shift tabletop photography, macro lens, f/4, 8k, extreme depth of field, photorealistic miniatures::1`\n    Negative:   `[Standard Staunton chess pieces, flat cardboard, people playing, giant hands, messy, disorganized, 2D]:: -1`",
     "title": "Custom Architectural Chessboard Diorama Prompt Template",

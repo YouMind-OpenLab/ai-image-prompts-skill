@@ -1,5 +1,26 @@
 [
   {
+    "id": 11390,
+    "content": "Eiji Kotoge = Harry Potter Voldemort = Kotogemort = Ministry of Finance\n4 vertical panels\n4 horizontal rows\n16 frames\n4-panel comic strip\n\nThe Reversal of Finance",
+    "title": "Nano Banana Pro Comic Prompt: Eiji Kotoge as Harry Potter",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a 4-panel, 4-row (16-frame) comic strip featuring Eiji Kotoge as Harry Potter and Voldemort as 'Kotogemort' (Kotoge + Voldemort), representing the Ministry of Finance, titled 'The Reversal of Finance'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605590251_pyierr_HCft1hkaIAA_CwP.jpg",
+      "https://cms-assets.youmind.com/media/1772605590301_tlfo7l_HCft1hkakAAElsC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11376,
+    "content": "lego explorer minifigure driving a mini snowmobile across icy terrain chased by a massive roaring polar bear, snow spraying dramatically behind, frozen mist in the air, intense cinematic backlight, dynamic tilted camera shot, blockbuster action style, exaggerated comic motion, crisp lego plastic texture, dramatic cold color grading",
+    "title": "Lego Explorer Chased by Polar Bear (Video Prompt)",
+    "description": "A prompt for generating a dynamic, action-packed video using Gemini Nano Banana Pro and Kling 3.0. It describes a Lego explorer minifigure driving a snowmobile, chased by a polar bear, emphasizing cinematic effects, motion, and the crisp texture of Lego plastic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605585280_r4tnr4_HCec2AVbUAALMGP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11366,
     "content": "Galdodon discovers a demon\nGaldodon says, \"What? A demon?\"\nGaldodon fires Jigodein\nBeating up the demon...\n4 vertical panels\n4-panel comic strip",
     "title": "Galdodon Comic Strip Prompt",

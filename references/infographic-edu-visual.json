@@ -56,6 +56,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 11373,
+    "content": "Convert the provided photo into a black and white coloring page. Preserve the original composition, proportions, and recognizable facial features from the original photo.\nStyle: children's illustration with a soft cartoonish look, inspired by Pixar aesthetics, but simplified for coloring.\nLines: clean, smooth, medium-thickness outlines, clear closed shapes, no broken lines, no sketchiness.\nShading: no gray colors, no shadows, no gradients — outlines only.\nDetails: simplified but accurate, preserving the recognizability of key objects and expressions, removing unnecessary background.\nFaces: expressive, friendly, slightly rounded features, kid-friendly, maintaining likeness.\nBackground: simplified interior or environmental elements, minimalistic yet readable.\nComposition: centered, balanced, with comfortable margins for printing.\nTechnical requirements:\n– clean black lines on a white background\n– high contrast\n– printable A4 / US Letter format\n– suitable for coloring with pencils or markers\nNo color, no textures, no realism, no photo effects, no hatching, no cross-hatching.",
+    "title": "Convert Photo to Black and White Coloring Page",
+    "description": "A structured prompt designed to convert an existing photo into a simplified black and white coloring page suitable for children, maintaining composition and likeness while adhering to strict rules regarding lines, shading, and printability.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605583943_9wm648_HCg9u4maUAA5dt6.jpg",
+      "https://cms-assets.youmind.com/media/1772605583941_rwzc16_HCg9u4mawAQIwmd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11270,
     "content": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality",
     "title": "Exploded View Infographic Diagram Prompt",

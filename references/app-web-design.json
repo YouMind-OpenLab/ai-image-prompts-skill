@@ -1,5 +1,15 @@
 [
   {
+    "id": 11385,
+    "content": "{\n  \"title\": \"Pink Soft Study Vibes\",\n  \"description\": \"A cozy pastel-themed room with soft pink curtains and cute wall art in the background. A girl is sitting on a pink gaming chair beside a white desk with a matching pink keyboard and mouse. She is wearing a light pink full-sleeve top and a dark plaid skirt, creating a soft and aesthetic look. The overall vibe feels calm, dreamy, and perfectly coordinated in pink tones.\",\n  \"theme\": \"Soft Pink Aesthetic\",\n  \"mood\": \"Calm, dreamy, cozy, peaceful\",\n  \"colors\": [\"soft pink\", \"white\", \"peach\", \"dark blue\", \"black\"],\n  \"lighting\": \"Natural soft daylight through pink curtains\",\n  \"setting\": \"Indoor bedroom study setup\",\n  \"style\": \"Cute, pastel, aesthetic, cozy\",\n  \"props\": [\"pink gaming chair\", \"white desk\", \"pink keyboard\", \"pink mouse\", \"wall art\", \"plush toys\"]\n}",
+    "title": "Soft Pink Aesthetic Study Room Vibe",
+    "description": "A structured JSON prompt detailing the creation of an image featuring a cozy, dreamy indoor study setup dominated by a soft pink aesthetic, including specific props like a pink gaming chair and matching peripherals, illuminated by natural soft daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605588740_o7edcz_HCchh8raEAAXoTg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11355,
     "content": "Please renovate this attached photo that showing a room under finishing work.\n\nPlease complete this finishing work for this toom to be home office of Mercedes branch.\n\nPlease renovate the ceilings, floor, windows, and wall professionally.\n\nDecorate this main office room to be suitable for 2026 modern design.\n\nAdd cupboards, chairs, sofa, main office table with chair.",
     "title": "Office Renovation and Decoration Prompt",

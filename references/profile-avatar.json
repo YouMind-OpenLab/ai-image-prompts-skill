@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 11389,
+    "content": "Aspect ratio 4:5, 2K resolution, ultra-detailed photorealistic editorial portrait. Source: preserve the exact facial features, skin tone, hairstyle, and natural resemblance of the attached reference photo. The subject can be a man or a woman. Wardrobe: Premium black piqué polo shirt, fitted, sharp, with visible cotton piqué texture, deep matte black color. Expression: serious, intense, focused, looking slightly above the camera, not directly at the lens. Composition: Medium close-up (face and shoulders), low-angle shot to convey power and dominance. Background: vibrant red-orange gradient, smooth and intense, no patterns. Lighting: Dramatic and colorful studio lighting. Key light: strong, directional, deep shadows emphasizing facial structure (chiaroscuro). Rim light: strong edge light separating the subject from the background. Mood: intense, mysterious, contrasted. Technique: sharp focus on the face, smooth background gradient, high-quality photorealistic texture, 2K ultra-detail. Apply consistently regardless of gender. Cinematic studio aesthetic, editorial heroic portrait ambiance.",
+    "title": "Editorial Portrait Prompt for Nano Banana Pro",
+    "description": "A highly detailed and structured prompt designed for Nano Banana Pro to generate an ultra-detailed, photorealistic editorial portrait. It specifies aspect ratio, resolution, source image preservation, wardrobe, expression, composition, background, lighting, mood, and technical aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605590801_28ydue_HChQcyAWUAAfkwm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11394,
+    "content": "You with your Lego, Funko, Playmobil self or the figure you choose wherever you want",
+    "title": "Nano Banana Prompt for Art Toy Generation",
+    "description": "A Nano Banana Prompt instruction to generate an Art Toy (Lego, Funko, Playmobil, or chosen figure) version of the user, based on a photo of themselves, ensuring the outfit is accurately replicated.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772605592782_6qynu3_HCe3jqLXQAASxac.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11360,
     "content": "{\n  \"subject\": {\n    \"description\": \"A beautiful young East Asian woman taking a mirror selfie\",\n    \"features\": \"Long straight black hair, soft facial features, subtle makeup, neutral expression looking slightly away from the camera\",\n    \"clothing\": [\n      \"White and navy blue thin-striped ribbed camisole with a small bow detail\",\n      \"Green and blue plaid pajama pants\",\n      \"Visible white Calvin Klein waistband\"\n    ]\n  },\n  \"setting\": {\n    \"location\": \"Modern indoor hallway or bathroom entryway\",\n    \"details\": \"Light-colored wooden door, white wall with a digital thermostat/intercom panel\",\n    \"lighting\": \"Soft, warm indoor overhead lighting creating realistic shadows\"\n  },\n  \"technical_specs\": {\n    \"camera_angle\": \"Waist-up mirror selfie, phone visible in the hand (obscuring part of the face/arm)\",\n    \"style\": \"Hyper-realistic, smartphone photography, authentic social media aesthetic\",\n    \"quality_modifiers\": \"High resolution, 8k, detailed skin texture, cinematic lighting, photorealistic, shot on iPhone\"\n  },\n  \"composition\": \"Center-weighted, vertical orientation, slightly grainy texture to mimic a real mobile photo\"\n}",
     "title": "Hyper-Realistic Mirror Selfie Prompt (Pajamas)",

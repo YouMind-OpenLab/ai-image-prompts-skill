@@ -13,6 +13,59 @@
     "needReferenceImages": true
   },
   {
+    "id": 11659,
+    "content": "{\n  \"subject\": {\n    \"type\": \"woman\",\n    \"age\": \"young adult\",\n    \"body_type\": \"curvy, hourglass figure\",\n    \"pose\": \"standing, relaxed, confident posture\",\n    \"expression\": \"soft, slightly sultry gaze\",\n    \"hair\": {\n      \"color\": \"jet black\",\n      \"length\": \"long\",\n      \"style\": \"slightly wavy, flowing over shoulders\"\n    },\n    \"face\": {\n      \"features\": \"soft feminine features\",\n      \"lipstick_color\": \"matte black\",\n      \"makeup_style\": \"smoky eyes, subtle contour, defined brows\"\n    },\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"form-fitting top\",\n        \"color\": \"black\",\n        \"details\": \"off-shoulder, emphasizes curves\"\n      },\n      \"bottom\": {\n        \"type\": \"high-waisted skirt\",\n        \"color\": \"dark\",\n        \"details\": \"snug fit, accentuates hips\"\n      }\n    }\n  },\n  \"style\": {\n    \"overall_vibe\": \"modern, confident, slightly gothic aesthetic\",\n    \"render_type\": \"highly detailed, realistic\",\n    \"color_palette\": \"deep blacks, soft skin tones, subtle contrast\"\n  },\n  \"photography\": {\n    \"shot_type\": \"three-quarter body shot\",\n    \"camera_angle\": \"eye-level\",\n    \"lighting\": \"soft studio lighting with gentle shadows\",\n    \"aspect_ratio\": \"9:16 vertical\"\n  },\n  \"background\": {\n    \"setting\": \"simple dark gradient or minimal studio backdrop\",\n    \"atmosphere\": \"moody, elegant\"\n  }\n}",
+    "title": "Modern Gothic Portrait in Black",
+    "description": "A JSON prompt for generating a highly detailed, realistic portrait of a young, curvy woman in a modern, slightly gothic aesthetic, wearing a black off-shoulder top and high-waisted skirt, with matte black lipstick and smoky eyes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864643560_bs4np6_HCwoyl7XIAAnamv.jpg",
+      "https://cms-assets.youmind.com/media/1772864643619_sevily_HCwoypBWkAAgDBB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11646,
+    "content": "{\n  \"prompt_sections\": {\n    \"subject_and_pose\": \"A photorealistic image of a beautiful young Japanese woman with fair skin and an athletic full hourglass figure. She has long, platinum blonde, wavy hair cascading down her back, dark brown eyes, and is wearing defined makeup with a berry-colored matte lipstick and winged eyeliner. She is in a standing pose, turned 3/4 away from the camera, looking back over her left shoulder with a confident, alluring expression. Her left hand rests on the hilt of a katana sword, which is planted vertically on the floor.\",\n    \"outfit\": \"She is wearing a high-quality cosplay outfit resembling a stylized ninja or superhero costume (reminiscent of Emma Frost). The outfit consists of a form-fitting, white latex or wet-look bodysuit with a corset-style back. A bright white satin sash is tied around her waist, draped loosely over her hip. Accessories include white latex arm warmers/gauntlets, strappy white thigh garters on her right leg, and white thigh-high boots with a shiny finish.\",\n    \"environment\": \"The setting is a clean, modern interior living space. In the background, there are white walls and a large black-framed glass door. To the right, a green potted plant sits in a gold metal stand. To the left, a glimpse of a lounge chair is visible. The flooring is light-colored wood. The room feels like an upscale apartment or house.\",\n    \"lighting_and_shot\": \"The image is shot in high resolution with a medium focal length, capturing the subject from the mid-thighs up. The lighting is soft and diffused, likely a mix of ambient indoor light and a soft studio fill, creating smooth highlights on the latex outfit and skin. There are recessed lights visible in the ceiling, adding a subtle glow. The background is slightly out of focus (bokeh) to draw attention to the subject. --ar 3:4\"\n  }\n}",
+    "title": "Japanese Woman in White Latex Superhero Costume",
+    "description": "A structured JSON prompt for Nano Banana Pro describing a photorealistic image of a Japanese woman with platinum blonde hair, wearing a form-fitting white latex superhero/ninja costume (reminiscent of Emma Frost), posing with a katana in an upscale modern interior, emphasizing soft diffused lighting and high-quality textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864636773_wjuz7v_HCOsUuvaMAAPC2y.jpg",
+      "https://cms-assets.youmind.com/media/1772864636743_y8evet_HCOsUumbEAArWSt.jpg",
+      "https://cms-assets.youmind.com/media/1772864636925_l27ny8_HCOsUumbEAEEiqQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11645,
+    "content": "{\n  \"prompt\": \"A stunningly beautiful young woman with long wet dark brown hair slicked back, seductive dark eyes with wet lashes, full glossy lips slightly parted, perfect symmetrical face, flawless pale skin glistening with water, extremely voluptuous figure with large natural breasts, tiny waist, wide hips, standing nude in a modern black-tiled shower under a rainfall showerhead, water cascading down her body in streams, droplets on skin, one hand on hip, other hand resting on thigh, body slightly turned to side profile view emphasizing curves, large window behind her with foggy glass and blurred city view, dramatic black and white high-contrast photography style, moody cinematic lighting with strong shadows and highlights from window light, steam and water reflections, highly detailed realistic wet skin texture, photorealistic, ultra high resolution, artistic erotic nude portrait\"\n}",
+    "title": "Dramatic Black and White Shower Portrait",
+    "description": "A highly explicit prompt for Nano Banana Pro describing a dramatic, high-contrast black and white photorealistic image of a voluptuous woman standing nude in a modern black-tiled shower under a rainfall showerhead, emphasizing wet skin texture, cinematic lighting, and a side profile view.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864636780_ck753b_HCs_K4aWAAAmc_f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11647,
+    "content": "{\n  \"prompt\": \"A stunningly beautiful young Caucasian woman with long wavy blonde hair, seductive blue eyes with detailed makeup, full glossy lips, perfect symmetrical face, flawless glowing skin, voluptuous natural figure with large firm breasts, toned body, reclining seductively in an antique ornate wooden armchair with red patterned velvet upholstery in a luxurious classic interior room, completely topless with bare breasts and erect nipples fully exposed, wearing very short frayed denim cutoff shorts unbuttoned and low on hips, delicate silver bracelet on wrist, bare feet with toes visible, one hand touching her hair, legs spread casually over armrests, soft natural window light illuminating her skin with warm tones, subtle smile looking directly at camera, realistic skin texture with natural imperfections, highly detailed, photorealistic, ultra high resolution, elegant vintage boudoir atmosphere\"\n}",
+    "title": "Topless Boudoir Portrait in Antique Armchair",
+    "description": "A highly explicit prompt for Nano Banana Pro describing a photorealistic image of a voluptuous blonde woman reclining topless in an antique ornate wooden armchair, emphasizing natural lighting, realistic skin texture, and an elegant vintage boudoir atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864637284_a31vsj_HCs5ElfWoAA7AJ6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11648,
+    "content": "Subject & Action: A cinematic, painterly portrait of the man from the uploaded image, intensely focused as he paints a large-scale mural of himself. He holds a paintbrush, meticulously adding fine details to a life-sized self-portrait on a white wall. Both the artist and his mural counterpart are wearing identical outfits: a tan double-breasted trench coat over a white t-shirt.\n\nEnvironment & Details: In the lower foreground, a vibrant paint palette, various paint cans, and a bucket overflowing with brushes are visible. Artistic paint splatters mark the ground, showing the creative process. The background features a traditional building with clean white walls and elegant gray roof tiles.\n\nLighting & Style: Cinematic editorial lighting with Rembrandt-inspired shadows that sculpt the face and body. A warm, golden key light balances with subtle fill, creating rich tonal depth and skin textures. Atmospheric and intimate mood, similar to a high-end Vanity Fair magazine cover. Fine-art warmth, soft gradients, and meticulously composed storytelling. --ar 1:1 --v 6.0",
+    "title": "Cinematic Painterly Portrait of an Artist Painting Himself",
+    "description": "A detailed prompt for generating a cinematic, painterly portrait of a man intensely focused on painting a large-scale mural of himself. The prompt specifies environment details, Rembrandt-inspired lighting, and a high-end editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864638096_1jt3jq_HCsYk7pbIAA29x0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11526,
     "content": "Replace the grey shirt man in image 1 with the orange sweater man from image 2. Match the exact pose from image 1 Remove the caption text \"HEY COME HERE\" Remove the black from the top right corner\n\nWhile maintaining the exact pose, change the location in the background to on an empty new orleans street sidewalk. The POV is from someone seated looking upward so match the background perspective accordingly Adjust the lighting on the man to match the new scene.",
     "title": "Image Editing and Background Replacement Workflow",

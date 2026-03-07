@@ -1,5 +1,27 @@
 [
   {
+    "id": 11603,
+    "content": "Use the uploaded image as reference, Create photorealistic 3D render of the entire floor plan, seen from afar, to the render, with furniture inside, Keep the exact same rooms at their location, with the right equipment, but remove the text from the final image. High resolution, pro quality.",
+    "title": "Photorealistic 3D Floor Plan Render with Furniture",
+    "description": "A prompt for generating a photorealistic 3D render of an entire floor plan (Bungalow/Moville plan). It requires using an uploaded image as a reference to maintain the exact room locations and equipment, while adding furniture and removing text from the final high-resolution image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864615741_jydhli_HCuvGUYW4AAHCL8.jpg",
+      "https://cms-assets.youmind.com/media/1772864616268_p12dme_HCuvGUgW8AEaz-R.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11612,
+    "content": "Use the uploaded image as reference, Create photorealistic 3D render of the entire floor plan, seen from afar, to the render, with urniture inside, Keeplorized the exact same rooms at their location, with the right equipment, but remove the text from the final image. High resolution, pro quality.",
+    "title": "Floor Plan to Photorealistic 3D Render Conversion",
+    "description": "A prompt for converting an uploaded floor plan image into a photorealistic 3D render, ensuring the exact room layout and equipment are maintained, but removing text from the final image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864621222_rumpq1_HCsGwucWMAEFeCQ.jpg",
+      "https://cms-assets.youmind.com/media/1772864621285_8cd4uo_HCsGwu2bcAA0air.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11385,
     "content": "{\n  \"title\": \"Pink Soft Study Vibes\",\n  \"description\": \"A cozy pastel-themed room with soft pink curtains and cute wall art in the background. A girl is sitting on a pink gaming chair beside a white desk with a matching pink keyboard and mouse. She is wearing a light pink full-sleeve top and a dark plaid skirt, creating a soft and aesthetic look. The overall vibe feels calm, dreamy, and perfectly coordinated in pink tones.\",\n  \"theme\": \"Soft Pink Aesthetic\",\n  \"mood\": \"Calm, dreamy, cozy, peaceful\",\n  \"colors\": [\"soft pink\", \"white\", \"peach\", \"dark blue\", \"black\"],\n  \"lighting\": \"Natural soft daylight through pink curtains\",\n  \"setting\": \"Indoor bedroom study setup\",\n  \"style\": \"Cute, pastel, aesthetic, cozy\",\n  \"props\": [\"pink gaming chair\", \"white desk\", \"pink keyboard\", \"pink mouse\", \"wall art\", \"plush toys\"]\n}",
     "title": "Soft Pink Aesthetic Study Room Vibe",

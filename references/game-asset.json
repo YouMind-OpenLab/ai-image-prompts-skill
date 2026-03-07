@@ -1,5 +1,80 @@
 [
   {
+    "id": 11637,
+    "content": "A sticker sheet of a cute anime chibi girl with long brown hair and a white sweater, multiple poses and facial expressions (happy, angry, crying, sleeping), white border around each character, flat 2D vector style, high resolution, white background",
+    "title": "Chibi Anime Girl Sticker Sheet",
+    "description": "A prompt for Nano Banana Pro to generate a sticker sheet featuring a cute chibi anime girl in multiple poses and expressions, rendered in a flat 2D vector style with a white border and high resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864632856_3cieto_HCw2vfMbEAArlYV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11627,
+    "content": "Convert the uploaded photo into an ultra-realistic, cinematic, fully photorealistic scene. the characters must be transformed into real human versions of the original uploaded references, The facial structure, key features, and overall likeness of each character from the reference are strictly preserved.",
+    "title": "Anime/Manga to Ultra-Realistic Human Conversion",
+    "description": "A prompt designed to convert an uploaded anime or manga image into an ultra-realistic, cinematic, fully photorealistic scene, strictly preserving the facial structure and likeness of the original characters in their human versions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864628567_e1gwvw_HCw1UNMW8AAiVev.jpg",
+      "https://cms-assets.youmind.com/media/1772864628677_gr1rzs_HCw1UM8WcAAwWk7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11638,
+    "content": "DSLR Character Sheet on a grey back drop. With three face profiles (front, 45° and side) and four full body portrait profiles (front, 45°, side and back). Photographed with a Canon SL3 with 17-85mm lens. No text overlays. Maintain consistency. 2:3 Ratio.",
+    "title": "DSLR Character Sheet for Profiles",
+    "description": "A straightforward prompt for Nano Banana Pro to generate a DSLR-style character sheet on a grey backdrop, including three face profiles and four full-body portrait profiles, emphasizing consistency and a 2:3 aspect ratio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864633307_a8espb_HCvOOM_XMAAK1to.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11643,
+    "content": "Stylized 3D anthropomorphic llama character standing confidently with arms crossed, fluffy white fur, wearing green reflective sunglasses and a mint-green zip hoodie, modern casual streetwear style, clean minimal teal background, soft studio lighting, ultra-detailed fur texture, Pixar-style character design, cinematic composition, depth of field, highly polished 3D render, vibrant colors, 8K.",
+    "title": "Stylized 3D Llama Character in Streetwear",
+    "description": "A prompt for Nano Banana Pro to generate a stylized 3D anthropomorphic llama character in a modern casual streetwear style, emphasizing fluffy fur texture, Pixar-style design, and a clean minimal teal background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864635419_2jx2ha_HCu8IzIaUAUP4nz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11587,
+    "content": "Ultra-detailed 3D plush cartoon character, inspired by classic animated TV style, standing in center frame, full body visible. Character designed as a soft toy with realistic fluffy fur texture, smooth rounded shapes, vibrant saturated colors, big expressive eyes, cute proportions, Use my uploaded photo as a reference to generate image with given prompt.\n\nHigh-resolution Pixar-style 3D rendering, soft studio lighting, subtle rim light, clean gradient background ({argument name=\"background color\" default=\"blue tone\"}), cinematic lighting, depth of field, highly detailed fur strands, soft shadows under feet, glossy nose, toy-like material, ultra sharp 8K render.\n\nCentered composition, minimal background, character facing camera, symmetrical pose, adorable expression.",
+    "title": "Ultra-Detailed 3D Plush Cartoon Character Rendering",
+    "description": "A detailed prompt for generating an ultra-detailed 3D plush cartoon character in the style of classic animated TV shows, rendered with high-resolution Pixar-style quality, soft studio lighting, and cinematic depth of field. It requires an uploaded photo reference for the character's design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864607941_00cklf_HCsNcDeaUAQmQYG.jpg",
+      "https://cms-assets.youmind.com/media/1772864607917_22q7ou_HCsNcDBaUAAqn9Q.jpg",
+      "https://cms-assets.youmind.com/media/1772864609065_gpddnh_HCsNcEaaUAM9Dkd.jpg",
+      "https://cms-assets.youmind.com/media/1772864609519_ydtri3_HCsNcE6aIAEHJDA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11641,
+    "content": "Cute stylized 3D chibi boy character standing full body, big shiny brown eyes, soft round face, fluffy messy light-brown hair, wearing an oversized green hoodie with a small logo patch, black loose pants and trendy sneakers, making a peace sign with one hand, adorable smile, Pixar-style character design, smooth skin, ultra-detailed fabric texture, soft studio lighting, clean orange background, vibrant colors, toy-like aesthetic, highly detailed 3D render, cinematic composition, 8K.",
+    "title": "Pixar-Style 3D Chibi Boy Character",
+    "description": "A prompt for Nano Banana Pro to generate a cute, stylized 3D chibi boy character, specifying Pixar-style aesthetics, detailed textures, soft studio lighting, and a clean orange background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864634204_nqljd2_HCr8aezaUAAmucn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11657,
+    "content": "{\n  \"prompt\": \"Ultra-realistic 3D cinematic full body portrait of a smiling young boy with Tom and Jerry. Boy wearing light grey sweater, blue jeans, white sneakers, relaxed crossed-leg pose. One arm around Tom. Tom standing upright with one hand on waist, other arm around the boy. Jerry sitting on Tom’s shoulder smiling. Tom and Jerry have realistic detailed fur but their faces remain consistent and unchanged. Age-appropriate boy height. Soft blue studio background, dramatic soft lighting, sharp focus, photorealistic quality. No cartoon look, no blur, no distortion.\",\n  \"style\": \"ultra-realistic 3D cinematic\",\n  \"camera\": \"full body portrait, sharp focus\",\n  \"lighting\": \"dramatic soft studio lighting\",\n  \"background\": \"soft blue studio background\",\n  \"quality\": \"photorealistic\",\n  \"constraints\": [\n    \"Keep Tom and Jerry faces consistent and unchanged\",\n    \"Age-appropriate boy height\",\n    \"No cartoon look\",\n    \"No blur\",\n    \"No distortion\"\n  ]\n}",
+    "title": "Ultra-Realistic 3D Cinematic Portrait of Boy with Tom and Jerry",
+    "description": "A prompt for generating an ultra-realistic 3D cinematic full-body portrait of a smiling young boy posing with Tom and Jerry, emphasizing realistic fur texture for the characters while maintaining their original faces, against a soft blue studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864642107_5j07ap_HCr7gqRaUAMI4F2.jpg",
+      "https://cms-assets.youmind.com/media/1772864642154_e22cyb_HCr7grFaUAEr3Qv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11565,
     "content": "SCENE:\nA trading settlement built around a large stone bridge crossing a deep river gorge with shops, storage sheds, and stairways leading to dock platforms below. Tiny traders move goods while birds glide along canyon walls.\nSTYLE:\nCreate a premium stylized miniature diorama where canyon terrain and river water form a continuous sculpted base integrated with market structures. The entire diorama floats in mid-air inside a blank single-color background environment that contrasts with the rocky terrain. Use stylized resin water, compact shops, and rope docks. Include miniature traders, carts, birds, barrels, crates, and rope details to reinforce handcrafted miniature storytelling scale. Lock the render to 4:3.\nLIGHTING:\nThe scene occurs in late evening after sunset with very low natural light. Ambient lighting remains dim while lanterns, shop lights, and small lamps illuminate the bridge and market stalls. These lights create warm glowing pockets of illumination across the trading post while surrounding canyon surfaces remain darker, producing strong contrast and dramatic miniature depth.\nCAMERA:\nUse an isometric camera capturing the entire floating diorama clearly from top to bottom and side to side.",
     "title": "Floating Miniature Diorama Prompt",

@@ -56,6 +56,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 11603,
+    "content": "Use the uploaded image as reference, Create photorealistic 3D render of the entire floor plan, seen from afar, to the render, with furniture inside, Keep the exact same rooms at their location, with the right equipment, but remove the text from the final image. High resolution, pro quality.",
+    "title": "Photorealistic 3D Floor Plan Render with Furniture",
+    "description": "A prompt for generating a photorealistic 3D render of an entire floor plan (Bungalow/Moville plan). It requires using an uploaded image as a reference to maintain the exact room locations and equipment, while adding furniture and removing text from the final high-resolution image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864615741_jydhli_HCuvGUYW4AAHCL8.jpg",
+      "https://cms-assets.youmind.com/media/1772864616268_p12dme_HCuvGUgW8AEaz-R.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11612,
+    "content": "Use the uploaded image as reference, Create photorealistic 3D render of the entire floor plan, seen from afar, to the render, with urniture inside, Keeplorized the exact same rooms at their location, with the right equipment, but remove the text from the final image. High resolution, pro quality.",
+    "title": "Floor Plan to Photorealistic 3D Render Conversion",
+    "description": "A prompt for converting an uploaded floor plan image into a photorealistic 3D render, ensuring the exact room layout and equipment are maintained, but removing text from the final image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772864621222_rumpq1_HCsGwucWMAEFeCQ.jpg",
+      "https://cms-assets.youmind.com/media/1772864621285_8cd4uo_HCsGwu2bcAA0air.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11512,
     "content": "class Culinary_PopUp_Book:\n    def __init__(self, dish=\"Köttbullar (Traditional Swedish Meatballs)\"):\n        self.base = \"Ancient leather-bound cookbook, open on a rustic wooden table\"\n        self.scale = \"1:87 (HO Scale) Miniature Diorama\"\n        \n    def generate_spread(self):\n        # 1. Left Page: The Origin (Nature)\n        origin_biome = \"Dense Swedish pine forest with wild lingonberry bushes and misty green pastures for cattle\"\n        harvesters = \"Miniature foragers picking bright red lingonberries in the woods and traditional farmers tending to dairy cows\"\n        \n        # 2. Center Gutter: The Transformation (Cooking)\n        machinery = \"Classic Swedish wood stove (vedspis) with a massive, sizzling cast-iron skillet\"\n        physics = \"Rich buttery steam and savory smoke rising from the glowing embers in the gutter\"\n        \n        # 3. Right Page: The Result (Feast)\n        plating = f\"A massive, delicious pile of finished {dish} swimming in rich brown cream sauce (gräddsås), alongside buttery mashed potatoes\"\n        garnish = \"Miniature chefs carefully placing sprigs of fresh dill and dolloping bright lingonberry jam\"\n        \n        return [origin_biome, machinery, plating, harvesters, garnish]\n\n# EXECUTE RENDER: 8k resolution, tilt-shift photography, warm rustic lighting, cozy Scandinavian aesthetic (Hygge).",
     "title": "Culinary Pop-Up Book Diorama of Swedish Meatballs",

@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 11715,
+    "content": "Image 1 - Studio breakfast shot where a fluffy omelette folds over itself in slow motion on a white background revealing vegetables and cheese inside.\n\nImage 2 - Exploded vertical food infographic of a fluffy omelette on a clean white studio background. The omelette separated into floating layers showing top egg layer, melted cheese layer stretching, sautéed vegetable filling (spinach, mushrooms, diced tomatoes), and bottom egg layer. Each component labeled with bold annotation blocks and clean connector lines pointing to the ingredients. Labels include Egg Layer, Cheese Melt, Spinach, Mushrooms, Tomatoes, Vegetable Filling. Minimal modern infographic design, bright commercial food photography style, crisp textures, soft studio lighting, premium recipe visualization aesthetic.",
+    "title": "Kling AI + Google Nano Banana Pro Prompt (Video and Image)",
+    "description": "This tweet contains two separate prompts: one for Kling AI (a motion prompt) and one for Nano Banana Pro (an image prompt). Since Nano Banana Pro is an image model, only the image prompt is extracted. The image prompt describes two studio breakfast shots: a fluffy omelette folding and an exploded vertical food infographic of the omelette components, emphasizing commercial food photography style and clean design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951319124_j5itey_HCx_vFZa8AAApCn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11603,
     "content": "Use the uploaded image as reference, Create photorealistic 3D render of the entire floor plan, seen from afar, to the render, with furniture inside, Keep the exact same rooms at their location, with the right equipment, but remove the text from the final image. High resolution, pro quality.",
     "title": "Photorealistic 3D Floor Plan Render with Furniture",

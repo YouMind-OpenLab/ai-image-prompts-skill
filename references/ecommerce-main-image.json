@@ -1,5 +1,85 @@
 [
   {
+    "id": 11694,
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"ultra-premium cinematic luxury sneaker advertisement photography\",\n\n    \"product\": {\n      \"type\": \"modern designer luxury sneakers\",\n      \"design\": \"sleek high-end sneakers with sculpted aerodynamic silhouette\",\n      \"materials\": [\n        \"premium Italian leather\",\n        \"suede panels\",\n        \"carbon fiber accents\",\n        \"luxury mesh texture\"\n      ],\n      \"colors\": \"deep {argument name=\"primary color\" default=\"black\"} and pearl {argument name=\"secondary color\" default=\"white\"} with metallic gold accents\",\n      \"branding\": \"minimal luxury embossed logo on the side\"\n    },\n\n    \"composition\": {\n      \"placement\": \"hero sneaker floating slightly above a glossy black marble platform\",\n      \"surrounding_elements\": [\n        \"floating dust particles\",\n        \"golden motion streaks\",\n        \"tiny reflective fragments\",\n        \"subtle smoke-like vapor trails\"\n      ],\n      \"action\": \"one sneaker slightly tilted in mid-air while the second sneaker rests on the platform\"\n    },\n\n    \"environment\": {\n      \"background\": \"dark luxury studio environment with soft gradient lighting\",\n      \"decor\": [\n        \"black marble pedestal\",\n        \"brushed metal structures\",\n        \"minimal geometric shapes\",\n        \"soft glowing light bars\"\n      ]\n    },\n\n    \"lighting\": {\n      \"style\": \"dramatic high-fashion campaign lighting\",\n      \"effects\": [\n        \"strong rim lighting outlining the sneaker silhouette\",\n        \"soft spotlight highlighting premium materials\",\n        \"luxury reflections on the marble surface\",\n        \"cinematic contrast lighting\"\n      ]\n    },\n\n    \"color_palette\": {\n      \"primary\": \"deep black\",\n      \"secondary\": \"pearl white\",\n      \"accents\": \"metallic gold and silver highlights\"\n    },\n\n    \"technical_specs\": {\n      \"camera\": \"85mm macro product photography lens\",\n      \"angle\": \"slightly low hero angle\",\n      \"depth_of_field\": \"shallow depth of field with creamy bokeh\",\n      \"resolution\": \"8K ultra photorealistic\",\n      \"style\": \"luxury fashion campaign similar to Nike, Dior, Balenciaga advertisements\"\n    }\n  }\n}",
+    "title": "Luxury Sneaker Advertisement Photography",
+    "description": "A detailed JSON prompt for generating ultra-premium cinematic product photography of luxury designer sneakers, focusing on materials (Italian leather, carbon fiber), dramatic lighting (strong rim lighting), and composition (floating above a glossy black marble platform).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951308477_etjgxv_HC0U_UOaMAA_5xA.jpg",
+      "https://cms-assets.youmind.com/media/1772951308460_zh137e_HC0U_UNb0AAgxiG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11665,
+    "content": "Ultra-realistic luxury skincare product advertising photography featuring a frosted {argument name=\"bottle color\" default=\"red\"} glass bottle labeled “Glow Recipe – Strawberry BHA Pore-Smooth Blur Drops – Serum (30 ml / 1 fl oz)” floating slightly tilted in mid-air. The bottle has a smooth matte-frosted finish with a soft rounded cap integrated into the base. A dynamic splash of crystal-clear water flows across and behind the bottle, frozen mid-motion with suspended droplets and fluid curves wrapping around the product. Fresh whole strawberries with vibrant red skin, visible seeds, and green leaves float around the bottle, partially intersecting the water splash to emphasize freshness and ingredient inspiration. The background is a clean soft pastel {argument name=\"background color\" default=\"pink\"} studio backdrop that enhances the red tones of the bottle and fruit. Lighting is bright studio lighting with crisp highlights on the water surface and subtle reflections on the frosted glass texture. \n\nThe composition is energetic and refreshing with a fruit-infused skincare aesthetic, shallow depth of field, hyper-realistic textures, glossy water dynamics, modern cosmetic campaign style, ultra-detailed 8K product photography.",
+    "title": "Luxury Skincare Product Photography Prompt",
+    "description": "A detailed prompt for generating ultra-realistic advertising photography of a frosted red glass skincare bottle floating in mid-air. It specifies dynamic water splashes, fresh strawberries, bright studio lighting, and a pastel pink backdrop, aiming for a hyper-realistic, fruit-infused cosmetic campaign aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951291746_b7l4a7_HCzRqWla4AAlvCo.jpg",
+      "https://cms-assets.youmind.com/media/1772951291678_2rdljo_HCzRp8BbIAA1eLg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11716,
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"ultra-premium modern luxury perfume advertisement photography\",\n\n    \"product\": {\n      \"type\": \"modern designer luxury perfume\",\n      \"container\": \"sleek matte black and transparent glass perfume bottle with sharp geometric edges\",\n      \"cap\": \"heavy brushed metal magnetic cap with minimalist engraving\",\n      \"label\": \"clean modern typography with subtle embossed gold brand name\",\n      \"liquid\": \"crystal amber fragrance liquid with soft golden reflections\"\n    },\n\n    \"composition\": {\n      \"placement\": \"hero perfume bottle centered on a glossy black reflective surface\",\n      \"surrounding_elements\": [\n        \"floating perfume mist particles\",\n        \"minimal golden light streaks\",\n        \"tiny suspended fragrance droplets\",\n        \"subtle smoke-like vapor swirls\"\n      ],\n      \"action\": \"a delicate mist spray dispersing from the nozzle forming elegant golden vapor patterns\"\n    },\n\n    \"environment\": {\n      \"background\": \"dark modern luxury studio environment with soft gradient lighting\",\n      \"decor\": [\n        \"black marble slab\",\n        \"brushed metal accents\",\n        \"soft glowing light bars\",\n        \"minimal abstract geometric shapes\"\n      ]\n    },\n\n    \"lighting\": {\n      \"style\": \"dramatic modern fashion campaign lighting\",\n      \"effects\": [\n        \"strong rim lighting outlining the bottle edges\",\n        \"soft spotlight illuminating the perfume liquid\",\n        \"reflections on the glossy surface\",\n        \"cinematic contrast lighting\"\n      ]\n    },\n\n    \"color_palette\": {\n      \"primary\": \"deep black\",\n      \"accents\": \"champagne gold, metallic silver, warm amber highlights\"\n    },\n\n    \"technical_specs\": {\n      \"camera\": \"macro cinematic product lens, slightly low angle\",\n      \"depth_of_field\": \"shallow focus on bottle with creamy luxury bokeh\",\n      \"resolution\": \"8K ultra photorealistic product photography\",\n      \"style\": \"high-end luxury fragrance campaign similar to Dior, Tom Ford, or Chanel advertisements\"\n    }\n  }\n}",
+    "title": "Ultra-Premium Luxury Perfume Advertisement",
+    "description": "A detailed JSON prompt for generating an ultra-photorealistic 8K image of a luxury perfume advertisement. It specifies the product design (matte black bottle, gold accents), composition (centered hero shot with mist and light streaks), environment (dark modern studio), dramatic lighting, and color palette, aiming for a high-end campaign aesthetic similar to Dior or Tom Ford.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951318900_ht62n9_HCy4lKKbYAAdutl.jpg",
+      "https://cms-assets.youmind.com/media/1772951318826_qwnqrw_HCy4lKGa0AAAXKE.jpg",
+      "https://cms-assets.youmind.com/media/1772951318905_6re7np_HCy4lKObAAAJz7Z.jpg",
+      "https://cms-assets.youmind.com/media/1772951319798_5hv4sd_HCy4lKHaoAAD9B3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11686,
+    "content": "Ultra-realistic tropical dessert product photography of a glass bowl filled with shaved ice and creamy coconut milk, surrounded by floating avocado slices, coconut pieces, lychee fruits, jackfruit cubes, palm sugar cubes, and ice crystals, dramatic milk splash frozen in motion around the bowl, vibrant {argument name=\"background color\" default=\"green\"} gradient background, refreshing summer dessert concept, high-speed splash photography, cinematic lighting, hyper-detailed textures, commercial food advertisement style, 8K.\n2️⃣ Fresh Fruit Ice Drink\nPrompt:\nUltra-realistic fruit dessert drink in a tall glass filled with colorful tropical fruits, including watermelon cubes, pineapple chunks, papaya, lychee, coconut slices, and jackfruit pieces, fruits exploding upward with water splash and ice cubes flying around, vibrant {argument name=\"background color 2\" default=\"red-orange\"} gradient background, refreshing summer beverage concept, high-speed splash photography, cinematic lighting, hyper-detailed fruit textures, commercial food advertisement style, 8K.",
+    "title": "Tropical Dessert Product Photography with Milk Splash",
+    "description": "A prompt for generating ultra-realistic commercial product photography of two tropical desserts: a glass bowl of shaved ice with coconut milk and fruits, and a tall glass of fruit drink, both emphasizing high-speed splash photography, hyper-detailed textures, and vibrant gradient backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951303728_7rmxy3_HCydVXeaUAEkWm4.jpg",
+      "https://cms-assets.youmind.com/media/1772951303843_9y9edg_HCydVXkaoAAPubC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11706,
+    "content": "{\nCreate a premium cosmetic product advertisement featuring a glossy red toothpaste tube with vibrant strawberry elements in a clean, minimal commercial style.\n  \"Product\": {\n    \"Type\": \"Toothpaste tube\",\n    \"Finish\": \"Glossy red packaging\",\n    \"Position\": \"Standing upright\",\n    \"SurfaceDetails\": [\n      \"Smooth reflective highlights\",\n      \"Subtle packaging texture\",\n      \"Clean branding area\"\n    ]\n  },\n  \"Scene\": {\n    \"Environment\": \"Studio product photography setup\",\n    \"Background\": \"Monochrome red backdrop\",\n    \"Surface\": \"Reflective red surface creating mirror-like reflections\"\n  },\n  \"Props\": {\n    \"Fruit\": [\n      {\n        \"Type\": \"Whole strawberries\",\n        \"Placement\": \"Surrounding the tube\"\n      },\n      {\n        \"Type\": \"Sliced strawberries\",\n        \"Placement\": \"Floating and stacked beside the tube\",\n        \"Detail\": \"Visible seeds and juicy interior texture\"\n      }\n    ]\n  },\n  \"Composition\": {\n    \"Framing\": \"Centered hero product shot\",\n    \"Layout\": \"Balanced arrangement of strawberries around the tube\",\n    \"DepthOfField\": \"Shallow depth of field\",\n    \"Focus\": \"Ultra-sharp focus on toothpaste tube and nearest fruit\"\n  },\n  \"Lighting\": {\n    \"Type\": \"Soft studio lighting\",\n    \"Highlights\": \"Sharp glossy reflections on packaging and surface\",\n    \"ShadowQuality\": \"Clean, controlled shadows\"\n  },\n  \"ColorAndStyle\": {\n    \"ColorPalette\": [\n      \"Vibrant red tones\",\n      \"Natural strawberry highlights\"\n    ],\n    \"Aesthetic\": \"High-end cosmetic advertisement\",\n    \"Mood\": \"Fresh, modern, premium\"\n  },\n  \"DetailLevel\": {\n    \"Texture\": [\n      \"Ultra-detailed strawberry seeds and pulp\",\n      \"High-definition packaging surface\"\n    ],\n    \"Resolution\": \"8K\"\n  },\n  \"NegativePrompt\": [\n    \"cluttered background\",\n    \"flat lighting\",\n    \"blurred label\",\n    \"low detail fruit\",\n    \"dull colors\",\n    \"distorted packaging\"\n  ],\n  \"ResponseFormat\": {\n    \"Type\": \"Single commercial product image\",\n    \"AspectRatio\": \"1:1 or 4:5\",\n    \"UseCase\": [\n      \"Cosmetic advertisement\",\n      \"E-commerce listing\",\n      \"Social media campaign\"\n    ]\n}",
+    "title": "Premium Cosmetic Product Ad for Strawberry Toothpaste",
+    "description": "A detailed JSON prompt for generating a high-end cosmetic product advertisement featuring a glossy red toothpaste tube and fresh strawberry elements. The prompt specifies studio lighting, monochrome red environment, composition, and texture details, aiming for a fresh, modern, and premium aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951314056_8bfxbe_HCxUSlFbEAAC-op.jpg",
+      "https://cms-assets.youmind.com/media/1772951314049_8a8012_HCxUSm8aIAALGgs.jpg",
+      "https://cms-assets.youmind.com/media/1772951314046_uzvtf3_HCxUSbrbEAEjmc_.jpg",
+      "https://cms-assets.youmind.com/media/1772951314930_e6s2fs_HCxUSpWaoAAoFfO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11679,
+    "content": "Ultra-realistic commercial skincare product photography featuring a vibrant {argument name=\"product color\" default=\"cobalt-blue\"} squeeze tube labeled “Fresho – Fresho Ness Scrub” standing upright at the center of the frame. The tube has a glossy finish with clean white typography and a translucent flip-top cap, and it is placed on top of a matching {argument name=\"product color\" default=\"blue\"} product box that subtly displays the brand name on its side. The background is a seamless bright {argument name=\"background color\" default=\"blue\"} studio backdrop that enhances the monochromatic aesthetic.",
+    "title": "Cobalt Blue Skincare Product Photography",
+    "description": "A prompt for generating ultra-realistic commercial skincare product photography featuring a vibrant cobalt-blue squeeze tube and matching product box. It specifies a glossy finish, clean white typography, and a seamless bright blue studio backdrop to achieve a monochromatic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951299411_pisfea_HCxEVZuaUAEayWp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11682,
+    "content": "Luxury product photography of a Byredo Bal d’Afrique Absolu de Parfum bottle placed on an intricate stacked wooden block structure with exposed roots hanging down, minimal light gray studio background, a floating circular halo made of irregular translucent {argument name=\"crystal color\" default=\"purple\"} crystal shards above the bottle, soft diffused studio lighting, ultra-clean aesthetic, macro detail, premium fragrance advertisement, sharp focus, natural shadows, high-end editorial style, 85mm lens, photorealistic, 8k.\n\nPrompt 2 (Image 2):\nHigh-end product shot of Byredo Bal d’Afrique Absolu de Parfum bottle centered on a minimal studio background, surrounded by angular translucent {argument name=\"crystal color 2\" default=\"purple\"} crystal shards leaning against the bottle, natural wood pieces and twisting green vines with soil at the base, soft warm lighting highlighting the amber liquid, luxury perfume advertisement style, ultra-clean composition, macro product photography, crisp reflections, shallow depth of field, photorealistic, 8k.",
+    "title": "Luxury Product Photography of Byredo Perfume",
+    "description": "A detailed prompt for generating ultra-realistic luxury product photography of a Byredo Bal d’Afrique Absolu de Parfum bottle, focusing on high-end editorial style, specific lighting, and intricate staging with natural and crystalline elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951300730_3df46m_HCxDdHuaUAQeHuc.jpg",
+      "https://cms-assets.youmind.com/media/1772951300797_ob38v9_HCxDdH3aUAE6gbq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11605,
     "content": "Ultra-realistic beverage advertising photography featuring a tall aluminum soda can labeled “{argument name=\"soda brand and flavor\" default=\"LUMO – Sparkling Lemonade – Orange\"}” standing upright at the center of the frame. The can has a matte turquoise-blue body decorated with a grid pattern of bright orange fruit illustrations and bold dark typography. The surface of the can is covered with fresh condensation droplets that enhance the cold refreshing feel. Surrounding the base of the can are whole oranges and freshly cut orange halves arranged naturally, showing vibrant juicy pulp\nand glossy citrus textures. The background is a bright\nopen blue sky with soft clouds, creating a fresh\noutdoor summer atmosphere. Lighting is natural\nsunlight with crisp highlights on the aluminum\nsurface and subtle reflections on the water droplets.The composition is clean and vibrant with a citrus\nrefreshment aesthetic, shallow depth of field, vivid\ncolor contrast between turquoise and orange,\nhyper-realistic textures, commercial beverage\ncampaign style, ultra-detailed 8K product\nphotography.",
     "title": "Ultra-Realistic Beverage Advertising Photography (LUMO Soda)",

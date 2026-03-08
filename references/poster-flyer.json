@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 11667,
+    "content": "Ultra-detailed, high-contrast digital portrait of a young man looking slightly upward with a determined and thoughtful expression. Realistic grayscale face with sharp facial features, textured skin, short dark hair, and light stubble. Dramatic cinematic lighting with strong shadows emphasizing facial contours and jawline. Background split into bold abstract brush textures with vibrant {argument name=\"background color 1\" default=\"red\"} on one side and bright {argument name=\"background color 2\" default=\"yellow\"} on the other, creating a powerful, modern poster aesthetic. Painterly strokes, gritty artistic style, high detail, sharp focus, cinematic composition, editorial art, modern political or motivational poster style, 4K quality, dramatic contrast, minimal clothing visible, centered composition, intense mood.",
+    "title": "Dramatic Grayscale Portrait with Abstract Background",
+    "description": "A detailed prompt for generating an ultra-detailed, high-contrast digital portrait of a young man. The prompt specifies realistic grayscale features, dramatic cinematic lighting, and a background split into bold abstract brush textures of vibrant red and bright yellow, aiming for a modern political or motivational poster aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951291966_fd21t9_HCzxw4tbIAA0k4i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11663,
     "content": "Title:\n【Gilgamesh Nova of Revolution: Celestial Resonance】\n\nChopin's Revolutionary Etude\nGrand Muse Descends",
     "title": "Chopin's Revolutionary Etude Image Prompt",

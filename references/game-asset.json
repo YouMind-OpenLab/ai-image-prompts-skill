@@ -1,5 +1,28 @@
 [
   {
+    "id": 11703,
+    "content": "Ultra-detailed studio product render of a LEGO Technic style vehicle model based precisely on the next uploaded reference photo. The LEGO build must replicate the real vehicle’s exact shape, proportions, bodylines, color scheme, headlights, grille design, wheels, and overall silhouette while constructed entirely from realistic LEGO Technic pieces and panels.\nThe vehicle is displayed in a clean professional product photography studio setup, placed on a smooth matte surface. Behind the car stands a large LEGO Technic product box, slightly blurred but clearly recognizable as a premium building kit package.\nThe vehicle features aggressive widebody styling, large sport wheels, low stance, detailed front splitter, and a roof rack cargo box built from LEGO elements, maintaining the same design style as the reference vehicle.\nIn front of the vehicle on the table are organized LEGO Technic components and tools, including small tires, axles, connectors, battery modules, rods, mechanical pieces, scissors, and miniature assembly tools, arranged neatly like a build kit.\nLighting is soft cinematic studio lighting with subtle reflections on the LEGO plastic surfaces, ultra-sharp details, shallow depth of field, realistic shadows, premium commercial product photography style.\nComposition: hero angle slightly from the front side, emphasizing the vehicle's shape and mechanical LEGO structure.\nHyper-realistic materials, crisp textures, ultra detailed LEGO plastic surface, ray-traced reflections.\n8K resolution, ultra sharp, photorealistic render, cinematic lighting, professional product shot\nAspect Ratio 9:16",
+    "title": "Ultra-Detailed LEGO Technic Product Render",
+    "description": "A highly detailed prompt for generating an ultra-realistic product render of a custom LEGO Technic vehicle model, requiring a reference photo for the design. The prompt specifies the studio setup, lighting, composition (hero angle), and the inclusion of organized LEGO components and the product box, aiming for a premium commercial product photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951313304_jeu1s1_HCzZFKwacAA8RUy.jpg",
+      "https://cms-assets.youmind.com/media/1772951313457_stobj8_HCzZFK2bkAAy-VC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11700,
+    "content": "Highly detailed isometric 2.5D architectural slice illustration of a lively {argument name=\"scene name\" default=\"[SCENE NAME]\"}, shown as a cropped section of a multi-story building integrated within a surrounding neighborhood. The scene fills the frame edge-to-edge and feels like part of a larger living world. The building interior is revealed through a clean sectional cutaway with two or three stacked levels connected by stairs. The layout is simple, organized and easy to read with limited objects in each area so every element is clearly visible. All characters are small cute anthropomorphic animals behaving like people and living daily life logically according to the scene. Each room has a clear purpose related to the scene theme, with furniture and tools used naturally. Architecture uses clean walls, tiled surfaces, wood and metal structures with pipes, vents and machines integrated neatly. Outside the cutaway walls the surrounding environment is visible with nearby buildings, rooftops, windows and streets, creating context without overcrowding the composition. Balanced composition, comfortable spacing, clear visual hierarchy, crisp line art, sharp details, vibrant but controlled colors, high clarity so every object and character is easy to see.\n\nNegative Prompt: humans, people, overcrowded scene, dense environment, too many objects, messy layout, cluttered composition, tiny unreadable details, blurry, low detail, washed colors, pastel washed colors, isolated floating building, plain background",
+    "title": "Isometric 2.5D Architectural Slice Illustration of an Animal Community",
+    "description": "A detailed prompt for generating an isometric 2.5D architectural slice illustration of a multi-story building integrated into a neighborhood. The scene features small, cute anthropomorphic animals living their daily lives in clearly defined rooms, emphasizing clean line art, balanced composition, and sharp details. The user can customize the scene's theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772951311533_49d46q_HCyvTtKbAAAsj6X.jpg",
+      "https://cms-assets.youmind.com/media/1772951311498_28kd0b_HCyvRNHaUAgdvOi.jpg",
+      "https://cms-assets.youmind.com/media/1772951311566_a17ug0_HCyvUWmaUAA17Ti.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11637,
     "content": "A sticker sheet of a cute anime chibi girl with long brown hair and a white sweater, multiple poses and facial expressions (happy, angry, crying, sleeping), white border around each character, flat 2D vector style, high resolution, white background",
     "title": "Chibi Anime Girl Sticker Sheet",

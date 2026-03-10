@@ -13,6 +13,56 @@
     "needReferenceImages": true
   },
   {
+    "id": 11861,
+    "content": "ultra creative, vivid and surprising image of pastel painted sour patch kids in a whimsical, fantastical candyland environment, soft dreamy lighting, intricate sugary textures, floating sweets and swirling pastel clouds, high detail, vibrant yet gentle color palette, ultra sharp focus",
+    "title": "Pastel Painted Sour Patch Kids in Whimsical Candyland",
+    "description": "A vivid and surprising image generation prompt for Nano Banana 2, focusing on a whimsical candyland environment with soft, dreamy lighting and intricate sugary textures for pastel-painted Sour Patch Kids.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124343616_tfq9oo_HC9iEf-WMAA_YQU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11872,
+    "content": "WHIMSICAL MONO-PUNK FLOATING MINIATURE DIORAMA PROMPT\n(Automatic Background Optimization, Smart Micro-Detail System, Procedural Activity Layer, Natural Irregularity Layer, Atmospheric Depth Layer, Procedural Scene Generator, Procedural Prop Generator, Procedural Architecture Generator, Procedural Lighting & Atmosphere Generator, Procedural Character & Population Generator, Procedural Diorama Base Generator)\n\nVARIABLE GUIDE\nGLOBAL_COMPLEXITY = Possible values: 'low','medium','high','ultra'. Controls density of buildings, props, characters, and environmental detail. If blank choose randomly between 'medium' and 'high'.\nPUNK_STYLE = \nIf PUNK_STYLE is empty, then one style is randomly selected from LIST_OF_PUNK_STYLES, otherwise what is in the PUNK_STYLE variable is chosen\nLIST_OF_PUNK_STYLES = Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk, Cattlepunk, Hopepunk\nSUBSTYLE = If specified use exactly. If set to none disable. If blank infer logically from PUNK_STYLE.\nTECHNOLOGY_LEVEL = If specified use exactly. If set to none disable. If blank infer from PUNK_STYLE.\nENVIRONMENT = If specified use exactly. If set to none disable. If blank infer logically from active layers.\nCULTURE = If specified use exactly. If set to none disable. If blank infer culturally appropriate framework.\nPROCEDURAL_SCENE_GENERATOR = 'on'\nPROCEDURAL_PROP_GENERATOR = 'on'\nPROCEDURAL_ARCHITECTURE_GENERATOR = 'on'\nPROCEDURAL_LIGHTING_ATMOSPHERE_GENERATOR = 'on'\nPROCEDURAL_CHARACTER_POPULATION_GENERATOR = 'on'\nPROCEDURAL_DIORAMA_BASE_GENERATOR = 'on'\nFOCAL_INTEREST_LAYER = off\nMATERIAL_COHESION_LAYER = 'on'\nVISUAL_CLARITY_OPTIMIZER = 'on'\nMICRO_LIFE_LAYER = 'on'\nCOMPOSITION_ENGINE = 'on'\nEDGE_DEFINITION_LAYER = 'on'\nCOLOR_HARMONY_LAYER = 'on'\nDIORAMA_CRAFTSMANSHIP_LAYER = 'on'\n\nPSG LAYER\nImplement only if PROCEDURAL_SCENE_GENERATOR='on'. Generate core scene structure using:\nLANDSCAPE_STRUCTURE (floating island, cliff terraces, canyon basin, harbor cove, forest clearing, mountain ridge, giant tree canopy, desert oasis, ice shelf, volcanic ridge)\nSETTLEMENT_TYPE (village, harbor town, trading port, monastery complex, research outpost, fortress town, sky dock, industrial district, hidden enclave)\nINFRASTRUCTURE_ELEMENTS (bridges, windmills, rail lines, cable lifts, aqueducts, airship docks, solar arrays, reactor towers, waterwheels)\nCIVILIAN_ACTIVITY (market trading, fishing, cargo loading, harvesting, machine repair, patrol movement, festival gathering, workshop crafting)\nMICRO_NARRATIVE (delivery arrival, festival beginning, storm approaching, caravan arrival, wildlife encoun",
+    "title": "Whimsical Mono-Punk Floating Miniature Diorama Generator (Duplicate)",
+    "description": "A highly complex, structured prompt template for Nano Banana 2 designed to generate a whimsical, floating miniature diorama based on a procedural punk aesthetic. It includes extensive variable guides and procedural generation layers for scene structure, props, architecture, and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124347887_hsmjta_HC-ZF8baoAA7o8Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11874,
+    "content": "UNIVERSAL MONO PUNK SCENE GENERATOR\n\nVARIABLE GUIDE\n\n1. PUNK_STYLE =\n   [Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.]\n\n2. LIST_OF_PUNK_STYLES =\n   [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk]\n\n3. SUBSTYLE =\n   • If a specific SUBSTYLE is provided → use it exactly as written.\n   • If SUBSTYLE is set to **none** → do not apply a substyle layer.\n   • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE.\n\n4. TECHNOLOGY_LEVEL =\n   • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written.\n   • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier.\n   • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE.\n\n5. ENVIRONMENT =\n   • If a specific ENVIRONMENT is provided → use it exactly as written.\n   • If ENVIRONMENT is set to **none** → do not apply an environmental modifier.\n   • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers.\n\n6. CULTURE =\n   • If a specific CULTURE is provided → use it exactly as written.\n   • If CULTURE is set to **none** → do not apply a cultural modifier.\n   • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world.\n\n7. ROOM_OR_SETTING =\n   [IF BLANK: Generate a compelling location consistent with the active world layers.]\n\n8. LIST_OF_OBJECTS =\n   [IF BLANK: Infer 4–6 logical objects belonging to the environment.]\n\n9. CAMERA_FRAMEWORK =\n   [IF BLANK: Infer the best cinematic framing for the environment.]\n\n10. LIGHTING_FRAMEWORK =\n    [IF BLANK: Infer lighting derived from the technology and environment.]\n\n11. MATERIAL_SYSTEM =\n    [IF BLANK: Infer dominant materials and structural systems derived from the style layers.]\n\n---\n\n### STYLE SELECTION DIRECTIVE\nIf **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic.\nAll subsequent inference systems must use the chosen PUNK_STYLE.\n\n### WORLD INTERPRETER ENGINE\nAnalyze all active layers:\nPUNK_STYLE\n* optional SUBSTYLE\n* optional TECHNOLOGY_LEVEL\n* optional ENVIRONMENT\n* optional CULTURE\n\nFrom these layers infer:\n• dominant materials\n• architectural forms\n• infrastructure systems\n• lighting technology\n• environmental atmosphere\n• cultural design motifs\n\nAll visual elements must remain internally consistent with this world model.\n\n### SCENE ENGINE\nGenerate a highly detailed, cinematic, p",
+    "title": "Universal Mono Punk Scene Generator",
+    "description": "A highly complex, structured prompt template for Nano Banana 2 designed to generate a highly detailed, cinematic punk scene. It uses a procedural world interpreter engine to ensure consistency across style, technology, environment, and culture layers, based on a chosen punk aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124348780_15vph2_HC-YWkWaYAAqqwR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11867,
+    "content": "Copy image colours and art style\nGive me a Samurai. Aspect ratio 16:9",
+    "title": "Midjourney Style Transfer for Samurai Image",
+    "description": "A prompt for Nano Banana 2 demonstrating how to copy the style and colors from a Midjourney image (using an imported reference image) and apply it to a new subject, generating a Samurai image in the specified aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124346386_u0cn2w_HC96iVYaoAAhgDU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11844,
+    "content": "A surreal macro masterpiece featuring a miniature figure with uploaded face as reference sitting on a rocky pebble surface, wearing a striped shirt and dark pants, gazing upward at a vintage glass bottle standing beside them. From the bottle's open neck, ethereal white smoke billows and transforms into a glowing, translucent white dove surrounded by floating feathers. The composition utilizes extreme shallow depth of field with heavy foreground and background bokeh, creating a dreamlike atmosphere bathed in soft pastel pink and violet hues. Cinematic lighting, volumetric fog, 8k resolution, photorealistic textures, Octane Render, magical realism style.",
+    "title": "Surreal Macro Masterpiece with Miniature Figure",
+    "description": "A detailed prompt for Nano Banana 2 to generate a surreal macro image. It features a miniature figure, whose face is based on an uploaded reference, sitting on a rocky pebble surface and gazing at a vintage glass bottle from which ethereal smoke and a glowing dove emerge. The prompt specifies cinematic lighting, extreme shallow depth of field, and a pastel pink and violet color scheme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124334478_fykor9_HC7e0mebgAATHfX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11765,
     "content": "3D in the style of Disney-Pixar, a man in fluorescent green glasses, a man focused but smiling, red hair in a large neon green knitted sweater, white trousers, gray concrete background in the background, warm cinematic lighting, high",
     "title": "Disney-Pixar Style 3D Portrait of Man in Neon Sweater",

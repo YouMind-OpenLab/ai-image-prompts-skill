@@ -1,5 +1,36 @@
 [
   {
+    "id": 11866,
+    "content": "A luxury perfume bottle with an ornate glass faceted design, sitting on a reflective marble surface surrounded by soft, misty floral elements — rose petals, jasmine sprigs, and delicate blooms drifting in a golden haze. The bottle catches warm amber light, refracting prismatic glints across the scene. Wisps of mist curl gently around the base, blending into a soft bokeh floral backdrop. The composition is intimate and elegant, with the bottle as the commanding centerpiece., in a luxurious style, viewed from a 45-degree, soft-studio lighting, with a misty-floral vibe, accented by warm-golden, featuring warm-tones, amber-gold-cream, with reflective-surface, prismatic-glass effects, in the style of bang-olufsen-aesthetic,cosmetics-editorial",
+    "title": "Luxury Perfume Bottle Editorial Image Prompt",
+    "description": "A detailed image generation prompt for Nano Banana 2 describing a luxury perfume bottle editorial shot. It specifies the ornate glass design, reflective marble surface, misty floral elements, warm amber lighting, and a specific aesthetic style (Bang & Olufsen/cosmetics editorial).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124345605_5hipal_HC-9C7fWIAA_8jk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11858,
+    "content": "Ultra-realistic luxury skincare product photography featuring a glass cosmetic jar labeled “ONE POSE” placed at the center of a glossy reflective surface. The jar contains a vibrant strawberry-pink cream with a soft gradient fading into a frosted white lid, and a smooth swirl of creamy pink product melting over the top and dripping down the sides of the jar like glossy dessert glaze. Surrounding the product are fresh ripe strawberries and halved strawberries with visible seeds and juicy texture, arranged naturally around the base. Soft scoops of strawberry ice cream sit beside the fruit, slightly melting and blending into a glossy pink cream puddle that spreads across the surface. The background is a soft pastel pink studio gradient that enhances the strawberry tones. Premium studio lighting from above and the side creates crisp reflections on the glass jar, soft highlights on the melting cream and ice cream texture, and gentle shadows beneath the product.\n\nThe composition feels indulgent and dessert-inspired while maintaining a clean luxury cosmetic advertising aesthetic, hyper-realistic textures, shallow depth of field, cinematic lighting, ultra-detailed 8K product photography.",
+    "title": "Ultra-Realistic Luxury Skincare Product Photography (Duplicate)",
+    "description": "A detailed prompt for Google Veo 3.1. and Nano Banana 2 to generate an ultra-realistic luxury skincare product advertisement. The scene features a glass jar of strawberry-pink cream on a reflective surface, surrounded by fresh strawberries and melting strawberry ice cream, creating an indulgent, dessert-inspired aesthetic under premium studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124341436_rtf1ou_HC-DVa5boAAMFvY.jpg",
+      "https://cms-assets.youmind.com/media/1773124341568_frncsu_HC-DWFRa0AA2WC4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11848,
+    "content": "Ultra-realistic luxury skincare product photography featuring a glass cosmetic jar labeled “ONE POSE” placed at the center of a glossy reflective surface. The jar contains a vibrant strawberry-pink cream with a soft gradient fading into a frosted white lid, and a smooth swirl of creamy pink product melting over the top and dripping down the sides of the jar like glossy dessert glaze. Surrounding the product are fresh ripe strawberries and halved strawberries with visible seeds and juicy texture, arranged naturally around the base. Soft scoops of strawberry ice cream sit beside the fruit, slightly melting and blending into a glossy pink cream puddle that spreads across the surface. The background is a soft pastel pink studio gradient that enhances the strawberry tones. Premium studio lighting from above and the side creates crisp reflections on the glass jar, soft highlights on the melting cream and ice cream texture, and gentle shadows beneath the product. The composition feels indulgent and dessert-inspired while maintaining a clean luxury cosmetic advertising aesthetic, hyper-realistic textures, shallow depth of field, cinematic lighting, ultra-detailed 8K product photography.",
+    "title": "Ultra-Realistic Luxury Skincare Product Photography",
+    "description": "A detailed prompt for Nano Banana Pro to generate an ultra-realistic luxury skincare product advertisement. The scene features a glass jar of strawberry-pink cream on a reflective surface, surrounded by fresh strawberries and melting strawberry ice cream, creating an indulgent, dessert-inspired aesthetic under premium studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124335894_o5hepc_HC-DGXKacAArew0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11742,
     "content": "Ultra-realistic 8K cinematic product photograph of a glossy black oval perfume bottle with a gold cap and gold geometric logo reading “IN SKIN SECRETS”, captured mid-air while falling beside rugged layered rock formations in a warm cave environment, the bottle tilted downward with the spray nozzle pointing toward the ground releasing a fine mist of perfume forming a visible spray trail, small dust and rock particles floating around to emphasize motion, dramatic warm amber lighting reflecting on the glossy bottle surface, textured rocky background softly blurred with shallow depth of field, luxury fragrance advertisement style, high contrast, ultra-detailed textures, vertical 3:4 composition.",
     "title": "Ultra-realistic Cinematic Product Photograph of Perfume Bottle",

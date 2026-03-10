@@ -56,6 +56,18 @@
     "needReferenceImages": false
   },
   {
+    "id": 11882,
+    "content": "Five difficult points to check with this prompt:\nIf this one image is generated, please zoom in and check the following points.\n\n- Text Consistency (AI EVOLUTION 2026)\nIs the text written on the cardboard sign rendered correctly without spelling mistakes, while maintaining a \"handwritten\" texture?\n\n- Anatomical Accuracy and Interaction\nAre the old man's \"10 fingers\" naturally holding the fragile object, a glass butterfly? Are the fingers dissolving into the background or is the number incorrect?\n\n- Material Differentiation (Material Mix)\nAre materials with completely different reflectivity and transparency—\"old man's skin (wrinkles),\" \"chrome plating (mirror surface),\" \"glass (transparency),\" \"velvet (napped),\" and \"liquid (steam)\"—depicted without contradiction under the same light source?\n\n- Calculation of Space and Light (Ray Tracing Understanding)\nIs the blue luminescence of the android reflecting correctly on the old man's glasses and surrounding metal? Are there no contradictions in the shadows caused by multiple light sources?\n\n- Prompt Adherence and Attribute Separation\nIs the specified arrangement of \"old man on the left\" and \"android on the right\" maintained? Is \"Color Bleeding\" occurring, where the color of the \"red velvet\" transfers to the android's skin or the old man's clothes turn blue?",
+    "title": "Benchmark Prompt for Nano Banana/Gemini Image Generation",
+    "description": "A detailed, multi-faceted benchmark prompt designed to test the limits of image generation models like Nano Banana/Gemini by checking for five specific 'difficult points' related to text consistency, anatomical accuracy, material rendering, spatial lighting, and prompt adherence/attribute separation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773124352662_gftxiv_HC_37MwaMAInGId.jpg",
+      "https://cms-assets.youmind.com/media/1773124352769_oqsj5v_HC_4HEFaMAM08dE.jpg",
+      "https://cms-assets.youmind.com/media/1773124353053_nn8xti_HC_4IKJaAAAqs6-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11715,
     "content": "Image 1 - Studio breakfast shot where a fluffy omelette folds over itself in slow motion on a white background revealing vegetables and cheese inside.\n\nImage 2 - Exploded vertical food infographic of a fluffy omelette on a clean white studio background. The omelette separated into floating layers showing top egg layer, melted cheese layer stretching, sautéed vegetable filling (spinach, mushrooms, diced tomatoes), and bottom egg layer. Each component labeled with bold annotation blocks and clean connector lines pointing to the ingredients. Labels include Egg Layer, Cheese Melt, Spinach, Mushrooms, Tomatoes, Vegetable Filling. Minimal modern infographic design, bright commercial food photography style, crisp textures, soft studio lighting, premium recipe visualization aesthetic.",
     "title": "Kling AI + Google Nano Banana Pro Prompt (Video and Image)",

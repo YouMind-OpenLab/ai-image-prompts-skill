@@ -1,5 +1,75 @@
 [
   {
+    "id": 12044,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"minimal_luxury_watch_editorial\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_MINIMAL_MONACO_LUXURY_WATCH\"\n    },\n    \"input\": {\n      \"mode\": \"text_to_image\",\n      \"notes\": \"Create a minimalist ultra-luxury wristwatch inspired by Ferrari elegance and the Monaco circuit. The watch should feel aristocratic, jewel-like, and highly refined, with a clean uncluttered dial. Integrate the Monaco track map as a subtle thin line element inside the dial, elegant and understated. Add one tiny red Formula car as a delicate luxury detail. The overall design must remain minimal, balanced, and extremely expensive-looking.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"render_style\": \"photoreal_minimal_luxury_product\",\n      \"sharpness\": \"editorial_crisp\",\n      \"grain\": \"none\",\n      \"color_grade\": \"rose_gold_crimson_black_minimal\",\n      \"dynamic_range\": \"clean_soft_luminous\"\n    },\n    \"subject\": {\n      \"product\": {\n        \"type\": \"minimal ultra-luxury wristwatch\",\n        \"case_material\": \"rose gold\",\n        \"dial\": \"clean luxury dial with subtle Monaco circuit line\",\n        \"strap\": \"deep crimson premium leather strap\",\n        \"details\": \"one tiny elegant red Formula car\"\n      }\n    },\n    \"scene\": {\n      \"background\": \"minimal elegant dark studio background\",\n      \"lighting\": \"soft jewel-like reflections with refined shadow gradients\",\n      \"mood\": \"minimal, aristocratic, elegant, exclusive\"\n    },\n    \"negative_prompt\": {\n      \"avoid\": [\n        \"busy mechanics\",\n        \"cheap sports styling\",\n        \"cartoon cars\",\n        \"cluttered dial\",\n        \"plastic materials\",\n        \"flat composition\",\n        \"watermark\"\n      ]\n    }\n  }\n}",
+    "title": "Minimalist Luxury Watch Editorial Prompt for Nano Banana 2",
+    "description": "A structured JSON prompt for Nano Banana 2 to generate a photorealistic editorial image of a minimalist luxury wristwatch, inspired by Ferrari and Monaco, specifying rose gold materials, subtle circuit line details, and clean, elegant lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383495153_fcecnt_HDPCgrKbQAIBcyd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12005,
+    "content": "Create an original ultra-luxury beauty packshot for BAGEL LABS featuring a premium cherry lip gloss standing upright in the center while a dramatic cherry gloss splash bursts upward around it in the shape of a crown. The splash should feel sculptural, elegant, and controlled rather than chaotic, with beautiful lacquered arcs, suspended droplets, and glassy edges catching the light. Keep the product fully visible and dominant as the hero object. Add a few carefully placed dark cherries near the base or subtly integrated into the splash composition for richness and fruit association. Use high-end studio beauty lighting with soft reflections, crisp highlights, refined shadows, and premium material realism. Background should stay minimal and clean in ivory, warm grey, or pale stone. The overall effect should be powerful, luxurious, sensual, and campaign-ready, like a hero visual for a major beauty launch.",
+    "title": "Ultra-Luxury Beauty Packshot for BAGEL LABS",
+    "description": "An image generation prompt for Nano Banana 2 focusing on creating an ultra-luxury beauty packshot of a cherry lip gloss, featuring a dramatic, sculptural splash of gloss bursting upward around the product, emphasizing high-end studio lighting and material realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383468674_ayqt1h_HDO05whaUAA-RQM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12062,
+    "content": "Masterpiece, best quality, (product photography:1.6), macro lens, 8k resolution, (photorealistic:1.5).\n\n(Core Subject: High-End PVC Figure):\nThe EXACT character from the input image is rendered as a (high-end 1/7 scale PVC figure:1.6).\nThe figure stands on a clean wooden desk surface, out of the box.\n(Texture & Quality - CRITICAL):\nPremium matte plastic skin texture, glossy eye paint, intricate clothing folds, and precise airbrush shading.\nThe figure looks like a tangible, expensive collector's item (Good Smile Company or Alter quality).\nA clear acrylic circular base supports the figure.\n\n(Background: 3D Workspace):\nBehind the figure, a computer monitor displays a (3D modeling software interface:1.5) (like Blender, Maya, or ZBrush).\nOn the screen: A (grey wireframe mesh or untextured clay render:1.5) of the SAME character is visible.\nThe screen represents the digital prototype of the physical figure.\n\n(Surroundings):\nThe figure's retail packaging box stands vertically next to the figure, featuring the character art.\nA blurred mechanical keyboard and mouse are visible in the background.\nSoft, professional studio lighting illuminates the figure from above.\n\n(Technical Tags): (depth of field:1.4), (bokeh:1.3), (PVC texture:1.5), (figure photography:1.4), (ray tracing), sharp focus on figure face.\n(Negative prompt): (2D illustration:1.6), (anime style:1.5), (drawing), (sketch), (distorted face:1.5), (melted plastic), (bad painting), (messy desk), (screen off), (wrong character on screen), low quality, blurry.",
+    "title": "Nano Banana 2 prompt for creating figures and 3D models",
+    "description": "A detailed prompt template for Nano Banana 2 designed to render an input character image as a high-end PVC figure and a 3D model render, focusing on product photography quality, texture, and technical details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383505535_y72ylq_HDNDMNuacAAvkXT.jpg",
+      "https://cms-assets.youmind.com/media/1773383505513_0ukp2a_HDNDNazakAAEIAO.jpg",
+      "https://cms-assets.youmind.com/media/1773383505614_2odvax_HDNDLOxbQAAHvOv.jpg",
+      "https://cms-assets.youmind.com/media/1773383506704_zd8arv_HDNDTrEbQAEMXw1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12061,
+    "content": "(masterpiece, best quality, product photography, full shot, wide view),\n(Complete view of a sealed PVC figure in its plastic blister packaging), hanging on a metal retail hook on a store shelf.\n(The figure inside is an exact replica of the character in the image: 1.5)\n(The hair color, eye color, and costume details must be exactly the same as the character in the image: 1.5)\n(Figure face must not be distorted, maintain original cuteness:1.4).\n\n(Packaging Details):\nThe packaging cardboard art is fully visible, showing the character illustration.\nThe main text on the packaging is in JAPANESE.\nProduct Name: 「{argument name=\"product name\" default=\"Name\"}」 (Replace \"Name\" with the character's name).\nOther text: \"完全再現フィギュア\" (Perfectly Reproduced Figure), \"究極の造形\" (Ultimate Sculpt).\nSmaller English sub-text: \"Collector's Edition\", \"PVC Statue\".\nAll branding and logos must be FICTIONAL. NO real-world corporate logos.\n\n(Environment):\nA well-lit toy store aisle, other blurred product packages on surrounding shelves, realistic store lighting reflections on the plastic.\n\n(Technical Tags): (realistic textures:1.3), (plastic material:1.4), depth of field, sharp focus on packaging, Japanese text.\n(Negative prompt): (macro lens, close up:1.2), (altering character features:1.5), (changing hairstyle:1.5), (changing hair color:1.5), (changing outfit:1.5), (cosplay of existing character:1.4), (real world brand logos:1.5), (copyrighted logos:1.5), (corporate logos:1.5), (Nike logo:1.5), (Disney characters:1.5), (distorted face:1.5), bad anatomy, cropped, partially visible, (figure face distorted:1.5).",
+    "title": "Nano Banana 2 prompt for creating packaged figures",
+    "description": "A detailed prompt template for Nano Banana 2 designed to render an input character image as a sealed PVC figure in blister packaging, focusing on product photography, retail environment, and maintaining character accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383505527_638us8_HDNBWd3boAETcUZ.jpg",
+      "https://cms-assets.youmind.com/media/1773383505654_e316sv_HDNBQT2bQAc2_F0.jpg",
+      "https://cms-assets.youmind.com/media/1773383506237_mivvcd_HDNBRbAbQAMh7-v.jpg",
+      "https://cms-assets.youmind.com/media/1773383506745_t4prmy_HDNBYdYbgAACd0G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12037,
+    "content": "Photorealistic high-end skincare product photography of a blue cosmetic cream jar labeled “VOIS – tsunami hydration” placed diagonally and partially embedded in fresh white snow. The jar surface is covered with light hoarfrost and tiny frozen condensation crystals, emphasizing an icy hydration concept. Around the product, small delicate blue primrose flowers with green leaves are naturally scattered across the snow, some partially buried and some resting on the surface. The snow texture is soft and powdery with sparkling ice crystals reflecting light. Bright winter sunlight illuminates the scene from the side, creating crisp micro-contrast, sparkling highlights on the frost and snow crystals, and soft natural shadows around the jar and flowers. The background is minimal and clean with smooth snowy bokeh and a cold airy atmosphere. Cinematic macro composition with the product perfectly sharp and the surroundings gently blurred. Premium commercial skincare advertisement style, 85mm macro lens, f/2.8, ISO 100, shallow depth of field, ultra-detailed textures, photorealistic, 8K resolution, no text overlays, no people, minimal clean background",
+    "title": "Photorealistic Skincare Product Photography Prompt for Nano Banana Pro",
+    "description": "A detailed prompt for generating a photorealistic, high-end commercial image of a blue cosmetic cream jar partially embedded in fresh, icy snow, emphasizing hydration and cold atmosphere with specific camera and lighting settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383488908_5ebkqh_HDMMskybIAAmNTW.jpg",
+      "https://cms-assets.youmind.com/media/1773383488982_dt0x1n_HDMMskRbQAAx6g1.jpg",
+      "https://cms-assets.youmind.com/media/1773383488934_xe1mr8_HDMMsjIbAAIsLk0.jpg",
+      "https://cms-assets.youmind.com/media/1773383489958_wjn7r5_HDMMsmXaUAATkGe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12004,
+    "content": "{\n  \"image_prompt\": {\n    \"scene_type\": \"hyper-realistic product photography\",\n    \"composition\": {\n      \"main_object\": \"Kinder Joy surprise egg\",\n      \"surface\": \"natural wooden table\",\n      \"camera_angle\": \"slightly low front-facing product shot\",\n      \"depth_of_field\": \"shallow depth of field with soft background blur\",\n      \"focus\": \"sharp focus on egg packaging and collectible figurine\"\n    },\n    \"packaging_design\": {\n      \"brand\": \"Kinder Joy\",\n      \"illustration_style\": \"chibi / cartoon\",\n      \"character_reference\": \"based on the uploaded image\",\n      \"character_features\": [\n        \"short curly dark hair\",\n        \"black rectangular glasses\",\n        \"trimmed beard\",\n        \"friendly smile\"\n      ],\n      \"background_on_packaging\": \"colorful graffiti brick wall\"\n    },\n    \"collectible_figurine\": {\n      \"style\": \"mini chibi collectible toy\",\n      \"design_match\": \"same character illustrated on the packaging\",\n      \"details\": [\n        \"large expressive eyes\",\n        \"big chibi head proportion\",\n        \"black glasses\",\n        \"curly hair texture\",\n        \"small beard\",\n        \"wearing a dark knitted sweater\"\n      ],\n      \"placement\": \"standing beside the Kinder Joy egg\"\n    },\n    \"lighting\": {\n      \"type\": \"soft natural light\",\n      \"direction\": \"side window lighting\",\n      \"effect\": \"soft shadows and gentle highlights for photorealism\"\n    },\n    \"visual_quality\": {\n      \"style\": \"photorealistic\",\n      \"render_quality\": \"8K ultra-detailed\",\n      \"materials\": [\n        \"realistic plastic egg packaging\",\n        \"matte vinyl toy texture\",\n        \"natural wood grain table\"\n      ]\n    },\n    \"mood\": \"clean, playful, collectible toy advertisement aesthetic\"\n  }\n}",
+    "title": "Hyper-realistic Product Photography of Kinder Joy",
+    "description": "A highly structured JSON prompt for Nano Banana Pro, designed to generate hyper-realistic product photography of a Kinder Joy egg and a custom chibi collectible figurine, specifying composition, packaging design details based on a reference image, lighting, and material realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383467834_tj3q7c_HDL97LUacAANUi7.jpg",
+      "https://cms-assets.youmind.com/media/1773383467916_ug5psa_HDL97CkbQAAAj-4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11976,
     "content": "Surreal baroque still life perfume advertisement, a turquoise bottle of floral perfume with ornate botanical label and gold cap floating above a rustic wooden table, surrounded by symbolic objects suspended in midair: a silver chalice with white jasmine flowers, a halved fig, a split pomegranate with falling seeds, dried roses, an antique hourglass tipped on its side, and a realistic human skull. Dramatic dark stormy clouds background, moody renaissance lighting, Dutch golden age still life composition, hyper-real textures, cinematic shadows, soft volumetric light, luxury fragrance campaign photography, extremely detailed, 8k, shallow depth of field, editorial product photography.",
     "title": "Surreal Baroque Still Life Perfume Ad Prompt",

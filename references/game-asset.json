@@ -1,5 +1,46 @@
 [
   {
+    "id": 12034,
+    "content": "In a 3×3 grid, each cell should have an aspect ratio of 2:3. Show the same character from different angles while keeping the scene consistent, with randomized poses in each cell.",
+    "title": "3x3 Grid Character Consistency Prompt",
+    "description": "A prompt for Nano Banana 2 instructing the model to generate a 3x3 grid where each cell has a 2:3 aspect ratio, showing the same character from different angles with randomized poses while maintaining scene consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383487434_vu1j30_HDNWAsUbUAAViNo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12003,
+    "content": "2x2 grid, do this for 4 lesser known scifi movies <instructions>\n \nconcept: a mechanical wind-up diorama where a superhero activates and bursts free from confining comic panels in perpetual motion.\ninput variables:\n[insert superhero character]\n[insert signature action or power]\n[insert mechanical elements]\n[insert surrounding props]\nworkflow:\nbase setup: intricate brass and wood kinetic sculpture on a desk, with visible gears, springs, and [insert mechanical elements] implying automated movement.\ncore action/composition: [insert superhero character] posed mid-[insert signature action or power], breaking out of hinged comic panel frames that flip open like doors.\nvariants and details: multiple pose variants connected via hidden mechanisms, with scattered tools hinting at handmade construction.\nnarrative/interactive elements: implied perpetual motion as the figure \"escapes\" repeatedly, with engraved onomatopoeia plates.\ngod-level details: steampunk-inspired macro photography angle, warm tungsten lighting casting gear shadows, polished metal reflections and aged paper textures, hyper-realistic kinetic blur, 8k octane render with caustic light play.\n</instructions>",
+    "title": "Mechanical Wind-Up Diorama Concept",
+    "description": "A complex, structured prompt template for Nano Banana Pro designed to visualize a mechanical wind-up diorama where a superhero bursts free from comic panels, specifying base setup, core action, variants, narrative elements, and technical details like steampunk aesthetic and octane render.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383466860_gt7tm7_HDAOlFsWYAAVBHV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12043,
+    "content": "Generate an Ultra-realistic cinematic side profile portrait of a mysterious hooded warrior in a dark fantasy setting. Rugged middle-aged man with piercing glowing blue eyes, sharp jawline, thick salt-and-pepper beard, and weathered skin showing realistic pores, fine wrinkles and beard texture. Keep facial features 100% same as in uploaded image\n\nThe warrior is wearing a heavy ancient hooded cloak made from rough distressed fabric with frayed and torn edges, dark charcoal and deep blue tones. The hood partially covers his head while layered cloth wraps around his shoulders and neck like a nomadic fighter or medieval assassin.\n\nArabic calligraphy tattoo is visible across his cheekbone, inked deeply into the skin with a slightly worn ancient appearance, giving him a mystical warrior identity.\n\nLighting is dramatic warm firelight coming from the front side, casting golden highlights across the cloak and face while cool blue ambient light fills the shadows. Floating sparks and embers drift through the air around him, suggesting a nearby fire or battlefield aftermath.\n\nBackground is dark, smoky, and cinematic with glowing particles, soft bokeh, and atmospheric haze. The environment feels epic and mysterious like a dark fantasy film scene.\n\nHighly detailed fabric textures with visible fibers, dust and wear marks. Skin micro-detail is hyper realistic with subtle sweat sheen and natural imperfections.\n\nShot with an 85mm cinematic portrait lens, f/1.8 aperture, extremely shallow depth of field, ultra sharp eye focus, professional film lighting, dramatic contrast, volumetric smoke, cinematic color grading, epic fantasy realism, 8K resolution, Unreal Engine quality render, photorealistic masterpiece.",
+    "title": "Cinematic Dark Fantasy Portrait Prompt for Nano Banana 2",
+    "description": "A highly detailed prompt for generating an ultra-realistic cinematic side profile portrait of a mysterious hooded warrior in a dark fantasy setting, requiring an uploaded image to maintain facial features and specifying dramatic lighting and textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383493664_ge7pfs_HDLvXKobQAEe4bI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12039,
+    "content": "[SUBJECT] = {argument name=\"subject description\" default=\"elegant attractive young woman with blonde bob hair, large almond-shaped blue eyes, narrow nose, high cheekbones and delicate angular facial structure\"}\n[OUTFIT] = {argument name=\"outfit description\" default=\"A dark charcoal or muted navy thin knit top paired with a long, softly draped cardigan or a simple coat made from a gentle textured fabric. The look is completed with straight-cut dark trousers or a matte fabric skirt. Accessories are kept minimal, such as small earrings and a delicate thin ring. The hair appears slightly tousled and natural, avoiding an overly polished or carefully styled look.\"}\n[OUTPUT_STYLE] = cinematic realism.\n\nMake a professional character reference sheet of [SUBJECT] in [OUTPUT_STYLE] in 16:9 aspect ratio. Use a full-frame camera with a 50mm lens when rendering photographic styles. Set a plain pure white background with no environment elements. Place a large full-body front view of [SUBJECT] standing upright in a neutral pose on the left side of the sheet. Place two smaller turnaround views in the upper right section. Show a full-body back view standing upright in the same neutral pose. Show a full-body left side profile standing upright in the same neutral pose. Place one dynamic full-body action pose of [SUBJECT] in the middle right section. Place a side profile portrait close-up of [SUBJECT] in the lower right section. Show [SUBJECT] wearing [OUTFIT] consistently across all views. Keep anatomy, proportions, outfit details and hairstyle perfectly consistent across all views. Use soft studio key light from front-left. Use subtle fill light from front-right. Use a soft rim light from behind for silhouette separation. Ensure clarity, accuracy, and professional finish.",
+    "title": "Character Reference Sheet Prompt for Nano Banana",
+    "description": "A structured prompt for generating a professional character reference sheet of an elegant young woman, specifying subject details, outfit, cinematic realism style, and layout requirements including multiple views and consistent anatomy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383491103_hhni09_HDLRqnxXoAAp4Zn.jpg",
+      "https://cms-assets.youmind.com/media/1773383491140_06nvbr_HDLRrk4XsAAL6VE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11966,
     "content": "Lego racer minifigure driving at full speed down a jungle volcano slope, lava explosion behind lighting the kart in orange glow, hot rocks raining down, cartoonish panic face and comic urgency, stylized as action blockbuster LEGO scene.",
     "title": "Lego Racer on Exploding Volcano Slope",

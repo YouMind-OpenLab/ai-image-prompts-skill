@@ -56,6 +56,52 @@
     "needReferenceImages": false
   },
   {
+    "id": 12021,
+    "content": "A 3x3 grid of ultra-detailed 12K 3D-rendered tiny scenes depicting grocery shops through ages, scaled at 1:12. Placed on AI inferred material pedestal with engraved motifs. Warm afternoon rays from right create intimate, sharp castings. Panels cover 300 BC, 1000 AD, 1500 AD, 1700 AD, 1900 AD, 1950 AD, 2000 AD, 2100 AD, and future 2500 AD variants.",
+    "title": "Evolution of Grocery Shops 3D Grid Prompt",
+    "description": "A concise prompt for generating a 3x3 grid of ultra-detailed 12K 3D-rendered tiny scenes depicting the evolution of grocery shops through nine different historical periods, from 300 BC to 2500 AD.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383478935_2mwx1s_HDFrj1RaMAEqdY5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12038,
+    "content": "Hyperrealistic 3D radial exploded view of {argument name=\"product\" default=\"PRODUCT\"}  {argument name=\"number of components\" default=\"NUMBER\"} components  bursting outward from a central axis in every direction, frozen in mid-air.  True spatial explosion, not a vertical stack, depth and parallax visible.  COMPONENTS (core outward): {argument name=\"shell material\" default=\"SHELL\"} → DISPLAY → FRAME → MAINBOARD →  BATTERY → MICRO PARTS shown in 3x floating callout circles  MATERIALS: glass refracts and catches specular highlights, aluminium shows  brushed grain and machined edges, PCB traces glow faintly amber,   rubber gaskets matte with micro-texture, cables with soft bend physics.  LABELS: hairline leader to floating box. \"[COMPONENT]\" uppercase /  \"[FUNCTION]\" italic / \"[KEY SPEC]\" monospace. Radiate outward, no overlaps.  LIGHTING: cool diffused overhead + warm amber underlighting on internals +  thin blue rim on outer shell. Displays emit soft UI glow. Circuits self-illuminate.  BACKGROUND: {argument name=\"background color\" default=\"COLOR\"}, deep, non-reflective. Midnight black recommended. TITLE: \"[PRODUCT NAME]\" top right. SUBTITLE: \"[TAGLINE]\".  SPEC BLOCK: \"[SPEC 1] / [SPEC 2] / [SPEC 3]\" bottom left in monospace.  Mood: iFixit teardown meets NASA manual meets WIRED cover. 4K, tack sharp, extraordinary material fidelity.",
+    "title": "3D Radial Explosion Product Visualization Prompt for Nano Banana 2",
+    "description": "A highly structured prompt for Nano Banana 2 designed to create a hyperrealistic 3D radial exploded view of a product, detailing component layers, materials, lighting, and specific labeling requirements in the style of an iFixit teardown meets a NASA manual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383490311_9hkect_HDOPlsPX0AAdu1e.jpg",
+      "https://cms-assets.youmind.com/media/1773383490317_q8mnfv_HDOQI1QagAAyGdc.jpg",
+      "https://cms-assets.youmind.com/media/1773383490311_z2btkz_HDOPxHCWQAI7drR.jpg",
+      "https://cms-assets.youmind.com/media/1773383491016_39n75z_HDOQS2xWcAA8dbq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12058,
+    "content": "You are an expert image prompt deconstruction specialist. Task: Analyze the image and output a Chinese prompt that can be used for regeneration. Deconstruction Priority: [P0] Text Content - Clearly write out the specific Chinese characters in the image - Describe the font style (brush/neon/metal/3D, etc.) - Explain the layout and composition [P1] Visual Details - Supplement reasonable guesses for blurred parts",
+    "title": "System Prompt for Nano Banana Pro Image Prompt Deconstruction",
+    "description": "This is a system prompt designed to instruct Nano Banana Pro (an image generation model) to act as an expert image prompt deconstruction specialist. The task is to analyze an image and output a Chinese prompt that can be used to regenerate the image, prioritizing text content (P0) and visual details (P1). This is a meta-prompt used to generate other prompts, not a direct image generation prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383503371_wptd0o_HDM9MF0bgAA7_Bd.jpg",
+      "https://cms-assets.youmind.com/media/1773383503421_nzewwz_HDM9Ng4bQAA6OOv.jpg",
+      "https://cms-assets.youmind.com/media/1773383503454_y4qdk9_HDM9M6Mb0AAkEBG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12025,
+    "content": "Modern home interior turned into a clean 2D architectural blueprint floor plan 🗺️",
+    "title": "Modern Home Interior Architectural Blueprint Prompt",
+    "description": "A prompt for transforming a modern home interior into a clean 2D architectural blueprint floor plan.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383481459_362ag9_HDLFzMgbMAAvwsu.jpg",
+      "https://cms-assets.youmind.com/media/1773383481521_mq7f7z_HDLFzL1bQAAjXiw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11882,
     "content": "Five difficult points to check with this prompt:\nIf this one image is generated, please zoom in and check the following points.\n\n- Text Consistency (AI EVOLUTION 2026)\nIs the text written on the cardboard sign rendered correctly without spelling mistakes, while maintaining a \"handwritten\" texture?\n\n- Anatomical Accuracy and Interaction\nAre the old man's \"10 fingers\" naturally holding the fragile object, a glass butterfly? Are the fingers dissolving into the background or is the number incorrect?\n\n- Material Differentiation (Material Mix)\nAre materials with completely different reflectivity and transparency—\"old man's skin (wrinkles),\" \"chrome plating (mirror surface),\" \"glass (transparency),\" \"velvet (napped),\" and \"liquid (steam)\"—depicted without contradiction under the same light source?\n\n- Calculation of Space and Light (Ray Tracing Understanding)\nIs the blue luminescence of the android reflecting correctly on the old man's glasses and surrounding metal? Are there no contradictions in the shadows caused by multiple light sources?\n\n- Prompt Adherence and Attribute Separation\nIs the specified arrangement of \"old man on the left\" and \"android on the right\" maintained? Is \"Color Bleeding\" occurring, where the color of the \"red velvet\" transfers to the android's skin or the old man's clothes turn blue?",
     "title": "Benchmark Prompt for Nano Banana/Gemini Image Generation",

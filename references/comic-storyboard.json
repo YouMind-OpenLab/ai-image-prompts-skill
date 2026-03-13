@@ -1,5 +1,15 @@
 [
   {
+    "id": 12003,
+    "content": "2x2 grid, do this for 4 lesser known scifi movies <instructions>\n \nconcept: a mechanical wind-up diorama where a superhero activates and bursts free from confining comic panels in perpetual motion.\ninput variables:\n[insert superhero character]\n[insert signature action or power]\n[insert mechanical elements]\n[insert surrounding props]\nworkflow:\nbase setup: intricate brass and wood kinetic sculpture on a desk, with visible gears, springs, and [insert mechanical elements] implying automated movement.\ncore action/composition: [insert superhero character] posed mid-[insert signature action or power], breaking out of hinged comic panel frames that flip open like doors.\nvariants and details: multiple pose variants connected via hidden mechanisms, with scattered tools hinting at handmade construction.\nnarrative/interactive elements: implied perpetual motion as the figure \"escapes\" repeatedly, with engraved onomatopoeia plates.\ngod-level details: steampunk-inspired macro photography angle, warm tungsten lighting casting gear shadows, polished metal reflections and aged paper textures, hyper-realistic kinetic blur, 8k octane render with caustic light play.\n</instructions>",
+    "title": "Mechanical Wind-Up Diorama Concept",
+    "description": "A complex, structured prompt template for Nano Banana Pro designed to visualize a mechanical wind-up diorama where a superhero bursts free from comic panels, specifying base setup, core action, variants, narrative elements, and technical details like steampunk aesthetic and octane render.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383466860_gt7tm7_HDAOlFsWYAAVBHV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11973,
     "content": "Draw an illustration that captures the essence of the war between Iran and the United States & Israel as if the name of the operation was 'Operation Epic Furry.'",
     "title": "Operation Epic Furry Illustration Prompt",

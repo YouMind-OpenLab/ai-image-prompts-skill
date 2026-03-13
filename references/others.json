@@ -13,6 +13,28 @@
     "needReferenceImages": true
   },
   {
+    "id": 12045,
+    "content": "Restore and colorize the uploaded old photograph into a crystal-clear, photorealistic, high-detail image while preserving 100% of the original composition. Keep the exact same pose, expression, facial structure, proportions, framing, clothing, hairstyle, background, objects, and all details unchanged. Do not add, remove, move, or restyle anything. Remove blur, noise, scratches, fading, stains, and age-related damage. Recover natural sharpness, fine skin texture, realistic textures, true-to-life colors, and lifelike skin tones. No identity change, no stylization, no cartoon or CGI look, no plastic skin.",
+    "title": "Old Photo Restoration Prompt for Nano Banana Pro 2.0",
+    "description": "A prompt for Nano Banana Pro 2.0 designed to restore and colorize an uploaded old photograph into a crystal-clear, photorealistic, high-detail image while strictly preserving the original composition, pose, and identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383494977_4ddjzt_HDPnhk_bQAQAFBq.jpg",
+      "https://cms-assets.youmind.com/media/1773383495170_mscfq3_HDPnhkZW0AAptjv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12026,
+    "content": "Create a 3D cartoon-style woman with a rap style (the face is inspired by the reference image). She should have a large head and oversized sneakers, an extra-large hoodie with a rap-style print, loose black pants, big sunglasses, and a thick chain necklace. Place her in a fun pose, with a white background, cinematic lighting, and a highly detailed Pixar-style render.",
+    "title": "3D Cartoon Rap Style Woman Prompt",
+    "description": "A prompt for creating a highly detailed Pixar-style 3D cartoon woman with a rap aesthetic, featuring oversized clothing and accessories, inspired by a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773383482387_7cchr7_HDM1vL7bQAAce5u.jpg",
+      "https://cms-assets.youmind.com/media/1773383482353_djq20j_HDM1vIpbkAAzljr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11952,
     "content": "{\n  \"image_generation_prompt\": {\n    \"subject_settings\": {\n      \"placeholder\": \"{argument name=\"subject\" default=\"[SUBJECT GOES HERE]\"}\",\n      \"positioning\": \"absolute dead-center composition, full subject visibility, no clipping, no cutoff edges\",\n      \"presentation\": \"floating mid-air, isolated, no pedestals, no stands, no display boxes, no mannequins\"\n    },\n    \"aesthetic_style\": {\n      \"visual_theme\": \"dreamy ethereal surrealism, vintage luxury editorial, 1990s high-fashion film photography\",\n      \"texture\": \"heavy analog film grain, noisy texture, slight motion blur, soft focus dream-haze, chromatic aberration\",\n      \"lighting\": \"starburst lens flare on metallic highlights, soft glowing aura, backlit silhouette depth, no studio lights, no softboxes\"\n    },\n    \"color_palette\": {\n      \"primary_gradient\": {\n        \"top_color\": \"#1A3A5F\",\n        \"middle_color\": \"#7B9BB9\",\n        \"bottom_color\": \"#D4823B\"\n      },\n      \"description\": \"A seamless dusk-to-dawn transition from deep midnight blue to a warm, hazy amber sunset glow\"\n    },\n    \"negative_constraints\": [\n      \"text\",\n      \"watermarks\",\n      \"studio equipment\",\n      \"lighting stands\",\n      \"reflectors\",\n      \"frames\",\n      \"borders\",\n      \"cut off subject\",\n      \"out of frame\",\n      \"multiple subjects\",\n      \"cluttered background\",\n      \"plastic textures\",\n      \"hyper-realistic digital sharpness\",\n      \"clean 4k render\"\n    ],\n    \"technical_parameters\": {\n      \"aspect_ratio\": \"4:5\",\n      \"style_strength\": \"high\",\n      \"diffusion_iteration\": \"film_emulsion_simulation\"\n    }\n  }\n}",
     "title": "Dusk Ascension JSON Prompt for Nano Banana Pro",

@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 12397,
+    "content": "A highly detailed cartoon caricature portrait of an excited bearded man with thick brown hair and large black oval sunglasses, with natural smile, brown eyes, and a joyful expression. He has a trimmed brown beard and mustacheb and wears a {argument name=\"clothing item\" default=\"nike maroon nike hoodie\"} over a white shirt. Around his neck is a silver dog tag necklace engraved with the initials \"{argument name=\"initials\" default=\"X\"}\". The style is vibrant, semi-realistic caricature illustration with bold outlines, glossy eyes, detailed hair and beard texture, and dramatic facial exaggeration. Clean light gray background, centered portrait, studio lighting, ultra sharp, digital illustration, 4k, professional cartoon character design.",
+    "title": "3D Cartoon Caricature Portrait",
+    "description": "A prompt for generating a highly detailed, semi-realistic 3D cartoon caricature portrait of an excited bearded man wearing a maroon Nike hoodie and black oval sunglasses, emphasizing bold outlines, glossy eyes, and detailed hair texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816075125_eglkxo_HDoInOgbEAMSVRR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12401,
+    "content": "Black-and-white fine art studio portrait of the uploaded person, seated with both hands resting naturally in front, relaxed and composed. Slightly messy hair softly framing the face, natural smooth skin tones, wearing a clean white shirt. Calm, thoughtful expression while looking directly at the camera. Shot from a subtle cinematic angle (not strict eye level). Minimalist studio setup with a plain grey backdrop, soft diffused cinematic lighting creating gentle shadows and depth. Elegant, sophisticated mood, ultra-realistic textures, sharp facial details, professional photography quality, high contrast, smooth tonal gradation, 8K resolution, no noise, no pixel loss.\n\nT-Shirt : Black-and-white fine art studio portrait of the uploaded person, seated with both hands resting naturally in front, relaxed and composed. Slightly messy hair softly framing the face, natural smooth skin tones, wearing a clean white oversized Tshirt. Calm, thoughtful expression while looking directly at the camera. Shot from a subtle cinematic angle (not strict eye level). Minimalist studio setup with a plain grey backdrop, soft diffused cinematic lighting creating gentle shadows and depth. Elegant, sophisticated mood, ultra-realistic textures, sharp facial details, professional photography quality, high contrast, smooth tonal gradation, 8K resolution, no noise, no pixel loss.",
+    "title": "Black-and-White Fine Art Studio Portrait Prompt",
+    "description": "A detailed prompt for generating a black-and-white fine art studio portrait using Nano Banana 2. The prompt specifies a seated subject (based on an uploaded person), relaxed pose, slightly messy hair, natural skin tones, a clean white shirt, a calm expression, cinematic angle, minimalist grey backdrop, soft diffused cinematic lighting, and ultra-realistic, high-contrast textures in 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816077025_kyvxtp_HDkzGjJbEAA9AUE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12309,
     "content": "Create A Cinematic Fashion-editorial Portrait Of A Person Using Their Photo As Identity Reference, Rendered In A Clean Flat Vector Illustration Style With Smooth Geometric Shapes, Crisp Outlines, And Simplified Facial Geometry, Framing Centered Head-and-shoulders Composition With Symmetrical Alignment, Subject Facing Forward With Relaxed Posture And A Subtle Friendly Smile Styling Minimal Modern Casual With A Simple Dark Crew-neck Shirt And Thin Round Eyeglasses, Paired With Small Wireless Earbuds As Understated Accessories, Background A Flat Warm Beige Studio Tone (#ebdbc6) With No Gradients Or Textures To Maintain A Graphic Design Aesthetic, Lighting Implied Through Stylized Flat Color Blocking Rather Than Realistic Shading, With A Gentle Warm Highlight Tone (-4800k) On One Side Of The Face And A Slightly Darker Tonal Block On The Opposite Side To Create Minimal Dimensional Contrast, Reflections Extremely Subtle On The Glasses Lenses, Lens Simulation Conceptually Equivalent To A Neutral Portrait Crop (50-70mm) Translated Into A Flat Graphic Design Perspective With No Depth Blur; Texture Perfectly Smooth Matte Vector Surfaces With Solid Color Fills And Clean Edges, Color Palette Warm Skin Tones, Muted Peach And Coral Accents, Charcoal Black Hair And Clothing, And Soft Beige Background, Overall Mood Friendly, Approachable, Modern Tech-avatar Aesthetic Suitable For Product Design Or Ui Identity Illustration Editorial, Modern, High-detail, Cinematic Composition, Ultra-realistic Textures, Professional Fashion Photography Style",
     "title": "Cinematic Vector Fashion Portrait",

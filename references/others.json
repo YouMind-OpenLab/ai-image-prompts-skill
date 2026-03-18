@@ -13,6 +13,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 12430,
+    "content": "Mozart\nFrom Requiem in D minor, K.626\n{argument name=\"piece name\" default=\"Dies Irae\"}",
+    "title": "Mozart's Dies Irae Image Generation",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate an image based on Mozart's Requiem in D minor, K.626, specifically the 'Dies Irae' (Day of Wrath).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816094806_p5silt_HDot0dQbEAINpMQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12427,
+    "content": "Mozart\nRequiem in D minor, K.626\n{argument name=\"piece name\" default=\"Dies Irae\"}\nMunch's Scream style",
+    "title": "Mozart's Dies Irae in Munch's Scream Style",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate an image based on Mozart's Requiem, specifically 'Dies Irae' (Day of Wrath), rendered in the style of Edvard Munch's 'The Scream.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816092887_ddk1tl_HDotDvDbEAE7XTC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12431,
+    "content": "Mozart\nDon Giovanni\n{argument name=\"scene\" default=\"The Last Supper\"}",
+    "title": "Mozart's Don Giovanni: The Last Supper",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate an image based on Mozart's opera Don Giovanni, specifically depicting 'The Last Supper,' likely featuring characters like Don Giovanni, Leporello, and the Commendatore's ghost.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816095680_5rixfw_HDnND4TbEAg36zQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12328,
     "content": "in the surreal, hyper-detailed art style of {argument name=\"artist\" default=\"Zhou Song\"}, a whimsical totem-like stack featuring a melting {argument name=\"top object\" default=\"ice cream cone\"} perched on top of a glossy striped beachball, which balances precariously on a heavy polished bowling ball, intricate textures and reflections on each surface, soft studio lighting with subtle colored highlights, clean minimal background to emphasize the strange vertical composition, high resolution, highly detailed, dreamlike yet slightly uncanny atmosphere",
     "title": "Surreal hyper-detailed totem stack prompt",

@@ -1,5 +1,45 @@
 [
   {
+    "id": 12420,
+    "content": "4-panel manga\nTitle: Judgment of the Ministry of Magic\n\nCache (reality)\nand\nCache (footprints)\n\nWhat is the weight of cache...",
+    "title": "Four-Panel Manga Prompt: Judgment of the Ministry of Magic",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'Judgment of the Ministry of Magic,' focusing on the concept of 'cache' (reality) versus 'cache' (footprints) and the weight of cache.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816088470_hbe45v_HDorYaSbEAA33ox.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12426,
+    "content": "4-panel manga\nTitle:\nThe Long Road to 170 Yen Gasoline Price\n\nReiwa Roman edition",
+    "title": "4-Panel Manga: The Long Road to 170 Yen Gasoline Price",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a 4-panel manga titled 'The Long Road to 170 Yen Gasoline Price,' featuring the comedy duo Reiwa Roman, likely commenting on high gasoline prices.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816091521_1xpl3n_HDmwR5VbEAEMRlR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12423,
+    "content": "4-panel manga\nTitle:\n'Oil Rush Panic'\n\nViking?\n\nOnly Eiji Kotouge\nBarely...\n\nOthers changed characters",
+    "title": "Four-Panel Manga Prompt: Oil Rush Panic",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'Oil Rush Panic,' mentioning the comedy duo Viking and specifically the member Eiji Kotouge.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816090097_a2qlj6_HDmvLPRbEAEDpXq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12434,
+    "content": "A highly stylized, single-panel sequential art illustration, executed in the classic 1960s Pop Art comic book aesthetic (Roy Lichtenstein inspired). The scene features a startled woman seated on a plush, magenta mid-century modern couch, frozen in an act of surprise. She wears vibrant, high-contrast clothing and is conspicuously holding a single, bright yellow banana. The background shows a door dramatically flung open, revealing a towering, solid black silhouette of a man framed by deep shadows. The entire image is rendered using thick, heavy black ink outlines, exaggerated facial expressions, and pervasive Ben-Day halftone dots. A large, dynamic speech bubble, shaped like a yellow starburst, bursts from the woman's mouth, containing the bold, capitalized text: \"{argument name=\"speech bubble text\" default=\"IT'S NOT WHAT IT LOOKS LIKE!\"}\" High contrast lighting, vibrant primary color palette, cinematic comic book framing.",
+    "title": "Pop Art comic book illustration prompt for Nano Banana Pro",
+    "description": "A detailed prompt for Nano Banana Pro to generate a highly stylized, single-panel sequential art illustration in the classic 1960s Pop Art comic book aesthetic (Roy Lichtenstein inspired), featuring a startled woman holding a banana and a man's silhouette in the doorway, complete with Ben-Day dots and a starburst speech bubble.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816098152_7dmlw2_HDmiRxQX0AAdDHs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12363,
     "content": "While the cherry blossoms are blooming, {argument name=\"character name\" default=\"Haruka\"} is walking around town eating a chocolate crepe.\n\nShe is pointing at the reader, as if saying, \"New serialization starts this week!!\"",
     "title": "Manga Magazine Cover Prompt for Nano Banana Pro",

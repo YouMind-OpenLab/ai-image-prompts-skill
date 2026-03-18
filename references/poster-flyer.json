@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 12412,
+    "content": "Ultra-realistic fashion advertisement poster, minimalist editorial style.\nBackground: solid warm beige studio backdrop with soft gradient lighting, smooth clean texture.\nMain subject: a stylish young woman in a low squat pose, body slightly turned sideways, one arm resting on knee, other hand touching back of head. Expression calm, confident, slightly looking sideways (not directly at camera).\nOutfit (keep EXACT):\nSleeveless beige/tan high-neck top\nSlim beige pants\nBrown suede ankle boots with block heels\nLight brown jacket placed casually near her feet\nMinimal accessories: small hoop earrings, thin bracelet\nHair: straight, shoulder-length, natural dark brown, side-parted\nMakeup: soft natural tones, clean skin, subtle glow\n⚠️ Face: [REPLACE FACE WITH PROVIDED IMAGE / KEEP FACE GENERIC IF NOT PROVIDED]\n(ensure seamless blending, same lighting, same skin tone, hyper-realistic)\nTypography & Layout (EXACT SAME STYLE)\nTop: Large bold condensed sans-serif text in dark red: FINAL HOURS (very large, stretched across width, behind subject partially)\nLeft side: Small text: UP TO\n60% OFF\nSELECTED ITEMS\nRight side: ENDS\n31.12\n12 PM\nBottom: ⚠️ NO WEBSITE TEXT (REMOVE COMPLETELY)\nLighting & Style\nSoft studio lighting, warm tone\nSubtle shadows under subject\nClean editorial magazine look\nSlight depth but mostly flat poster style\nMatte finish, no gloss\nPerfect alignment, balanced spacing",
+    "title": "Fashion Advertisement Poster Generation",
+    "description": "A highly specific prompt for Nano Banana Pro (referred to as Gemini Nano Banana 2) to generate an ultra-realistic fashion advertisement poster featuring a woman in a low squat pose, with detailed instructions for outfit, lighting, and the exact placement and content of typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816083237_gxsavr_HDntzR9akAAdzyp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12409,
+    "content": "An illustration of a funny little {argument name=\"creature\" default=\"leprechaun\"} holding a mug of frothy beer, standing next to a pot of gold at the end of a rainbow. With text that reads, '{argument name=\"text overlay\" default=\"I BRING BOTH THE MALARKEY AND THE SHENANIGANS\"}'.",
+    "title": "Leprechaun Illustration with Custom Style",
+    "description": "A prompt shared for Nano Banana Pro, designed to generate an illustration of a funny leprechaun holding a mug of beer next to a pot of gold, including text overlay. The prompt is intended to be used with a custom 'stopmotionweird' style on Freepik's AI generator.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816081304_zb05dg_HCmWzvRXUAUsTF9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12366,
     "content": "Please design an \"Enka CD jacket\" released by the person shown in the reference image, using them as the same individual.\n\nImportant:\n・Faithfully reproduce the face and features of the person from the reference image\n・Do not be bound by the composition, camera angle, pose, or background of the original image\n・Boldly reconfigure the composition for the new CD jacket\n・Create a highly finished design, like a real Enka CD jacket\n\nDesign Elements:\n・Dramatic and emotional atmosphere typical of Enka\n・Design resembling Showa to modern Enka CD jackets\n・The person should be centrally or impressively placed\n・Strong emotional expression (melancholy, determination, sadness, etc.)\n・The background can be freely changed. It should be an emotional and dramatic background that expresses the world view of Enka.\n\nTitle:\n・Infer from the atmosphere and character of the person in the reference image and create a new \"plausible Enka title\"\n・The title should be displayed prominently on the jacket\n・Japanese title in Enka style\n・Brush-style font\n\nAdditional Elements:\n・Layout like a real CD jacket\n・High quality, print-level quality\n\nStyle:\nJapanese Enka CD jacket\nDramatic lighting\nComposition like a movie poster\nHigh resolution\nProfessional graphic design\n\nDo not display any of the following elements:\n・Barcode\n・Price display\n・JAN code\n・Record company logo\n・CD label logo\n・Copyright notation\n・Release date\n・Model number\n・Product number\n・Campaign sticker\n・Sticker\n・Promotional badge\n・Obi (spine card)\n・Sales label\n・Streaming service logos\n・Icons such as Spotify / Apple Music\n・QR code\n\nText information should only include the \"Enka Title\" and \"Singer Name.\" A \"Subtitle\" may also be displayed.\nNo other characters, symbols, or numbers should be displayed.\nAll sales information typically seen on commercial CD packages is prohibited.",
     "title": "Enka CD Jacket Design with Nano Banana 2",

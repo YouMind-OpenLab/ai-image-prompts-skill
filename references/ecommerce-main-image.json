@@ -1,5 +1,29 @@
 [
   {
+    "id": 12403,
+    "content": "Hyper-realistic lifestyle product shot of a cold FANTA – {argument name=\"flavor\" default=\"Buko Pandan\"} can placed upright on a weathered wooden table on a tropical beach. The can is glistening with condensation under warm golden-hour sunlight. Surrounding elements include halved coconuts, pandan leaves, green jelly cubes, and melting ice scattered naturally. In the background, soft-focus palm trees and ocean waves create a dreamy bokeh effect. Composition is balanced and inviting, with warm highlights and soft shadows. Shot in commercial beverage style, shallow depth of field, cinematic framing, vibrant tropical tones, ultra-detailed textures, 8K resolution.",
+    "title": "Hyper-realistic Fanta Product Shot Prompt",
+    "description": "A prompt for Gemini Nano Banana Pro to create a hyper-realistic lifestyle product shot of a cold Buko Pandan flavored FANTA can on a weathered wooden table on a tropical beach. The scene includes condensation, golden-hour sunlight, halved coconuts, pandan leaves, green jelly cubes, and melting ice, emphasizing commercial beverage style, shallow depth of field, and vibrant tropical tones in 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816077326_zeytvv_HDn6bSDakAABxuf.jpg",
+      "https://cms-assets.youmind.com/media/1773816077355_off7ts_HDn6bSIbEAUDO9B.jpg",
+      "https://cms-assets.youmind.com/media/1773816077357_szyjqh_HDn6bTWbUAAl27F.jpg",
+      "https://cms-assets.youmind.com/media/1773816078310_knwiox_HDn6bWEakAAMVbQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12416,
+    "content": "Minimalist cosmetic product photography of a berry lip sleeping mask jar (LANEIGE style), placed in the center of a soft inflated ring cushion, surrounded by fresh strawberries, raspberries, and glossy juice droplets. Pink monochrome background, circular composition, top-down view, soft studio lighting, high gloss textures, creamy and juicy aesthetic, luxury skincare advertisement, ultra-detailed, 8K, sharp focus, vibrant reds and soft pastel tones.\n\nPremium skincare product shot of a lip sleeping mask jar, centered inside a smooth white donut-shaped cushion, surrounded by sliced berries and whole strawberries. A bold red glossy smear brush stroke above the product, pink background, clean minimal layout, top view, soft diffused lighting, high-end beauty campaign style, hyper-realistic textures, fresh juicy aesthetic, cinematic lighting, ultra-detailed, 8K resolution.",
+    "title": "Minimalist Cosmetic Product Photography Prompts for Nano Banana Pro",
+    "description": "Two detailed prompts for Nano Banana Pro focusing on high-end, minimalist cosmetic product photography of a berry lip sleeping mask, emphasizing glossy textures, vibrant colors, and a clean, luxury aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773816084791_h9r34p_HDmKWvUbMAAsdFv.jpg",
+      "https://cms-assets.youmind.com/media/1773816084798_xem46i_HDmKWvRbQAA-bFW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12335,
     "content": "Prompt1 : 3D floating cosmetic bottle, gradient from juicy strawberry red to fresh kiwi green, modern white typography, background with strawberries and kiwi slices, bright airy lighting --ar 2:3 --stylize 400\n\nPrompt 2: 3D floating cosmetic bottle, gradient from cherry blossom pink to lychee white, modern white typography, background with cherry blossoms and lychee fruits, soft airy lighting --ar 2:3 --stylize 400\n\nPrompt 3: 3D floating cosmetic bottle, gradient from creamy coconut white to pineapple yellow, modern white typography, background with coconut halves and pineapple rings, tropical airy lighting --ar 2:3 --stylize 400\n\nPrompt 4: 3D floating cosmetic bottle, gradient from deep cherry red to grape purple, modern white typography, background with cherries and grapes, glossy airy lighting --ar 2:3 --stylize 400\n\nPrompt 5: 3D floating cosmetic bottle, gradient from cherry blossom pink to lychee white, modern white typography, background with cherry blossoms and lychee fruits, soft airy lighting --ar 2:3 --stylize 400",
     "title": "3D Floating Cosmetic Bottle Product Shots",

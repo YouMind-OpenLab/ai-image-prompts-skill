@@ -1,5 +1,16 @@
 [
   {
+    "id": 12438,
+    "content": "Transform this image into a modern content creator studio. Place the subject sitting at a desk with a professional podcast setup, including a mounted microphone arm and studio microphone in front of them. Add acoustic foam panels on the walls for a soundproof studio look. Include colorful LED tube lights (blue and pink tones) in the background for a cinematic YouTube aesthetic. He's wearing a nice jacket with nice apple airpods.Keep the subject’s face realistic and unchanged, with natural skin tones. Add soft, professional lighting on the face (key light + subtle rim light).\nStyle: high-quality YouTube creator setup, cinematic lighting, vibrant but clean colors, sharp focus, professional studio environment, modern and minimal.",
+    "title": "Image Transformation Prompt for Nano Banana Pro (Content Creator Studio)",
+    "description": "A prompt for Google Nano Banana Pro that instructs the model to transform an existing image by placing the subject in a modern content creator studio setting, adding professional podcast equipment, acoustic foam, and cinematic LED lighting, while preserving the subject's face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902654437_eb5buk_HDuy3wKb0AAGQlp.jpg",
+      "https://cms-assets.youmind.com/media/1773902654564_ymnw9n_HDuy3wLb0AAB7dv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12402,
     "content": "A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.",
     "title": "Cinematic 3x3 Grid Camera Angle Prompt",

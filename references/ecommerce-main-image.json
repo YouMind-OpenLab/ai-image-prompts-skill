@@ -1,5 +1,38 @@
 [
   {
+    "id": 12442,
+    "content": "Prompt 1:\n\nMinimalist luxury product photography of a collagen supplement jar placed on a soft pastel peach background, cylindrical pedestal base, surrounded by fresh pineapple and sliced grapefruit, a small glass cup with golden liquid in front, warm sunlight casting soft palm leaf shadows, clean aesthetic, high-end skincare branding, soft diffused lighting, realistic textures, subtle reflections, shallow depth of field, editorial style, 4k, ultra-detailed.\n\nPrompt 2:\nPremium skincare product shot of a white collagen cream jar with metallic lid on a round pedestal, tropical fruits (pineapple and grapefruit slices) arranged around, a glass cup filled with amber liquid, peach monochrome background with palm shadow overlay, soft warm lighting, minimal composition, luxury beauty advertisement style, smooth gradients, high realism, sharp focus, studio lighting, 4k resolution.",
+    "title": "Minimalist Luxury Product Photography Prompts",
+    "description": "Two detailed prompts for generating high-end, minimalist luxury product photography shots of a collagen supplement jar, emphasizing specific backgrounds, lighting (warm sunlight/studio), and surrounding elements (pineapple, grapefruit, golden liquid), using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902657481_as7uto_HDrv268a4AASFat.jpg",
+      "https://cms-assets.youmind.com/media/1773902657412_2oeack_HDrv27Fa8AArXh_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12456,
+    "content": "Protein Shake (Banana + Almond)\nPrompt:\nHyper-realistic product advertisement of a protein shake can with yellow and cream design, surrounded by floating banana slices, almonds, and peanuts, dynamic milk splash bursting around the can, glossy condensation droplets on surface, vibrant warm yellow background, high-speed splash photography, ultra-detailed textures, commercial food photography style, dramatic lighting, 8K.\n\n Grape Soda (Purple Splash)\nPrompt:\nPremium soda can in deep black and purple theme, surrounded by fresh grapes, mint leaves, and citrus slice, explosive purple liquid splash frozen mid-air, glossy reflections and water droplets on can, dark moody background with neon highlights, cinematic lighting, ultra-realistic product photography, high contrast, 8K.\n\nEnergy Drink (Pomegranate Splash)\nPrompt:\nVibrant red energy drink can bursting open with juicy pomegranate seeds and slices flying outward, dynamic red liquid splash, fresh green leaves adding contrast, glossy wet surface with condensation, bold red gradient background, high-speed action capture, commercial beverage ad style, ultra-detailed, 8K.",
+    "title": "Product Advertisement Prompts for Nano Banana Pro on Gemini",
+    "description": "Three separate prompts for Nano Banana Pro, designed to generate hyper-realistic commercial product advertisements for different beverages: a Protein Shake (banana/almond), Grape Soda, and an Energy Drink (pomegranate). Each prompt specifies ingredients, liquid splash dynamics, condensation, lighting, and 8K resolution for a commercial food photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902665512_friijp_HDq3LuhbEAAvJ2m.jpg",
+      "https://cms-assets.youmind.com/media/1773902665495_9nbf3k_HDq3LuvbAAAAyDB.jpg",
+      "https://cms-assets.youmind.com/media/1773902665618_q8v5nw_HDq3LukbAAAvpTm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12455,
+    "content": "Scene Description: A high-resolution, cinematic, macro, vertical photograph (9:16 aspect ratio). A single, large, perfect red strawberry stands perfectly upright at the center of a rich, deep red pool of viscous strawberry syrup. This central strawberry is heavily dusted with fine, powdered pink berry residue, particularly around its intact green leafy hull, and is slick with intricate, visible condensation water droplets, giving it a cool, textured appearance.\nKey Visual Effects: Delicate, intricate, wispy plumes of white steam or smoke curl and rise from the top of the strawberry, creating a dramatic, ethereal interaction with the dark, moody, textured background, suggesting a culinary or frozen process.\nEnvironment and Details: The strawberry syrup pool is set on a dark, textured slate surface. Around the pool, a natural, textured frame is created by scattered smaller fresh wild strawberries, delicate pink wild strawberry flowers, additional powdered berry dust, and small strawberry slices. All these elements form a detailed, natural setting.\nLighting and Style: The lighting is dramatic and sidelit, precisely highlighting every single texture, water droplet, powdered particle, and smoke tendril. The entire scene has a strong sense of depth and cinematic drama, tightly focused on the central strawberry.\nAspect Ratio: Vertical 9:16 (or 9 to 16).",
+    "title": "Cinematic Macro Photograph of a Strawberry in Syrup",
+    "description": "A detailed, structured prompt for Gemini Nano Banana 2 to generate a high-resolution, cinematic, macro photograph of a single red strawberry standing in a pool of syrup, emphasizing dramatic lighting and texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902665557_d1d8rl_HDqnAEVbEAEMbsW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12403,
     "content": "Hyper-realistic lifestyle product shot of a cold FANTA – {argument name=\"flavor\" default=\"Buko Pandan\"} can placed upright on a weathered wooden table on a tropical beach. The can is glistening with condensation under warm golden-hour sunlight. Surrounding elements include halved coconuts, pandan leaves, green jelly cubes, and melting ice scattered naturally. In the background, soft-focus palm trees and ocean waves create a dreamy bokeh effect. Composition is balanced and inviting, with warm highlights and soft shadows. Shot in commercial beverage style, shallow depth of field, cinematic framing, vibrant tropical tones, ultra-detailed textures, 8K resolution.",
     "title": "Hyper-realistic Fanta Product Shot Prompt",

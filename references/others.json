@@ -13,6 +13,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 12482,
+    "content": "Jolivet (Composer)\nPachinko for Two Pianos\nThe pianists are\nJolivet and Jolivet's\nDoppelgänger",
+    "title": "Image generation for Jolivet's 'Pachinko for Two Pianos'",
+    "description": "A prompt for Nano Banana Pro (using Gemini 3 Pro Image) to generate an image based on the musical piece 'Pachinko for Two Pianos' by André Jolivet, featuring Jolivet and his doppelgänger as pianists.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902681920_vessva_HDsUfkRasAAgHyx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12489,
+    "content": "{argument name=\"composer\" default=\"Jolivet\"} (Composer)\n{argument name=\"piece\" default=\"Pachinko for Two Pianos\"}\nThe pianists are\nJolivet and Jolivet's\nDoppelgänger\n{argument name=\"style\" default=\"Cyberpunk\"}",
+    "title": "Jolivet's Pachinko for Two Pianos",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) to create a cyberpunk image related to the composer Jolivet and his piece 'Pachinko for Two Pianos,' featuring Jolivet and his doppelgänger as pianists.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902685451_fm8j76_HDsT94YboAADMll.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12430,
     "content": "Mozart\nFrom Requiem in D minor, K.626\n{argument name=\"piece name\" default=\"Dies Irae\"}",
     "title": "Mozart's Dies Irae Image Generation",

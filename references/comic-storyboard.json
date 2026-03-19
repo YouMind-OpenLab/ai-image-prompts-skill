@@ -1,5 +1,56 @@
 [
   {
+    "id": 12484,
+    "content": "Anime prompt for \"{argument name=\"title\" default=\"Sharon, the Out-of-Control Girl!\"}\" (『ハチャメチャ暴走娘シャロン！』)",
+    "title": "Static Image Generation from Anime Prompt",
+    "description": "A prompt used with DeeVid AI's Nano Banana Pro to generate nine static images suitable for a picture-story show (Kamishibai) from an anime prompt titled 'Sharon, the Out-of-Control Girl!'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902683048_5ygw4j_HDt_XXObUAE5ueh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12487,
+    "content": "4-panel manga\nTitle\n{argument name=\"title_en\" default=\"Judgment of the Ministry of Magic: Confrontation with Demaon\"}\n\nDemaon\nNobita's Great Adventure into the Underworld\n\nIt was supposed to be Demaon\nBut it didn't seem to match... lol",
+    "title": "Four-Panel Manga: Judgment of the Ministry of Magic",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) to create a four-panel manga titled 'Judgment of the Ministry of Magic: Confrontation with Demaon,' referencing Doraemon's 'Great Adventure into the Underworld.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902684319_5o1i4d_HDuBvyebsAA5UMb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12486,
+    "content": "4-panel manga\nTitle\n{argument name=\"title_en\" default=\"Personal Universe\"}\n\nIt's about an individual (pillar) and the universe...\n\nOmitted",
+    "title": "Four-Panel Manga: Personal Universe",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) to create a four-panel manga titled 'Personal Universe,' related to the concept of an individual (pillar) and the universe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902683901_t6ew8i_HDt__33aUAADq9O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12443,
+    "content": "A cinematic speed-motion shot of the uploaded reference character captured mid-slide on a rain-slicked, neon-drenched cyberpunk street. The focus is equally on the reflection and the character, forming a dual-layer composition. Likeness Preservation (CRITICAL): Maintain exact proportions, eye shape, spacing, stylization, silhouette, and material identity from the reference. Do not humanize. Do not reinterpret anatomy. Do not modify facial structure. Identity must remain perfectly intact and instantly recognizable. 2D to 3D Translation (ONLY if input is 2D artwork): If the uploaded reference is 2D (illustration, anime, flat graphic, cel-shaded), convert it into a fully realized 3D cinematic form while preserving exact identity fidelity. Maintain exact head shape, eye design, spacing, and proportions. Preserve original stylization, do NOT add realism that alters design language. Translate linework into subtle surface geometry or shading transitions. Keep original colors, expressed through physically believable materials. Convert flat shading into controlled cinematic light falloff. The result must feel physically real, not redesigned. Camera & Perspective: Ultra-low angle, camera positioned just centimeters above the wet pavement. Lens: 18–20mm ultra-wide. Slight Dutch tilt (5–10 degrees) to destabilize the frame. Front three-quarter perspective. One limb or body part must be closer to the lens, creating perspective pressure. Composition (Reflection Dominance): The character slices diagonally across the upper half of the frame. The lower half is dominated by a sharp but slightly distorted reflection. Vertical neon signs in the background must mirror into the wet ground, forming strong graphic lines. The composition must feel off-balance and tension-driven, not centered or stable. Pose Enforcement (CRITICAL — OVERRIDE ALL DEFAULT STANCES): The character must NOT be upright, balanced, or casually sliding. The pose must represent loss of balance under high speed. The torso is pitched aggressively forward, close to the ground. One limb forcefully contacts the wet surface, creating splash and friction. The opposite limb extends outward or backward, fully stretched for counterbalance. Legs are asymmetrical: one trailing, one collapsing or stepping incorrectly. Spine forms a diagonal or curved line, never vertical. Head leads the motion slightly ahead of the torso. Weight Distribution: Weight is NOT centered. It collapses toward the contacting limb and forward motion. Ground Interaction (MANDATORY): Water splashes outward from impact points. Friction streaks beneath sliding limb. Surface tension visibly disturbed. Energy Read: The pose must feel like mid-fall recovery, evasive maneuver at high speed, barely controlled momentum. NOT clean skating, surfing, balanced glide, or upright slide. Perspective Amplification: At least one limb must appear larger due to proximity to the lens, enhancing speed and aggression. Motion & Blur: Directional motion blur trailing from the lowest moving limbs. Sharp focal plane on the face or upper torso. Background and trailing limbs fall into controlled blur. Lighting & Color (Cyberpunk Neon): Hard directional neon lighting from off-screen vertical sources. Color palette: deep cyan, magenta, electric yellow. Lighting behavior: sharp highlights on wet surfaces, strong rim light separating silhouette, deep shadow pockets. No flat lighting. Surface Detail (Hyper-Reflective): Wet pavement must feel physically real: mirror-like reflections with ripple distortion, micro scratches and pooling water, subtle rain impact patterns. Character materials slightly darkened from moisture. Atmosphere: Heavy rain and mist in the background. Volumetric light beams cutting through haze. Dense air perspective. Foreground may include subtle water droplets or mist near lens for depth. Emotion: Urgency. Instability. High-stakes motion. The character is either escaping or chasing. Negative Constraints: No centered composition. No upright balanced pose. No clean symmetrical stance. No dry surfaces. No flat reflections. No studio lighting. No evenly sharp full-frame clarity. No static posture. Background Pixel Wall Art (Depth-Controlled): Replace the LED sign with a weathered wall-mounted pixel-art mural or printed panel of the character. The pixel version must preserve silhouette and identity but appear faded, worn, and partially damaged. Printed or painted on a rough wall surface, not glowing like a screen. Subtle grime, scratches, peeling, or moisture distortion. Colors desaturated and affected by environment. Depth Control (CRITICAL): Must sit clearly in the background plane. Slightly obscured by haze, rain, or foreground motion. Edges softened, not crisp. Reduced contrast compared to main subject. Lighting Integration: Does NOT emit light. Only receives ambient neon spill. Partially falls into shadow. Pixel Art Identity Lock (CRITICAL): The pixel-art version must be a direct downscaled translation of the original character, not a reinterpretation. Preserve exact silhouette, head shape, and proportions. Preserve exact eye shape and spacing in simplified pixel form. Use the same facial structure logic — do NOT invent or add features. STRICT PROHIBITIONS: No added nose. No added mouth. No added facial features that do not exist in the original. No stylization drift toward generic pixel characters. If the original character has a minimal or abstract face, the pixel version must remain equally minimal. Foreground Chaos Layer (CRITICAL – DEPTH & IMMERSION): Introduce aggressive near-lens elements that partially obstruct the frame and enhance depth. Near-Lens Elements: Water droplets, splashes, or streaks crossing very close to the camera. Out-of-focus rain particles catching neon light. Small debris or mist fragments passing across the lens plane. These elements must feel physically between the viewer and the character, not part of the background. Depth Behavior (MANDATORY): Foreground elements are heavily out of focus due to proximity. Large soft bokeh shapes or streaks may partially cover edges of the frame. Some elements may briefly occlude parts of the character or reflection. The frame must feel layered: foreground chaos, main subject, background environment. Lens Interaction (IMPORTANT): Subtle water streaks or droplets may appear on the lens surface. Slight distortion or refraction through droplets is allowed. Effects must remain minimal and believable, never covering the focal subject completely. Lighting Interaction: Foreground particles catch neon light (cyan, magenta, yellow). Creates glowing streaks or soft colored flares. Adds dimensional separation between planes. Composition Impact: Frame edges may feel dirty or partially blocked. The image should NOT feel clean or perfectly framed. Slight visual interference is intentional. Emotion: The viewer feels inside the scene, not watching it. ar 16:9",
+    "title": "High-Speed Cinematic Cyberpunk Scene Prompt",
+    "description": "A highly detailed, multi-section prompt designed to turn an uploaded character reference into a photorealistic, high-speed cinematic scene on a rain-slicked cyberpunk street, emphasizing strict identity preservation, specific camera angles, and dynamic pose enforcement, recommended for Nano Banana 2 (Thinking Mode).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902657351_abdtvq_HDs0C91XYAAH6Jw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12485,
+    "content": "4-panel manga\nTitle\n{argument name=\"title_en\" default=\"Double Accounting\"}\n\nKotoge Moto\nWig is amazing...\n\nLooks like a different person lol",
+    "title": "Four-Panel Manga: Double Accounting",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) to create a four-panel manga titled 'Double Accounting,' featuring characters Koto-ge Moto and Katsura.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902683546_d5n4am_HDsRW3CakAAR-_v.jpg",
+      "https://cms-assets.youmind.com/media/1773902683691_4zdf8k_HDsRW2TbwAA9pSh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12420,
     "content": "4-panel manga\nTitle: Judgment of the Ministry of Magic\n\nCache (reality)\nand\nCache (footprints)\n\nWhat is the weight of cache...",
     "title": "Four-Panel Manga Prompt: Judgment of the Ministry of Magic",

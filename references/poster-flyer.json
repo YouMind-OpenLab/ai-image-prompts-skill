@@ -20,6 +20,49 @@
     "needReferenceImages": false
   },
   {
+    "id": 12480,
+    "content": "A poster for Dune, the main subject is all the protagonists (without mentioning detailed personnel), the background is the desert, and the style is Moebius (Mobis Style)",
+    "title": "Dune Poster in Moebius Style (Multi-Model Test)",
+    "description": "A prompt used to generate a movie poster for Dune 2 featuring all main characters, set against a desert background, and rendered in the distinct style of Moebius. This prompt was tested across multiple AI models, including Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902679276_dk1aob_HDq6BaVbEAMBfaJ.jpg",
+      "https://cms-assets.youmind.com/media/1773902679669_twn1ei_HDq7kaHbIAEZEJF.jpg",
+      "https://cms-assets.youmind.com/media/1773902679549_wp06pt_HDq6DGJaEAAjouo.jpg",
+      "https://cms-assets.youmind.com/media/1773902680144_5ynin4_HDq8NBNbUAAOws4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12477,
+    "content": "Create a distant landscape painting using {argument name=\"main background color\" default=\"#f6f4f0\"} as the main background, {argument name=\"main blue color\" default=\"#2d6dc3\"} as the main blue, and also including some orange elements",
+    "title": "Landscape Painting with Color Palette for Nano-Banana-Pro",
+    "description": "A prompt for generating a distant landscape painting using nano-banana-pro, specifying a color palette with a light background and a primary blue, accented with orange elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902678121_t1pjq1_HDqWHQgbQAAX4xu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12472,
+    "content": "Ultra-realistic high-end fashion advertisement poster, minimalist editorial magazine style.\n\nSTRICT LAYOUT (do not change anything):\nVertical split composition.\nRight side: full-body fashion model.\nLeft side: beige editorial panel with text + image frames.\n\nMODEL (KEEP EVERYTHING SAME, ONLY CHANGE FACE As GIVEN IN REFRANCE IMAGE):\nA stylish young woman standing in a relaxed confident pose, body slightly turned sideways, head turned to the right (looking away from camera).\nOne hand inside pant pocket, other hand holding a brown leather bag.\n\nOutfit (exact):\n\n{argument name=\"outfit piece 1\" default=\"Beige/tan oversized blazer\"}\n\nSoft white V-neck blouse\n\nHigh-waisted beige tailored trousers\n\nMinimal gold necklace\n\nSmall earrings\n\nFACE REPLACEMENT (VERY IMPORTANT):\nUse the face from the provided reference image.\nSeamlessly blend the reference face onto the model’s head.\nMatch skin tone, lighting, shadows, and color grading perfectly.\nKeep same head angle and expression as original pose.\nEnsure realistic identity preservation (no distortion, no mismatch).\nUltra-clean face integration, professional fashion photography quality.\n\nLIGHTING & STYLE:\nSoft warm studio lighting, diffused, subtle shadows, luxury editorial look.\nBeige neutral tones, clean premium aesthetic.\n\nLEFT PANEL (COPY EXACT):\n\nTop text:\n“FASHIOIN Week 2026” (same spelling, bold modern sans-serif, brown)\n\nBelow:\n“Presented by DigiGraphics.\nHosted by Fashion House”\n\nImage frames:\nTwo stacked rectangular frames showing cropped outfit close-ups (same outfit, same lighting)\n\nBottom:\n\nVertical text: “12 PM”\n\n“31 March 2026, Patna, Bihar”\n\nQR code placeholder\n\n“Register here” with small arrow\n\nSTYLE KEYWORDS:\nultra-realistic, editorial fashion poster, luxury branding, minimal, soft shadows, high detail, magazine layout.",
+    "title": "Editorial Fashion Ad Poster Prompt with Face Replacement",
+    "description": "A highly structured prompt for Google Gemini Nano Banana 2 to generate an ultra-realistic, high-end fashion advertisement poster with a strict vertical split layout. The prompt mandates replacing the model's face with a provided reference image while maintaining the model's pose and outfit (beige blazer, white blouse, tailored trousers), and includes detailed instructions for the editorial text panel and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902676371_s3rz4x_HDp6t3tbEAIV6-b.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12476,
+    "content": "A wide quote card featuring a famous saying, with a brown background. The quote is set in a light-gold serif font: \"{argument name=\"quote\" default=\"Stay Hungry, Stay Foolish\"}\" followed by smaller text: \"—{argument name=\"author\" default=\"Steve Jobs\"}\". There is a large, faint quotation mark in front of the text. The portrait of the person is on the left, the text is on the right, with the text occupying 2/3 of the frame and the person 1/3, and the person has a slight gradient transition effect.",
+    "title": "Nano Banana 2 Prompt Example",
+    "description": "The user mentions that Nano Banana 2's image quality is inferior to Nano Banana Pro, but shares an example prompt that yields 'god-like' results on Nano Banana 2. Since the prompt is explicitly shared and is for a Nano Banana model, it is extracted, although the user prefers the Pro version.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773902678041_ceyjb0_HDoGvN0bEAAl7Ck.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12412,
     "content": "Ultra-realistic fashion advertisement poster, minimalist editorial style.\nBackground: solid warm beige studio backdrop with soft gradient lighting, smooth clean texture.\nMain subject: a stylish young woman in a low squat pose, body slightly turned sideways, one arm resting on knee, other hand touching back of head. Expression calm, confident, slightly looking sideways (not directly at camera).\nOutfit (keep EXACT):\nSleeveless beige/tan high-neck top\nSlim beige pants\nBrown suede ankle boots with block heels\nLight brown jacket placed casually near her feet\nMinimal accessories: small hoop earrings, thin bracelet\nHair: straight, shoulder-length, natural dark brown, side-parted\nMakeup: soft natural tones, clean skin, subtle glow\n⚠️ Face: [REPLACE FACE WITH PROVIDED IMAGE / KEEP FACE GENERIC IF NOT PROVIDED]\n(ensure seamless blending, same lighting, same skin tone, hyper-realistic)\nTypography & Layout (EXACT SAME STYLE)\nTop: Large bold condensed sans-serif text in dark red: FINAL HOURS (very large, stretched across width, behind subject partially)\nLeft side: Small text: UP TO\n60% OFF\nSELECTED ITEMS\nRight side: ENDS\n31.12\n12 PM\nBottom: ⚠️ NO WEBSITE TEXT (REMOVE COMPLETELY)\nLighting & Style\nSoft studio lighting, warm tone\nSubtle shadows under subject\nClean editorial magazine look\nSlight depth but mostly flat poster style\nMatte finish, no gloss\nPerfect alignment, balanced spacing",
     "title": "Fashion Advertisement Poster Generation",

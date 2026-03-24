@@ -10,6 +10,51 @@
     "needReferenceImages": false
   },
   {
+    "id": 12683,
+    "content": "Create a minimalist cinematic side-profile portrait of a young man with round glasses and black turtleneck,  Neon purple and blue lighting, high contrast, deep shadows, glowing highlights, gradient background. Ultra-realistic, 85mm, studio, sharp focus, editorial style.",
+    "title": "Minimalist Cinematic Portrait Prompt for Nano Banana 2",
+    "description": "A prompt for Nano Banana 2 to create a minimalist cinematic side-profile portrait of a young man wearing round glasses and a black turtleneck, emphasizing neon purple and blue lighting, high contrast, deep shadows, and an ultra-realistic, editorial studio style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334457237_mr6pwd_HEG1AbsawAELf11.jpg",
+      "https://cms-assets.youmind.com/media/1774334458158_b9o73a_HEG1AbybwAAjDh0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12688,
+    "content": "{\n\"photo_type\": \"mirror selfie, luxury indoor night aesthetic\",\n\n\"subject\": {\n\"type\": \"young woman\",\n\"use_reference_image\": true,\n\"preserve_identity\": true,\n\"pose\": \"sitting on a chair, slightly angled body, one arm resting, other hand holding phone in front of face\",\n\"expression\": \"calm, confident, slightly serious gaze, lips relaxed\"\n},\n\n\"appearance\": {\n\"hair\": \"long, straight black hair, center part, smooth and glossy\",\n\"skin\": \"smooth, soft glow, warm tone, natural texture\",\n\"makeup\": \"soft glam, defined brows, subtle contour, glossy lips\"\n},\n\n\"outfit\": {\n\"clothing\": \"tight {argument name=\"dress color\" default=\"red\"} mesh dress with cutout details on chest, fitted sleeves with pearl accents\",\n\"style\": \"bold, glamorous, revealing but elegant\",\n\"accessories\": [\n\"red headpiece or crown with small decorative elements\",\n\"subtle necklace\"\n]\n},\n\n\"environment\": {\n\"location\": \"modern luxury hotel room\",\n\"elements\": [\n\"beige curtains\",\n\"warm ambient lamps\",\n\"round wall mirrors\",\n\"dark furniture\",\n\"soft indoor lighting\"\n]\n},\n\n\"lighting\": {\n\"type\": \"mixed lighting\",\n\"setup\": [\n\"strong phone flash hitting subject directly\",\n\"warm ambient room lighting in background\",\n\"high contrast between subject and background\",\n\"slight shadows behind subject\",\n\"skin highlights from flash\"\n]\n},\n\n\"camera\": {\n\"device\": \"iPhone front camera via mirror\",\n\"angle\": \"slightly above chest level\",\n\"framing\": \"mid-body selfie\",\n\"focus\": \"sharp on subject, slight falloff in background\"\n},\n\n\"color_grading\": {\n\"style\": \"high contrast Instagram aesthetic\",\n\"tones\": \"warm highlights, slightly muted shadows\",\n\"skin\": \"golden glow\",\n\"overall\": \"clean but slightly cinematic\"\n},\n\n\"details\": {\n\"must_include\": [\n\"phone visible in frame\",\n\"flash reflection look\",\n\"realistic skin texture\",\n\"natural shadows and highlights\",\n\"luxury indoor vibe\"\n],\n\"avoid\": [\n\"over-smoothing skin\",\n\"plastic look\",\n\"flat lighting\",\n\"AI artifacts\"\n]\n}\n}",
+    "title": "Luxury Mirror Selfie Prompt for Nano Banana Pro",
+    "description": "A detailed JSON prompt for Nano Banana Pro to generate a high-contrast, glamorous mirror selfie in a luxury indoor night aesthetic. The prompt specifies the subject's pose (sitting, holding a phone), outfit (tight red mesh dress, red headpiece), lighting (mixed, strong phone flash), and camera details (iPhone front camera via mirror, mid-body framing). The generation uses a reference image for identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334461283_2zvcxs_HEGn2fIbMAAJGtF.jpg",
+      "https://cms-assets.youmind.com/media/1774334461345_iu0apo_HEGn3TgbMAAcdAB.jpg",
+      "https://cms-assets.youmind.com/media/1774334461433_eldccc_HEGn1w6bsAAjrmS.jpg",
+      "https://cms-assets.youmind.com/media/1774334462243_h7c9kk_HEGn34KbQAA94JQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12691,
+    "content": "Turn my uploaded image into a clean studio-style portrait with a deep red gradient background and soft vertical panel textures. The subject is wearing a {argument name=\"jacket color\" default=\"maroon\"} oversized puffer jacket, a festive patterned sweater, and a cap with glasses, holding a large red-and-white candy cane. Use soft cinematic lighting, sharp focus, vibrant colors, and a polished commercial photography look. No text, no logos, no UI elements.",
+    "title": "Studio Portrait with Red Gradient Background Prompt for Nano Banana Pro",
+    "description": "A prompt for Nano Banana Pro to transform an uploaded image into a clean, polished studio-style portrait. The prompt specifies a deep red gradient background with soft vertical panel textures, and details the subject's attire (maroon oversized puffer jacket, festive sweater, cap with glasses) and the inclusion of a large red-and-white candy cane.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334464115_qjhoym_HEGYqviaQAAobQb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12696,
+    "content": "Cinematic studio portrait of a young man with messy textured hair, wearing a black turtleneck, centered composition, dark minimal background, dramatic low-key lighting, a horizontal red neon light strip cutting across his eyes, strong contrast shadows covering lower face, intense gaze, moody atmosphere, cyberpunk aesthetic, ultra-realistic, sharp focus, 85mm lens, shallow depth of field, high detail, editorial photography style.\n\nPrompt 2 (Female portrait):\nCinematic studio portrait of a young woman with slightly messy tied-back hair, wearing a black turtleneck, centered composition, dark minimal background, dramatic low-key lighting, a horizontal red neon light strip across her eyes, soft yet intense expression, deep shadows on lower face, high contrast, moody cyberpunk vibe, ultra-realistic, sharp focus, 85mm lens, shallow depth of field, high detail, editorial fashion photography.",
+    "title": "Cinematic Cyberpunk Portrait Pair",
+    "description": "Two similar, highly detailed cinematic studio portrait prompts for Gemini Nano Banana Pro, one for a young man and one for a young woman, both featuring a black turtleneck, dark minimal background, dramatic low-key lighting, and a horizontal red neon light strip cutting across the eyes, achieving a moody, cyberpunk aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334467084_n80113_HEEJJiabQAAsXUQ.jpg",
+      "https://cms-assets.youmind.com/media/1774334467153_vewlnq_HEEJJiXaIAABJgw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12656,
     "content": "{\n\"photo_type\": \"outdoor summer selfie, candid lifestyle\",\n\"subject\": {\n\"count\": 1,\n\"use_reference_face\": true,\n\"preserve_identity\": true,\n\"appearance\": \"{argument name=\"subject appearance\" default=\"Ana de Armas, wet hair, natural skin, minimal makeup, Use uploaded reference image, keep identity exact\"}\"\n},\n\"pose\": {\n\"description\": \"holding a slice of watermelon close to mouth, lips touching fruit, one eye slightly closed\",\n\"expression\": \"playful, relaxed, sun-kissed mood\"\n},\n\"camera\": {\n\"device\": \"front camera smartphone selfie\",\n\"perspective\": \"handheld close-up\",\n\"angle\": \"slightly low and very close to face\",\n\"tilt\": \"subtle upward tilt\",\n\"distance\": \"arm-length, tight framing\",\n\"framing\": \"face fills most of frame, hand and watermelon in foreground\",\n\"lens\": \"wide smartphone lens (24-28mm equivalent)\",\n\"focus\": \"sharp on face and fruit\"\n},\n\"composition\": {\n\"subject_position\": \"center\",\n\"foreground\": \"hand holding watermelon partially blocking lower face\",\n\"background\": \"palm trees, sky, beach blur\"\n},\n\"lighting\": {\n\"type\": \"direct harsh sunlight\",\n\"direction\": \"from above and slightly behind\",\n\"effect\": [\n\"strong highlights on forehead, nose, cheeks\",\n\"deep natural shadows under chin and hair\",\n\"sun glow around hair edges\",\n\"slight overexposure on highlights\"\n]\n},\n\"color_grading\": {\n\"style\": \"warm summer tones\",\n\"temperature\": \"slightly warm\",\n\"contrast\": \"medium-high\",\n\"saturation\": \"natural with boosted reds and greens\"\n},\n\"details\": {\n\"skin_texture\": \"real, slightly glossy from sunlight\",\n\"hair\": \"wet strands, natural messiness\",\n\"finish\": \"raw iPhone look, no heavy editing\"\n},\n\"rules\": {\n\"lock_camera_angle\": true,\n\"avoid\": [\n\"studio lighting\",\n\"perfect symmetry\",\n\"over-smooth skin\",\n\"wide distance shots\"\n]\n}\n}",
     "title": "Ana de Armas Summer Watermelon Selfie",

@@ -56,6 +56,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 12685,
+    "content": "A photorealistic studio shot. On a wooden table sits a solid red cube. Resting exactly on top of the red cube is a glowing yellow sphere. Directly to the left of the red cube is a green ceramic coffee mug. Directly behind the red cube is a tall, ornate silver candlestick. Behind all of these objects is a large, clear mirror reflecting the scene. In the mirror's reflection, the red cube, the yellow sphere, and the silver candlestick are perfectly reflected, but the green ceramic coffee mug is completely absent from the reflection. The space where the green mug should be in the mirror shows only the empty wooden table.",
+    "title": "Object Reasoning Test Prompt for Nano Banana 2",
+    "description": "A detailed prompt designed to test the object reasoning and spatial awareness capabilities of image generation models, comparing Nano Banana 2 and Uni-1. The prompt requires specific placement of objects (red cube, yellow sphere, green mug, silver candlestick) and a complex reflection scenario where the green mug is absent from the mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334459639_j9sygd_HEHGxg8aIAUSTJf.jpg",
+      "https://cms-assets.youmind.com/media/1774334459801_swdutp_HEHGybXaIAAjK_D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12705,
+    "content": "Title\nThe Legend of the 5000 Yen Cost\n\nThe cost of a 500,000 yen champagne tower is\n5,000 yen?\n\nProfit margin over 90%\n\nWhat is this?",
+    "title": "Four-Panel Manga: The Legend of the 5000 Yen Cost",
+    "description": "This is the title and key phrases used to generate a four-panel manga image using Nano Banana Pro, focusing on the theme of 'The Legend of the 5000 Yen Cost' and the high-profit margin of a 500,000 yen champagne tower costing only 5,000 yen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334473204_p1uqiz_HEEE3Dpa0AAZvbY.jpg",
+      "https://cms-assets.youmind.com/media/1774334474304_9halhc_HEEE3DDaQAAou3X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12645,
     "content": "A 3x3 photo grid presented as a single image on a dark grey background. Each of the nine grid cells contains a different portrait of the same subject from the uploaded image, maintaining the perfect character consistency, outfit and pose across all panels. Below each individual portrait, a clean sans-serif text label with a number and name is clearly displayed.\n\nThe grid layout and lighting setups are: \n\n- Top row, left to right:\n\nLoop Lighting (Flattering 3/4 light with a small loop of shadow from the nose onto the cheek)\n\nHardlight Frontal Flash (direct front facing, harsh flashlight with deep frontal shadows)\n\nSplit Lighting (dramatic light on only one side of the face, leaving the other side completely dark)\n\n- Middle row, left to right:\n\nButterfly Lighting  (classic symmetrical light from the front, slightly high, with a small shadow under the nose)\n\nGobo Pattern (Venetian Blind)' (light projected through Venetian blinds, creating linear shadows across the face and clothes, the shadow can also be scene on the background)\n\nUnder-Lighting (Uplight)' (light coming from below, creating reverse shadows and a moody look)\n\n- Bottom row, left to right:\n\nGolden Hour / Warm Light' (bathed in soft, golden, warm light from a side angle)\n\nDramatic Spotlight  (hard, narrow circular beam of light, with a deep chiascuro effect and crushed blacks)\n\nNeutral Kelvin Rim Light' (intense backlighting with no front fill, creating a distinct glowing outline around the hair and shoulders, leaving the face in darkness, against a black background).\n\nThe perspective and features remain identical in all panels, with only the specified lighting changing to match the label.",
     "title": "3x3 Grid Prompt for Lighting Cheatsheet",

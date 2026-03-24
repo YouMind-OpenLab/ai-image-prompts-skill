@@ -1,5 +1,15 @@
 [
   {
+    "id": 12699,
+    "content": "use the character turnaround format from [img1] to create {argument name=\"character name\" default=\"Nezha\"} in the same style",
+    "title": "Ghibli Nezha Character Turnaround",
+    "description": "A prompt specifically designed for Nano Banana 2 to create a character turnaround sheet for Nezha in the style of Studio Ghibli, referencing an external image for the format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1774334468457_ak1pxl_HEFSAOWbkAAK4k5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12641,
     "content": "A cartoonish ({argument name=\"animal name\" default=\"Animal Name\"}) in pixelated image format",
     "title": "Pixelated Cartoon Animal Image",

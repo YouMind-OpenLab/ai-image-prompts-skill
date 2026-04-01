@@ -1,5 +1,18 @@
 [
   {
+    "id": 13085,
+    "content": "Create a unique idea for April Fool's fake news. A capture of a Japanese TV news screen. Do not write the words 'April Fool's Day'. The date is April 1st.",
+    "title": "April Fool's Fake News Image Generation Prompt",
+    "description": "A prompt for Nano Banana 2 to generate fake news images for April Fool's Day, specifically formatted as a Japanese TV news screen capture, without explicitly mentioning 'April Fool's'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026362379_ejfku4_HExuovobAAAKXJ_.jpg",
+      "https://cms-assets.youmind.com/media/1775026362343_gaocnx_HExuoyKagAEPGDT.jpg",
+      "https://cms-assets.youmind.com/media/1775026362401_0yfvqf_HExuowoawAANena.jpg",
+      "https://cms-assets.youmind.com/media/1775026362914_s5bicg_HExuo0KbMAA8e7l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12892,
     "content": "Ultra-realistic split scene of a young man. Left side: sitting on a bed in a small messy room, tired face, empty wallet, dim lighting, depressed mood. Right side: same man after payday, wearing stylish clothes and sunglasses, holding cash, confident smile, bright lighting, luxury background. Add bold meme text: “{argument name=\"meme text 1\" default=\"Before Payday \"}” and “{argument name=\"meme text 2\" default=\"After Payday \"}”. Cinematic lighting, 8K realism, sharp details, viral social media style.",
     "title": "Split Scene 'Before and After Payday' Prompt for Nano Banana Pro",

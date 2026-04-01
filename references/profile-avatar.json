@@ -10,6 +10,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 13048,
+    "content": "Use the image as a reference and create an ultra-realistic photographic portrait without modifying the face or hair of the person in the reference photo, fully maintaining the original facial features, identity, facial proportions,natural skin texture",
+    "title": "Ultra-Realistic Portrait from Reference Image",
+    "description": "A prompt for Nano Banana Pro instructing it to use a provided image as a reference to create an ultra-realistic photographic portrait, strictly maintaining the original person's facial features, identity, proportions, and natural skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026344182_oelzb5_HEv9_MRWkAA6gtA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13066,
+    "content": "Use my photo as reference, transform me into a futuristic superhero called {argument name=\"superhero name\" default=\"Nano Banana\"}, glowing {argument name=\"suit color\" default=\"yellow and black\"} nano suit, banana shaped energy emblem on chest, cinematic lighting, flying above a neon city, ultra realistic, dramatic clouds, 8k, sharp focus, heroic pose",
+    "title": "Futuristic Nano Banana Superhero Transformation Prompt",
+    "description": "A prompt for Nano Banana Pro that instructs the model to use a provided photo as a reference to transform the user into a futuristic superhero named 'Nano Banana,' complete with a glowing yellow and black suit, banana-shaped emblem, and cinematic lighting while flying over a neon city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026353604_jq6z9e_HEvSMpsa8AA2Vcb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13050,
+    "content": "4K ultra-realistic Instagram portrait of a young man sitting casually on a grassy hillside. Face, skin tone, hair, and proportions must match the reference exactly reference image. He has wavy black hair, warm medium-tan skin, and a relaxed expression looking left. Outfit: light grey knitted sweatshirt, loose brown trousers, slightly worn light sneakers, and a silver rectangular digital watch. He sits with one knee raised, leaning back naturally. Background: misty green hills, scattered trees, soft overcast light, shallow depth of field with cinematic colors, natural textures, soft shadows, and HDR realism.",
+    "title": "4K Ultra-Realistic Instagram Portrait from Reference",
+    "description": "A detailed prompt for Nano Banana 2 requesting a 4K ultra-realistic Instagram portrait of a young man, strictly matching the facial features and proportions of a reference image, set on a misty grassy hillside with soft overcast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026347003_hptu9t_HEtNSzObwAAaqSg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13067,
+    "content": "Recreate a springtime portrait similar to the reference image. A young woman stands in a park surrounded by blooming cherry blossom trees, holding a branch of pink flowers. Ensure the facial features of the young woman are 100% exact to the reference image; do not alter the face. Use soft, diffused natural light, as if taken on an overcast day or during golden hour. Employ a medium telephoto lens (50-85mm) with an aperture around f/2.8 to f/4 to achieve a shallow depth of field. The subject should be in the lower center of the frame, with the blossoms framing the top and sides. Capture a calm, serene, and fresh atmosphere, emphasizing the beauty of spring. Apply subtle post-processing to enhance brightness, contrast, and color saturation, with a warm color grading and slightly desaturated tones. The final image should be high-quality and authentic, avoiding overly stylized effects.",
+    "title": "Springtime Cherry Blossom Portrait Recreation Prompt",
+    "description": "A Nano Banana Photography prompt to recreate a springtime portrait of a young woman in a park with cherry blossoms, requiring 100% exact facial feature preservation from a reference image, using soft natural light, shallow depth of field, and warm color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026353963_0big21_HEtHAecWAAABd1V.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13013,
     "content": "Ultra-realistic 4:5 modern lifestyle mirror selfie with a fashion photography aesthetic. Use the reference image for the subject’s identity, face, and hair — preserve exact facial features, proportions, and likeness.\n\nThe subject is sitting casually on the floor, taking a mirror selfie. Her right arm is extended behind her with her palm flat on the floor for support, while her left hand holds a smartphone near her face. Her right leg is bent inward on the floor, and her left leg is raised with the foot flat on the ground.\n\nShe is wearing a glossy black strapless tube top made of a reflective material (latex or faux leather), paired with medium-wash blue denim jeans in a relaxed fit. She also wears black pointed-toe stiletto ankle boots.\n\nThe setting is an empty modern high-rise apartment or office space. The floor is smooth, light grey polished concrete with subtle reflections, and the walls are plain white. A large floor mirror is visible along the right edge of the frame.\n\nIn the background, three tall rectangular windows with metallic frames reveal a bright daytime cityscape with glass skyscrapers and a clear blue sky.\n\nLighting is bright natural daylight streaming in from the windows, creating soft backlighting, gentle shadows on the floor, and even illumination on the subject.\n\nHigh detail, sharp focus, realistic textures, clean modern aesthetic, shallow depth of field.",
     "title": "Modern Lifestyle Mirror Selfie",

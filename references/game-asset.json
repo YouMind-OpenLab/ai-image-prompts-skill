@@ -1,5 +1,28 @@
 [
   {
+    "id": 13065,
+    "content": "16:9 landscape, 2x3 grid perspective study of the reference character on a solid off-white background. 6 panels in strict order: 1. Extreme Wide (silhouette focus), 2. Full Body (dynamic pose), 3. Waist-Up (torso twist), 4. Bust Shot (strong posture), 5. Face Close-Up (expression), 6. Extreme Close-Up (facial details/eyes).\n- Consistency: Maintain identical facial structure, hair, and proportions across all panels.\n- Posing: Tailor gestures to camera distance—broad movements for wide shots, subtle nuances for close-ups.\n- Aesthetic: Consistent lighting and art style; no borders, text, or background environments.",
+    "title": "Reference Character Posing Grid Study Prompt",
+    "description": "A detailed prompt for nano banana to generate a 2x3 grid perspective study of a reference character, showing six specific panels from extreme wide to extreme close-up, focusing on maintaining character consistency and tailoring poses to the camera distance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026353345_nztfg3_HEwdhneWkAA2At1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13084,
+    "content": "KNIGHT MECHA GIRL\nRe : No.3 La Flamme Blanche\n⠀\n1/7 scale figure\n⠀\nI would be happy if the back and the underside of the shield look realistic.",
+    "title": "KNIGHT MECHA GIRL Figure Generation Prompt",
+    "description": "A prompt used to generate an image of a 1/7 scale figure of 'KNIGHT MECHA GIRL Re : No.3 La Flamme Blanche,' with a specific request for the back and the underside of the shield to be detailed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026361057_dlcbo2_HEt6PflaUAAUidz.jpg",
+      "https://cms-assets.youmind.com/media/1775026361063_icniu3_HEt6QH8b0AALskU.jpg",
+      "https://cms-assets.youmind.com/media/1775026361158_xvqm30_HEt6QxLbgAAmqGX.jpg",
+      "https://cms-assets.youmind.com/media/1775026361767_ix6j7r_HEt6RX-bEAAiaxc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13044,
     "content": "the classic Japanese Bosozoku (F) in the style of a 3D model asset",
     "title": "3D Model Asset Style: Classic Japanese Bosozoku (Female)",

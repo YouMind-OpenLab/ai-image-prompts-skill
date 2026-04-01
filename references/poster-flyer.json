@@ -20,6 +20,42 @@
     "needReferenceImages": false
   },
   {
+    "id": 13052,
+    "content": "Dramatic chiaroscuro oil-painting texture of a biomechanical skull embedded in crystal on a marble balcony, deep emerald and burnt umber tones with visible brushwork, ornate gold accents catching single dramatic light source, museum gallery depth and tactile surface quality.",
+    "title": "Dramatic Chiaroscuro Oil Painting of Biomechanical Skull",
+    "description": "A detailed prompt for Nano Banana Pro describing a dramatic chiaroscuro oil painting texture of a biomechanical skull embedded in crystal on a marble balcony, using deep emerald and burnt umber tones with visible brushwork and ornate gold accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026345646_vub6cu_HEvt1TIboAAq94M.jpg",
+      "https://cms-assets.youmind.com/media/1775026346396_q1syez_HEvt1TGaQAAgMdY.jpg",
+      "https://cms-assets.youmind.com/media/1775026347179_kybmev_HEvt1TIbUAA4Qzo.jpg",
+      "https://cms-assets.youmind.com/media/1775026347207_nr80u2_HEvt1SnXoAEKaiN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13057,
+    "content": "An artistic monochrome typographic illustration where the single word \"{argument name=\"word\" default=\"CAT\"}\" appears only once and becomes a stretching domestic cat, low in front with hindquarters slightly raised and the tail extending backward in a graceful arc. Do not repeat the word and do not add any other text. The single word must be elongated and sculpted into a fluid feline posture, with one section forming the head and front shoulders, another forming the long curved spine, and the final section extending into the tail. The image should feel elegant, flexible, and unmistakably feline. Prioritize silhouette first, anatomy second, readability third. Pure black only on white, lots of empty space, minimal poster composition. No floor scene, no fur texture, no room interior, no whiskers detail, no realism, no color. \n\n[ Midjourney: --ar 16:9 --profile skx15nm --stylize 0 --v 8 ]",
+    "title": "Monochrome Typographic Cat Illustration",
+    "description": "A detailed prompt used across multiple models, including Nano Banana Pro, to generate an artistic monochrome typographic illustration where the single word 'CAT' is sculpted into the silhouette of a stretching domestic cat, emphasizing elegant form and minimal composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026349265_0at5kf_HEurmItbAAAmjU3.jpg",
+      "https://cms-assets.youmind.com/media/1775026349235_6bihxx_HEurmeYakAAW0EK.jpg",
+      "https://cms-assets.youmind.com/media/1775026349361_28rw41_HEurm6PaQAA_VUZ.jpg",
+      "https://cms-assets.youmind.com/media/1775026349758_vf2nyl_HEurnQXasAAouva.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13068,
+    "content": "editorial magazine spread concept, muted earth tones with raw linen texture, large-scale serif headline at 200pt in deep charcoal, off-white margins with subtle grain overlay, geometric rule lines in terracotta, cinematic side lighting casting long shadows across the layout, high-end editorial print finish",
+    "title": "Editorial Magazine Spread Concept Prompt",
+    "description": "An editorial design prompt idea for Nano Banana Pro, focusing on creating a magazine spread concept using muted earth tones, raw linen texture, large serif headlines, geometric rule lines in terracotta, and cinematic side lighting for a high-end print finish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026354421_z0tyoq_HEtEaA3WQAAO6i-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12972,
     "content": "A dramatic wide shot of a female silhouette standing in front of a glowing, tiered golden pyramid stage. The stage emits a fiery, amber light with crackling energy effects. Sharp, vertical blue laser beams cut through the dark atmosphere from above. The floor is a polished, black reflective surface creating a perfect mirror image of the scene. Cinematic lighting, high contrast, ethereal and mysterious atmosphere.",
     "title": "Dramatic Silhouette on Golden Pyramid Stage",

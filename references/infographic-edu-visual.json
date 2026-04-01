@@ -56,6 +56,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 13047,
+    "content": "Carefully study Figure 1, and redraw Figure 2 according to its requirements. Place Figure 2 and the redrawn version on the left and right sides of the same white background image, ensuring the logo is not visible.",
+    "title": "Image Redrawing and Style Transfer Prompt",
+    "description": "A prompt designed for Nano Banana to analyze two figures (Figure 1 for style, Figure 2 for content) and redraw Figure 2 in the style of Figure 1, placing both the original Figure 2 and the redrawn version side-by-side on a white background without showing the logo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026344158_mh1ljp_HEthF1BaYAAkRb-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13055,
+    "content": "do this for Artemis II mission: class Artemis_Journal_Diorama:\n    def __init__(self, subject=\"Artemis II Mission\"):\n        # AI infers the correct materials, textures, and desk environment\n        self.stage = \"AI‑inferred astronaut’s mission‑planning journal lying open on an AI‑inferred technical workstation.\"\n        self. lighting = \"AI‑inferred mixed illumination: task‑lamp warmth + cool instrument‑panel spill.\"\n\n    def semantic_2D_to_3D_growth(self):\n        # AI infers what '2D mission sketches' look like for this subject\n        page_texture = (\n            f\"AI‑inferred handwritten notes, trajectory arcs, module schematics, \"\n            f\"and mission annotations related to {self.subject}, rendered as precise 2D graphite diagrams.\"\n        )\n\n        # AI infers what physical 3D elements should emerge from those sketches\n        diorama_pop = (\n            f\"2D mission diagrams transition into physical 3D miniatures: \"\n            f\"AI‑inferred spacecraft components, crew figures, lunar geometry, \"\n            f\"and mission‑specific hardware rising seamlessly from the paper.\"\n        )\n\n        return [page_texture, diorama_pop]\n\n    def scatter_ephemera(self):\n        # AI infers mission‑relevant desk objects without hard‑coding categories\n        return infer_aerospace_ephemera(self.subject)\n        # Examples (AI‑inferred, not fixed): mission patches, navigation tools,\n        # micro‑scale lunar models, printed telemetry, procedural checklists,\n        # archival headlines, engineering pencils, etc.\n\nrender(Artemis_Journal_Diorama())",
+    "title": "Artemis II Mission Journal Diorama",
+    "description": "A complex, structured prompt for Nano Banana using Python-like class definitions to generate a hyper-detailed diorama visualization of an astronaut's mission-planning journal for the Artemis II mission, focusing on the transition of 2D sketches into physical 3D miniatures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026348576_nceyfl_HEso4rBacAA3ZI3.jpg",
+      "https://cms-assets.youmind.com/media/1775026348582_fruhxc_HEso3CkagAAKgQD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13031,
     "content": "A 2x2 grid of 4 random famous cities turned into looping kinetic sculptures on museum plinths\n[Top Left: random real European city as a vertical kinetic skyline with moving trams and tiny lights]\n[Top Right: random real Asian megacity as a multi-layered kinetic light grid with sliding blocks]\n[Bottom Left: random real coastal city with rolling wave mechanisms and rotating landmarks]\n[Bottom Right: random real desert or inland city with lifting arms and spinning towers]\nPhotoreal miniature kinetic sculptures made of brass, glass, and polished wood, subtle motion implied by blurred rods and tracks, illuminated display plinths in a gallery setting, soft museum lighting, gentle reflections on the floor, 60mm perspective for elegant compression, shallow depth of field isolating each sculpture, warm white seamless backdrop, crisp focus on intricate mechanics.",
     "title": "Cities as Kinetic Sculptures Grid",

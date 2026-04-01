@@ -1,5 +1,85 @@
 [
   {
+    "id": 13077,
+    "content": "4-panel manga\n\nTitle\nBoomerang of Double Repayment\n\nIs this the start of the new fiscal year?\n\nHideki Saijo\n\nIt must be Boomerang Street\n\nThe song is...",
+    "title": "Four-Panel Manga: Boomerang of Double Repayment",
+    "description": "A prompt for generating a four-panel manga titled 'Boomerang of Double Repayment' using Nano Banana Pro, referencing Hideki Saijo's song 'Boomerang Street'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026359024_dih5c6_HExOUhgboAAZwU5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13065,
+    "content": "16:9 landscape, 2x3 grid perspective study of the reference character on a solid off-white background. 6 panels in strict order: 1. Extreme Wide (silhouette focus), 2. Full Body (dynamic pose), 3. Waist-Up (torso twist), 4. Bust Shot (strong posture), 5. Face Close-Up (expression), 6. Extreme Close-Up (facial details/eyes).\n- Consistency: Maintain identical facial structure, hair, and proportions across all panels.\n- Posing: Tailor gestures to camera distance—broad movements for wide shots, subtle nuances for close-ups.\n- Aesthetic: Consistent lighting and art style; no borders, text, or background environments.",
+    "title": "Reference Character Posing Grid Study Prompt",
+    "description": "A detailed prompt for nano banana to generate a 2x3 grid perspective study of a reference character, showing six specific panels from extreme wide to extreme close-up, focusing on maintaining character consistency and tailoring poses to the camera distance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026353345_nztfg3_HEwdhneWkAA2At1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13087,
+    "content": "AI Image Generation 4-Panel Manga\n\nTitle\nAbsolute Zero Ignore\n\nSuper ignore\n\nA cannon of disinterest explodes\n\nIf the goal was to cause a flame war\n\nServes you right! I guess? lol",
+    "title": "Nano Banana Pro 4-Panel Manga Prompt: Absolute Zero Ignore",
+    "description": "A prompt used to generate a 4-panel manga titled 'Absolute Zero Ignore,' depicting extreme indifference and a 'cannon of disinterest' being fired.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026363502_xzejsx_HEvbm-hb0AAgl0a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13081,
+    "content": "AI Image Generation 4-Panel Manga\n\nTitle\nThe Formula for Buzz\n\nReiwa Roman style\nAlgorithm countermeasures\n\nExperiment\nComedian Ranking 1st place\nSandwich Man\n\nComedy Skit Ranking 1st place\nTokyo 03\nOther\nTrying out 4-panel manga…",
+    "title": "Nano Banana Pro 4-Panel Manga Prompt: The Formula for Buzz",
+    "description": "A prompt used to generate a 4-panel manga titled 'The Formula for Buzz' in the style of Reiwa Roman, focusing on algorithm countermeasures and ranking experiments (Sandwich Man, Tokyo 03).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026361098_gpipwn_HEvWv5Fa8AAbe0g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13086,
+    "content": "AI Image Generation 4-Panel Manga\n\nTitle\nThe Ultimate Choice (Religiously)\n\nPresenting the 'spiritual cost (karma)' of receiving 'all wealth' rather than its physical value.",
+    "title": "Nano Banana Pro 4-Panel Manga Prompt: The Ultimate Choice",
+    "description": "A prompt used to generate a 4-panel manga titled 'The Ultimate Choice (Religiously),' focusing on the spiritual cost (karma) of receiving 'all wealth' rather than its physical value.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026363419_impnno_HEs8NGmacAAllEB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13076,
+    "content": "4-panel manga\n\nTitle\nThe Truth of the Sanctuary\n\nGaia = Harm = Rip-off\n\nParadise = Rip-off\n\nHeaven and Hell\nAre the same whether it's Gaia or Paradise\n\nIsn't that strange! The world is...",
+    "title": "Four-Panel Manga: The Truth of the Sanctuary",
+    "description": "A prompt for generating a four-panel manga titled 'The Truth of the Sanctuary' using Nano Banana Pro, discussing themes of exploitation and the nature of heaven and hell.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026358811_i7hpz6_HEs6YvdbUAAEMFa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13078,
+    "content": "4-panel manga\n\nTitle\nThe World is Setting L\n\nReiwa Roman style\n\nSetting L\n\nIsn't it a rip-off setting prepared for experiments?\n\nThe lower panel is off?\n\nYou must not play! Absolutely!",
+    "title": "Four-Panel Manga: The World is Setting L",
+    "description": "A prompt for generating a four-panel manga titled 'The World is Setting L' using Nano Banana Pro, referencing the comedy duo Reiwa Roman and the concept of 'Setting L' (a rigged setting in gambling).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026359520_mo7lgi_HEswsZUb0AAKc0F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13079,
+    "content": "4-panel manga\n\nTitle\nViking Thunder V Century's End Version\n\nThunder\nIt's 3~\nIt's 3 o'clock green (12 color wheel)~\n\nRainbow color\n\nHas the suction reached the ceiling...",
+    "title": "Four-Panel Manga: Viking Thunder V Century's End Version",
+    "description": "A prompt for generating a four-panel manga using Nano Banana Pro, titled 'Viking Thunder V Century's End Version', referencing the comedy duo Viking and the pachislot machine Thunder V.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026360088_62fcgn_HEsuQeaawAAnGf8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12991,
     "content": "the Villain fairy performs the “you think because you say nothing You’re strong?”",
     "title": "Villain Fairy Quote Generation",

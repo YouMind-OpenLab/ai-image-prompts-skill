@@ -1,5 +1,25 @@
 [
   {
+    "id": 13091,
+    "content": "format: \"self_intro_sheet\"\ntext:\n  title: \"Self-Introduction Sheet\"\n  fields:\n    名前: \"{argument name=\"name\" default=\"Your Name\"}\"\n    家族: \"{argument name=\"family\" default=\"Father, Mother, Younger Sister\"}\"\n    血液型: \"Type A\"\n    趣味: \"Cafe hopping, taking photos\"\n    性格: \"Cheerful, laughs often, works at my own pace\"\n    休日は: \"Going out with friends, searching for cute shops\"\n    好きな物: \"Pudding, strawberries, cute clothes, stylish cafes\"\n    好みのタイプ: \"Kind and considerate person\"\n    嫌いな物: \"Bitter things\"\n    一言メッセージ: \"I'd be happy if we could be friends\"\n\nfont:\n  title: \"Fluffy, thick rounded font\"\n  label: \"Gentle handwriting style\"\n  body: \"Pop, easy-to-read rounded font\"\n  color: \"Pink\"\n\nvibe:\n  overall: \"Yumekawa (dreamy cute), girly, gentle and sweet atmosphere\"\n  colors:\n    - \"Pink\"\n    - \"Lavender\"\n    - \"Baby Blue\"\n  decorations:\n    - \"Dog\"\n    - \"Bear\"\n    - \"Lion\"\n    - \"Cat\"",
+    "title": "Self-Introduction Sheet Generation Prompt for Nano Banana Pro",
+    "description": "This is a detailed structured prompt template designed for the nano banana image generation model to create a 'Self-Introduction Sheet' image. It specifies the format, text fields (name, family, hobbies, personality, etc.), font styles, color palette, and decorative elements to achieve a 'Yumekawa' (dreamy cute) and girly aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026365180_zwse4r_HExDlwsaoAABrCX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13068,
+    "content": "editorial magazine spread concept, muted earth tones with raw linen texture, large-scale serif headline at 200pt in deep charcoal, off-white margins with subtle grain overlay, geometric rule lines in terracotta, cinematic side lighting casting long shadows across the layout, high-end editorial print finish",
+    "title": "Editorial Magazine Spread Concept Prompt",
+    "description": "An editorial design prompt idea for Nano Banana Pro, focusing on creating a magazine spread concept using muted earth tones, raw linen texture, large serif headlines, geometric rule lines in terracotta, and cinematic side lighting for a high-end print finish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775026354421_z0tyoq_HEtEaA3WQAAO6i-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12812,
     "content": "Dessert (AR shopping UI)\n\nPOV shot inside a modern supermarket aisle, hands holding a small gourmet dessert with cream and berries, futuristic augmented reality (AR) interface overlay showing calories, sugar, fats, freshness score, expiry date, and recipe suggestions, soft depth of field, cinematic lighting, ultra-realistic, 4K, tech-inspired UI, clean glassmorphism design\n\n⸻\n\n2. Apple (AR nutrition UI)\n\nFirst-person view in a grocery store holding a fresh red apple, augmented reality interface displaying calories, vitamin C, fiber, freshness bar, and recipe ideas, minimal futuristic UI panels floating around the object, bright supermarket lighting, shallow depth of field, hyper-realistic, modern tech aesthetic, 4K\n\n⸻\n\n3. Orange Soda Bottle (AR data UI)\n\nPOV shot of hands holding an orange soda bottle in a supermarket aisle, futuristic AR overlay showing calories, sugar content, caffeine level, freshness score, expiry date, and drink recipes, sleek holographic interface, glassmorphism UI, vibrant colors, cinematic lighting, ultra-detailed, photorealistic, 4K",
     "title": "Augmented Reality UI Overlays on Food Items",

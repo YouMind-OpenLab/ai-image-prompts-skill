@@ -1,5 +1,26 @@
 [
   {
+    "id": 13246,
+    "content": "Take this screenshot and edit it. The graphics are too modern. please make this look like a 90s boomer shooter.",
+    "title": "Nano Banana 2 image editing prompt",
+    "description": "A prompt used with Nano Banana 2 to edit an existing screenshot, instructing the AI to make the modern graphics look like a 90s boomer shooter game.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775371390323_iybdms_HFFi-EdaEAAbHGa.jpg",
+      "https://cms-assets.youmind.com/media/1775371390305_n4bmar_HFFjMYSaYAEi7Ce.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13245,
+    "content": "a pole-mounted transformer in the style of a trading card game's card",
+    "title": "TCG style pole-mounted transformer",
+    "description": "A prompt used with Nano Banana Pro (Google Gemini 3.1 image generator) to create an image of a pole-mounted transformer in the style of a trading card game card.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775371389334_umeojs_HEuSsE9akAEhyoa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13185,
     "content": "Isometric luxury product showcase of the person from the reference photo reimagined as a premium vinyl collectible figure set, stylized chibi proportions with an oversized head and refined facial likeness, displayed in an elegant collector’s window box beside the actual figure posed outside the packaging, with curated accessories reflecting the subject’s identity arranged neatly inside the box tray. Packaging with a clean title area for {argument name=\"name\" default=\"[Name]\"}. High-end commercial toy photography, shot on full frame with a 50mm lens at f/8, ISO 100, 1/160s. Controlled studio lighting with a large softbox key at 45° camera-left, subtle fill bounce, stripbox edge light for separation, black flags for negative fill, crisp specular control, and defined shadows with retained detail. Realistic moulded vinyl, premium cardboard, clear PET window, accurate seams and inserts, lifelike materials, precise reflections, magazine-quality retouching, soft bloom, subtle grain, clean white product backdrop, anatomically correct hands, no extra fingers, no warped anatomy, no plastic skin, no blown highlights, controlled whites, retained shadow detail, no logo, no watermark, no readable signage.",
     "title": "Isometric Luxury Product Showcase of a Vinyl Collectible Figure",

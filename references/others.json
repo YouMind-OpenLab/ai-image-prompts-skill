@@ -13,14 +13,14 @@
     "needReferenceImages": true
   },
   {
-    "id": 13228,
-    "content": "A dramatically powerful 8K high-definition black and white portrait, employing a high-contrast scratching or woodcut style, showcases a close-up of a man's face (100% based on the facial features of the person in the uploaded image). He is looking down, his eyes possibly closed or drooping. The image emphasizes the texture of his skin, depicting pores, wrinkles, and stubble with fine lines, especially around the nose, mouth, and forehead. The extremely strong and directional light creates sharp highlights on the bridge of the nose, forehead, and lips, while deep black shadows are created in the background and surrounding areas, thus highlighting his facial contours. The overall effect conveys a sense of deep introspection or solemnity, with the fine lines adding a tactile quality.",
-    "title": "Dramatic Black and White Portrait in Woodcut Style",
-    "description": "A prompt for Nano Banana PRO to generate a highly dramatic 8K black and white close-up portrait in a high-contrast scratching or woodcut style. The prompt emphasizes detailed skin texture, strong directional lighting, and deep shadows to convey a sense of introspection or solemnity.",
+    "id": 13239,
+    "content": "The part '🔴' is replaced by \"{argument name=\"divine beast\" default=\"Azure Dragon, Black Tortoise, Vermilion Bird, White Tiger\"}\"",
+    "title": "Four Divine Beasts (Shishin) Generation",
+    "description": "A user shares a prompt they borrowed, which generates the Four Divine Beasts (Azure Dragon, Vermilion Bird, White Tiger, Black Tortoise). The prompt structure is implied by the text, where the placeholder '🔴' is replaced by the name of the beast.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1775284658180_0rote9_HFARfCHaEAAdSJi.jpg"
+      "https://cms-assets.youmind.com/media/1775371386525_cm0boh_HFApZ9caAAA3A2d.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 13176,

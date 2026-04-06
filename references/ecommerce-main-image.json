@@ -1,5 +1,26 @@
 [
   {
+    "id": 13275,
+    "content": "A high-quality photographic image featuring an elegant, young Chinese woman with a refined appearance, seated in the driver's seat of a silver-gray luxury sedan.\n\nShe is wearing a {argument name=\"attire\" default=\"pale yellow silk jumpsuit dress\"} and looking at the camera with a gentle smile.\n\nThe car door is wide open, and her slender legs are extended outside, wearing a pair of {argument name=\"shoes\" default=\"exquisite silver strappy high-heeled sandals\"}.\n\nThe car interior shows a contrast of bright orange and deep black, equipped with a modern digital dashboard and steering wheel.\n\nThe background is a brightly lit, minimalist car showroom with uniform and soft lighting, creating a high-end and modern commercial photography atmosphere.\n\nThe overall composition is balanced, the colors are bright, the details are rich, and it is full of realism.",
+    "title": "High-Quality Photo of Elegant Chinese Woman in Luxury Car",
+    "description": "A detailed prompt for generating a high-quality commercial photograph featuring an elegant, young Chinese woman with a refined appearance, seated in the driver's seat of a silver-gray luxury sedan. The prompt specifies her attire, pose, the car's interior, and the setting of a brightly lit, minimalist car showroom, emphasizing balanced composition and rich detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458537201_xs5hic_HFIWvpQbwAA_DT2.jpg",
+      "https://cms-assets.youmind.com/media/1775458537210_5rqupj_HFIWvpMasAAhutJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13269,
+    "content": "\"Luxury artisan coffee packaging, kraft paper bag with embossed gold lettering, dark roast beans in foreground, warm amber studio lighting, premium minimal brand identity, elegant serif typography, editorial product photography\"",
+    "title": "Luxury Coffee Branding Product Photography",
+    "description": "A prompt idea for Nano Banana Pro to generate editorial product photography for luxury artisan coffee packaging, specifying materials (kraft paper, embossed gold), lighting (warm amber studio light), and design elements (minimal, elegant serif typography).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458534122_qlqf3r_HFG0WcOW0AA4QCL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13241,
     "content": "\"a snow tire in a super luxury and high-budget atmosphere\"",
     "title": "Luxury Snow Tire Image Generation",

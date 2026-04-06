@@ -1,5 +1,15 @@
 [
   {
+    "id": 13276,
+    "content": "Create one page of a manga featuring these two people. White background with black lines.\nManga theme: {argument name=\"manga theme\" default=\"An older sister who absolutely cannot remember something important, and her younger sister who cannot guess what it is\"}\nThe manga panels progress from the top right to the bottom left.",
+    "title": "Manga page prompt for Nano Banana Pro",
+    "description": "A prompt for Nano Banana Pro to generate a single manga page in a 'manga style' (漫画風) featuring two sisters discussing something important that one cannot remember.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458537463_my0cnw_HFKJBz2bMAEYSrq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13077,
     "content": "4-panel manga\n\nTitle\nBoomerang of Double Repayment\n\nIs this the start of the new fiscal year?\n\nHideki Saijo\n\nIt must be Boomerang Street\n\nThe song is...",
     "title": "Four-Panel Manga: Boomerang of Double Repayment",

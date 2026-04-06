@@ -13,6 +13,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 13277,
+    "content": "explain how to best to use itself for generating shots of a character.",
+    "title": "Nano Banana Pro Explains Itself",
+    "description": "The user asked Nano Banana Pro to explain how to best use the model for generating character shots, highlighting the model's self-awareness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458538599_9qhqoq_HFJMS0dXsAA1kIc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13274,
+    "content": "{argument name=\"subject\" default=\"Bizet\"}\n{argument name=\"theme\" default=\"Carmen\"}\n{argument name=\"style\" default=\"Lassen style\"}",
+    "title": "Image generation prompt for Carmen in a Kinkade style",
+    "description": "A simple image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) combining the opera 'Carmen' by Bizet with the style of Thomas Kinkade (ラッセン風 is often used incorrectly for Kinkade in Japanese AI circles, but refers to a specific style of luminous, romantic realism).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458537470_f8g0d9_HFGg9OibYAAk6a3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13239,
     "content": "The part '🔴' is replaced by \"{argument name=\"divine beast\" default=\"Azure Dragon, Black Tortoise, Vermilion Bird, White Tiger\"}\"",
     "title": "Four Divine Beasts (Shishin) Generation",

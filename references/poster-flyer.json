@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 13260,
+    "content": "Create an anime movie poster like a hero cut of this character. Use a touch-tangle style, long perspective depth, and a low-angle viewpoint emphasizing the face. Use the character name \"{argument name=\"character name\" default=\"Paramecium\"}\", the movie title \"{argument name=\"movie title\" default=\"The Great Adventure of Paramecium-chan\"}\", and the subtitle \"{argument name=\"subtitle\" default=\"The Secret of the Great Magic Kassei Oday\"}\".",
+    "title": "Anime Movie Poster for 'Paramecium' Hero Cut",
+    "description": "A Japanese prompt for Nano Banana Pro to create an anime movie poster, specifically a 'hero cut' of a character named 'Paramecium' (ゾウリムシ). It specifies a touch-tangle style, long perspective depth, and a low-angle, face-emphasizing viewpoint, including the movie title and subtitle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458528813_z41555_HFM8rbQbEAEsv7N.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13271,
+    "content": "A dramatic double exposure portrait of a professional football player, large side-profile face in black and white with intense expression, combined with a smaller full-body action shot of the same player running in a red jersey, dynamic motion, dust and smoke particles blending the layers, high contrast lighting, textured grain, minimal clean background, editorial sports poster style, ultra-detailed, sharp focus, cinematic composition, 8K resolution.",
+    "title": "Dramatic Double Exposure Sports Portrait",
+    "description": "An image generation prompt for Nano Banana Pro, designed to create an editorial sports poster featuring a dramatic double exposure portrait of a professional football player. The prompt specifies high contrast, textured grain, cinematic composition, and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775458535829_rqh6l0_HFM2ehba4AA5SU7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13142,
     "content": "A mystical tarot card featuring a photorealistic {argument name=\"celebrity name\" default=\"Sydney Sweeney\"} as 'The Star' Arcana. She is kneeling gracefully beside a bioluminescent, glowing pool, pouring shimmering celestial water infused with stardust from two ornate, filigreed silver amphorae. The artistic style is a breathtaking fusion of high-fashion photography and intricate Art Nouveau illustration, reminiscent of Alphonse Mucha. \n\nThe background features a grand, radiant eight-pointed star and swirling celestial patterns of constellations and cosmic nebulae. The card is framed by a heavy, embossed golden foil border with intricate floral and zodiac carvings. Text overlay: \"THE STAR\". \n\nShot on Hasselblad X2D, 85mm lens, f/2.8 for a sharp focus on her ethereal features with a soft, magical background. Lighting is a mix of soft volumetric moonlight, golden rim lighting, and a bioluminescent glow reflecting off her skin. Rich palette of midnight blue, burnished gold, and shimmering teal. --ar 2:3",
     "title": "Sydney Sweeney as 'The Star' Tarot Card",

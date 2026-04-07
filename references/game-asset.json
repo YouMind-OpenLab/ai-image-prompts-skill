@@ -1,5 +1,36 @@
 [
   {
+    "id": 13285,
+    "content": "Create a photoreal character reference sheet on a pure white background.\n\nCharacter:\nA 29-year-old woman with a lean athletic build, short black hair with a silver streak, steel-blue eyes, a stern intelligent expression, and a lightly weathered face. She wears an asymmetrical dark graphite tactical coat with a fitted high collar, a matte black bodysuit, segmented forearm armour, a compact chest rig, a slim utility belt, fitted tactical trousers, and reinforced boots. The overall look is a modern sci-fi operative aesthetic with realistic fabric, subtle worn metal, dust, and light scratches.\n\nLayout:\nStrict 8-panel turnaround sheet.\nTop row: full-body front view, full-body back view, full-body left side view, full-body right side view.\nBottom row: close-up head front view, close-up head back view, close-up head left side view, close-up head right side view.\n\nRequirements:\nPure white background, no shadows, evenly spaced panels, highly accurate identity consistency, highly accurate facial consistency, highly accurate outfit consistency, highly accurate proportions, clean production-ready presentation, exact side views, no three-quarter views.\n\nPose:\nNeutral standing pose, arms relaxed at sides.\n\nOutput:\nPhotoreal, ultra-detailed, sharp focus, no props, no weapons, no text, no labels, no logos.",
+    "title": "Photoreal Character Reference Sheet Prompt for Nano Banana Pro",
+    "description": "A highly detailed prompt for Nano Banana Pro to create an 8-panel photoreal character reference sheet of a 29-year-old woman in sci-fi tactical gear, specifying layout, consistency requirements, and output quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775544739194_vd4gve_HFP8Ob3agAA0zqK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13280,
+    "content": "GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a stationary 4k monitor. (There's a slight blurriness in the image, as it feels like it was taken handheld). A wide, bright environment. Realistic details. The character is walking on the beach with /  :dog.",
+    "title": "GTA 6 In-Game Footage Test Prompt",
+    "description": "A test prompt used to compare Nano Banana 2 and New GPT-Image, requesting highly realistic, detailed GTA 6 in-game footage, shot from a stationary 4k monitor, with a character walking on the beach with a dog.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775544736780_fxcsu4_HFPAX19XMAAJ8V_.jpg",
+      "https://cms-assets.youmind.com/media/1775544737570_jbvbuv_HFPAYuEaIAAaEyD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13297,
+    "content": "A photorealistic 3D character sheet of a male figure with a sharp fade haircut and a meticulously groomed beard. He is wearing a heavyweight {argument name=\"jacket color\" default=\"cream-colored\"} Aimé Leon Dore-style wool varsity jacket with leather sleeves and a large \"NY\" chenille patch. Layered with a thick gold herringbone chain. Front orthographic and three-quarter views. Soft, global illumination with high-key lighting to emphasize PBR albedo textures. Intricate mesh detail on the knit collar, realistic skin pores, rendered with high-end Subsurface Scattering.",
+    "title": "3D Character Sheet for Varsity Jacket Prompt",
+    "description": "A prompt for generating a photorealistic 3D character sheet of a male figure, emphasizing specific fashion details (Aimé Leon Dore-style varsity jacket, gold herringbone chain), high-key lighting, and advanced 3D rendering techniques like Subsurface Scattering for realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775544745779_y4zyup_HFNxnrKagAA0Zcr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13246,
     "content": "Take this screenshot and edit it. The graphics are too modern. please make this look like a 90s boomer shooter.",
     "title": "Nano Banana 2 image editing prompt",

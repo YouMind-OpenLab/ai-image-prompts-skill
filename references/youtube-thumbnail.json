@@ -1,11 +1,14 @@
 [
   {
-    "id": 13260,
-    "content": "Create an anime movie poster like a hero cut of this character. Use a touch-tangle style, long perspective depth, and a low-angle viewpoint emphasizing the face. Use the character name \"{argument name=\"character name\" default=\"Paramecium\"}\", the movie title \"{argument name=\"movie title\" default=\"The Great Adventure of Paramecium-chan\"}\", and the subtitle \"{argument name=\"subtitle\" default=\"The Secret of the Great Magic Kassei Oday\"}\".",
-    "title": "Anime Movie Poster for 'Paramecium' Hero Cut",
-    "description": "A Japanese prompt for Nano Banana Pro to create an anime movie poster, specifically a 'hero cut' of a character named 'Paramecium' (ゾウリムシ). It specifies a touch-tangle style, long perspective depth, and a low-angle, face-emphasizing viewpoint, including the movie title and subtitle.",
+    "id": 13305,
+    "content": "Generate an image in the style of a Japanese TV program.\nLet the AI consider the overall atmosphere of the image, including captions and interview content/answers associated with the following details:\n\n{argument name=\"theme\" default=\"NISA poverty. Morning news program. A 20-year-old female idol being interviewed at a woman's home.\"}",
+    "title": "Japanese TV Program Style Image Generation",
+    "description": "A prompt template for Nano Banana Pro to generate images in the style of a Japanese TV program, allowing the AI to determine the overall atmosphere, including captions and interview content, based on a brief scenario.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1775458528813_z41555_HFM8rbQbEAEsv7N.jpg"
+      "https://cms-assets.youmind.com/media/1775544748808_lquxrd_HFL4N_TbQAAG5ah.jpg",
+      "https://cms-assets.youmind.com/media/1775544748941_39lzsm_HFL4N_XaQAAZZ47.jpg",
+      "https://cms-assets.youmind.com/media/1775544748884_twk0le_HFL4N_daYAA6AjI.jpg",
+      "https://cms-assets.youmind.com/media/1775544749934_j5hjds_HFL4N_WbsAAWXbs.jpg"
     ],
     "needReferenceImages": true
   },

@@ -21,11 +21,11 @@
   },
   {
     "id": 13260,
-    "content": "Create an anime movie poster like a hero cut of this character. Use a touch-tangle style, long perspective depth, and a low-angle viewpoint emphasizing the face. Use the character name \"{argument name=\"character name\" default=\"Paramecium\"}\", the movie title \"{argument name=\"movie title\" default=\"The Great Adventure of Paramecium-chan\"}\", and the subtitle \"{argument name=\"subtitle\" default=\"The Secret of the Great Magic Kassei Oday\"}\".",
-    "title": "Anime Movie Poster for 'Paramecium' Hero Cut",
-    "description": "A Japanese prompt for Nano Banana Pro to create an anime movie poster, specifically a 'hero cut' of a character named 'Paramecium' (ゾウリムシ). It specifies a touch-tangle style, long perspective depth, and a low-angle, face-emphasizing viewpoint, including the movie title and subtitle.",
+    "content": "Create an anime movie poster like a hero cut of this character. Touch tangle, long perspective into the background, low-angle view emphasizing the face. Use the character name as \"{argument name=\"character name\" default=\"Paramecium\"}\", the movie title as \"{argument name=\"movie title\" default=\"The Great Adventure of Paramecium-chan\"}\", and the subtitle as \"{argument name=\"subtitle\" default=\"The Secret of the Great Magic Kasseiodei\"}\".",
+    "title": "Anime Movie Poster for a Paramecium Character",
+    "description": "A prompt for nano-banana-pro to create an anime movie poster featuring a paramecium character, emphasizing a hero shot, dynamic perspective, and specific movie title details.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1775458528813_z41555_HFM8rbQbEAEsv7N.jpg"
+      "https://cms-assets.youmind.com/media/1775544747054_ch8kc4_HFM8rbQbEAEsv7N.jpg"
     ],
     "needReferenceImages": true
   },

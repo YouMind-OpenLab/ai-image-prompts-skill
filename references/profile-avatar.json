@@ -10,6 +10,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 13324,
+    "content": "Create a Portrait Master Object: Two passport-sized photo prints held side-by-side by a person's thumb and index finger.\n**Passport Photo Background:** Use a solid blue background (the standard official passport photo color for Indonesian marriage books for certain even/odd birth years).\n**Clothing:** Both subjects in the photo wear formal and neat white collared shirts.\n**Male Subject (Left Photo):** Make his face and hair 100% similar to the given reference.\nHe poses as if talking into a white paper cup, with a cheerful laughing expression.\n**Female Subject (Right Photo):** Make her face and hair 100% similar to the given reference.\nShe poses as if holding a white paper cup to her ear, listening. Her expression is funny with a wide smile and a slightly stuck-out tongue.\n**Interactive Prop:** There is a white string coming out from under the male's paper cup and connecting to the female's paper cup. Because the two photos are placed next to each other, this prop creates the illusion of a \"string phone\" connecting the two photos.",
+    "title": "Portrait Master Object: String Phone Passport Photos",
+    "description": "A prompt for Nano Banana 2 to create a 'Portrait Master Object' image showing two passport-sized photo prints held by fingers, where the subjects in the photos are connected by a string phone illusion, requiring reference images for the faces.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775717428739_gbu3ct_HFWPoHXbMAAf9GK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13316,
     "content": "A cinematic low-angle portrait shot on a 50mm lens, looking upward at a male subject using the uploaded face as reference. He leans casually against a weathered concrete and metal railing, resting both elbows. The subject has short dark hair with subtle sun-kissed highlights and light natural texture, with a slightly tousled appearance. He wears an oversized, textured beige long-sleeve crewneck sweatshirt with a relaxed, loose drape.\nHe gazes upward to the right with a calm, introspective expression, conveying quiet confidence and contemplation.\nSoft, warm natural sunlight illuminates the scene, casting gentle shadows along the jawline and emphasizing facial structure with realistic skin subsurface scattering. A strong foreground bokeh from a structural element on the right adds depth and framing.\nThe background is a vast, solid deep teal-cyan sky, creating a cinematic teal-and-orange analog film color grade, with subtle film grain and natural contrast.",
     "title": "Cinematic Portrait Prompt using Nano Banana 2 with Face Reference",

@@ -1,5 +1,16 @@
 [
   {
+    "id": 13335,
+    "content": "Ultra-realistic 8K overhead product photograph in precise knolling composition, straight top-down 90-degree view of the object from the provided reference image completely taken apart into {argument name=\"number of components\" default=\"8 to 12\"} essential components, each piece arranged with exact spacing in a disciplined grid or balanced radial layout on a minimalist matte gray or natural wood tabletop, flawless alignment, zero overlap, no unrelated props, soft diffused multi-light setup with gentle controlled shadows, neutral true-to-life color, edge-to-edge sharpness, highly authentic material rendering including brushed metal, molded plastic, rubberized grips, exposed circuit boards, screws and small hardware, every component outlined with a thin white rectangular frame and paired with a concise English sans-serif label placed adjacent to the part without obscuring it, annotations crisp, readable, understated, technical editorial aesthetic, no watermark, no logo, no clutter",
+    "title": "Knolling Style Flat-Lay Prompt with Labeled Disassembled Parts",
+    "description": "A detailed prompt for Nano Banana Pro designed to turn any object (based on a reference image) into an ultra-realistic 8K knolling-style flat-lay image. The prompt requires the object to be disassembled into 8-12 labeled components arranged in a precise grid, emphasizing technical editorial aesthetic, flawless alignment, and authentic material rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775717435456_hh6879_HFaByLkXAAAcpEf.jpg",
+      "https://cms-assets.youmind.com/media/1775717435390_zokzb1_HFaBx5EXUAAUaC0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13275,
     "content": "A high-quality photographic image featuring an elegant, young Chinese woman with a refined appearance, seated in the driver's seat of a silver-gray luxury sedan.\n\nShe is wearing a {argument name=\"attire\" default=\"pale yellow silk jumpsuit dress\"} and looking at the camera with a gentle smile.\n\nThe car door is wide open, and her slender legs are extended outside, wearing a pair of {argument name=\"shoes\" default=\"exquisite silver strappy high-heeled sandals\"}.\n\nThe car interior shows a contrast of bright orange and deep black, equipped with a modern digital dashboard and steering wheel.\n\nThe background is a brightly lit, minimalist car showroom with uniform and soft lighting, creating a high-end and modern commercial photography atmosphere.\n\nThe overall composition is balanced, the colors are bright, the details are rich, and it is full of realism.",
     "title": "High-Quality Photo of Elegant Chinese Woman in Luxury Car",

@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 13325,
+    "content": "A vibrant, colorful K-drama promotional poster featuring four young Korean actors in a cheerful, energetic group pose against a bright white and light blue gradient background with a clear blue sky at the top.\nIn the foreground, a young woman with long dark hair, wearing a white turtleneck top under a white sleeveless dress with red floral patterns, is smiling widely with her mouth open and pointing directly at the camera with her right index finger.\nBehind her and to the left, a woman with long reddish-brown hair in a purple blazer is smiling and pointing upward with her right index finger.\nIn the center back, a man with dark hair wearing a dark blue jacket over an orange shirt is smiling with his right fist raised in the air.\nOn the right, a man with short dark hair in a light blue knit sweater is smiling brightly and making a thumbs-up gesture with his right hand.\nThe overall composition is bright, fun, and youthful with clean studio lighting, high resolution, and a promotional poster style typical of Korean television dramas.",
+    "title": "Vibrant K-drama Promotional Poster",
+    "description": "A prompt for generating a vibrant, colorful K-drama promotional poster featuring four young Korean actors in a cheerful group pose against a bright gradient background, detailing their specific actions, clothing, and the overall style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1775717428866_blpogz_HFWt9Y-a8AAMjbw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13314,
     "content": "Dramatic perspective typography composition with the phrase '{argument name=\"phrase\" default=\"AI FUTURE\"}' in heavy, condensed grotesque sans-serif like Helvetica Black Condensed or Akzidenz-Grotesk. Text in bright acid yellow on matte charcoal gray background. Each letter is duplicated in multiple receding perspectives converging to a vanishing point, with repeated thin white outlines creating depth and motion illusion, isometric-inspired but warped, bold graphic design energy.",
     "title": "Graphic Design Typography Prompt using Nano Banana 2",

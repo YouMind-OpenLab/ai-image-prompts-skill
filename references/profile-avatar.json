@@ -10,6 +10,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 13384,
+    "content": "Charming 3D paper-cut illustration, smooth rounded shapes, minimal character features ({argument name=\"character features\" default=\"dot eyes, blush cheeks\"}), {argument name=\"border style\" default=\"thick white sticker border\"} around subjects, {argument name=\"color palette\" default=\"gentle pastel colors\"}, soft even lighting, matte tactile art paper texture.",
+    "title": "3D Paper-Cut Illustration Style",
+    "description": "This prompt transforms photos into charming 3D paper-cut illustrations using the Nano Banana model. It features a tactile paper texture, soft pastel colors, and a distinctive sticker-style border, perfect for creating stylized avatars or creative ID photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776237760395_6swed3_HF4CSdqasAQMxSJ.jpg",
+      "https://cms-assets.youmind.com/media/1776237760646_n0as4x_HF4CSeFasAcEerx.jpg",
+      "https://cms-assets.youmind.com/media/1776237760672_g3fcfb_HF4CSdtasAE68ly.jpg",
+      "https://cms-assets.youmind.com/media/1776237761611_8citrz_HF4CSd7bwAAHq6L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13365,
     "content": "A formal studio portrait of a {argument name=\"subjects\" default=\"young Southeast Asian couple\"} wearing traditional Javanese-inspired attire. The man stands on the left, tall and composed, wearing a {argument name=\"male attire\" default=\"black high-collar beskap jacket with gold buttons, a decorative gold brooch, and a batik sarong with intricate brown patterns\"}. His hands are gently clasped in front of him. The woman sits gracefully on the right, wearing a {argument name=\"female attire\" default=\"black velvet kebaya-style top with a gold brooch, paired with a matching batik skirt\"}. She has elegant traditional hair styling adorned with gold floral hairpins. Her posture is poised, hands resting softly on her lap. Both subjects have calm, neutral expressions and are looking slightly toward the camera. The lighting is soft and studio-controlled, with gentle shadows and a dark neutral background. A subtle curtain drape appears on one side, and a light-colored bench is partially visible. Highly detailed, photorealistic, sharp focus, 85mm lens, shallow depth of field, cinematic lighting, ultra high resolution.",
     "title": "Traditional Javanese Couple Studio Portrait",

@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-15T01:52:30.468Z",
-  "totalPrompts": 12465,
+  "updatedAt": "2026-04-15T13:35:17.920Z",
+  "totalPrompts": 12467,
   "categories": [
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 1288
+      "count": 1289
     },
     {
       "slug": "social-media-post",
@@ -48,7 +48,7 @@
       "slug": "game-asset",
       "title": "Game Asset",
       "file": "game-asset.json",
-      "count": 505
+      "count": 506
     },
     {
       "slug": "poster-flyer",
@@ -60,7 +60,7 @@
       "slug": "app-web-design",
       "title": "App / Web Design",
       "file": "app-web-design.json",
-      "count": 189
+      "count": 191
     },
     {
       "slug": "others",

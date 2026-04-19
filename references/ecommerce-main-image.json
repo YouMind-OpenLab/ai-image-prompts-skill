@@ -1,5 +1,25 @@
 [
   {
+    "id": 13430,
+    "content": "Premium cosmetic product shot of a {argument name=\"product\" default=\"red glass dropper serum bottle\"} emerging from a dramatic water splash ring, surrounded by floating {argument name=\"fruit\" default=\"ripe strawberries\"} and water droplets frozen in motion, reflective wet {argument name=\"color\" default=\"pink\"} surface, pastel pink background, bright studio lighting, high-speed photography look, hyper-realistic texture, luxury skincare advertisement, macro product photography, cinematic lighting, 8k, depth of field.",
+    "title": "Luxury Cosmetic Product Shot",
+    "description": "High-speed photography style prompt for a luxury skincare product with dynamic water splashes and fruit elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582156581_ujnp3b_HGMvVHfaEAAhsbw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 13423,
+    "content": "Ultra-realistic top-down product photography of a neatly folded V-neck t-shirt placed on a light wooden surface. The t-shirt is pastel teal/washed aqua color with a soft fabric texture and subtle faded shading. On the front print: a group of 8 highly detailed, stylized cartoon-realistic cats arranged closely together, facing forward. Each cat has exaggerated, expressive facial features — big glossy eyes, wide pupils, quirky crossed eyes, and playful goofy expressions. Several cats have their tongues sticking out in different directions, creating a humorous and chaotic vibe. Cat details: Mixed fur colors: ginger/orange tabby, cream, beige, light brown, and grey tones Soft, fluffy fur with hyper-detailed strands Rounded faces, small noses, and slightly chubby cheeks Variety of expressions: surprised, confused, silly, excited One or two cats looking slightly cross-eyed High emotional exaggeration, almost Pixar-style but more detailed Composition: Cats tightly grouped in a triangular cluster filling the chest print area Bottom row slightly cropped by shirt fold for realism Balanced spacing with layered depth (front and back rows) Lighting: Soft diffused studio lighting Gentle shadows under the folds and around the print Even illumination, no harsh contrast Style: Hyper-realistic + stylized 3D illustration blend High resolution, crisp details, professional product mockup Clean background, minimalistic aesthetic Camera: Top-down flat lay shot Slight perspective depth but mostly symmetrical Quality tags: 8K, ultra-detailed, sharp focus, photorealistic fabric texture, professional e-commerce product shot.",
+    "title": "Cartoon Cat Group T-Shirt Mockup",
+    "description": "A professional product photography prompt for a teal t-shirt featuring a cluster of expressive cartoon cats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582153538_vsodvv_HGKny8SbsAAd40N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13399,
     "content": "turn this into a photorealism of a {argument name=\"car type\" default=\"clean car\"}, make all decals and stickers on the car real and meaningful, car on a {argument name=\"background\" default=\"white background\"}",
     "title": "Photorealistic Car Transformation",

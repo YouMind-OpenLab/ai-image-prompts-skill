@@ -10,6 +10,30 @@
     "needReferenceImages": false
   },
   {
+    "id": 13418,
+    "content": "Create a typographic art portrait using the uploaded photo of a person as reference. Display a left-facing side profile portrait. The entire image--including the face. hair. and facial features--must be formed exclusively from repeated {argument name=\"text color\" default=\"white\"} calligraphic text using the words: \"{argument name=\"custom text\" default=\"[TYPE IN YOUR OWN TEXT HERE]\"}\" The text should follow the natural contours of the face and hair, clearly shaping the person's profile silhouette.Use a {argument name=\"background\" default=\"deep navy blue\"} background with high contrast The stvle should be clean vector art with sharp edges. Output in high-resolution 8K quality. Do not alter the person's facial identity. No additional colors. no textures. and no watermark.",
+    "title": "Typographic Art Portrait",
+    "description": "A prompt for creating a vector art profile portrait composed entirely of repeated calligraphic text based on a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582150426_bckev5_HGPysMnaMAAepNk.jpg",
+      "https://cms-assets.youmind.com/media/1776582150230_juvvq2_HGPysIyaUAA5QJh.jpg",
+      "https://cms-assets.youmind.com/media/1776582150259_9a6vrx_HGPyr_taAAAcJQw.jpg",
+      "https://cms-assets.youmind.com/media/1776582151645_qonppm_HGPysY2bwAAkF0r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13425,
+    "content": "Photorealistic printed portrait of a {argument name=\"subject\" default=\"young woman\"} using the exact same face from the reference image. Centered head-and-shoulders composition like a {argument name=\"style\" default=\"school ID photo\"}. She wears a {argument name=\"outfit\" default=\"navy blazer, white shirt and tie\"}. Direct flash lighting creates even exposure and bright eye reflections. Subtle semi-gloss print shine with mild glare and fine paper grain. Cool blue backdrop, slight ink warmth, realistic scanned photo look.",
+    "title": "School ID Photo Portrait",
+    "description": "Generates a photorealistic school ID style portrait of a young woman using a reference face, focusing on specific lighting and paper grain effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582154526_q46y4q_HGNEr0ZaoAAlSYm.jpg",
+      "https://cms-assets.youmind.com/media/1776582154547_ix66yf_HGNEr0WawAAeG7C.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 13410,
     "content": "{\n  \"prompt\": {\n    \"meta\": {\n      \"camera\": \"iPhone 17 Pro\",\n      \"lens\": \"35mm\",\n      \"aspect_ratio\": \"4:5\",\n      \"style\": \"ultra-realistic mirror selfie, natural iPhone HDR, slight handheld imperfection, authentic skin texture, subtle grain, true-to-life iPhone color science\"\n    },\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject\" default=\"blonde popstar-inspired woman\"}\",\n      \"face\": {\n        \"structure\": \"petite heart-shaped face, soft cheeks, defined lips, bright expressive eyes\",\n        \"skin\": \"fair warm skin tone, visible pores, natural texture, soft glow on cheekbones\",\n        \"expression\": \"confident, playful, controlled gaze with slightly parted lips\"\n      },\n      \"hair\": {\n        \"color\": \"golden blonde\",\n        \"style\": \"long loose waves, soft volume, slightly messy in a natural way\"\n      },\n      \"body\": {\n        \"type\": \"petite, feminine, naturally curvy\",\n        \"posture\": \"relaxed with a subtle hip shift\"\n      },\n      \"pose\": {\n        \"position\": \"standing angled toward the mirror, one arm raised holding the phone, shoulders relaxed, hips slightly tilted\"\n      },\n      \"outfit\": {\n        \"type\": \"{argument name=\"outfit\" default=\"silky champagne slip dress\"}\",\n        \"details\": \"body-skimming fit, delicate straps, soft drape, elegant sheen catching warm light\"\n      },\n      \"accessories\": [\n        \"dark iPhone with visible camera lenses\",\n        \"silver rings\",\n        \"thin bracelet\",\n        \"small drop earrings\",\n        \"neutral glossy nails\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"luxury hotel bedroom mirror\"}\",\n      \"details\": [\n        \"soft lamp glow in foreground\",\n        \"crisp white bedding\",\n        \"subtle bathroom reflection in background\",\n        \"textured wall and polished surfaces\"\n      ],\n      \"atmosphere\": \"late-night hotel calm, intimate but polished, expensive and effortless\"\n    },\n    \"lighting\": {\n      \"type\": \"warm indoor lamp light mixed with soft ambient room lighting\",\n      \"temperature\": \"3200K\",\n      \"effect\": \"gentle highlights on hair and dress, soft shadows across the body, natural reflective glow on skin\"\n    },\n    \"camera_framing\": {\n      \"shot_type\": \"mirror selfie\",\n      \"framing\": \"mid-thigh to head\",\n      \"focus\": \"sharp on face and upper body\",\n      \"depth_of_field\": \"realistic shallow depth of field with mild falloff in background\",\n      \"imperfections\": [\n        \"slight handheld tilt\",\n        \"minor edge softness\",\n        \"subtle grain\",\n        \"natural mirror realism\"\n      ]\n    },\n    \"mood\": {\n      \"energy\": \"magnetic, feminine, viral, effortlessly confident\",\n      \"realism\": \"feels like a real late-night hotel selfie taken in one shot, not overproduced\"\n    },\n    \"negative_prompt\": [\n      \"over-airbrushed skin\",\n      \"plastic texture\",\n      \"studio fashion lighting\",\n      \"cartoon look\",\n      \"3d render\",\n      \"anatomy errors\",\n      \"extra fingers\",\n      \"warped mirror\",\n      \"overexposed face\",\n      \"unnatural body proportio\"",
     "title": "Luxury Hotel Mirror Selfie",

@@ -1,5 +1,26 @@
 [
   {
+    "id": 13434,
+    "content": "A professional character sheet template for Nano Banana Pro designed to maintain identity across multiple views including front, back, profile, and action poses.",
+    "title": "Nano Banana Pro Character Sheet Template",
+    "description": "A professional character sheet template for Nano Banana Pro designed to maintain identity across multiple views including front, back, profile, and action poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582159842_nquk61_HGNU2FdbMAAFXSo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13429,
+    "content": "A detailed 3D Pixar-style digital illustration of a {argument name=\"character\" default=\"cool young boy with voluminous, wavy white hair and dark sunglasses\"}. He is sitting on a small wooden chair in a relaxed, cross-legged pose against a stark black background. He is wearing a simple {argument name=\"outfit\" default=\"light gray t-shirt, dark teal or green trousers, and chunky white sneakers\"}. His right hand holds a lit cigarette, and his left hand holds a {argument name=\"prop\" default=\"white Starbucks coffee cup\"} with the full green mermaid logo facing forward. The lighting is soft and stylized, casting clean highlights on his hair and clothes. The perspective is centered on the character, with ample negative space above and around him.",
+    "title": "Pixar Style Cool Boy Illustration",
+    "description": "A 3D digital illustration prompt in the style of Pixar, featuring a character with specific accessories and a minimalist background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776582156498_m4tdpc_HGJ1kR4bYAA5WVu.jpg",
+      "https://cms-assets.youmind.com/media/1776582156528_7u3ds9_HGJ1kTZbMAAmzfS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13408,
     "content": "elegant {argument name=\"ethnicity\" default=\"japanese woman\"} in her {argument name=\"age\" default=\"30s\"} who is cool and sophisitcated in a {argument name=\"style\" default=\"scifi punk\"} outfit on on white background. front view, side view, back view in a whiteoutfit with orange design lines",
     "title": "Sci-Fi Punk Japanese Woman View",

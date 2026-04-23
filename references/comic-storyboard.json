@@ -1,11 +1,41 @@
 [
   {
+    "id": 14706,
+    "content": "{\n  \"image_style\": \"{argument name=\\\"image style\\\" default=\\\"Cinematic Action Collage\\\"}\",\n  \"layout\": \"Diagonal 4-panel split-screen\",\n  \"effects\": [\"Radial speed lines\", \"High contrast\", \"Manga-inspired borders\"],\n  \"panels\": [\n    {\n      \"position\": \"top_left\",\n      \"subject\": \"Woman with sword\",\n      \"outfit\": \"Black leather jacket\",\n      \"color_palette\": \"{argument name=\\\"primary color\\\" default=\\\"Emerald green\\\"}\",\n      \"vibe\": \"Heroic action\"\n    },\n    {\n      \"position\": \"top_right\",\n      \"subject\": \"Man in navy coat\",\n      \"outfit\": \"Professional winter attire\",\n      \"color_palette\": \"Electric blue\",\n      \"vibe\": \"Sophisticated urban\"\n    },\n    {\n      \"position\": \"bottom_left\",\n      \"subject\": \"Fashionable woman\",\n      \"outfit\": \"Orange tailored jumpsuit\",\n      \"color_palette\": \"Golden amber\",\n      \"vibe\": \"Elegant glamour\"\n    },\n    {\n      \"position\": \"bottom_right\",\n      \"subject\": \"Man in biker jacket\",\n      \"outfit\": \"Black leather motorcycle jacket\",\n      \"color_palette\": \"Deep crimson red\",\n      \"vibe\": \"Intense brooding\"\n    }\n  ],\n  \"render_quality\": \"{argument name=\\\"render quality\\\" default=\\\"Masterpiece, 8k, photorealistic characters, volumetric lighting\\\"}\"\n}",
+    "title": "Cinematic Action Collage Split-Screen",
+    "description": "A detailed JSON-structured prompt for creating a dynamic four-panel action collage with specific character outfits and cinematic lighting styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637250_xul55d_HGfgKuwWsAAG2Vo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14703,
+    "content": "A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.",
+    "title": "Anime Couple Vector Illustration",
+    "description": "A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636141_sxiy23_HGfarjca8AAGYmx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14294,
     "content": "By being {argument name=\"emotional state\" default=\"drowned in my own tears\"}.",
     "title": "Melancholic artistic concept",
     "description": "An emotional and artistic prompt for Nano Banana depicting a figure overwhelmed by their own tears.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1776841961911_gt7lu6_HGfZXHCa8AAavaP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14707,
+    "content": "{argument name=\"subject\" default=\"Man with wings\"}, {argument name=\"action\" default=\"chasing light within\"}",
+    "title": "Chasing Inner Light",
+    "description": "A poetic prompt for generating a silhouette of a man with wings in a dramatic, light-filled scene, highlighting the model's ability to handle symbolic and cinematic concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637836_oau2a9_HGeubT6bUAA3TyF.jpg"
     ],
     "needReferenceImages": false
   },

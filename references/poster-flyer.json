@@ -20,6 +20,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 14705,
+    "content": "Prompt for Pic 1:\n\"A canvas print of a surreal artwork featuring a {argument name=\"main figure\" default=\"figure with a cassette-player head and a light blue hoodie\"}, standing against a {argument name=\"background color\" default=\"gold-colored background\"} with red gerbera flowers and a butterfly. Below the artwork, the text '{argument name=\"footer text\" default=\"MECHANICAL BLISS - EDITION 01\"}' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"\n\nPrompt For Pic 2:\n\"A canvas print of a surreal artwork featuring a masked figure with a white plumeria flower crown and a katana, clad in a detailed teal-blue cloak against a rich, textured crimson background. The artwork has a vintage feel with visible canvas texture and subtle gold accents. Below the figure, the text 'SAMURAI BLOSSOM - EDITION 01' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"",
+    "title": "Surreal Canvas Art Edition Prompts",
+    "description": "Prompts for generating surreal canvas art with specific characters, text labels, and vintage textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636889_swt7ya_HGgjLnuakAIxC0i.jpg",
+      "https://cms-assets.youmind.com/media/1776927636832_q9dx2e_HGgjLvEaIAAsefl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14704,
+    "content": "A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.",
+    "title": "Cinematic Desert Horse Rider",
+    "description": "A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636435_mjs2b8_HGgGOIMWkAIJFrs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14706,
+    "content": "{\n  \"image_style\": \"{argument name=\\\"image style\\\" default=\\\"Cinematic Action Collage\\\"}\",\n  \"layout\": \"Diagonal 4-panel split-screen\",\n  \"effects\": [\"Radial speed lines\", \"High contrast\", \"Manga-inspired borders\"],\n  \"panels\": [\n    {\n      \"position\": \"top_left\",\n      \"subject\": \"Woman with sword\",\n      \"outfit\": \"Black leather jacket\",\n      \"color_palette\": \"{argument name=\\\"primary color\\\" default=\\\"Emerald green\\\"}\",\n      \"vibe\": \"Heroic action\"\n    },\n    {\n      \"position\": \"top_right\",\n      \"subject\": \"Man in navy coat\",\n      \"outfit\": \"Professional winter attire\",\n      \"color_palette\": \"Electric blue\",\n      \"vibe\": \"Sophisticated urban\"\n    },\n    {\n      \"position\": \"bottom_left\",\n      \"subject\": \"Fashionable woman\",\n      \"outfit\": \"Orange tailored jumpsuit\",\n      \"color_palette\": \"Golden amber\",\n      \"vibe\": \"Elegant glamour\"\n    },\n    {\n      \"position\": \"bottom_right\",\n      \"subject\": \"Man in biker jacket\",\n      \"outfit\": \"Black leather motorcycle jacket\",\n      \"color_palette\": \"Deep crimson red\",\n      \"vibe\": \"Intense brooding\"\n    }\n  ],\n  \"render_quality\": \"{argument name=\\\"render quality\\\" default=\\\"Masterpiece, 8k, photorealistic characters, volumetric lighting\\\"}\"\n}",
+    "title": "Cinematic Action Collage Split-Screen",
+    "description": "A detailed JSON-structured prompt for creating a dynamic four-panel action collage with specific character outfits and cinematic lighting styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927637250_xul55d_HGfgKuwWsAAG2Vo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14711,
+    "content": "vintage monochrome illustration, black and white only, high contrast shadows, retro print style, subtle paper texture, grain effect, old poster aesthetic",
+    "title": "Vintage Monochrome Illustration Prompt",
+    "description": "An artistic prompt for Nano Banana Pro to create retro-style, high-contrast monochrome posters with paper textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927639959_r9s8xh_HGelIZTagAA3g-c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14293,
     "content": "Create a vertical poster collage design. The bg consists of four stacked horizontal rounded rectangles. Inside these panels are {argument name=\"colors\" default=\"skyblue and white\"} cinematic shots of a {argument name=\"subject\" default=\"woman\"} in various poses. Superimposed in the foreground on the left side is a full-color, high-quality cutout of the same woman wearing an unbuttoned skyblue sacket, striking a cool pose. The foreground figure has white sticker-style outline. At the top left, bold “ {argument name=\"text\" default=\"NEWER GIVE UP\"} “",
     "title": "Vertical Poster Collage Design",

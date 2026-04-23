@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 14699,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image. Ultra 8k HD, sharp facial details, realistic pores, porcelain and dewy skin, douyin / Korean glass-skin makeup, glossy lips, soft aegyosal, baby pink blush on cheeks and nose, grey contact lenses, {argument name=\"subject\" default=\"dark brown hair with soft long waves and inward-curled ends\"}.\n\nShot on mobile camera / iPhone, ISO 100, no background blur, no bokeh, shadows slightly flattened, warm sunset light, no color grading.\n\nScene: {argument name=\"location\" default=\"Tropical villa\"}, wearing {argument name=\"clothing\" default=\"deep purple fig plunging one-piece swimsuit\"}, adjusting front zipper in front of large mirror, realistic human pose, spontaneous and not stiff.\nCreate strong leading lines and luxurious clean framing.\n\n-ar 2:3",
+    "title": "Photorealistic swimwear portrait prompt",
+    "description": "A highly detailed prompt for creating a photorealistic tropical portrait featuring specific facial features, makeup style, and swimwear using Nano Banana.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927634493_1jevza_HGix5jsaIAAWZOP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14703,
+    "content": "A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.",
+    "title": "Anime Couple Vector Illustration",
+    "description": "A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776927636141_sxiy23_HGfarjca8AAGYmx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14286,
     "content": "A young woman with long dark wavy hair falling over her shoulders, wearing a {argument name=\"outfit\" default=\"white oversized hoodie\"} with a relaxed dropped-shoulder fit and soft ribbed fabric texture. She playfully leans forward, arms resting on the handle of a {argument name=\"prop\" default=\"black wire shopping cart\"} in the {argument name=\"setting\" default=\"dimly lit aisle of a convenience store\"}. Sweet, direct expression with a playful kiss-grimace pose, one hand loosely holding a smartphone at her side.",
     "title": "Playful Convenience Store Portrait",

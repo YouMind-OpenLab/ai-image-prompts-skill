@@ -20,6 +20,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 15143,
+    "content": "A wide, cinematic photorealistic night image. In the scene, a {argument name=\"subject\" default=\"young Asian woman with shoulder-length straight hair\"} and a serene demeanor is walking barefoot in profile across mirror-like shallow water. She is wearing an {argument name=\"outfit\" default=\"elegant, flowing silver-grey sequined gown with spaghetti straps and a high slit\"}, which billows subtly as she walks. Her head is slightly lowered.\nIf a reference photo is provided, please closely match her facial features, hairstyle, skin tone, overall body proportions, and her unique aura; meanwhile, her clothing and accessories can be naturally adjusted to fit the scene.\nThe water surface features a perfect mirror reflection, but directly beneath her feet, her own reflection is completely replaced by a magnificent and highly detailed spirit-tiger. This spirit-tiger is composed of intricate white-silver lines and emits a soft blue glow. The spirit-tiger appears in a reverse reflection, clearly sniffing a luminous white-gold rose bud (whose light is as pure as moonlight) that exists exclusively within the reflection. A long trail of delicate, glowing rose buds and petals drifts down from the woman's hand, forming an elegant arc that floats up and around her as she walks, ultimately extending down to the glowing rose beneath the spirit-tiger's nose. Faint glowing sparkles shimmer around her bare feet.\nThe minimalist horizon features distant dark islands. The sky is a deep indigo, dotted with subtle stars, a clear Milky Way, and a massive, glowing full moon. The image features subtle, cool-toned cinematic lighting from the moon and night sky, alongside the internal glow radiating from the spirit-tiger and the rose. Elegant silver-white calligraphy text at the bottom center reads: '{argument name=\"text\" default=\"In me the tiger sniffs the rose.\"}' High dynamic range (HDR) night reflections, extreme detail, 8K resolution, surrealism style.",
+    "title": "Spirit-Tiger Water Walk",
+    "description": "A surreal and cinematic prompt for Nano Banana 2 featuring a woman walking on water with a spirit-tiger in her reflection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014240706_9ga70k_HGmf6D7bIAAJlx8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15128,
+    "content": "A 2x2 grid of {argument name=\"subject\" default=\"superheroes\"} in mid-flight created from arranged {argument name=\"material\" default=\"raw bread dough and flour\"}\nStructure: [Panel: HEROIC LANDING; kneaded muscle definition, flour dust cape, olive oil sheen, yeast rise puffiness, sesame seed utility belt, egg wash highlight]\nStyle: {argument name=\"art style\" default=\"Marvel comics meets The Great British Bake Off\"}, warm golden hour lighting, wooden table top, unbaked potential.",
+    "title": "Bread Dough Superheroes",
+    "description": "A creative prompt for generating unbaked raw bread dough shaped into superheroes, blending comic book style with culinary aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014235033_mrkhjd_HGYwXmhbMAAFCDu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15135,
+    "content": "A cinematic, close-up action shot of a determined {argument name=\"rider gender\" default=\"female\"} motocross rider racing a dusty {argument name=\"bike color\" default=\"black\"} dirt bike through a {argument name=\"landscape\" default=\"rugged desert landscape\"}. She is leaning forward with intense focus, hair windswept, wearing a sleek black athletic shirt, tactical cargo pants, and professional orange-accented motocross boots. Environment & Atmosphere: Setting: A rocky, uneven desert trail at golden hour. Dynamic Effects: Massive clouds of dust and gravel are kicked up by the rear tire, creating a sense of high speed and motion. Background: Jagged mountain silhouettes under a vibrant sunset sky filled with warm orange and soft blue hues. Style & Technical Specs: Lighting: Dramatic backlighting from the setting sun, creating a rim-light effect on the rider and highlighting the texture of the floating dust. Composition: Low-angle shot to emphasize the power of the bike and the scale of the terrain; shallow depth of field with the background mountains softly blurred. Aesthetic: High-contrast, gritty realism, hyper-detailed textures on the dirt, metal, and clothing. Professional photography style.",
+    "title": "Desert Motocross Action Shot",
+    "description": "A cinematic action shot of a determined female motocross rider racing through a rugged desert landscape at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014237357_do9yem_HGlEBMbXgAAMr2a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 14705,
     "content": "Prompt for Pic 1:\n\"A canvas print of a surreal artwork featuring a {argument name=\"main figure\" default=\"figure with a cassette-player head and a light blue hoodie\"}, standing against a {argument name=\"background color\" default=\"gold-colored background\"} with red gerbera flowers and a butterfly. Below the artwork, the text '{argument name=\"footer text\" default=\"MECHANICAL BLISS - EDITION 01\"}' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"\n\nPrompt For Pic 2:\n\"A canvas print of a surreal artwork featuring a masked figure with a white plumeria flower crown and a katana, clad in a detailed teal-blue cloak against a rich, textured crimson background. The artwork has a vintage feel with visible canvas texture and subtle gold accents. Below the figure, the text 'SAMURAI BLOSSOM - EDITION 01' is printed. Above the figure, the word 'serenity' is written in a stylized font.\"",
     "title": "Surreal Canvas Art Edition Prompts",

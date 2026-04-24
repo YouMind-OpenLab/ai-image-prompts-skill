@@ -57,11 +57,11 @@
   },
   {
     "id": 14710,
-    "content": "Hyper-realistic exploded vertical infographic composition of a {argument name=\"food item\" default=\"gourmet cheeseburger\"}. All ingredients evenly spaced and perfectly aligned vertically. Warm yellow seamless studio background, soft commercial food lighting, subtle realistic shadows under each floating element, ultra-sharp focus, DSLR macro food photography, premium fast-food ad aesthetic, 8K. Clean infographic text labels with thin pointer lines.",
-    "title": "Exploded Gourmet Food Infographic",
-    "description": "A high-quality prompt for generating hyper-realistic, vertically exploded infographics of food items, featuring clean labels and studio lighting.",
+    "content": "Hyper-realistic exploded vertical infographic composition of a {argument name=\"food or product\" default=\"gourmet cheeseburger\"}. All ingredients evenly spaced and perfectly aligned vertically. {argument name=\"background color\" default=\"Warm yellow\"} seamless studio background, soft commercial food lighting, subtle realistic shadows under each floating element, ultra-sharp focus, DSLR macro food photography, premium fast-food ad aesthetic, 8K. Clean infographic text labels with thin pointer lines.",
+    "title": "Vertical Exploded Food Infographic",
+    "description": "A professional studio-style prompt for creating hyper-realistic vertical exploded infographics of food items or products, featuring clean labeling and macro photography aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776927638917_0wu8jn_HGjTt6DbYAATsYp.jpg"
+      "https://cms-assets.youmind.com/media/1777014241630_j719xr_HGjTt6DbYAATsYp.jpg"
     ],
     "needReferenceImages": false
   },

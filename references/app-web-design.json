@@ -1,5 +1,15 @@
 [
   {
+    "id": 15131,
+    "content": "Subject: image1 - use the uploaded photo as the exact face reference (100% facial accuracy). Do not change facial features, proportions, skin texture, or expression. Keep my natural dark facial tone, no extra brightness or whitening.\n\n(Use face reference exactly.)\n\nA dreamlike, movie-quality augmented-reality street scene. I am {argument name=\"pose\" default=\"leaning casually against a streetlight on an Indian city street, wearing an open yellow hoodie, black jeans, and white sneakers, holding a phone and looking at its screen\"}.\n\nAround me, multiple floating Spotify/Apple-Music style player cards orbit in full 3D space. Some cards appear in front, partially overlapping my body, while others float behind and beside me at varying depths. The UI cards have rounded corners, slight perspective tilt, translucent frosted-glass look, soft glowing edges, playback bars, and album art featuring songs by {argument name=\"artist\" default=\"[Artist Name]\"}.\n\nLighting is {argument name=\"lighting\" default=\"cool-to-neutral with preserved shadows, subtle cinematic bloom, and natural interaction between Ul glow and street lighting\"}. Foreground cards are sharp; distant cards softly blurred for depth. Medium-high contrast, realistic motion accents.\n\nPhotorealistic subject, central composition, seamless blend of real environment and AR visuals.",
+    "title": "AR Augmented Reality Street Scene",
+    "description": "A cinematic prompt that merges a real street scene with floating digital AR elements like music player cards, using a reference for facial accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777014236208_kim2nc_HGlomLvaQAETCSv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 14295,
     "content": "geometric low-poly 3D art style made of triangles,\nclean vector-like lines,\nsoft pastel color palette,\nmodern minimalist wallpaper aesthetic,\nhigh resolution,\nsoft lighting,\nsmooth shading,\n{argument name=\"character description\" default=\"cute and charming character\"},\ncentered composition",
     "title": "Low-Poly Geometric Character Art",

@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 15826,
+    "content": "Professional high-end medical aesthetic before/after comparison blueprint, left panel \"{argument name=\"left label\" default=\"Pre-Procedure Analysis\"}\" with natural unedited face showing realistic imperfections (subtle asymmetry, softer jawline, mild under-eye shadows, natural skin texture). Red precise arrows and {argument name=\"language label\" default=\"Chinese labels\"} pointing to improvements. Right panel \"{argument name=\"right label\" default=\"Post-Procedure Result\"}\" showing same person with noticeably refined nose bridge, sharper jawline, brighter under-eyes, smoother yet natural skin, more defined contours. Clean clinical white/gray background, identical angle/lighting/expression, realistic photography style, professional clinic aesthetic, strong but believable transformation.",
+    "title": "Medical Aesthetic Analysis Comparison Prompt",
+    "description": "A professional prompt for a high-end clinical comparison showing realistic before-and-after results for facial aesthetic procedures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187081881_rv5foq_HGwGqFraEAMr9Bg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15471,
     "content": "Produce a circular infographic — like an astronomical orrery — with {argument name=\"language count\" default=\"7,000\"} of the world's languages arranged in concentric rings by endangerment status: extinct at the center, critically endangered, endangered, vulnerable, safe at the outer ring. Each language represented by a small typographic tile showing its name in its own native script. Color gradient from deep red (extinct) to vivid green (safe). The rings are labeled with speaker population ranges. Five spotlight callouts pull out a specific dying language and show its geographic origin on a miniature globe, with one surviving sentence rendered in that script.",
     "title": "Circular Language Infographic",

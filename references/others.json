@@ -13,6 +13,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 15855,
+    "content": "Soft restoration in black and white. The result should not be too contrasted or too pushed in sharpness, to preserve the grain, tone and nostalgic softness of the initial photo.",
+    "title": "Nostalgic Photo Restoration Prompt",
+    "description": "A prompt for Nano Banana 2 designed to restore old photos in black and white with a focus on preserving grain and nostalgic softness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187095661_n5ix46_HGxeWa3akAA_iua.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15846,
+    "content": "A {argument name=\"animal\" default=\"dromedary camel\"} is resting on a sand dune in the {argument name=\"setting\" default=\"desert\"}. The camel is light brown with a fluffy mane on its hump. The desert landscape is characterized by rolling sand dunes under a clear blue sky. The lighting suggests it is daytime, with soft shadows cast by the camel.",
+    "title": "Dromedary Camel in Desert",
+    "description": "A simple prompt for a realistic desert scene featuring a resting dromedary camel under a clear blue sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187090013_j55s7n_HGqUwrpWAAEC9_Y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15849,
+    "content": "A surreal scene that reflects memories of those days.",
+    "title": "Surreal Memory Scene Prompt",
+    "description": "A short, evocative prompt for generating surreal scenes reflecting memories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187091212_1pmqs4_HGuAAh0b0AA8JW1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13310,
     "content": "remove the drummer and the drum kit, leave everything else exactly as is.",
     "title": "Image Editing Prompt for Nano Banana 2",

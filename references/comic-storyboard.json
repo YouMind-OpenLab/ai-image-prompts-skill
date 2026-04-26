@@ -1,5 +1,55 @@
 [
   {
+    "id": 15832,
+    "content": "A silhouetted figure in {argument name=\"pose\" default=\"dynamic pose\"} against {argument name=\"background\" default=\"cliffs and starry space\"} in {argument name=\"style\" default=\"retro futurism anime style\"}.",
+    "title": "Retro Anime Silhouette Prompt",
+    "description": "A concise prompt for a retro futurism anime style image of a silhouetted figure against space and cliffs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187084275_v7vll0_HGwoadqagAApoEc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15834,
+    "content": "A structured prompt for a cinematic neo-noir thriller poster titled \"{argument name=\"project title\" default=\"Night's Edge\"}\" featuring {argument name=\"subject description\" default=\"a young woman in a hoodie and jeans\"} in a wet city alley, directed by {argument name=\"director name\" default=\"Leo Miller\"}.",
+    "title": "Neo-noir psychological thriller movie poster",
+    "description": "A structured prompt for a cinematic neo-noir thriller poster featuring a fearful subject in a wet city alley.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187085215_zwz37j_HGwnmkSbkAArV32.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15836,
+    "content": "A close-up, eye-level shot features a {argument name=\"animal\" default=\"greylag goose\"} wearing a {argument name=\"accessory\" default=\"charming floral sun bonnet\"} and a simple country dress, standing in lush, dew-kissed green grass. The goose is positioned in the center-left of the frame, facing left with its head turned slightly towards the viewer, its intelligent eyes catching soft, natural daylight. Its grey and white plumage is finely detailed, with a distinctive striped pattern on its neck and wings, individual feathers subtly ruffled by a gentle breeze. The goose has a vivid orange beak and sturdy orange legs, with a small patch of orange-tinted feathers visible on its underside, all rendered in a {argument name=\"style\" default=\"crisp, painterly, storybook illustration style\"} with a shallow depth of field and a softly blurred background.",
+    "title": "Whimsygoth Goose Illustration",
+    "description": "A storybook illustration prompt for a greylag goose wearing a floral bonnet and country dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187086086_5v5zvb_HGsxsv4aQAARo_V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15854,
+    "content": "Please create an image based on {argument name=\"content\" default=\"how I have treated you so far\"}",
+    "title": "Relationship history visualization",
+    "description": "A conceptual prompt for Nano Banana that asks the model to visualize the history of the user's interactions and treatment of the AI, testing the model's ability to interpret abstract history and text rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187094474_4xv0a9_HGuiSv6asAA8wo_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15856,
+    "content": "{argument name=\"theme\" default=\"Magical Fantasy World (Land of Witches)\"}",
+    "title": "Magical fantasy world illustration",
+    "description": "A prompt for generating a magical fantasy world scene specifically set in a land of witches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187095890_22dito_HGt2yYibIAANFy1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15479,
     "content": "A cinematic film roll sequence capturing fragments of the character’s exact likeness life as {argument name=\"scene context\" default=\"extreme scene's fearless stunt actor\"}. Each frame reveals a different moment, or phase, evolving naturally without rigid narrative structure.  Maintain exact proportions, eye shape, spacing, stylization, silhouette, and material identity from the reference. Do not humanize. Do not alter anatomy. Identity must remain perfectly consistent across all frames. Do not modify facial structure. Do not add a mouth or nose if the uploaded character does not have them.  The film strip flows through the composition with subtle perspective depth, frames partially cropped, slightly misaligned, or overlapping to avoid perfect symmetry. Some frames feel sharp and present, others fade into blur or grain, creating temporal depth.  Lighting varies per frame but remains cinematic and directional, forming a cohesive emotional rhythm rather than uniform exposure. Introduce natural film imperfections: grain, light leaks, slight motion blur, exposure shifts, and analog texture.  Color grade is controlled and intentional, supporting the emotional tone of the chosen life theme without oversaturation.  The scene must feel like a discovered memory archive rather than a clean layout. No flat composition, no centered symmetry, no full-frame sharpness.  ar 16:9",
     "title": "Cinematic Film Roll Archive",

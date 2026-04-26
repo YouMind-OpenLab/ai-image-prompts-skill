@@ -10,6 +10,80 @@
     "needReferenceImages": false
   },
   {
+    "id": 15843,
+    "content": "A cinematic, ultra-realistic close-up portrait of a young woman with {argument name=\"hair\" default=\"wet, tousled dark hair\"} and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing {argument name=\"text color\" default=\"cyan\"} handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, {argument name=\"aesthetic\" default=\"cyber-poetry\"} aesthetic. Dark, moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.",
+    "title": "Cyber-Poetry Face Projection",
+    "description": "A cyberpunk-inspired portrait prompt featuring glowing cyan handwritten text projected onto a woman's face and shoulders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187088933_m56u5a_HGxAjuoacAAReRh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15823,
+    "content": "{\n  \"image_description\": {\n    \"subject\": {\n      \"gender\": \"female\",\n      \"hair\": {\n        \"color\": \"dark black\",\n        \"style\": \"long, layered, voluminous waves\",\n        \"texture\": \"glossy\"\n      },\n      \"face\": {\n        \"expression\": \"sultry, neutral\",\n        \"makeup\": \"Natural \",\n        \"eye_color\": \"light hazel or green\"\n      },\n      \"skin_tone\": \" Fair Skin\n    },\n    \"clothing\": {\n      \"type\": \"dress\",\n      \"pattern\": \"{argument name=\"pattern\" default=\"leopard print\"}\",\n      \"style\": \"backless, halter neck, bodycon/fitted\",\n      \"fabric_texture\": \"smooth\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\n        \"{argument name=\"jewelry\" default=\"gold hoop earrings\"}\",\n        \"thin chain necklace with a cross pendant hanging down the back\",\n        \"stack of gold and silver bangles/bracelets on wrist\"\n      ],\n      \"objects\": \"smartphone (iPhone style) held in right hand\"\n    },\n    \"pose\": {\n      \"stance\": \"standing, angled profile showing back and side\",\n      \"head_position\": \"turned over left shoulder facing the mirror\",\n      \"action\": \"taking a mirror selfie\"\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"room type\" default=\"bedroom\"}\",\n      \"background_elements\": [\n        {\n          \"object\": \"bed\",\n          \"details\": \"white linens, chunky beige knit throw blanket at the foot\"\n        },\n        {\n          \"object\": \"furniture\",\n          \"details\": \"wooden dresser with rattan/cane drawers, wooden bedside table\"\n        },\n        {\n          \"object\": \"lighting_fixture\",\n          \"details\": \"bedside lamp with warm yellow light\"\n        }\n      ],\n      \"walls\": \"plain, neutral beige/cream color\"\n    },\n    \"lighting\": {\n      \"source\": \"camera flash reflected in mirror\",\n      \"effect\": \"bright starburst flare from flash, warm ambient glow from bedside lamp\",\n      \"atmosphere\": \"dim, cozy, evening setting\"\n    },\n    \"technical_details\": {\n      \"type\": \"mirror selfie\",\n      \"perspective\": \"reflection\",\n      \"focus\": \"sharp on subject, slightly softer background\"\n    }\n  }\n}",
+    "title": "Leopard Print Mirror Selfie Prompt",
+    "description": "A highly detailed prompt for a bedroom mirror selfie of a woman in a leopard print dress, with specific focus on jewelry, lighting, and interior details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187080666_8n30vm_HGwhPB5WAAACzPW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15837,
+    "content": "Create image: Use the attached reference image as a visual guide for the character’s appearance, maintaining strong resemblance to the person in the reference. Preserve key visual traits such as facial structure and overall proportions, while allowing small natural variations typical of real photography. The generated subject should clearly resemble the reference while remaining a natural photographic interpretation.  **Scene & Style Paragraph** The scene is set against a {argument name=\"background\" default=\"bustling urban backdrop at twilight, where towering concrete structures and glowing streetlights create a sense of late-night city energy\"}. The photography captures a classic early-2000s digital aesthetic, characterized by a harsh direct flash that sharply illuminates the subject while casting deep, dramatic shadows behind her. A fine layer of low-fidelity grain covers the image, mimicking the output of a vintage point-and-shoot camera. The color palette is dominated by cool city blues and stark whites, contrasted by the warm, amber glow of distant office windows and traffic signals, giving the entire composition a spontaneous, lo-fi cinematic grade.  **Pose & Expression** The subject embodies a candid, high-energy Y2K persona. She is captured in a mid-motion stance, with her head tilted playfully toward her shoulder and a soft, magnetic gaze directed at the lens. Her right arm is raised, with fingers delicately threaded through her long, raven-colored hair as if caught in a spontaneous adjustment. Her left hand firmly grips the handle of a heavy tote bag, while her torso is slightly arched to emphasize the silhouette of her outfit. The expression is one of effortless confidence, featuring a slight pout and a youthful, fresh-faced glow that enhances the snapshot's authentic, unposed feel.  **Fashion & Accessories** The outfit is a masterclass in turn-of-the-millennium street style. She wears a {argument name=\"outfit\" default=\"navy and white horizontally striped long-sleeved polo shirt, crafted from a structured cotton piqué\"}. The shirt features a crisp white collar and a prominent, intricately embroidered heraldic crest on the chest in shades of gold, emerald, and cerulean. The garment is cut in an ultra-cropped style, leaving the midriff uncovered to meet a pair of low-slung, light-wash denim jeans with a relaxed, straight-leg fit. Hanging from her hand is a large, black leather moto-style bag, adorned with burnished silver studs, long leather tassels, and heavy metallic buckles. Her long, straight hair cascades down her back, and her makeup is finished with a dewy, high-shine lip gloss and a soft pink flush across the cheekbones, completing the quintessential Y2K aesthetic.    Negative: {argument name=\"negative prompt\" default=\"extra limbs, extra hands, extra fingers, missing fingers, fused fingers, dislocated hands, broken wrists, unnatural hand pose, twisted arms, duplicated body parts, bad anatomy, incorrect anatomy, broken anatomy, impossible pose, warped body, distorted proportions, ai ar\"}",
+    "title": "Y2K Urban Twilight Portrait",
+    "description": "A detailed prompt recreating an early-2000s digital photo aesthetic with a reference image base.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187086337_2b43hd_HGwPdakbEAA5TkO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15825,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"main\": \"{argument name=\"character name\" default=\"[NAME]\"} with hair tied in a loose bun, with strands falling over the shoulder and framing the face. Her expression is soft and slightly pouting, with eyes focused on the phone screen.\",\n      \"details\": \"Glossy lips, slight skin luminosity, and one finger delicately touching the lower lip.\"\n    },\n    \"appearance\": {\n      \"body_type\": \"Fit\"\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"color\" default=\"light pink\"} one-piece bodysuit\",\n      \"details\": \"Smooth texture, thin straps, tight to the body and high-cut\"\n    },\n    \"pose\": {\n      \"position\": \"Kneeling on a shiny floor, facing a mirror\",\n      \"right_hand\": \"Raised, holding a white smartphone to take a selfie\",\n      \"left_hand\": \"Raised, with the index finger resting gently on the lower lip\",\n      \"posture\": \"Upright posture with shoulders relaxed\"\n    },\n    \"setting\": {\n      \"environment\": \"{argument name=\"room style\" default=\"Modern and minimalist bedroom\"}\",\n      \"details\": \"White walls and light, shiny tile floor\",\n      \"background_left\": \"Small white bedside table with black metal frame containing a framed drawing\",\n      \"background_right\": \"Part of a bed with light gray sheets and pillows\"\n    },\n    \"props\": [\n      \"Smartphone with multiple camera lenses\",\n      \"Framed drawing of a cat on the bedside table, with a large, visible stylized signature 'Giulia_4i'\",\n      \"Bed with gray bedding\"\n    ],\n    \"lighting\": {\n      \"type\": \"Artificial indoor lighting, bright and uniform\",\n      \"effects\": \"Visible reflections on the shiny floor and the back of the phone, with soft shadows on the body\"\n    },\n    \"mood\": \"Casual, fun, modern, internet aesthetic\",\n    \"technical\": {\n      \"camera\": \"Mirror selfie perspective, medium framing (from mid-thighs up), standard smartphone lens\",\n      \"style\": \"Photorealistic, casual social media style\",\n      \"quality\": \"Sharp image, well-focused, well-lit, high resolution\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+    "title": "Moody Morning Mirror Selfie Prompt",
+    "description": "A detailed, structured prompt for a photorealistic mirror selfie of a woman in a pink bodysuit, capturing a relaxed and slightly pouting morning vibe in a minimalist bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187080769_03q7ym_HGv7acubsAAv9rR.jpg",
+      "https://cms-assets.youmind.com/media/1777187080946_ryxhxj_HGv7akAa0AA1tDF.jpg",
+      "https://cms-assets.youmind.com/media/1777187080785_nra4tu_HGv7aZUboAAMIET.jpg",
+      "https://cms-assets.youmind.com/media/1777187081841_xdxn4v_HGv7anNbMAAajWp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15840,
+    "content": "A high-resolution, vertical close-up portrait of a radiant young woman with a warm, friendly smile. ​Hair & Style: She features a chic, textured bob cut. Her hair is a striking blend of {argument name=\"hair color\" default=\"deep Royal Purple and bright Golden-blonde\"} highlights that frame her face. ​Fashion: She is wearing a {argument name=\"outfit\" default=\"simple, elegant dark purple dress\"} with a textured fabric. Minimalist gold jewelry, including {argument name=\"accessories\" default=\"small hoop earrings and a delicate gold chain necklace\"}, complements her hair highlights. ​Composition & Lighting: Soft, cinematic lighting that highlights her facial features and the vibrant colors of her hair. The shot is a tight \"bust-up\" portrait with a clean, solid matte black background to create a dramatic contrast.",
+    "title": "Radiant Purple Bob Portrait",
+    "description": "A close-up portrait prompt focusing on vibrant hair colors and cinematic lighting against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187087732_qcajfo_HGv1GRsWIAA5oxp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15833,
+    "content": "A detailed prompt for generating a full-body portrait of an athletic {argument name=\"gender\" default=\"female\"} model holding a basketball in a professional studio setting, featuring {argument name=\"brand name\" default=\"Pixel AI Studio\"} branding.",
+    "title": "Athletic female portrait in studio",
+    "description": "A detailed prompt for generating a full-body portrait of an athletic female model holding a basketball in a professional studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187085023_w6zdjb_HGuuAEGb0AAtesV.jpg",
+      "https://cms-assets.youmind.com/media/1777187085000_1brh2p_HGuuAECbEAAwCR0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15844,
+    "content": "A close-up studio portrait of a {argument name=\"subject\" default=\"young Caucasian woman with light blonde styled hair\"} with a sophisticated expression, subtle makeup enhancing her {argument name=\"skin tone\" default=\"bronzed complexion\"} and defined eyebrows, wearing a {argument name=\"top\" default=\"fitted dark gray textured sparkling turtleneck top\"} and a light gray minimalist watch, dramatic lighting illuminating her face and upper body with sharp contrast against a pure black background, centered composition with a slight low-angle perspective emphasizing elegance and glamour.",
+    "title": "Elegant Studio Portrait with Sparkling Top",
+    "description": "A sophisticated studio portrait prompt for a young woman featuring dramatic lighting, a sparkling turtleneck, and a luxury watch.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187089280_qt8sjo_HGuI0qEaAAAnB9d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15489,
     "content": "{\n  \"subject\": \"Young woman with {argument name=\"hair color\" default=\"long straight red hair\"}, pale skin, light freckles, and a neutral expression. She is taking a mirror selfie with a silver smartphone held in her right hand, while seated on a light beige soft ottoman.\",\n  \"clothing\": \"{argument name=\"outfit style\" default=\"White novelty loungewear set\"}. The top is a white ribbed crop top featuring a cartoon character face with large black eyes, red cheeks, and an open smiling mouth. She is wearing matching white fitted shorts and a plush white novelty hat with a similar cartoon face, soft 3D ears, and long strings ending in fluffy white pom-poms.\",\n  \"environment\": \"Bright, modern indoor living space reflected in a large white-framed standing mirror. The background features a window with sheer beige curtains, a green potted plant in a wicker basket, a light-wood TV stand with a flat-screen television, and light-colored tiled flooring.\",\n  \"lighting\": \"Soft, diffused natural daylight streaming from the window, creating an even, airy, and bright atmosphere with gentle shadows.\",\n  \"style\": \"Candid realism, raw lifestyle photography, mirror selfie perspective, smartphone camera aesthetic, highly detailed, photorealistic, sharp focus on the reflection.\"\n}",
     "title": "Novelty Loungewear Mirror Selfie",

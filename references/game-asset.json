@@ -1,5 +1,26 @@
 [
   {
+    "id": 15828,
+    "content": "Transform the entire image into an authentic screenshot captured directly from a {argument name=\"console era\" default=\"late-1990s PlayStation 1 (PS1)\"} video game running on original hardware. Re-render every single element of the scene — every object, character, surface, background, lighting, and detail — as {argument name=\"geometry style\" default=\"low-polygon 3D models\"} with clearly visible triangular facets, flat angular geometry, and no smoothing or subdivision whatsoever. Use extremely low-resolution textures (256×256 pixels or smaller) that are blurry, pixelated, and heavily compressed, with obvious tiling seams, mipmapping artifacts, and poor UV mapping.\nApply classic PS1 affine texture mapping across all surfaces so textures visibly stretch, warp, wobble, and distort unnaturally with any change in perspective or camera angle (especially noticeable on floors, walls, and curved objects). Remove all anti-aliasing entirely — every edge must be sharply jagged and aliased with prominent stair-stepping. Use only basic flat shading or simple Gouraud vertex shading with no dynamic lights, no real-time shadows, no specular highlights, and no advanced effects. Simulate the PS1’s 16-bit color depth and 5-5-5 RGB limitations by introducing visible checkerboard or ordered dithering patterns in all color gradients, skies, shadows, and semi-transparent areas to prevent banding.\nInclude typical PS1 graphical quirks: subtle vertex snapping/jitter/wobbling on moving or angled geometry, minor polygon pop-in or Z-fighting where appropriate, and a limited draw distance that may softly fade into a low-detail fog. The overall resolution should feel like a raw {argument name=\"resolution\" default=\"320×240\"} or 640×480 PS1 framebuffer output, giving the whole image a slightly soft yet crunchy retro pixel look when viewed at modern sizes. Preserve the original scene composition and camera angle exactly, but convert everything into this pure PS1 3D style as if the photo itself were modeled and rendered inside an actual PS1 game. No text overlays, no HUD elements, no subtitles, no menu graphics, no scanlines, no CRT curvature, and no modern post-processing of any kind — just a clean, direct screenshot from the console’s video output.",
+    "title": "PS1 Retro Gaming Style Prompt",
+    "description": "A comprehensive prompt designed to transform an image into a low-poly PlayStation 1 era video game screenshot, featuring authentic technical artifacts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187082916_ohlqg6_HGxfyaUakAAWs9y.jpg",
+      "https://cms-assets.youmind.com/media/1777187082900_3tsbn1_HGxfyZ0WIAAavwQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15856,
+    "content": "{argument name=\"theme\" default=\"Magical Fantasy World (Land of Witches)\"}",
+    "title": "Magical fantasy world illustration",
+    "description": "A prompt for generating a magical fantasy world scene specifically set in a land of witches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187095890_22dito_HGt2yYibIAANFy1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15486,
     "content": "Convert this portrait into a hyper-realistic crochet doll. Recreate {argument name=\"subject\" default=\"the subject\"} entirely using yarn and knitted textures while keeping the exact same pose, composition, framing, and expression.\n\nSkin should be made of tightly stitched yarn loops with clearly visible knit patterns and natural stitching direction. Add depth and slight imperfections like real handmade crochet. Freckles must be recreated using darker thread stitches.\n\nHair should be made from thick yarn strands, slightly wavy, with a handcrafted look and visible fiber texture. Eyebrows and eyelashes should be finely stitched with thread. Eyes should remain semi-realistic with a glass-like appearance but embedded naturally into the yarn face.\n\nLips should be stitched with red thread, slightly raised and textured.\n\nConvert clothing into knitted wool fabric with clear yarn detail. Convert {argument name=\"decorative elements\" default=\"flowers\"} into fully crocheted elements with layered yarn petals and stitched leaves.\n\nUse soft studio lighting, shallow depth of field, and macro-level detail. Emphasize handcrafted realism with visible yarn fibers and texture. Avoid smooth or plastic skin.\n\nextreme detail, macro lens, 8k, handcrafted crochet realism, visible yarn fibers, no smooth surfaces",
     "title": "Hyper-Realistic Crochet Doll Transformation",

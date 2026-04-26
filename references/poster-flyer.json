@@ -20,6 +20,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 15834,
+    "content": "A structured prompt for a cinematic neo-noir thriller poster titled \"{argument name=\"project title\" default=\"Night's Edge\"}\" featuring {argument name=\"subject description\" default=\"a young woman in a hoodie and jeans\"} in a wet city alley, directed by {argument name=\"director name\" default=\"Leo Miller\"}.",
+    "title": "Neo-noir psychological thriller movie poster",
+    "description": "A structured prompt for a cinematic neo-noir thriller poster featuring a fearful subject in a wet city alley.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187085215_zwz37j_HGwnmkSbkAArV32.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15824,
+    "content": "{\n  \"prompt_details\": {\n    \"subject\": \"Colossal frozen ice sculpture of the man from image_0.png, emerging from an {argument name=\"environment\" default=\"Arctic glacier\"}.\",\n    \"key_features\": \"Detailed facial features, curly hair, beard, and thick glasses, all sculpted in ice with intricate frost textures.\",\n    \"double_exposure_elements\": [\n      \"Within the sculpture's body (blazer and turtleneck), a basecamp scene is visible.\",\n      \"Basecamp includes research tents and parked snowmobiles on an ice plain.\"\n    ],\n    \"added_elements\": [\n      \"Tiny explorers in {argument name=\"clothing color\" default=\"bright orange\"} high-altitude winter suits are climbing and rappelling the sculpture.\",\n      \"One explorer is climbing on his forehead; others are on his jacket collar.\"\n    ],\n    \"environment\": \"Vast glacier field, icy mountain peaks in the background, falling snow particles.\",\n    \"lighting\": \"Dramatic soft {argument name=\"light color\" default=\"golden\"} sunlight from a distant sunset/sunrise, backlit volumetric lighting through the ice.\",\n    \"color_grading\": \"Cold blues, whites, and frosted tones, contrasted with the orange suits and soft gold sunlight.\",\n    \"style\": \"Ultra-realistic cinematic artwork, poster design composition, surreal fantasy atmosphere, high contrast.\",\n    \"resolution\": \"8K, hyper-detailed textures, sharp focus, shallow depth of field.\"\n  }\n}",
+    "title": "Arctic Glacier Ice Sculpture Prompt",
+    "description": "A creative prompt for a colossal ice sculpture emerging from an Arctic glacier, utilizing double exposure to show a basecamp inside the figure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187080751_454np4_HGwj5tRaYAARSxM.jpg",
+      "https://cms-assets.youmind.com/media/1777187080142_dscbcm_HGwj5vNboAAmGMN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15851,
+    "content": "Cinematic {argument name=\"product\" default=\"luxury watch\"} advertisement, oversized timepiece floating mid-air like architecture, model reaching toward it like a monument, giant word \"{argument name=\"text\" default=\"TIME\"}\" behind in bold gold typography, {argument name=\"background\" default=\"deep black studio background\"}, reflective marble floor, luxury watch campaign aesthetic, ultra-clean layout, editorial magazine styling, 1:1",
+    "title": "Cinematic Luxury Watch Advertisement Prompt",
+    "description": "A prompt for high-end editorial advertising featuring a floating luxury watch and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187091956_cgguvf_HGwMtCPWsAAD7Bv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15830,
+    "content": "{\n  \"image_description\": \"A high-end fashion magazine cover titled '{argument name=\"title\" default=\"GLOW\"}' in bold, white serif typography at the top. The featured cover star is a young woman with wavy blonde hair, a radiant smile, wearing a cream sweater, an olive green trench coat, and a floral silk neck scarf. The setting is a blurred, sun-drenched European street ({argument name=\"location style\" default=\"Parisian style\"}) with classic architecture and café awnings in the background.\",\n  \"style\": \"Editorial fashion photography, commercial gloss finish, soft {argument name=\"lighting\" default=\"golden hour\"} lighting.\",\n  \"composition\": {\n    \"framing\": \"Vertical 9:16 aspect ratio, medium shot.\",\n    \"layout\": \"The subject is centered with text overlays flanking both sides. Text includes headlines like 'The Style Issue', 'Spring Fling', and 'Street Style: Paris to Milan' in clean, white sans-serif fonts.\",\n    \"color_palette\": \"Earth tones, olive green, cream, and warm sunlight gold.\"\n  },\n  \"technical_specs\": \"Shot on 85mm lens, f/1.8 for deep background bokeh, high-resolution skin textures, realistic hair strands, professional color grading.\"\n}",
+    "title": "Glow Fashion Magazine Cover Prompt",
+    "description": "A detailed prompt for creating an editorial fashion magazine cover with specific typography, a Parisian street setting, and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777187083839_naii2k_HGwFjjnW4AACowW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15490,
     "content": "A striking pop-art graffiti portrait of {argument name=\"subject\" default=\"an American white man with sharp jawline and defined facial features, approximately 20 years old\"}, standing confidently with both hands in pockets, wearing a fitted black three-piece suit with a dark tie. The subject is rendered in a semi-realistic painterly style against {argument name=\"background style\" default=\"an explosive background of hot pink, neon yellow, electric orange, and cyan graffiti brushstrokes layered like street art\"}. Large bold luxury monogram symbols and abstract floral patterns are scattered across the background in dark green and black, half-hidden behind paint splashes. The overall composition feels like a high-fashion street art canvas — raw energy meets elite luxury. Paint drips run down the lower half. The figure stands centered, slightly desaturated compared to the vivid chaotic background, creating strong visual contrast. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
     "title": "Pop-Art Graffiti Portrait",

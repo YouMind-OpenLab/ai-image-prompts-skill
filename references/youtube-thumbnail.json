@@ -1,5 +1,18 @@
 [
   {
+    "id": 16475,
+    "content": "{argument name=\"song title\" default=\"Istanbul Mambo\"} ({argument name=\"artist\" default=\"Eiichi Ohtaki\"})",
+    "title": "Song-to-Image Visualization",
+    "description": "A prompt that uses a specific song title and artist to generate an atmospheric image representative of the music.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361054866_6bdtc1_HG4yxQNbEAAQV_N.jpg",
+      "https://cms-assets.youmind.com/media/1777361054960_kujs0z_HG4yxQMakAA2nNK.jpg",
+      "https://cms-assets.youmind.com/media/1777361054897_m9m1ri_HG4yxQIa4AAOFwT.jpg",
+      "https://cms-assets.youmind.com/media/1777361055668_ca3c9n_HG4yxQObgAACS0q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 13412,
     "content": "A professional {argument name=\"host description\" default=\"podcast host sitting at a wooden desk in a modern studio setup\"}, facing the camera with a confident and friendly expression. He is wearing a {argument name=\"clothing\" default=\"fitted black shirt\"} and sitting in a comfortable chair. A high-quality podcast microphone on a boom arm is positioned close to his mouth. On the desk are a notebook with handwritten notes, a coffee mug, and an audio interface with connected cables. The background features {argument name=\"background lighting\" default=\"stylish indoor plants and warm red-orange accent lighting\"}, creating a clean, cinematic studio atmosphere. Soft key lighting on the face, subtle rim lighting, shallow depth of field, ultra-realistic details, 50mm lens, f/1.8, professional color grading, high contrast, 8K, YouTube podcast aesthetic.",
     "title": "Cinematic Podcast Studio Portrait",

@@ -20,6 +20,86 @@
     "needReferenceImages": false
   },
   {
+    "id": 16451,
+    "content": "Ultra-realistic high-end fitness campaign poster featuring a {argument name=\"subject\" default=\"young man\"} (use my face), sharp jawline, confident intense expression, slightly sweaty skin with cinematic highlights. He is seated casually between {argument name=\"equipment\" default=\"two oversized matte-black hex dumbbells (150 KG)\"}, one arm resting on the weight, body slightly angled, legs extended in a relaxed but powerful pose.\n\nOutfit: premium performance wear, deep black compression tank with subtle texture, fitted athletic shorts, clean white trainers. Physique defined, lean muscular aesthetic.\n\nBackground: bold minimal studio setup with a dark black backdrop and large oversized typography in the background reading “{argument name=\"slogan\" default=\"BUILT DIFFERENT\"}” in textured metallic silver.\n\nLighting: dramatic studio lighting, strong key light from front-left, subtle rim light for edge separation, glossy floor reflection with soft highlights.\n\nBranding elements: minimal luxury branding inspired by Under Armour × Gymshark collaboration, small clean logo placement on outfit and bottom corner.\n\nStyle: hyper-detailed, commercial-grade, ultra-sharp, 8K, cinematic contrast, magazine cover quality.\n\nComposition: low-angle perspective to enhance dominance, centered framing, high contrast black, silver, and white palette.",
+    "title": "Fitness Campaign Studio Poster",
+    "description": "A professional studio fitness campaign poster prompt with dramatic lighting and custom face reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361045204_mpu6sf_HG7A-2VbcAAr7x6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16449,
+    "content": "Ultra-realistic cinematic low-angle portrait of a {argument name=\"subject\" default=\"stoic young man\"}, strong masculine features, sharp jawline, light mustache and short beard, slightly messy medium-length dark brown hair swept naturally by cold wind, wearing round dark vintage sunglasses, a {argument name=\"clothing\" default=\"heavy black wool overcoat\"} layered over a black turtleneck sweater. He stands confidently under a cold overcast winter sky filled with {argument name=\"atmosphere\" default=\"dense grey fog and soft atmospheric haze\"}. Snowflakes are falling heavily across the frame, creating depth and dramatic foreground blur. In the background, several black ravens are flying mid-air with soft motion blur and bokeh effect, adding a mysterious gothic atmosphere. Moody dark aesthetic, desaturated color grading, muted grey-black palette, high contrast shadows, cinematic tension, subtle dramatic rim lighting on face and coat edges, soft diffused natural light from cloudy sky, filmic composition, powerful fashion editorial style, luxury dark academia vibe, mysterious and elegant expression, ultra-detailed skin texture, realistic beard details, fabric texture highly visible, shallow depth of field, shot on 35mm film, grainy texture, volumetric fog, masterpiece composition, hyper realistic, award-winning portrait photography, 8K ultra HD, photorealistic, cinematic masterpiece.\nGenerate image using uploaded image as reference",
+    "title": "Cinematic Gothic Winter Portrait",
+    "description": "A detailed cinematic prompt for a stoic man in a winter setting with ravens and snowflakes, using an uploaded reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361043954_y4xh2y_HG6fer5bsAAF9Cn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16472,
+    "content": "A full-body fashion editorial featuring a {argument name=\"subject\" default=\"confident young woman with long, flowing brown hair\"} sitting casually on a concrete ledge in a bright, sunlit urban environment. She is wearing {argument name=\"outfit\" default=\"an oversized light blue denim jacket over a white t-shirt, beige fitted shorts, colorful patterned socks, and chunky white sneakers\"}.\n​The image is a mixed-media composition blending high-end photorealism with classic 2D animation. To her left, the Pink Panther leans coolly against a concrete pillar. To her right, {argument name=\"characters\" default=\"Oggy (from Oggy and the Cockroaches) stands playfully holding a fly swatter, accompanied by the small purple alien Gaga sitting on the ledge\"}.\n​The scene is accented with hand-drawn graphic elements, including black motion lines around her legs, hand-drawn arrows, and sparkling yellow stars. The lighting is crisp with strong natural shadows, set against a clear blue sky, creating a vibrant, high-contrast, magazine-quality aesthetic.",
+    "title": "Mixed Media Urban Fashion Editorial",
+    "description": "A high-quality prompt for a fashion editorial that blends realistic urban photography with classic 2D cartoon characters like the Pink Panther and Oggy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361053816_moe91w_HG6WUbfacAA4gOO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16473,
+    "content": "a {argument name=\"dog breed\" default=\"great dane\"} riding on a {argument name=\"scooter color\" default=\"mint-green\"} scooter down a lively city street, drawn in a {argument name=\"style\" default=\"fast sketchy illustration style\"} with bold loose lines, fun retro color scheme of mint-green, coral, and mustard, dynamic three-quarter side view, sense of motion with speed lines and slightly blurred background, bright midday lighting with soft shadows, playful lighthearted mood",
+    "title": "Sketchy Illustration of Dog on Scooter",
+    "description": "A fun, retro-styled prompt for a sketchy illustration of a Great Dane riding a mint-green scooter through a city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361054899_xc1taq_HG50Vd_awAAkDj2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16463,
+    "content": "{\n  \"image_description\": {\n    \"subject\": {\n      \"model\": \"{argument name=\"model type\" default=\"Caucasian female with a confident, serene expression\"}\",\n      \"hair\": \"{argument name=\"hair style\" default=\"Dusty rose-pink, shoulder-length with soft curtain bangs\"}\",\n      \"makeup\": \"Dewy skin finish, bronzed cheeks, neutral lip, subtle gold shimmer\",\n      \"pose\": \"Direct gaze, slightly angled shoulders, high-fashion editorial stance\"\n    },\n    \"apparel\": {\n      \"outerwear\": \"{argument name=\"outerwear\" default=\"Structured crimson red linen blazer with visible fabric grain\"}\",\n      \"undergarment\": \"Matching red ribbed turtleneck sweater\",\n      \"jewelry\": [\n        \"Thick polished gold hoop earrings\",\n        \"Bold gold torque-style neck collar\"\n      ]\n    },\n    \"composition\": {\n      \"framing\": \"Medium portrait shot, magazine cover layout\",\n      \"lighting\": \"Golden hour sunset, soft directional light, warm highlights\",\n      \"background\": \"Softly blurred outdoor landscape at dusk\",\n      \"typography_elements\": [\n        \"L'OFFICIEL header\",\n        \"Vertical text: REDISCOVERING ELEGANCE\",\n        \"Headline: THE NEW MODERN MODESTY\",\n        \"Sub-headline: SEASONAL EDIT: WARM TONES & BOLD GOLD\"\n      ]\n    },\n    \"aesthetic_tags\": [\n      \"High Fashion\",\n      \"Modern Modesty\",\n      \"Golden Hour\",\n      \"Monochromatic Red\",\n      \"Luxury Editorial\",\n      \"Rich Texture\"\n    ]\n  }\n}",
+    "title": "L'Officiel Magazine Editorial Portrait",
+    "description": "A detailed structured prompt for a high-fashion magazine cover layout featuring a model in a crimson red linen blazer with golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361049571_0bhow3_HG5T7KIXEAA3Npw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16445,
+    "content": "Create a hyper-realistic, high-contrast, black and white portrait of a strikingly handsome man for a {argument name=\"magazine\" default=\"Lyntila\"} magazine cover. The subject has dark, slightly tousled, wavy hair and a neatly trimmed, subtle beard and mustache. Use 100% same face and hair style as in uploaded image. His expression is intense and direct, with a pensive, smoldering gaze fixed right at the camera. He is positioned in a medium-close-up shot, dominating the frame. He is wearing a {argument name=\"outfit\" default=\"crisp, white, long-sleeved dress shirt\"}, unbuttoned slightly at the collar, emphasizing a classy, relaxed style. His left arm is bent, with his hand delicately resting on his jawline/chin. A prominent luxury stainless steel chronograph watch with a metal link bracelet is clearly visible on his wrist, catching the light. The lighting is dramatic and professional, utilizing hard studio light from the side to create deep, sculpted shadows that highlight his sharp jawline, cheekbones, and the texture of his hair and shirt fabric (a high-contrast, classic film noir/editorial aesthetic).\n\nTechnical Specifications:\n• Aesthetic: {argument name=\"aesthetic\" default=\"Lyntila Magazine Cover, Editorial Portrait, High Fashion Photography, Black and White\"}.\n• Camera: Shot on 85mm prime lens.\n• Film: Fujifilm Neopan 400 film grain.\n• Lighting: Dramatic studio flash, hard light, high contrast, sharp focus.",
+    "title": "Editorial Magazine Cover Portrait",
+    "description": "A sophisticated prompt for a black and white editorial magazine cover featuring a high-fashion male portrait with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361042548_h2acdy_HG4gbvNbsAEfGcO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16446,
+    "content": "Create a dark, high‑contrast poster with a {argument name=\"style\" default=\"moody, underground club aesthetic\"}. The composition features a monochrome portrait of a young woman from the chest up, shot from a slightly low angle for attitude and power. She wears large over‑ear headphones and reflective round sunglasses with {argument name=\"lens color\" default=\"warm amber‑gold\"} lenses that stand out vividly against the black‑and‑white portrait. One hand is raised near her head, the other near her chin, creating a dynamic, expressive pose associated with music immersion. Behind her head is a large flat {argument name=\"shape color\" default=\"golden‑yellow\"} circular shape, like a spotlight, creating a strong focal point and visual contrast. The background is deep black with subtle grunge textures, dust, scratches, and poster‑wear imperfections, giving it a raw, printed‑flyer feel. Use 4:5 aspect ratio.",
+    "title": "Underground Club Aesthetic Poster",
+    "description": "A detailed prompt for a moody, high-contrast monochrome poster featuring reflective sunglasses and grunge textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361042662_nhh7in_HG4KxviawAAag_8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16458,
+    "content": "Chanel-inspired botanical couture, long shot. A woman wearing a {argument name=\"gown materials\" default=\"cascading gown made of weeping wisteria vines and soft lavender silk tulle\"}. Jewelry: diamond-encrusted vine-shaped headpiece. Hairstyle: loose, intricate fishtail braid woven with delicate micro-flowers. Makeup: iridescent lavender highlights with soft pink lips.\nSetting: a {argument name=\"setting\" default=\"lush forest clearing filled with ferns and hanging vines\"}, every leaf and petal rendered in sharp, ultra-detailed precision. Lighting: diffused natural daylight (5500K), soft and balanced.\nCamera: Sony A7R V, 24mm lens. Settings: f/14, ISO 400. Maximum depth of field, zero background blur, highly detailed landscape.\nRequirements: maintain 100% facial feature accuracy, do not alter the face of the reference image, ultra-realistic, 8K, cinematic, photorealistic, high-detail texture.",
+    "title": "Botanical Couture Fashion Portrait",
+    "description": "A detailed fashion prompt for a botanical-inspired gown in a lush forest setting with high-precision technical specs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361047678_hfndzz_HG3-GWHaYAEgpOv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16166,
     "content": "A creative prompt for visualizing a garment in a state of slow-motion unraveling with technical labeling and dramatic lighting, using placeholders for the garment type, component labels, and name.",
     "title": "Garment Deconstruction Freeze Frame",

@@ -1,5 +1,41 @@
 [
   {
+    "id": 16444,
+    "content": "Image 1: The Blue Gown and the Miniature:\n\nA cinematic, medium shot of a young woman with {argument name=\"hair color\" default=\"vibrant auburn\"} hair and striking blue eyes. She is dressed in a period-accurate, 18th-century style gown made of shimmering sky-blue jacquard fabric with delicate floral patterns. Her hair is partially covered by a simple white linen coif or bonnet. She is indoors, standing before a dark wooden cabinet filled with curiosities and a miniature model house. She holds a small, dark-clothed doll or figurine with both hands, looking off-camera with a contemplative and slightly anxious expression. The lighting is soft and naturalistic, reminiscent of a Vermeer painting, highlighting the textures of the fabric and the fine details of her complexion.\n\nImage 2: The Morning Room:\n\nA dramatic, side-profile cinematic shot of a young woman with red hair tied back in a neat bun. She is leaning forward over a dark, velvet-covered surface, perhaps a bed or a low table, in a richly paneled room. She wears a traditional period ensemble consisting of a {argument name=\"clothing color\" default=\"white\"} chemise with puffed sleeves and a structured {argument name=\"corset color\" default=\"cream-colored\"} corset or stays, adorned with tiny floral embroidery along the edges. The background features intricate, dark wood carvings on a wall or headboard, adding a sense of historical weight and opulence. Her expression is focused and solemn as she gazes into the distance. The atmosphere is moody and atmospheric, with a shallow depth of field that keeps the focus sharply on her features and the craftsmanship of her attire.",
+    "title": "18th Century Period Cinematic Portraits",
+    "description": "Detailed prompts for creating historical cinematic portraits of women in 18th-century attire with Vermeer-style lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361041226_vctuwh_HG7FlD-bcAEVGBs.jpg",
+      "https://cms-assets.youmind.com/media/1777361040547_3l0277_HG7Fk_db0AAV6Oo.jpg",
+      "https://cms-assets.youmind.com/media/1777361041210_q1mbqv_HG7FlAabQAAYNmI.jpg",
+      "https://cms-assets.youmind.com/media/1777361041512_kynqd8_HG7Fk2ja8AAROa2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16456,
+    "content": "cut-out animation style portrait of the person in the reference image, using flat layered paper textures, bold outlines, and simplified geometric shapes; replicate the person’s facial features, hairstyle, and expression accurately while stylizing them into a collage-like, handmade aesthetic; use soft shadows between layers to create depth, slightly exaggerated proportions for a playful look, and a minimal, clean background with muted pastel tones; ensure high contrast between layers, crisp edges, and a modern editorial feel",
+    "title": "Cut-Out Animation Style Portrait",
+    "description": "A prompt for transforming a reference image into a handmade, layered paper cut-out animation style portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361046286_8mcszv_HG6sP88aIAA-QNL.jpg",
+      "https://cms-assets.youmind.com/media/1777361046426_4ta05g_HG6sQNNbIAEFH61.jpg",
+      "https://cms-assets.youmind.com/media/1777361046245_bmdb44_HG6sQcEbkAAugvz.jpg",
+      "https://cms-assets.youmind.com/media/1777361047014_i8bit2_HG6sQsiaIAAmvHZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16473,
+    "content": "a {argument name=\"dog breed\" default=\"great dane\"} riding on a {argument name=\"scooter color\" default=\"mint-green\"} scooter down a lively city street, drawn in a {argument name=\"style\" default=\"fast sketchy illustration style\"} with bold loose lines, fun retro color scheme of mint-green, coral, and mustard, dynamic three-quarter side view, sense of motion with speed lines and slightly blurred background, bright midday lighting with soft shadows, playful lighthearted mood",
+    "title": "Sketchy Illustration of Dog on Scooter",
+    "description": "A fun, retro-styled prompt for a sketchy illustration of a Great Dane riding a mint-green scooter through a city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361054899_xc1taq_HG50Vd_awAAkDj2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16164,
     "content": "A prompt that generates a horizontal progression of golf swing sketches, moving from realistic ink drawings to minimalist abstract art, allowing for customization of the subject, art style, and artist signature.",
     "title": "Progressive Golf Swing Artistic Sketch",

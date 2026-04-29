@@ -10,13 +10,99 @@
     "needReferenceImages": false
   },
   {
-    "id": 16181,
-    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"young woman with short messy bob hair, soft freckles\"}, smiling shyly with her hand partially covering her mouth, wearing an {argument name=\"clothing\" default=\"oversized warm-toned orange jacket\"} over a casual t-shirt, {argument name=\"lighting\" default=\"golden hour sunlight backlighting her hair\"}, glowing rim light, shallow depth of field, dreamy bokeh city lights in background, urban street setting, soft warm color grading, natural skin texture, candid emotion, 85mm lens, f/1.8, ultra-realistic, film photography style",
-    "title": "Cinematic Urban Sunset Portrait",
-    "description": "A cinematic portrait prompt of a young woman with a messy bob in an urban setting during golden hour, emphasizing natural skin texture and candid emotion.",
+    "id": 16456,
+    "content": "cut-out animation style portrait of the person in the reference image, using flat layered paper textures, bold outlines, and simplified geometric shapes; replicate the person’s facial features, hairstyle, and expression accurately while stylizing them into a collage-like, handmade aesthetic; use soft shadows between layers to create depth, slightly exaggerated proportions for a playful look, and a minimal, clean background with muted pastel tones; ensure high contrast between layers, crisp edges, and a modern editorial feel",
+    "title": "Cut-Out Animation Style Portrait",
+    "description": "A prompt for transforming a reference image into a handmade, layered paper cut-out animation style portrait.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777274451726_55edh9_HG5EHGyaoAArbrS.jpg",
-      "https://cms-assets.youmind.com/media/1777274451389_izr914_HG5EHGzaYAAmLsI.jpg"
+      "https://cms-assets.youmind.com/media/1777361046286_8mcszv_HG6sP88aIAA-QNL.jpg",
+      "https://cms-assets.youmind.com/media/1777361046426_4ta05g_HG6sQNNbIAEFH61.jpg",
+      "https://cms-assets.youmind.com/media/1777361046245_bmdb44_HG6sQcEbkAAugvz.jpg",
+      "https://cms-assets.youmind.com/media/1777361047014_i8bit2_HG6sQsiaIAAmvHZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16460,
+    "content": "{\"style\": \"ultra-realistic smartphone mirror selfie, natural daylight, high detail, realistic textures, clean modern room\", \"aspect_ratio\": \"4:5\", \"camera\": {\"type\": \"smartphone rear camera via mirror\", \"angle\": \"close mirror reflection from slight left side\", \"height\": \"around chest level\", \"tilt\": \"slight downward angle\", \"distance\": \"close to mirror\", \"lens\": \"24mm to 28mm smartphone lens\", \"focus\": \"sharp across subject and environment\", \"depth_of_field\": \"deep focus\", \"resolution\": \"4K\"}, \"subject\": {\"gender\": \"female\", \"pose\": {\"position\": \"low kneeling pose with body weight resting downward\", \"orientation\": \"diagonal toward mirror with back/hips closest to camera via reflection\", \"lower_body\": {\"left_leg\": {\"position\": \"fully folded under body\", \"contact\": \"shin and knee resting flat on floor\"}, \"right_leg\": {\"position\": \"extended backward along floor\", \"contact\": \"entire leg resting flat, no lift\"}, \"hip_position\": \"lowered and compressed toward heels\", \"weight_distribution\": \"majority of weight resting on hips and thighs\", \"effect\": \"natural compression creates fuller and rounded lower body appearance\"}, \"upper_body\": {\"posture\": \"leaning slightly forward\", \"support\": \"partially supported by forearm on soft surface\", \"torso_alignment\": \"slightly angled but mostly facing mirror\", \"arms\": {\"right_hand\": \"holding smartphone near face\", \"left_arm\": \"resting forward\"}}, \"head\": {\"direction\": \"turned toward mirror\", \"tilt\": \"slight downward tilt\", \"gaze\": \"looking at phone screen\"}, \"expression\": {\"mouth\": \"soft pout\", \"eyes\": \"focused and relaxed\"}}, \"appearance\": {\"skin_tone\": \"light-medium warm tone\", \"body_type\": \"curvy with fuller lower body, pronounced hips and thighs, natural proportions\", \"hair\": {\"color\": \"dark brown\", \"style\": \"long, slightly wavy\", \"length\": \"mid-back\", \"parting\": \"center\"}, \"facial_features\": {\"reference_image\": \"USE_ATTACHED_REFERENCE_IMAGE\", \"instruction\": \"Exactly match ALL facial features from the reference image: face shape, eye shape/color/position, nose, lips shape/fullness, eyebrows, jawline, cheekbones, forehead, skin texture/details, and overall facial structure. Transfer the exact face from the reference while keeping the head angle, tilt, gaze, and expression as described.\", \"visibility\": \"partial front/side face visible in mirror\", \"eyes\": \"dark\", \"lips\": \"full\", \"makeup\": \"soft natural glam\"}}, \"clothing\": {\"top\": {\"type\": \"fitted tank top\", \"color\": \"light gray\", \"fit\": \"tight\"}, \"bottom\": {\"type\": \"high-waisted leggings\", \"color\": \"deep red/maroon\", \"fit\": \"tight, compressive fabric emphasizing natural contours\"}, \"footwear\": \"barefoot\"}}, \"environment\": {\"location\": \"bright modern bedroom/studio\", \"mirror\": {\"type\": \"full-length mirror with gold frame\", \"placement\": \"leaning against wall on left\"}, \"floor\": {\"type\": \"light wood\", \"covering\": \"soft pink rug beneath subject\"}, \"background\": {\"window\": {\"type\": \"large windows\", \"light\": \"bright daylight\"}, \"door\": \"white door open\", \"vanity\": {\"desk\": \"white vanity\", \"chair\": \"pink chair\"}}, \"foreground\": {\"object\": \"soft gray blanket partially visible\"}}, \"props\": {\"smartphone\": {\"type\": \"modern smartphone\", \"case\": \"bright pink patterned case\", \"orientation\": \"vertical\", \"position\": \"near face, slight occlusion\"}}, \"lighting\": {\"type\": \"natural daylight\", \"direction\": \"from right side (window)\", \"quality\": \"soft, diffused\", \"effect\": \"gentle highlights, natural shadows, enhances depth\"}, \"composition\": {\"subject_placement\": \"center-left in mirror frame\", \"perspective\": \"rear three-quarter reflection with grounded lower body\", \"focus\": \"pose structure and natural body compression\", \"depth\": \"foreground (blanket), midground (subject), background (room)\"}, \"rendering_notes\": {\"realism_priority\": \"extreme realism\", \"pose_accuracy\": \"legs fully grounded, hips lowered and compressed\", \"body_physics\": \"natural weight compression and realistic proportions\", \"mirror_accuracy\": \"correct reflection geometry\", \"no_distortion\": true, \"no_extra_limbs\": true, \"accurate_anatomy\": true, \"consistent_lighting\": true, \"high_texture_detail\": true, \"face_reference_priority\": \"high - match reference face exactly while preserving body, height, and proportions\"}}",
+    "title": "Realistic Mirror Selfie Prompt",
+    "description": "A highly specific structured prompt for generating an ultra-realistic smartphone mirror selfie with focus on posing and physical details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361048529_9dpvpu_HG5sqd3bMAART6L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16457,
+    "content": "A high-quality black and white portrait of a {argument name=\"subject\" default=\"young man\"} with tousled, textured hair sitting in a {argument name=\"setting\" default=\"rustic cafe\"}. He is wearing a {argument name=\"clothing\" default=\"dark, cable-knit sweater\"} and looking directly at the camera with a subtle, warm smile. One hand is resting under his chin, and the other is holding a coffee cup on a weathered wooden table. The background features soft bokeh with blurred cafe lights and a brick wall by a window. Cinematic lighting, 8k resolution, film grain.",
+    "title": "Black and White Cafe Portrait",
+    "description": "A cinematic black and white portrait prompt of a young man in a rustic cafe setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361047470_933xrz_HG5qq-NaoAAadO9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16181,
+    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"young woman with short messy bob hair\"}, soft freckles, smiling shyly with her hand partially covering her mouth, wearing an oversized {argument name=\"jacket style\" default=\"warm-toned orange jacket\"} over a casual t-shirt, golden hour sunlight backlighting her hair, glowing rim light, shallow depth of field, dreamy {argument name=\"background\" default=\"bokeh city lights\"} in background, urban street setting, soft warm color grading, natural skin texture, candid emotion, 85mm lens, f/1.8, ultra-realistic, film photography style",
+    "title": "Cinematic Urban Street Portrait",
+    "description": "A cinematic portrait prompt featuring a young woman in an orange jacket with urban bokeh lighting and a film photography aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361052053_ndu8i9_HG5EHGyaoAArbrS.jpg",
+      "https://cms-assets.youmind.com/media/1777361051752_jzb3ny_HG5EHGzaYAAmLsI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16465,
+    "content": "A hyper-photorealistic Polaroid photo of the same subject in the attached image, close-up portrait holding a {argument name=\"flowers\" default=\"pastel flower bouquet\"}, wearing a {argument name=\"headwear\" default=\"colorful pastel crochet beanie\"}, gentle daylight, dreamy feminine mood, instant-film softness, creamy skin highlights, faded pastel colors, visible film grain, tiny dust specks, real white Polaroid frame, soft facial texture, soft relaxed gaze, imperfect candid crop.\n{argument name=\"makeup\" default=\"Douyin make up, pink lip gloss\"}.\n\n Negative prompt: AI doll skin, over-smoothed face, fake lashes, distorted fingers, unrealistic eyes, digital HDR, cartoon, watermark. Floating border",
+    "title": "Dreamy Polaroid Portrait",
+    "description": "A prompt for generating a hyper-photorealistic Polaroid-style portrait with a soft, feminine mood and visible film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361050326_8gsivf_HG41JSuacAAauCw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16470,
+    "content": "A confident young man with {argument name=\"visual reference\" default=\"striking resemblance to Shah Rukh Khan\"}, sitting casually on a white hard-shell rolling suitcase in the middle of a {argument name=\"location\" default=\"modern urban plaza\"}. He has dark styled hair, wearing sleek aviator sunglasses, gray over-ear headphones resting around his neck, a {argument name=\"top\" default=\"black short-sleeve button-up shirt\"} with the top buttons open, light gray loose-fit trousers, and polished black Chelsea boots. His pose is relaxed yet stylish — one leg extended forward, the other bent, hands resting on his thighs as he looks slightly upward with a cool, contemplative expression. The background features a towering modern glass skyscraper with reflective blue-tinted windows, captured from a low angle during golden hour daylight. Professional cinematic photography, sharp details, realistic textures, natural lighting with soft reflections on the glass, high resolution, photorealistic, 8k.",
+    "title": "Urban Plaza Fashion Portrait",
+    "description": "A cinematic prompt depicting a stylish man sitting on a suitcase in an urban plaza, designed to produce high-resolution, photorealistic results.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361053459_bq5z0x_HG4uavEawAAcJR1.jpg",
+      "https://cms-assets.youmind.com/media/1777361053547_rv6zo2_HG4ua-hbwAAbiN8.jpg",
+      "https://cms-assets.youmind.com/media/1777361053470_4ms8m1_HG4ubKyaQAE9aWU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16467,
+    "content": "An ultra-realistic extreme close-up beauty portrait of a stylish young woman taking a mirror selfie, framed from shoulders up. She is wearing a {argument name=\"outfit\" default=\"black oversized loose shirt\"} slightly visible near the collarbone, softly draped for a relaxed yet chic look. Her hand is gently holding the shirt near the collar, adding a natural candid feel. She has {argument name=\"hair style\" default=\"voluminous, naturally curly hair\"} framing her face with soft texture and movements A few strands fall delicately across her forehead and cheeks. Her facial features are sharp yet soft — glowing skin with a dewy finish, smooth complexion, highlighted cheekbones, subtle contour, and a natural blush. Makeup is minimal but refined: glossy or soft matte lips, lightly defined brows, and softly enhanced eyes with natural lashes. Her expression is calm, confident, and slightly introspective, with direct eye contact into the mirror.Realistic soft lighting enhances skin texture and facial depth, while a subtle white outline glow surrounds her hair and silhouette, adding a dreamy, edited aesthetic. The background is a blurred grayscale artistic collage with hints of elements like electric guitar, headphones, dice, cat face decor, and floating 3D stars, along with bold \"████\" graffiti-style text — softly out of focus to keep attention on her face.{argument name=\"edit style\" default=\"Instagram-style edit\"}, cinematic tones, shallow depth of field, HD quality, portrait orientation (9:16), perfectly balanced composition.",
+    "title": "Candid Mirror Selfie Beauty Portrait",
+    "description": "A detailed prompt for a close-up beauty portrait of a woman taking a mirror selfie with a chic, relaxed look and a stylized graphic background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361050908_u5a7yh_HG4fPFHa0AA1DuD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16464,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"description\": \"{argument name=\"subject\" default=\"Young woman with medium-length blonde or strawberry-blonde hair and light freckles\"}, with the reference face of Sadie Sink\",\n      \"expression\": \"Candidly laughing, looking directly at the camera, playfully resting a finger near her mouth\",\n      \"attire\": \"{argument name=\"swimsuit style\" default=\"Fitted, solid burnt-orange one-piece swimsuit\"}\",\n      \"pose\": \"Leaning casually forward against the wooden edge of the tub, partially submerged in the water\"\n    },\n    \"environment\": {\n      \"setting\": \"{argument name=\"location\" default=\"Inside an outdoor, rustic wooden hot tub\"}\",\n      \"time_of_day\": \"Nighttime\",\n      \"atmospheric_effects\": \"Thick, atmospheric steam rising from the dark water\"\n    },\n    \"photography_style\": {\n      \"lighting\": \"Warm, low-light ambiance illuminated by glowing overhead string lights, creating soft, warm bokeh in the background\",\n      \"camera_angle\": \"Medium shot, eye-level with the subject slightly above the water line, shallow depth of field\",\n      \"aesthetic\": \"Raw lifestyle photography, candid, photorealistic realism, highly detailed, cinematic\"\n    }\n  }\n}",
+    "title": "Outdoor Hot Tub Night Scene",
+    "description": "A cinematic, photorealistic prompt for a woman in a burnt-orange swimsuit laughing in a rustic wooden hot tub at night with atmospheric steam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361050000_rm1ewp_HG38leVaIAAyBON.jpg",
+      "https://cms-assets.youmind.com/media/1777361049970_7hvn52_HG38lmCa8AEApYf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16450,
+    "content": "A medium close-up captures a {argument name=\"subject\" default=\"young woman\"} standing outdoors in a {argument name=\"setting\" default=\"grassy field during twilight\"}. She has hair framing her face and wears large, textured gold hoop earrings. She is dressed in a {argument name=\"clothing\" default=\"black sweatshirt\"}. Her expression is contemplative, with soft lighting creating a gentle glow on her smooth skin. The background consists of blurred circular lights, likely small street lamps, that add depth with their warm golden tones against the cooler sky.",
+    "title": "Contemplative Woman at Twilight",
+    "description": "A medium close-up prompt of a young woman in a gold hoop earrings and a black sweatshirt standing in a field at twilight with bokeh lights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777361043823_c1ejzb_HG3sAVOa4AA6Xg5.jpg"
     ],
     "needReferenceImages": false
   },

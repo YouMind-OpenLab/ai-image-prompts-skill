@@ -1,5 +1,48 @@
 [
   {
+    "id": 16772,
+    "content": "{argument name=\"character\" default=\"Neo Goku\"} - Arrives at the {argument name=\"location\" default=\"city of machines\"}",
+    "title": "Neo Goku in the Machine City",
+    "description": "A prompt for generating an image of Neo Goku arriving in a futuristic city populated by machines, created with Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447803074_yxlxqe_HHAjWRtWkAANxP1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16744,
+    "content": "3D gaming character {argument name=\"character name\" default=\"Spartacus\"} with {argument name=\"weapon\" default=\"axe\"} and a ninja with a katana in {argument name=\"background\" default=\"white minimalist background\"} neat and clean 16:9",
+    "title": "3D Gaming Character Battle Scene",
+    "description": "A prompt for generating 3D gaming characters, specifically Spartacus and a ninja, on a minimalist background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447789375_37q2fd_HG_9vXybwAAqHYR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16752,
+    "content": "Ultra-detailed portrait of {argument name=\"subject\" default=\"the same person from the reference image\"}, wearing an {argument name=\"attire\" default=\"elegant Persian court robe with intricate pleats\"}, rich silk fabric, and ornate embroidery inspired by Safavid Empire royal attire, {argument name=\"color scheme\" default=\"deep jewel tones (emerald, maroon, gold)\"}, fine textile patterns, layered drapery, regal posture, soft cinematic lighting, sharp facial resemblance, realistic skin texture, shallow depth of field, symmetrical composition, luxurious palace background with Persian motifs, high resolution, photorealistic, 85mm lens style, ultra aesthetic, highly detailed fabric folds and textures",
+    "title": "Persian Court Robe Portrait",
+    "description": "A prompt designed to dress a reference subject in regal Persian court attire with complex pleats and silk textures, set in a luxurious palace interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447794017_fe4x8e_HG_12voaoAAtkDK.jpg",
+      "https://cms-assets.youmind.com/media/1777447793902_2oxkox_HG_12_6a4AAG2La.jpg",
+      "https://cms-assets.youmind.com/media/1777447793959_loayp8_HG_13R8bkAAw_C_.jpg",
+      "https://cms-assets.youmind.com/media/1777447794471_ta95v9_HG_13h3aUAALFQl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16765,
+    "content": "use the exact composition of @walk for a highly detailed 3D gaming character of a {argument name=\"subject\" default=\"buddhist monk with a buddha statue strapped to his back\"} walking through a {argument name=\"landscape\" default=\"indian landscape with palmtrees in the back\"}. background landscape is even and does not rise towards the edges",
+    "title": "3D Gaming Character Composition",
+    "description": "A detailed instruction to generate a 3D gaming character based on a specific composition, featuring a monk and an Indian landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447800534_3s8wui_HG_XodBa8AAlBEn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16188,
     "content": "Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name=\"character outfit\" default=\"plush penguin onesie\"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name=\"vehicle\" default=\"vintage teal and chrome cruiser motorcycle\"} parked on a {argument name=\"setting\" default=\"winding coastal highway\"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.",
     "title": "Chibi Penguin on a Motorcycle",

@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 16763,
+    "content": "A whimsical illustration features a playful {argument name=\"subject\" default=\"pyramid of sheep\"} of various sizes and colors, stacked on top of each other against a plain background. The sheep are depicted with simple, stylized forms and bold, vibrant colors, some with playful patterns like {argument name=\"patterns\" default=\"polka dots or stripes\"}. The composition is dynamic and energetic, with the sheep poses suggesting movement and interaction. The overall impression is one of joy and lightheartedness, with a touch of {argument name=\"style\" default=\"childlike charm\"}. All isolated on a white background",
+    "title": "Whimsical Sheep Pyramid Illustration",
+    "description": "A creative illustration prompt for a stack of colorful sheep, perfect for playful graphics or children's book style art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447797555_q8f2wq_HG_HaQdbUAErTlW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15855,
     "content": "Soft restoration in black and white. The result should not be too contrasted or too pushed in sharpness, to preserve the grain, tone and nostalgic softness of the initial photo.",
     "title": "Nostalgic Photo Restoration Prompt",

@@ -20,6 +20,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 16747,
+    "content": "A beautiful, vertical {argument name=\"medium\" default=\"charcoal drawing\"} of a {argument name=\"subject\" default=\"young woman tenderly cradling her infant child\"}. The style is {argument name=\"art style\" default=\"classic fine art\"} with expressive, soft charcoal strokes and rich smudged textures on textured cream-colored paper. The mother has her eyes gently closed, resting her head against the baby's, while the baby gazes up at her with a soft smile. High-contrast lighting creates deep shadows and bright highlights, emphasizing the emotional bond and the intricate details of the hair and knit clothing. Elegant, timeless, and hand-drawn aesthetic.",
+    "title": "Classic Fine Art Charcoal Drawing Prompt",
+    "description": "A prompt for a classic charcoal drawing style on textured paper, depicting a mother and infant child with an emphasis on emotional bond and high-contrast textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447792351_7ap56n_HHAoqL3aoAAysGt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16758,
+    "content": "A high-energy, vertical sports advertisement poster featuring a {argument name=\"subject\" default=\"blonde female athlete\"} with a cheerful expression, resembling a pop star. She is captured mid-stride, leaping through a vibrant, stylized mountain landscape. She wears a {argument name=\"clothing\" default=\"purple hoodie under a bright yellow and red patterned windbreaker\"}, paired with black leggings and one uniquely colorful, puffed leg warmer. On her feet are chunky, oversized multi-colored sneakers ({argument name=\"sneaker colors\" default=\"orange, blue, and white\"}) that are the focal point of the foreground. The background is a digital illustration of green mountains with glowing teal and purple light trails swirling through a valley. The text on the poster reads \"PULSE\" in large faded letters behind her, and bold white text at the bottom says \"PULSE GEAR: POWER. PERFORMANCE. STYLE.\" with a tagline \"IGNITE YOUR PASSION.\" The overall style is a blend of hyper-realistic character rendering and graphic vector art.",
+    "title": "High-energy sports advertisement poster",
+    "description": "A dynamic sports ad prompt featuring a cheerful female athlete in a vibrant mountain landscape with stylized light trails.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447796206_ga9ck5_HG_3adWboAA9Vaj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16754,
+    "content": "A 2x2 grid of cinematic, hyper-realistic editorial portraits of a {argument name=\"subject\" default=\"young women\"}(keep the facial features unchanged as uploaded image)with a sharp jawline and dark, textured hair. The aesthetic is {argument name=\"style\" default=\"Neo-Noir dark fantasy\"}, blending high-fashion streetwear with surreal, symbolic elements. The color palette is strictly limited to {argument name=\"colors\" default=\"deep crimson, obsidian black, and crisp white\"}.\nQuadrants & Details\n\nTop Left: Close-up portrait. The man has a dark, thorny crown across his eyes with a single\nblood-red rose covering one eye. He exhales a thick, volumetric plume of cigarette smoke. White ash-like particles are scattered across the shoulder of his black wool coat.\n\nTop Right: A surreal double-exposure style portrait. His face is framed by two glowing, out-of-focus candle flames in the foreground. He has intense, slightly glowing reddish-amber eyes.\n\nBottom Left: Full-body shot. He stands in a minimalist white studio space, wearing an oversized black trench coat and wide-leg trousers. He confidently rests one foot on a glowing, intricate glass chandelier placed on the floor, surrounded by thousands of fallen red rose petals.\n\nBottom Right: Waist-up portrait against a deep red gradient background. He holds a large bouquet of dark red roses. Fine white snow or ash falls softly through the air, caught by high-speed photography.\nTechnical & Lighting\n\nLighting: Masterful chiaroscuro and rim lighting. High-contrast shadows define the facial structure and the premium textures of the heavy wool coat and silk burgundy tie.\n\nCamera: Shot on Arri Alexa 65 with an 85mm f/1.2 lens for supreme clarity and buttery bokeh.\n\nRendering: 16k resolution, Unreal Engine 5.4, ray-traced reflections on the glass chandelier, subsurface scattering on the skin, and hyper-detailed fabric weaves.\n\nAtmosphere: Moody, avant-garde, \"Vogue\" editorial, dark romanticism.",
+    "title": "Neo-Noir Editorial Collage",
+    "description": "A cinematic prompt for a 2x2 grid featuring dark fantasy and high-fashion streetwear elements in a strictly red, black, and white color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447794616_u7d84b_HG9j2vXbMAELzkc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16757,
+    "content": "A powerful, athletic woman sitting confidently on a concrete gym bench. She is leaning one arm against a massive, vertically oriented dumbbell that stands nearly as tall as her. The composition is centered and symmetrical, creating a bold, editorial fitness look.\n​Wardrobe & Styling\n​Top: Vibrant {argument name=\"top color\" default=\"yellow\"} athletic crop top.\n​Bottom: {argument name=\"bottom color\" default=\"Red\"} high-waisted leggings with a yellow racing stripe down the side.\n​Footwear: Matching yellow and red athletic sneakers.\n​Hair: Sleek, high dark ponytail.\n​Environment & Background\n​Background: A deep blue minimalist gym wall featuring the word \"{argument name=\"background text\" default=\"POWER\"}\" in massive, white, bold sans-serif typography.\n​Floor: Polished concrete with a high-gloss finish, showing a clear reflection of the subject and the weights.\n​The Prop: A stylized, oversized dumbbell standing upright. The top weight plate is labeled \"POWER\" and the base is labeled \"100 KG\".\n​Lighting & Atmosphere\n​Lighting: Clean, cinematic studio lighting with cool blue rim lighting along the ceiling edges.\n​Mood: Intense, motivating, and modern.\n​Quality: High-resolution, photorealistic, sharp focus with vibrant color saturation.",
+    "title": "Bold Editorial Fitness Portrait",
+    "description": "An editorial fitness prompt featuring an athletic woman with an oversized dumbbell prop, focusing on vibrant colors and concrete gym aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16451,
     "content": "Ultra-realistic high-end fitness campaign poster featuring a {argument name=\"subject\" default=\"young man\"} (use my face), sharp jawline, confident intense expression, slightly sweaty skin with cinematic highlights. He is seated casually between {argument name=\"equipment\" default=\"two oversized matte-black hex dumbbells (150 KG)\"}, one arm resting on the weight, body slightly angled, legs extended in a relaxed but powerful pose.\n\nOutfit: premium performance wear, deep black compression tank with subtle texture, fitted athletic shorts, clean white trainers. Physique defined, lean muscular aesthetic.\n\nBackground: bold minimal studio setup with a dark black backdrop and large oversized typography in the background reading “{argument name=\"slogan\" default=\"BUILT DIFFERENT\"}” in textured metallic silver.\n\nLighting: dramatic studio lighting, strong key light from front-left, subtle rim light for edge separation, glossy floor reflection with soft highlights.\n\nBranding elements: minimal luxury branding inspired by Under Armour × Gymshark collaboration, small clean logo placement on outfit and bottom corner.\n\nStyle: hyper-detailed, commercial-grade, ultra-sharp, 8K, cinematic contrast, magazine cover quality.\n\nComposition: low-angle perspective to enhance dominance, centered framing, high contrast black, silver, and white palette.",
     "title": "Fitness Campaign Studio Poster",

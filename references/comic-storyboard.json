@@ -1,5 +1,28 @@
 [
   {
+    "id": 16772,
+    "content": "{argument name=\"character\" default=\"Neo Goku\"} - Arrives at the {argument name=\"location\" default=\"city of machines\"}",
+    "title": "Neo Goku in the Machine City",
+    "description": "A prompt for generating an image of Neo Goku arriving in a futuristic city populated by machines, created with Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447803074_yxlxqe_HHAjWRtWkAANxP1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16752,
+    "content": "Ultra-detailed portrait of {argument name=\"subject\" default=\"the same person from the reference image\"}, wearing an {argument name=\"attire\" default=\"elegant Persian court robe with intricate pleats\"}, rich silk fabric, and ornate embroidery inspired by Safavid Empire royal attire, {argument name=\"color scheme\" default=\"deep jewel tones (emerald, maroon, gold)\"}, fine textile patterns, layered drapery, regal posture, soft cinematic lighting, sharp facial resemblance, realistic skin texture, shallow depth of field, symmetrical composition, luxurious palace background with Persian motifs, high resolution, photorealistic, 85mm lens style, ultra aesthetic, highly detailed fabric folds and textures",
+    "title": "Persian Court Robe Portrait",
+    "description": "A prompt designed to dress a reference subject in regal Persian court attire with complex pleats and silk textures, set in a luxurious palace interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447794017_fe4x8e_HG_12voaoAAtkDK.jpg",
+      "https://cms-assets.youmind.com/media/1777447793902_2oxkox_HG_12_6a4AAG2La.jpg",
+      "https://cms-assets.youmind.com/media/1777447793959_loayp8_HG_13R8bkAAw_C_.jpg",
+      "https://cms-assets.youmind.com/media/1777447794471_ta95v9_HG_13h3aUAALFQl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16444,
     "content": "Image 1: The Blue Gown and the Miniature:\n\nA cinematic, medium shot of a young woman with {argument name=\"hair color\" default=\"vibrant auburn\"} hair and striking blue eyes. She is dressed in a period-accurate, 18th-century style gown made of shimmering sky-blue jacquard fabric with delicate floral patterns. Her hair is partially covered by a simple white linen coif or bonnet. She is indoors, standing before a dark wooden cabinet filled with curiosities and a miniature model house. She holds a small, dark-clothed doll or figurine with both hands, looking off-camera with a contemplative and slightly anxious expression. The lighting is soft and naturalistic, reminiscent of a Vermeer painting, highlighting the textures of the fabric and the fine details of her complexion.\n\nImage 2: The Morning Room:\n\nA dramatic, side-profile cinematic shot of a young woman with red hair tied back in a neat bun. She is leaning forward over a dark, velvet-covered surface, perhaps a bed or a low table, in a richly paneled room. She wears a traditional period ensemble consisting of a {argument name=\"clothing color\" default=\"white\"} chemise with puffed sleeves and a structured {argument name=\"corset color\" default=\"cream-colored\"} corset or stays, adorned with tiny floral embroidery along the edges. The background features intricate, dark wood carvings on a wall or headboard, adding a sense of historical weight and opulence. Her expression is focused and solemn as she gazes into the distance. The atmosphere is moody and atmospheric, with a shallow depth of field that keeps the focus sharply on her features and the craftsmanship of her attire.",
     "title": "18th Century Period Cinematic Portraits",

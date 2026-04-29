@@ -56,6 +56,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 16770,
+    "content": "{\n  \"camera_settings\": {\n    \"lens\": \"85mm f/1.8\",\n    \"perspective\": \"Eye-level portrait\",\n    \"depth_of_field\": \"Shallow with soft background bokeh\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft natural morning light\",\n    \"mood\": \"Clean, airy, optimistic\",\n    \"highlights\": \"Subtle sheen on hair and product bottle\"\n  },\n  \"subject_details\": {\n    \"hair\": \"{argument name=\"hair style\" default=\"Voluminous beach waves, honey blonde, high shine\"}\",\n    \"expression\": \"Joyful, authentic smile\",\n    \"wardrobe\": \"Cream-colored knit sweater\"\n  },\n  \"graphic_design\": {\n    \"layout\": \"Infographic overlay on the right\",\n    \"elements\": [\"Keratin powder\", \"{argument name=\"product type\" default=\"Argan oil bottle\"}\", \"Green leaves\", \"Oat stalks\"],\n    \"typography\": \"Clean sans-serif {argument name=\"label style\" default=\"labels in white boxes\"}\"\n  }\n}",
+    "title": "Infographic Product Photography Prompt",
+    "description": "A structured JSON prompt for generating clean, professional product photography with technical overlays, suitable for health or beauty products.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447801955_u6eqof_HHDiO5BbEAADeKO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16743,
+    "content": "A lush, cinematic photorealistic depiction of a {argument name=\"environment\" default=\"dense tropical rainforest ecosystem\"}, bursting with diverse wildlife. The central focus is a {argument name=\"main animal\" default=\"majestic Bengal tiger\"} walking towards the viewer on a dirt path, surrounded by rich green ferns, orchids, and massive moss-covered trees. In the mid-ground, on the left, a mother Asian elephant and her calf are drinking from a rocky, flowing river that leads back to a small waterfall in the distance. The jungle canopy is thick with vines and air plants. Perched on a thick branch on the right are a vibrant Great Hornbill and a black Siamang gibbon, while a Macaque monkey sits further down. A spotted Chital deer grazes near the tiger, and a wild boar is visible on the right. Various colorful birds, including a Kingfisher, a Hummingbird, and a Macaw, are flying or perched throughout the scene, along with several species of parakeets. The forest floor features a {argument name=\"reptile\" default=\"large python\"} resting on a log. The air is slightly humid, with soft, ambient light filtering through the canopy, and the environment is dense with layers of vegetation.",
+    "title": "Tropical Rainforest Wildlife Ecosystem",
+    "description": "An expansive prompt for a photorealistic scene of a tropical jungle featuring a Bengal tiger, elephants, and exotic birds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447789470_j9ng4c_HG_GhvwbYAAigOy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16466,
     "content": "Top-down flat lay on a rustic wooden table, cozy aesthetic, soft natural light. A glass of iced tea with lemon slices and ice cubes, a glazed donut, a small succulent plant in a white pot, a vintage book, and eyeglasses. A sleeping tabby cat curled on a blanket at the edge. White hand-drawn doodle outlines and arrows around each object with playful handwritten labels like “refreshing iced tea,” “sweet treat,” “little green friend,” “afternoon read,” and “cutest thing in the world – cat.” Warm tones, minimal shadows, lifestyle photography, high detail, Instagram aesthetic. Cozy tabletop scene from a slight angle, warm natural lighting. A glass of iced tea with lemon and mint, a chocolate-glazed donut on a ceramic plate, a small succulent plant, a worn notebook with a pen on top, and a framed photo of a sleeping cat. Clean wooden surface background. White doodle-style outlines and arrows pointing to each item with handwritten captions like “refreshing iced tea with a kick,” “the sweetest morning treat,” “little green friend,” “a good read… eventually,” and “cutest thing in the world.” Soft focus, warm color grading, aesthetic lifestyle composition, high realism.",
     "title": "Cozy Tabletop Flat Lay with Doodles",

@@ -10,6 +10,86 @@
     "needReferenceImages": false
   },
   {
+    "id": 16742,
+    "content": "A medium shot of a captivating young woman with a platinum blonde bob, pale skin with delicate beauty marks, steel grey eyes, and a slim graceful silhouette, sitting by a large window in a penthouse looking over the city. She wears an elegant emerald silk slip dress with a plunging neckline. Soft golden hour sunlight streaming through the glass. High-resolution, photorealistic, realistic photography style, cinematic lighting, sharp focus. A half-empty crystal champagne glass rests on the table beside her, condensation gleaming as it catches the warm light. A close-up portrait of the same woman in the penthouse, looking back over her shoulder with a confident, direct gaze. She wears the same emerald silk slip dress. The warm ambient lighting highlights the smooth textures of her pale skin. Highly detailed realistic photography, shallow depth of field, soft bokeh background with out-of-focus city lights. The golden hour light reflects subtly in her steel grey eyes.",
+    "title": "Cinematic Penthouse Portrait of Celeste",
+    "description": "A detailed prompt for generating a high-resolution, photorealistic portrait of a blonde woman in an emerald silk dress in a luxury penthouse setting during the golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447788782_ytydjq_HHAnW8ub0AA2NiH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16748,
+    "content": "​A high-quality studio portrait of a {argument name=\"subject\" default=\"smiling young woman with long, wavy brunette hair\"}, sitting gracefully on a velvet ottoman. She is wearing a floor-length, flowing {argument name=\"dress\" default=\"dusty rose maxi dress\"} with three-quarter sleeves. She is cradling a {argument name=\"pet\" default=\"large, fluffy white Persian cat\"} in her lap. The background is a solid matte black, creating a sharp contrast. The lighting is soft and directional, highlighting the textures of the dress and the cat's fur.",
+    "title": "Studio Portrait with Persian Cat",
+    "description": "A elegant studio portrait prompt featuring a woman in a dusty rose dress holding a white Persian cat against a black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447792600_wi88a6_HHARJq5bYAEV6gE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16756,
+    "content": "A medium close-up, high-definition portrait photo of a handsome young man with striking {argument name=\"eye color\" default=\"green\"} eyes, dark {argument name=\"hair style\" default=\"styled\"} hair, and defined facial features. He is looking directly at the camera with a calm, neutral expression. The man is wearing dark blue over-ear noise-canceling headphones. His outfit consists of an oversized, distressed {argument name=\"hoodie color\" default=\"olive-green\"} hoodie, which has small distressed details on the hood and pocket, layered over a black t-shirt. He is also wearing dark grey cargo pants. He is seated on a surface that has a bold pattern of black and off-white vertical stripes, which continues into the background wall with the same pattern, creating a graphic, optical illusion effect. His pose is relaxed, with his right hand casually resting in his pocket and his left hand on his thigh, showing a simple silver band ring on his finger. The lighting is clean and even, highlighting the textures of his skin, the fabric of the hoodie, and the patterns. The composition is centered.",
+    "title": "Graphic Portrait with Optical Illusion Background",
+    "description": "A prompt for a high-definition portrait of a young man against a striped background that creates an optical illusion, featuring specific textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447795691_ebcwxr_HG_9EWTbIAARw4l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16768,
+    "content": "A professional studio portrait of a woman with a {argument name=\"hair style\" default=\"textured, ash-blonde bob\"}, featuring a sophisticated and confident expression. She wears a {argument name=\"clothing\" default=\"high-neck, shimmering charcoal metallic turtleneck\"} that creates a distinct sparkle against a deep, seamless black background. The image is defined by dramatic \"{argument name=\"lighting\" default=\"Rembrandt\"}\" lighting, highlighting the contours of her face and the intricate, tinsel-like texture of her clothing for a high-contrast, elegant aesthetic.",
+    "title": "Professional Ash-Blonde Bob Portrait",
+    "description": "An elegant studio portrait prompt featuring a woman with an ash-blonde bob and metallic turtleneck using Rembrandt lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447801606_kl6d3o_HG_bWaFaAAAqpxk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16753,
+    "content": "{\n  \"subject\": {\n    \"identity\": \"{argument name=\"subject\" default=\"Woman from reference image\"}\",\n    \"pose\": \"Standing, looking upward toward the sky\",\n    \"expression\": \"Serene, romantic, hopeful\",\n    \"hair\": \"Long, dark, wavy, flowing\"\n  },\n  \"wardrobe\": {\n    \"style\": \"Romantic feminine aesthetic\",\n    \"garment\": \"Midi dress\",\n    \"color\": \"{argument name=\"outfit color\" default=\"Soft buttery yellow\"}\",\n    \"details\": [\n      \"Puff sleeves\",\n      \"Sweetheart neckline\",\n      \"Lace trim accents\",\n      \"Cinched waist\"\n    ],\n    \"footwear\": \"Red stiletto heels\"\n  },\n  \"environment\": {\n    \"background\": \"Dreamy garden path\",\n    \"lighting\": \"Golden hour, soft sunlight, natural glow\",\n    \"elements\": [\n      \"Lush greenery\",\n      \"Blurred floral background\",\n      \"Dirt pathway\"\n    ]\n  },\n  \"special_effects\": {\n    \"action\": \"{argument name=\"action\" default=\"Two small birds kissing/touching beaks in the sky\"}\",\n    \"focal_length\": \"Portrait mode, shallow depth of field (bokeh)\",\n    \"atmosphere\": \"Whimsical, soft focus\"\n  }\n}",
+    "title": "Romantic Whimsical Garden Portrait",
+    "description": "A structured structured prompt for a serene, romantic garden path scene featuring a subject in a yellow midi dress during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447794876_fwg624_HG_Bu2MbQAAAT2h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16745,
+    "content": "​A high-quality, close-up portrait of a {argument name=\"subject\" default=\"smiling woman with dark, shoulder-length hair\"} tucked behind her ears. She has a warm, approachable expression and prominent freckles across her nose and cheeks. She is wearing {argument name=\"jewelry\" default=\"gold hoop earrings and a large, gold signet ring featuring a square-cut vibrant emerald green gemstone\"}. Her hand is gracefully placed near her collarbone. She is dressed in a {argument name=\"attire\" default=\"simple, charcoal gray textured top\"}. The background is a soft, out-of-focus neutral gray and beige texture, creating a professional and elegant aesthetic with natural, soft lighting.",
+    "title": "Portrait of a Woman with Emerald Ring",
+    "description": "A studio portrait prompt focusing on accessories like gold hoop earrings and a large emerald signet ring.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447790067_vywrai_HG-bt0sagAAwjuX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16767,
+    "content": "Dramatic {argument name=\"color scheme\" default=\"red\"} cinematic silhouette portrait of a young women in side profile, messy hair, wearing a {argument name=\"clothing item\" default=\"hoodie\"}, touching his temple with his fin gers in a thoughtful pose, strong {argument name=\"lighting color\" default=\"red\"} lighting and deep shadows, dark black silhouette with glowing red highlights, double exposure effect with a large shadow of the same person behind him, minimal back ground with soft red and gray gradient, moody and emotional atmo sphere, high contrast lighting, digital art style, cinematic composition, soft haze, depth.",
+    "title": "Dramatic Cinematic Silhouette",
+    "description": "A stylized cinematic silhouette prompt using a double exposure effect and strong red lighting to create a moody and emotional portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447800481_jfqort_HG-JEVQaYAA-gax.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16749,
+    "content": "Use the uploaded photo as the identity reference and preserve 100% of the original facial identity, proportions, skin tone and unique features.\n\nUltra realistic editorial portrait, vertical composition, subject leaning forward toward the camera with hands clasped near the chin.\n\nPose: both forearms forward, fingers interlaced, one finger slightly raised near lips, hands in foreground with natural anatomy.\n\nExpression: calm, focused, intense eye contact.\n\nFace must remain identical with ultra-realistic skin texture, visible pores, natural imperfections.\n\nHair: natural texture with realistic strands and volume.\n\nOutfit: black button-up shirt with open collar, metallic accessories (bracelet, watch, chain).\n\nLighting: cinematic low-key lighting with green/cyan rim light on one side and red/orange rim light on the other, soft frontal fill for facial visibility.\n\nBackground: dark studio background, almost black, minimal.\n\nCamera: medium format look (Hasselblad / Fujifilm), 80mm lens, shallow depth of field, sharp focus on face and hands.\n\nEditorial fashion photography, cinematic lighting, high-end commercial quality, realistic textures, no artificial look.\n\nCamera RAW: texture +10, clarity +10, sharpness +8",
+    "title": "Ultra Realistic Editorial Portrait Prompt",
+    "description": "A detailed prompt for generating high-end editorial fashion photography with specific instructions for preserving facial identity, skin texture, and cinematic lighting effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777447792607_9n7a8a_HG9dZQxaEAAABTt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16456,
     "content": "cut-out animation style portrait of the person in the reference image, using flat layered paper textures, bold outlines, and simplified geometric shapes; replicate the person’s facial features, hairstyle, and expression accurately while stylizing them into a collage-like, handmade aesthetic; use soft shadows between layers to create depth, slightly exaggerated proportions for a playful look, and a minimal, clean background with muted pastel tones; ensure high contrast between layers, crisp edges, and a modern editorial feel",
     "title": "Cut-Out Animation Style Portrait",

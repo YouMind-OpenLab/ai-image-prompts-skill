@@ -21,12 +21,83 @@
     "needReferenceImages": true
   },
   {
-    "id": 16770,
-    "content": "{\n  \"camera_settings\": {\n    \"lens\": \"85mm f/1.8\",\n    \"perspective\": \"Eye-level portrait\",\n    \"depth_of_field\": \"Shallow with soft background bokeh\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft natural morning light\",\n    \"mood\": \"Clean, airy, optimistic\",\n    \"highlights\": \"Subtle sheen on hair and product bottle\"\n  },\n  \"subject_details\": {\n    \"hair\": \"{argument name=\"hair style\" default=\"Voluminous beach waves, honey blonde, high shine\"}\",\n    \"expression\": \"Joyful, authentic smile\",\n    \"wardrobe\": \"Cream-colored knit sweater\"\n  },\n  \"graphic_design\": {\n    \"layout\": \"Infographic overlay on the right\",\n    \"elements\": [\"Keratin powder\", \"{argument name=\"product type\" default=\"Argan oil bottle\"}\", \"Green leaves\", \"Oat stalks\"],\n    \"typography\": \"Clean sans-serif {argument name=\"label style\" default=\"labels in white boxes\"}\"\n  }\n}",
-    "title": "Infographic Product Photography Prompt",
-    "description": "A structured JSON prompt for generating clean, professional product photography with technical overlays, suitable for health or beauty products.",
+    "id": 17000,
+    "content": "{\n  \"vibe_title_en\": \"Bark's Resistance\",\n  \"master_prompt\": \"A hyper-realistic, medium format surreal portrait of {argument name=\"subject\" default=\"The Protagonist\"}. The subject features incredible practical-effect prosthetic makeup: their skin is cracking open down the neck and torso like dry, rough birch bark, revealing raw, fibrous wood underneath. Autumn leaves are organically intertwined into their hair. The subject stares directly into the camera with an unwavering, fierce 'Warrior's Resolve' and confrontational energy. Shot 'Through the Element': the camera peers through out-of-focus, decaying autumn foliage in the extreme foreground, creating profound depth. The setting is a shattered, overgrown dark botanical greenhouse. Dramatic dual-color lighting: a piercing deep blue ambient moonlight clashes with an intense, striking crimson red rim light that highlights the physical weight and jagged edges of the bark prosthetics. Captured on a Hasselblad H6D-100c, 100mm f/1.8 lens. Analog texture, Cinestill 800T halation, visible skin pores blending flawlessly into wood grain, physical light refraction, profound cinematic tension. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Surreal high-fashion editorial\",\n    \"priorities\": \"Surreal practical effects, dual lighting, intense gaze, foreground framing\",\n    \"device_profile\": \"High-end cinematic photography\"\n  },\n  \"frame\": {\n    \"aspect\": \"3:4\",\n    \"composition\": \"Through the Element (foreground foliage), central subject alignment\",\n    \"layout\": \"Medium close-up portrait\",\n    \"camera_angle\": \"Eye-level, straight on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless surreal entity\",\n    \"face\": \"Fierce, direct eye contact, warrior's resolve\",\n    \"hair\": \"Interwoven with dry autumn leaves\",\n    \"body\": \"Skin cracking like birch bark, revealing fibrous wood inside the torso\",\n    \"expression\": \"Confrontational, defiant, unwavering\",\n    \"pose\": \"Standing firm, squaring shoulders to the lens\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Birch bark skin integration (prosthetic surrealism)\",\n        \"material\": \"Wood and human skin\",\n        \"color\": \"White, brown, dark fissures\",\n        \"fit\": \"Body-mod\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Autumn leaves crown\",\n        \"color\": \"Golden, rust orange\",\n        \"material\": \"Organic dried leaves\",\n        \"brand_style\": \"Avant-garde nature\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Shattered, overgrown botanical glasshouse\",\n    \"surfaces\": \"Cracked glass, creeping vines, dry earth\",\n    \"depth\": \"Shallow depth of field with heavy foreground occlusion\",\n    \"atmosphere\": \"Tense, cold ambient with harsh aggressive localized heat\",\n    \"lens_interaction\": \"Shooting through out-of-focus foreground leaves\"\n  },\n  \"lighting\": {\n    \"key\": \"Deep blue ambient (moonlight)\",\n    \"fill\": \"Soft cool shadow\"\n}",
+    "title": "Surreal Birch Bark Portrait Prompt",
+    "description": "A highly detailed, surreal portrait prompt featuring a character with skin texture resembling birch bark, set in an overgrown greenhouse with dramatic blue and red lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777447801955_u6eqof_HHDiO5BbEAADeKO.jpg"
+      "https://cms-assets.youmind.com/media/1777533361994_btxp83_HHFpMFtXkAAZHcf.jpg",
+      "https://cms-assets.youmind.com/media/1777533362122_ma2p1q_HHFpMOcXUAA4fT_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16976,
+    "content": "This high-fashion marketing infographic, titled {argument name=\"title\" default=\"Elegance Defined\"} by {argument name=\"brand\" default=\"Vogue Vista\"}, showcases a sophisticated bespoke collection of modern classic dresses. A central model poses in a {argument name=\"dress description\" default=\"terracotta, tea-length, semi-fitted A-line dress featuring a boat neck and cap sleeves\"}, set against a neutral, minimalist background. The layout includes a \"Fit & Style Guide,\" a \"Premium Attributes\" section highlighting the luxurious crepe fabric and artisanal finish, and a {argument name=\"color collection\" default=\"\"Color Collection\" featuring six shades like Seafoam Green and Midnight Plum\"}. At the bottom, an \"Occasion Pairing Guide\" uses a series of lifestyle thumbnails to demonstrate the dress's versatility for events ranging from garden parties and art openings to formal evening galas.",
+    "title": "High-Fashion Marketing Infographic",
+    "description": "A detailed prompt for creating a sophisticated fashion infographic including layout elements like style guides and color collections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533349739_ztdb83_HHFVydabMAA6FXF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16989,
+    "content": "A high-end, vertical magazine advertisement features a split-panel design, combining a professional lifestyle portrait with a detailed product catalog for a luxury watch brand named '{argument name=\"brand name\" default=\"ROX\"}.' On the left, a large, warm-toned photograph shows a handsome young man in a {argument name=\"outfit\" default=\"navy blazer and charcoal turtleneck\"}, smiling as he leans over a desk with a fountain pen and notebook, clearly displaying a ROX watch on his wrist. To the right, a sleek white sidebar titled 'THE ROX COLLECTION' is structured like a menu, featuring three distinct watch models stacked vertically: a silver 'Aethelred Classic' with a leather strap, a black 'Solis Diver' with a rubber strap, and a rose gold 'Luna Chronograph' with a gold mesh bracelet. Below each product image are precise text descriptions detailing materials, case size, movement, and water resistance, all written in clean, legible fonts. The entire composition is framed by elegant serif branding at the very top reading '{argument name=\"headline\" default=\"ROX: TIMELESS ELEGANCE\"},' a tagline at the bottom stating 'ROX THE ART OF TIME,' and a final line of smaller text listing the website and collection details, all rendered with sharp focus and ultra-photorealistic detail.",
+    "title": "Luxury Watch Magazine Advertisement",
+    "description": "A prompt for a vertical magazine layout advertisement for a luxury watch brand, combining a lifestyle portrait with a product catalog.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533356852_zw9z08_HHE_gR3aIAA5H7k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16985,
+    "content": "Hyper-realistic vertical photograph 4:5 ratio. White sandy tropical beach, turquoise lagoon, palm leaf in the upper left corner. On the right side of the frame — a {argument name=\"sculpture\" default=\"giant suede UGG clog\"} about two meters tall, surreal scale-play sculpture. A {argument name=\"subject\" default=\"beautiful woman\"} in full profile standing next to the giant clog, her arm elegantly leaning on the side of the oversized boot.\nClothing: {argument name=\"outfit\" default=\"olive-salad sleeveless crop tank top\"}, wide vintage woodland camouflage cargo shorts, wide-brim khaki-beige boonie hat, suede sand-beige UGG clogs, steel Audemars Piguet watch, silver rings, thin silver chain.\nLighting: harsh tropical midday sunlight, direct sun, sharp graphic shadows on the sand, turquoise water reflection on the skin.\nCamera: Sony A7R V, 35mm f/1.4 lens, 8K sharpness, natural skin texture, natural depth of field. No plastic look, no CGI, no AI artifacts.",
+    "title": "Surreal beach giant boot sculpture",
+    "description": "A surreal scale-play prompt featuring a giant UGG clog and a stylish woman on a tropical beach under harsh midday sun.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533354821_5u7tx4_HHErAefbIAA_-yD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16992,
+    "content": "Subject appearance should match the uploaded reference image exactly, preserving facial identity, proportions, hairstyle, skin tone, and body type with high accuracy.\nA hyper-realistic vertical photograph in a 4:5 aspect ratio. The composition features an {argument name=\"shot type\" default=\"extreme close-up\"} of oversized {argument name=\"sunglasses\" default=\"metallic aviator sunglasses with elliptical chrome-mirrored lenses\"}, dominating the frame with a bold, editorial aesthetic.\nWithin the lens reflection, a {argument name=\"reflection scene\" default=\"tropical beach scene\"} is clearly visible under bright midday sunlight. A person is captured in a natural crouching pose, positioned with relaxed confidence, forming a “frame fingers” gesture near the face (thumbs and index fingers creating a viewfinder shape). The pose should feel stylish, balanced, and candid. Hands must remain clean and minimal, with no rings or finger accessories.\nWardrobe Styling: A cream-white linen sleeveless tank top paired with vintage woodland camouflage cargo shorts. Accessories include a wide-brim straw boonie hat in a soft sand-beige tone, suede clogs in a matching sand-beige palette, and a subtle silver chain bracelet on the wrist.\nLighting & Atmosphere: Bright tropical midday sunlight with strong, natural highlights. Intense chrome reflections on the lenses, visible sky reflections, and subtle rim lighting to enhance depth and separation.\nCamera & Image Quality: Captured on Sony A7R V with a 100mm f/2.8 macro lens. Ultra-high-resolution 8K detail, razor-sharp focus, realistic skin texture, and highly defined reflections with intricate micro-details.\nStrictly photorealistic output — no plastic textures, no CGI look, no AI artifacts.",
+    "title": "Tropical Beach Reflection in Sunglasses",
+    "description": "A high-resolution macro photography prompt for a reflection of a beach scene in mirrored aviator sunglasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533359130_t77icx_HHEZtYlbQAALKMz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16975,
+    "content": "Minimalist luxury commercial ad featuring an oversized {argument name=\"product\" default=\"matte-black smartwatch\"} with a sleek futuristic design, ultra-clean composition. A young man in a {argument name=\"outfit\" default=\"monochrome black outfit\"} stands beside the giant watch, one hand resting on it, calm confident expression, slight smirk, direct gaze. Soft gradient charcoal-to-deep-blue background with large bold {argument name=\"brand name\" default=\"“AETHER”\"} text subtly glowing behind. Polished reflective floor with soft reflections, cinematic studio lighting with gentle rim light highlighting edges. Modern high-end tech fashion photography aesthetic, ultra-detailed, 8K render. Small top-right text “Designed by Snow”. Bottom center tagline in minimal white font: “Time, redefined with precision.",
+    "title": "Minimalist Luxury Tech Advertisement",
+    "description": "A professional advertising prompt for a futuristic smartwatch featuring a male subject, bold typography, and cinematic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533349722_q2okc4_HHEEYdiaQAAilsp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16770,
+    "content": "{\n  \"camera_settings\": {\n    \"lens\": \"85mm f/1.8\",\n    \"perspective\": \"Eye-level portrait\",\n    \"depth_of_field\": \"Shallow with soft background bokeh\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft natural morning light\",\n    \"mood\": \"Clean, airy, optimistic\",\n    \"highlights\": \"Subtle sheen on hair and product bottle\"\n  },\n  \"subject_details\": {\n    \"hair\": \"{argument name=\"hair style\" default=\"Voluminous beach waves, honey blonde, high shine\"}\",\n    \"expression\": \"{argument name=\"expression\" default=\"Joyful, authentic smile\"}\",\n    \"wardrobe\": \"{argument name=\"clothing\" default=\"Cream-colored knit sweater\"}\"\n  },\n  \"graphic_design\": {\n    \"layout\": \"Infographic overlay on the right\",\n    \"elements\": [\"Keratin powder\", \"Argan oil bottle\", \"Green leaves\", \"Oat stalks\"],\n    \"typography\": \"Clean sans-serif labels in white boxes\"\n  }\n}",
+    "title": "Hair Care Product Infographic",
+    "description": "A structured JSON prompt for a commercial-style infographic featuring a model in a knit sweater with hair product elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533359475_85towv_HHDiO5BbEAADeKO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16981,
+    "content": "Ultra-realistic fashion editorial portrait of a {argument name=\"subject\" default=\"young woman\"} in a side-profile pose, focusing on a high-angle, close-up shot of her face and neck. She is wearing an {argument name=\"jewelry\" default=\"intricate, heavy gold choker necklace\"} featuring a complex filigree design, adorned with alternating emerald green and ruby red gemstones, finished with hanging pearl and bead droplets.\nThe woman has a sharp jawline, deep red matte lipstick, and a small silver nose stud. Her dark hair is pulled back into a soft bun with loose, wispy strands framing her face. The lighting is warm and cinematic, casting soft shadows that highlight the texture of her skin and the metallic sheen of the jewelry. The background is a {argument name=\"background\" default=\"rich, draped teal velvet fabric\"}, creating a deep, moody contrast. Shot in a vertical 9:16 aspect ratio with a professional 85mm lens for a high-end commercial aesthetic.",
+    "title": "Luxury jewelry fashion editorial",
+    "description": "A prompt for a high-end fashion portrait focusing on intricate gold jewelry and moody teal background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533352181_fbboml_HHDTTJWaoAAJ3vH.jpg"
     ],
     "needReferenceImages": false
   },
@@ -116,7 +187,6 @@
     "title": "Hyper-Realistic Digicam Portrait",
     "description": "A highly detailed prompt for achieving a 2000s digital camera look, featuring realistic skin textures, direct flash lighting, and a dreamy editorial mood.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777447793639_cd1hxz_HG-chnqaIAAeEIX.jpg",
       "https://cms-assets.youmind.com/media/1777447793618_kidbmh_HG-ciHCbwAAx35r.jpg"
     ],
     "needReferenceImages": true
@@ -167,8 +237,6 @@
     "title": "High Fashion Editorial Studio Portrait",
     "description": "A prompt for a glamorous editorial studio portrait of a woman wearing a green lace gown and metallic cage harness, designed for high-end fashion photography aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777361049115_glv66q_HG7lwK5aEAA3aar.jpg",
-      "https://cms-assets.youmind.com/media/1777361049130_9wwter_HG7lwL-asAAddAJ.jpg",
       "https://cms-assets.youmind.com/media/1777361049118_yjfb97_HG7lwMbbEAEBrVs.jpg"
     ],
     "needReferenceImages": true
@@ -441,7 +509,6 @@
     "title": "Luxury Lounge Portrait",
     "description": "A sophisticated prompt for a cinematic shot of a woman in a black silk backless dress, seated at a luxury restaurant table.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777274453647_3tqpr2_HG0SEH_agAAzMZH.jpg",
       "https://cms-assets.youmind.com/media/1777274453650_4q1jqc_HG0SEH8bwAAKWou.jpg",
       "https://cms-assets.youmind.com/media/1777274453706_s21okl_HG0SEINakAAX4GJ.jpg"
     ],
@@ -611,7 +678,6 @@
     "title": "Hyper-Realistic Crochet Doll Transformation",
     "description": "A detailed transformation prompt designed to turn a portrait into a handcrafted crochet doll, emphasizing yarn textures and knitting patterns while maintaining original pose and expression.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777099778896_c21dd2_HGr6f5iaoAA3W9h.jpg",
       "https://cms-assets.youmind.com/media/1777099779128_oh57p8_HGr6f7bbAAAQ-X0.jpg"
     ],
     "needReferenceImages": true
@@ -746,7 +812,6 @@
     "title": "Ultra-realistic Outdoor Glamour Portrait",
     "description": "A highly detailed prompt for an outdoor glamour portrait involving a specific kneeling pose and high ponytail, emphasizing lighting and facial accuracy from a reference image.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777014234487_qqsnu2_HGnUMFeaUAA1PsB.jpg",
       "https://cms-assets.youmind.com/media/1777014234538_99rz43_HGnUMisbIAAGEs1.jpg",
       "https://cms-assets.youmind.com/media/1777014234501_xviyjf_HGnUNE5aoAAWN6q.jpg"
     ],

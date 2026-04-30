@@ -13,6 +13,49 @@
     "needReferenceImages": true
   },
   {
+    "id": 16968,
+    "content": "Analyze the uploaded image and preserve the subject’s identity, facial features, pose, and composition. Reimagine the scene in {argument name=\"style\" default=\"traditional Korean Minhwa style\"} with flat perspective, bold outlines, symbolic elements, and vibrant natural colors. Incorporate {argument name=\"motifs\" default=\"classic Minhwa motifs such as stylized clouds, flora, animals, or decorative patterns\"} harmoniously around the subject. Use a hand-painted, textured brushstroke aesthetic with a slightly whimsical and folk-art feel. Maintain cultural authenticity while blending the subject naturally into the artwork. High detail, balanced composition, artistic, painterly finish",
+    "title": "Traditional Korean Minhwa Style Transformation",
+    "description": "A prompt designed to transform a portrait into traditional Korean Minhwa folk art while preserving the subject's identity and pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533344747_3lle9s_HHE_aD6bsAAqe4h.jpg",
+      "https://cms-assets.youmind.com/media/1777533344777_h3iemg_HHE_aXFb0AABrvX.jpg",
+      "https://cms-assets.youmind.com/media/1777533344760_n2ovqq_HHE_am9bsAAF2VM.jpg",
+      "https://cms-assets.youmind.com/media/1777533345615_ue3zul_HHE_a3ZbkAAwQQA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16991,
+    "content": "{\n  \"scene\": \"{argument name=\"event\" default=\"Traditional shadow puppet performance at a night market\"}\",\n  \"subject\": {\n    \"person\": \"{argument name=\"subject\" default=\"Elderly male puppeteer in traditional black attire with a red waist sash\"}\",\n    \"action\": \"Manipulating a colorful leather shadow puppet of a {argument name=\"puppet type\" default=\"warrior\"}\",\n    \"placement\": \"Seated at a weathered wooden workbench\"\n  },\n  \"lighting\": {\n    \"primary\": \"Backlit translucent screen\",\n    \"ambient\": \"Warm glow from red lanterns and a vintage oil lamp\",\n    \"style\": \"Cinematic, high contrast, golden hour tones\"\n  },\n  \"camera_settings\": {\n    \"lens\": \"35mm\",\n    \"depth_of_field\": \"Shallow (bokeh background)\",\n    \"angle\": \"Eye-level, medium shot\"\n  },\n  \"aesthetic\": \"Photorealistic, cultural heritage, atmospheric, documentary photography style\"\n}",
+    "title": "Traditional Shadow Puppet Performance",
+    "description": "A JSON prompt for a cinematic, high-contrast cultural heritage photograph of an elderly puppeteer at a night market.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533357995_iww9wc_HHEnA6tbUAAJCU6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16977,
+    "content": "{ \"image_prompt\": { \"subject\": { \"appearance\": \"A young woman with a strong resemblance to Sadie Sink, pale skin with natural scattered freckles, striking blue eyes, neutral and captivating expression.\", \"hair\": \"Vibrant red hair styled in a high, messy ponytail, adorned with several long, patterned natural feathers woven into the base.\", \"accessories\": \"A delicate, thin red string bracelet on her right wrist.\" }, \"attire\": { \"clothing\": \"A minimalist, light mint-green halter-neck one-piece swimsuit with a plunging v-neckline.\" }, \"environment\": { \"setting\": \"Waist-deep in a mystical, crystalline water cavern.\", \"water\": \"Crystal-clear, vibrant azure blue water showing realistic surface tension and refraction around her torso.\", \"surroundings\": \"Surrounded by large, jagged, glowing cyan and teal crystal formations emerging from the water and the background. Detailed aquatic plants and seaweed are clearly visible beneath the water's surface.\" }, \"lighting_and_atmosphere\": { \"lighting\": \"Cinematic, ethereal soft lighting. Diffused natural light from above blending with luminescent, magical glowing reflections bouncing off the blue crystals.\", \"mood\": \"Enchanting, serene, fantasy-realism.\" }, \"photography_style\": { \"aesthetic\": \"High-fantasy editorial, photorealistic, cinematic portrait, raw lifestyle photography infused with fantasy elements.\", \"camera_settings\": \"Shot on an 85mm lens, f/1.8 aperture for a shallow depth of field. Sharp focus on the subject's face and eyes, with a softly blurred, bokeh-rich background. Hyper-detailed skin textures, water droplets, and realistic water reflections.\" } } }",
+    "title": "Ethereal Fantasy Water Cavern Portrait",
+    "description": "A complex structured prompt describing a young woman in a mystical crystal water cavern with high-fantasy editorial lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533349455_tbdv0v_HHEUSHfasAAw7DX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16980,
+    "content": "A cinematic, melancholic portrait series of a {argument name=\"subject\" default=\"young man\"} standing alone on a {argument name=\"location\" default=\"quiet beach\"} during blue hour twilight, soft ocean waves in the background, deep blue sky fading into dusk, peaceful and emotional atmosphere. He wears a loose white linen shirt, slightly open collar, natural wind-blown dark wavy hair, light stubble beard, sharp jawline, calm introspective expression.\n\nScene 1: back view of him facing the endless sea, standing still near the shoreline, minimal composition, dreamy and poetic mood.\nScene 2: side profile portrait holding a {argument name=\"flowers\" default=\"bouquet of white roses\"}, soft ocean breeze, distant city lights blurred in the background, cinematic shallow depth of field, emotional storytelling aesthetic.\nScene 3: close-up portrait with eyes closed, peaceful expression, soft skin texture, detailed facial features, moody blue tones, intimate and artistic framing.\n\nUltra-realistic, cinematic lighting, soft natural shadows, editorial photography style, romantic solitude, film still aesthetic, muted tones, high detail, 4K, masterpiece, atmospheric, emotional depth.\nGenerate image using uploaded image as reference",
+    "title": "Melancholic blue hour portrait",
+    "description": "A prompt for a series of emotional, cinematic portraits of a young man at a beach during twilight, focusing on mood and artistic framing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533350995_azvi3l_HHC7OSMa4AAxa6S.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16763,
     "content": "A whimsical illustration features a playful {argument name=\"subject\" default=\"pyramid of sheep\"} of various sizes and colors, stacked on top of each other against a plain background. The sheep are depicted with simple, stylized forms and bold, vibrant colors, some with playful patterns like {argument name=\"patterns\" default=\"polka dots or stripes\"}. The composition is dynamic and energetic, with the sheep poses suggesting movement and interaction. The overall impression is one of joy and lightheartedness, with a touch of {argument name=\"style\" default=\"childlike charm\"}. All isolated on a white background",
     "title": "Whimsical Sheep Pyramid Illustration",

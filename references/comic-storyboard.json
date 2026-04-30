@@ -1,5 +1,27 @@
 [
   {
+    "id": 16967,
+    "content": "\"{argument name=\"subject\" default=\"Boy and dragon\"} become friend, {argument name=\"style\" default=\"american comic multi-panel illustration\"}, diagonal layout, {argument name=\"panel count\" default=\"six panels\"}, cinematic storytelling, clear reading flow, with speech bubbles.\"",
+    "title": "Multi-Panel Comic Illustration",
+    "description": "Creates a cinematic American comic-style multi-panel story, specifically following a boy and his dragon friend.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533345373_8g036y_HHGAWZdasAAesKw.jpg",
+      "https://cms-assets.youmind.com/media/1777533345375_51ndqq_HHGAWo7a4AAfpCo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17000,
+    "content": "{\n  \"vibe_title_en\": \"Bark's Resistance\",\n  \"master_prompt\": \"A hyper-realistic, medium format surreal portrait of {argument name=\"subject\" default=\"The Protagonist\"}. The subject features incredible practical-effect prosthetic makeup: their skin is cracking open down the neck and torso like dry, rough birch bark, revealing raw, fibrous wood underneath. Autumn leaves are organically intertwined into their hair. The subject stares directly into the camera with an unwavering, fierce 'Warrior's Resolve' and confrontational energy. Shot 'Through the Element': the camera peers through out-of-focus, decaying autumn foliage in the extreme foreground, creating profound depth. The setting is a shattered, overgrown dark botanical greenhouse. Dramatic dual-color lighting: a piercing deep blue ambient moonlight clashes with an intense, striking crimson red rim light that highlights the physical weight and jagged edges of the bark prosthetics. Captured on a Hasselblad H6D-100c, 100mm f/1.8 lens. Analog texture, Cinestill 800T halation, visible skin pores blending flawlessly into wood grain, physical light refraction, profound cinematic tension. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Surreal high-fashion editorial\",\n    \"priorities\": \"Surreal practical effects, dual lighting, intense gaze, foreground framing\",\n    \"device_profile\": \"High-end cinematic photography\"\n  },\n  \"frame\": {\n    \"aspect\": \"3:4\",\n    \"composition\": \"Through the Element (foreground foliage), central subject alignment\",\n    \"layout\": \"Medium close-up portrait\",\n    \"camera_angle\": \"Eye-level, straight on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless surreal entity\",\n    \"face\": \"Fierce, direct eye contact, warrior's resolve\",\n    \"hair\": \"Interwoven with dry autumn leaves\",\n    \"body\": \"Skin cracking like birch bark, revealing fibrous wood inside the torso\",\n    \"expression\": \"Confrontational, defiant, unwavering\",\n    \"pose\": \"Standing firm, squaring shoulders to the lens\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Birch bark skin integration (prosthetic surrealism)\",\n        \"material\": \"Wood and human skin\",\n        \"color\": \"White, brown, dark fissures\",\n        \"fit\": \"Body-mod\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Autumn leaves crown\",\n        \"color\": \"Golden, rust orange\",\n        \"material\": \"Organic dried leaves\",\n        \"brand_style\": \"Avant-garde nature\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Shattered, overgrown botanical glasshouse\",\n    \"surfaces\": \"Cracked glass, creeping vines, dry earth\",\n    \"depth\": \"Shallow depth of field with heavy foreground occlusion\",\n    \"atmosphere\": \"Tense, cold ambient with harsh aggressive localized heat\",\n    \"lens_interaction\": \"Shooting through out-of-focus foreground leaves\"\n  },\n  \"lighting\": {\n    \"key\": \"Deep blue ambient (moonlight)\",\n    \"fill\": \"Soft cool shadow\"\n}",
+    "title": "Surreal Birch Bark Portrait Prompt",
+    "description": "A highly detailed, surreal portrait prompt featuring a character with skin texture resembling birch bark, set in an overgrown greenhouse with dramatic blue and red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533361994_btxp83_HHFpMFtXkAAZHcf.jpg",
+      "https://cms-assets.youmind.com/media/1777533362122_ma2p1q_HHFpMOcXUAA4fT_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16772,
     "content": "{argument name=\"character\" default=\"Neo Goku\"} - Arrives at the {argument name=\"location\" default=\"city of machines\"}",
     "title": "Neo Goku in the Machine City",
@@ -15,7 +37,6 @@
     "title": "Persian Court Robe Portrait",
     "description": "A prompt designed to dress a reference subject in regal Persian court attire with complex pleats and silk textures, set in a luxurious palace interior.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777447794017_fe4x8e_HG_12voaoAAtkDK.jpg",
       "https://cms-assets.youmind.com/media/1777447793902_2oxkox_HG_12_6a4AAG2La.jpg",
       "https://cms-assets.youmind.com/media/1777447793959_loayp8_HG_13R8bkAAw_C_.jpg",
       "https://cms-assets.youmind.com/media/1777447794471_ta95v9_HG_13h3aUAALFQl.jpg"

@@ -56,12 +56,32 @@
     "needReferenceImages": false
   },
   {
-    "id": 16770,
-    "content": "{\n  \"camera_settings\": {\n    \"lens\": \"85mm f/1.8\",\n    \"perspective\": \"Eye-level portrait\",\n    \"depth_of_field\": \"Shallow with soft background bokeh\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft natural morning light\",\n    \"mood\": \"Clean, airy, optimistic\",\n    \"highlights\": \"Subtle sheen on hair and product bottle\"\n  },\n  \"subject_details\": {\n    \"hair\": \"{argument name=\"hair style\" default=\"Voluminous beach waves, honey blonde, high shine\"}\",\n    \"expression\": \"Joyful, authentic smile\",\n    \"wardrobe\": \"Cream-colored knit sweater\"\n  },\n  \"graphic_design\": {\n    \"layout\": \"Infographic overlay on the right\",\n    \"elements\": [\"Keratin powder\", \"{argument name=\"product type\" default=\"Argan oil bottle\"}\", \"Green leaves\", \"Oat stalks\"],\n    \"typography\": \"Clean sans-serif {argument name=\"label style\" default=\"labels in white boxes\"}\"\n  }\n}",
-    "title": "Infographic Product Photography Prompt",
-    "description": "A structured JSON prompt for generating clean, professional product photography with technical overlays, suitable for health or beauty products.",
+    "id": 16998,
+    "content": "A black and white line drawing of a {argument name=\"flower type\" default=\"stylized flower\"} with {argument name=\"pattern style\" default=\"intricate patterns\"} fills the frame. The flower's center is an oval shape with smaller circles inside, surrounded by eight large petals. Each petal is decorated with parallel lines and some have a leaf-like shape. The background is a complex arrangement of geometric and organic patterns, including semicircles, zigzags, swirls, and a grid of dots. The overall composition is symmetrical, with the flower as the central focus, and the surrounding patterns radiating outwards.",
+    "title": "Flower Mandala Coloring Page",
+    "description": "A black and white line art prompt for creating intricate, symmetrical floral patterns suitable for a coloring book.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777447801955_u6eqof_HHDiO5BbEAADeKO.jpg"
+      "https://cms-assets.youmind.com/media/1777533363635_i3ksks_HF76eO-aMAAlanY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16976,
+    "content": "This high-fashion marketing infographic, titled {argument name=\"title\" default=\"Elegance Defined\"} by {argument name=\"brand\" default=\"Vogue Vista\"}, showcases a sophisticated bespoke collection of modern classic dresses. A central model poses in a {argument name=\"dress description\" default=\"terracotta, tea-length, semi-fitted A-line dress featuring a boat neck and cap sleeves\"}, set against a neutral, minimalist background. The layout includes a \"Fit & Style Guide,\" a \"Premium Attributes\" section highlighting the luxurious crepe fabric and artisanal finish, and a {argument name=\"color collection\" default=\"\"Color Collection\" featuring six shades like Seafoam Green and Midnight Plum\"}. At the bottom, an \"Occasion Pairing Guide\" uses a series of lifestyle thumbnails to demonstrate the dress's versatility for events ranging from garden parties and art openings to formal evening galas.",
+    "title": "High-Fashion Marketing Infographic",
+    "description": "A detailed prompt for creating a sophisticated fashion infographic including layout elements like style guides and color collections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533349739_ztdb83_HHFVydabMAA6FXF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16770,
+    "content": "{\n  \"camera_settings\": {\n    \"lens\": \"85mm f/1.8\",\n    \"perspective\": \"Eye-level portrait\",\n    \"depth_of_field\": \"Shallow with soft background bokeh\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft natural morning light\",\n    \"mood\": \"Clean, airy, optimistic\",\n    \"highlights\": \"Subtle sheen on hair and product bottle\"\n  },\n  \"subject_details\": {\n    \"hair\": \"{argument name=\"hair style\" default=\"Voluminous beach waves, honey blonde, high shine\"}\",\n    \"expression\": \"{argument name=\"expression\" default=\"Joyful, authentic smile\"}\",\n    \"wardrobe\": \"{argument name=\"clothing\" default=\"Cream-colored knit sweater\"}\"\n  },\n  \"graphic_design\": {\n    \"layout\": \"Infographic overlay on the right\",\n    \"elements\": [\"Keratin powder\", \"Argan oil bottle\", \"Green leaves\", \"Oat stalks\"],\n    \"typography\": \"Clean sans-serif labels in white boxes\"\n  }\n}",
+    "title": "Hair Care Product Infographic",
+    "description": "A structured JSON prompt for a commercial-style infographic featuring a model in a knit sweater with hair product elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533359475_85towv_HHDiO5BbEAADeKO.jpg"
     ],
     "needReferenceImages": false
   },

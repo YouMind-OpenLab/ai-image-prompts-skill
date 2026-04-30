@@ -20,6 +20,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 16966,
+    "content": "A cinematic, high-energy digital art piece in a {argument name=\"color palette\" default=\"monochromatic crimson red color palette\"}. Centered is a {argument name=\"subject\" default=\"young male model\"} with a sharp, intense expression, wearing a stylish, oversized red streetwear outfit including a cropped jacket and cargo pants with long, flowing fabric ribbons caught in motion. He is surrounded by multiple floating, translucent UI screens displaying the interface of an X (formerly Twitter) profile. The screens feature the handle \"{argument name=\"handle\" default=\"@OzairAI\"},\" a verified blue checkmark, profile bio text about AI influencing, and a feed of posts showing \"PROMPT\" art thumbnails. In the background, a large neon glowing X logo sits on a wall with dark, metallic circuit-board textures. The ground is a red industrial metal grate. The lighting is dramatic, with high contrast, glowing red neon accents, and a shallow depth of field with blurred UI elements in the foreground. High-resolution, 8k, futuristic tech-wear aesthetic.",
+    "title": "Crimson Tech-wear Aesthetic Portrait",
+    "description": "A high-energy, cinematic digital art piece featuring a stylish male model in red streetwear, surrounded by futuristic UI elements and a glowing X logo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533344791_6c8iwm_HHFwS0UbUAAgMlY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16969,
+    "content": "A vertical cinematic montage poster in the style of {argument name=\"style\" default=\"traditional ink-wash painting mixed with digital realism\"}. The central figure is a {argument name=\"subject\" default=\"stoic ancient general in detailed dark scale armor\"} walking toward the viewer. Above him, a massive, minimalist black-ink brushstroke portrait of his face looms in the sky. Surrounding the general are swirling clouds of white smoke that reveal {argument name=\"detail scenes\" default=\"small, detailed scenes: a peaceful family, soldiers marching through snow, a burning ancient city, and a strategist pointing at a parchment map\"}. High contrast, epic scale, melancholic atmosphere, muted historical colors, white parchment background.",
+    "title": "Ink-Wash Cinematic Montage Poster",
+    "description": "Generates an epic cinematic montage poster blending traditional ink-wash painting style with digital realism, featuring an ancient general and his memories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533346483_uxfpe3_HHFonOUaAAAXPAc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16989,
+    "content": "A high-end, vertical magazine advertisement features a split-panel design, combining a professional lifestyle portrait with a detailed product catalog for a luxury watch brand named '{argument name=\"brand name\" default=\"ROX\"}.' On the left, a large, warm-toned photograph shows a handsome young man in a {argument name=\"outfit\" default=\"navy blazer and charcoal turtleneck\"}, smiling as he leans over a desk with a fountain pen and notebook, clearly displaying a ROX watch on his wrist. To the right, a sleek white sidebar titled 'THE ROX COLLECTION' is structured like a menu, featuring three distinct watch models stacked vertically: a silver 'Aethelred Classic' with a leather strap, a black 'Solis Diver' with a rubber strap, and a rose gold 'Luna Chronograph' with a gold mesh bracelet. Below each product image are precise text descriptions detailing materials, case size, movement, and water resistance, all written in clean, legible fonts. The entire composition is framed by elegant serif branding at the very top reading '{argument name=\"headline\" default=\"ROX: TIMELESS ELEGANCE\"},' a tagline at the bottom stating 'ROX THE ART OF TIME,' and a final line of smaller text listing the website and collection details, all rendered with sharp focus and ultra-photorealistic detail.",
+    "title": "Luxury Watch Magazine Advertisement",
+    "description": "A prompt for a vertical magazine layout advertisement for a luxury watch brand, combining a lifestyle portrait with a product catalog.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533356852_zw9z08_HHE_gR3aIAA5H7k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16972,
+    "content": "A detailed poster featuring a muscular young man walking with confidence towards the viewer on a reflective, high-tech platform. He is wearing futuristic all-black techwear: a shiny black puffer jacket with bright glowing white geometric LED light patterns (a V-shape on the chest) and matching trim, dark cargo pants, and rugged black boots. He is also wearing large, reflective black futuristic sunglasses. The background is a sophisticated sci-fi environment filled with floating holographic user interface elements, glowing data screens with circular targets and text, a holographic sphere, and curved, metallic silver blade-like structures reflecting the light. Large, clean white and metallic text at the top reads, in two lines, \\\"{argument name=\"poster text\" default=\"NEXT-GEN STYLE\"}.\\\" The color palette is composed of cool blues, silver, black, and bright white light. The overall composition is clean, centered, and high-impact.",
+    "title": "Futuristic Techwear Poster",
+    "description": "A high-impact sci-fi poster prompt featuring futuristic techwear and holographic UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533348177_p7rdbq_HHDEgkQboAAHU27.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16747,
     "content": "A beautiful, vertical {argument name=\"medium\" default=\"charcoal drawing\"} of a {argument name=\"subject\" default=\"young woman tenderly cradling her infant child\"}. The style is {argument name=\"art style\" default=\"classic fine art\"} with expressive, soft charcoal strokes and rich smudged textures on textured cream-colored paper. The mother has her eyes gently closed, resting her head against the baby's, while the baby gazes up at her with a soft smile. High-contrast lighting creates deep shadows and bright highlights, emphasizing the emotional bond and the intricate details of the hair and knit clothing. Elegant, timeless, and hand-drawn aesthetic.",
     "title": "Classic Fine Art Charcoal Drawing Prompt",
@@ -220,7 +260,6 @@
     "title": "Arctic Glacier Ice Sculpture Prompt",
     "description": "A creative prompt for a colossal ice sculpture emerging from an Arctic glacier, utilizing double exposure to show a basecamp inside the figure.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777187080751_454np4_HGwj5tRaYAARSxM.jpg",
       "https://cms-assets.youmind.com/media/1777187080142_dscbcm_HGwj5vNboAAmGMN.jpg"
     ],
     "needReferenceImages": true

@@ -10,6 +10,72 @@
     "needReferenceImages": false
   },
   {
+    "id": 16990,
+    "content": "Convert the subject in this image into a stylized 3D caricature portrait with {argument name=\"head shape\" default=\"an elongated rectangular head\"}, {argument name=\"facial feature\" default=\"oversized nose\"}, and pristine studio lighting. Use a sculpted, high-end 3D CGI character treatment with strong identity preservation, while amplifying the facial geometry into a bold editorial caricature without changing the subject’s existing hair.\n\nCHARACTER:\nBuild the subject as a tall, narrow caricature bust with a stretched rectangular skull, compressed cheek planes, and a dominant forward-projecting nose that anchors the face. Preserve the subject’s recognizable hair volume by translating it into clean, sculpted strands. Keep the clothing simplified, modern, and rendered as a refined secondary form that supports the face.\n\nFACE & ANATOMY:\nUse a severe angular facial construction with planar transitions, heavy brows, deep-set eyes, and a long tapered lower face. Keep the expression serious and slightly weary, with a rigid jaw rhythm and exaggerated vertical proportions. The body should remain secondary and understated, with the head as the primary silhouette.\n\nENVIRONMENT:\nChange the background into a {argument name=\"background style\" default=\"minimal 'dark gradient' studio\"} that isolates the portrait and enhances its sculptural clarity. Keep the scene clean, controlled, and distraction-free, with no props or narrative clutter. Add subtle depth falloff so the character reads as a premium character-study render.\n\nRENDER PIPELINE:\nUse stylized 3D CGI with a polished sculpt-first workflow, crisp edge definition, and clean subdivision surfaces. Apply controlled toon-leaning shading with smooth form transitions, disciplined specular response, and no photoreal skin microdetail. Finish with a premium character-render presentation, sharp silhouette readability, and zero photographic camera artifacts.\n\nCOLOR & LIGHT:\nUse a restrained palette of 'deep charcoal', 'cool blue' shadows, 'warm peach' skin tones, and 'soft amber' rim accents. Light the face with perfect studio key lighting, gentle fill control, and a balanced rim that carves the silhouette cleanly. Preserve high contrast in the facial planes while keeping the exposure elegant and even.\n\nMATERIALS & TEXTURES:\nRender skin as clean, stylized character material with smooth surface behavior and subtle form shading, not realistic pores. Hair should read as sculpted clumped strands with controlled gloss, and the beard (if presented) should appear as carved fiber-like grooves with crisp separation. Clothing and background surfaces must stay matte and simplified, supporting the caricature focus.\n\nDETAILS:\nEmphasize the rectangular head geometry through faceted forehead planes, sharp temple breaks, and a strong nose bridge structure. Add refined studio-finish highlights along the cheek planes, brow ridge, and hair contours to heighten the premium 3D look. Keep all detail language native to stylized character sculpture, with no comic halftone, no painterly brushwork, and no l",
+    "title": "3D Stylized Caricature Portrait",
+    "description": "A complex prompt for turning a reference subject into a stylized 3D CGI caricature with specific anatomical exaggerations and professional studio rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533356343_4r9nch_HHFkuv0akAIszGh.jpg",
+      "https://cms-assets.youmind.com/media/1777533356275_udrlci_HHFkuvwaoAAWFt5.jpg",
+      "https://cms-assets.youmind.com/media/1777533356295_euhwnd_HHFkuvwbsAAXejH.jpg",
+      "https://cms-assets.youmind.com/media/1777533357190_rcmw10_HHFkuw3akAEN1sb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16984,
+    "content": "{\n  \"prompt\": {\n    \"type\": \"photorealistic_fitness_portrait\",\n    \"subject\": {\n      \"gender\": \"female\",\n      \"age_range\": \"mid 20s to early 30s\",\n      \"ethnicity\": \"South Asian\",\n      \"body_type\": \"fit, toned, athletic physique with natural proportions\",\n      \"skin_texture\": \"realistic skin with visible sweat, pores, slight natural imperfections\",\n      \"expression\": \"neutral to slightly tired post-workout expression, relaxed lips, focused gaze\",\n      \"pose\": {\n        \"type\": \"mirror selfie\",\n        \"framing\": \"mid torso to head\",\n        \"orientation\": \"front-facing\",\n        \"hand_positions\": {\n          \"right_hand\": \"holding smartphone in front of face\",\n          \"left_hand\": \"slightly pulling waistband of sweatpants\"\n        }\n      }\n    },\n    \"hair\": {\n      \"style\": \"high messy ponytail\",\n      \"texture\": \"slightly damp, loose strands falling around face\",\n      \"color\": \"dark brown\"\n    },\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"sports bra\",\n        \"color\": \"{argument name=\"clothing color\" default=\"coral pink\"}\",\n        \"fit\": \"tight, athletic fit\"\n      },\n      \"bottom\": {\n        \"type\": \"joggers / sweatpants\",\n        \"color\": \"matching coral pink\",\n        \"details\": \"drawstring waistband slightly pulled\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"modern gym interior\",\n      \"background_elements\": [\n        \"weight machines\",\n        \"dumbbell racks\",\n        \"mirrors\",\n        \"clean, minimalistic gym layout\"\n      ],\n      \"floor\": \"dark rubber gym flooring\",\n      \"lighting\": {\n        \"type\": \"overhead LED strip lighting\",\n        \"style\": \"bright, even illumination with soft reflections\",\n        \"temperature\": \"neutral white\"\n      }\n    },\n    \"camera\": {\n      \"type\": \"smartphone camera\",\n      \"angle\": \"eye-level\",\n      \"lens\": \"wide-angle typical of front camera\",\n      \"focus\": \"sharp focus on subject, slightly softer background\",\n      \"framing\": \"centered composition\"\n    },\n    \"details\": {\n      \"sweat\": \"visible sweat on face, shoulders, and torso\",\n      \"realism\": \"high-detail skin texture, natural lighting reflections\",\n      \"accessories\": [\n        \"smartphone with triple camera module\",\n        \"minimal jewelry (ring on finger)\"\n      ]\n    },\n    \"style\": {\n      \"quality\": \"ultra-realistic, high resolution, 8K\",\n      \"color_grading\": \"natural tones, slightly warm highlights\",\n      \"sharpness\": \"high detail, crisp textures\",\n      \"post_processing\": \"minimal editing, realistic finish\"\n    }\n  },\n  \"negative_prompt\": [\n    \"overly smooth skin\",\n    \"cartoonish features\",\n    \"unrealistic body proportions\",\n    \"extra limbs or distorted anatomy\",\n    \"blurry image\",\n    \"low resolution\",\n    \"overexposed highlights\",\n    \"heavy makeup\",\n    \"studio glam look\",\n    \"fantasy elements\"\n  ],\n  \"parameters\": {\n    \"resolution\": \"1024x1792\",\n    \"style_strength\": 0.8,\n    \"guidance_scale\": 7.5,\n    \"sampling_steps\": 30\n  }\n}",
+    "title": "Photorealistic fitness mirror selfie",
+    "description": "A detailed prompt in JSON format for generating a realistic gym mirror selfie with specific clothing and environment details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533352504_szf9sd_HHFfcQzaMAAQfN8.jpg",
+      "https://cms-assets.youmind.com/media/1777533352533_f0tywm_HHFfcQ2agAEvir2.jpg",
+      "https://cms-assets.youmind.com/media/1777533352571_jp6e8e_HHFfcQ6a0AAg605.jpg",
+      "https://cms-assets.youmind.com/media/1777533353441_19nu2c_HHFfcQ0aoAAmdQd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16988,
+    "content": "{\n  \"prompt\": \"A {argument name=\"atmosphere\" default=\"warm, cozy bedroom selfie\"} taken from a high angle. A {argument name=\"subject\" default=\"red-haired woman with freckles and glasses\"} reclines on a bed with dragonfly-patterned pillows and a textured blanket, wearing a soft {argument name=\"clothing\" default=\"lavender sleeveless top\"}. She poses casually with a playful expression, one finger near her lips. A bedside table with a glowing lamp, teapot, and remote control adds to the relaxed, intimate home atmosphere. Soft warm lighting and natural shadows create a calm nighttime mood.\",\n  \"style\": \"realistic lifestyle photography\",\n  \"lighting\": \"warm bedside lamp lighting with soft shadows\",\n  \"composition\": \"high-angle selfie, close framing, bedroom setting\",\n  \"mood\": \"cozy, relaxed, intimate\"\n}",
+    "title": "Cozy Bedroom Selfie Photography",
+    "description": "A JSON-formatted prompt for a realistic lifestyle selfie of a red-haired woman in a cozy, warm-lit bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533356409_h2qz26_HHFK-VCbwAApYKK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16982,
+    "content": "{\n  \"prompt\": \"A young woman taking a selfie on a {argument name=\"location\" default=\"narrow indoor stairwell\"}. She has shoulder-length blonde hair and is wearing a {argument name=\"outfit\" default=\"yellow tank top and denim shorts\"}. She is crouching on the stairs, leaning slightly forward with one arm extended to hold the camera. The lighting is bright with a direct flash, creating strong highlights on her face and the white walls around her. The setting is minimal, with plain walls, a metal handrail, and a door visible at the top of the stairs. The perspective is wide-angle and slightly distorted, emphasizing depth and the confined space.\",\n  \"style\": \"flash photography, candid, wide-angle lens\",\n  \"lighting\": \"harsh direct flash, high contrast\",\n  \"environment\": \"indoor stairwell, minimal, urban\",\n  \"camera\": \"handheld selfie, slight fisheye distortion\"\n}",
+    "title": "Candid stairwell flash selfie",
+    "description": "A prompt for a wide-angle indoor selfie with harsh flash lighting and urban aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533353124_zbs4o9_HHD8qobbEAAfQ5R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16996,
+    "content": "Create image: A hyper-photorealistic shot of the same subject in the attached image, visible pores, natural skin, rosy dewy finish, {argument name=\"makeup style\" default=\"Douyin makeup, glossy lips, aegyosal, pink blush, grey lenses\"}.\n\nExpression / Pose: playful smile with flower covering one eye, relaxed arm pose.\n\nCamera: CCD digicam, flash, grain, imperfect lighting.\n\nMakeup: glossy lips, soft blush, shimmer eyes.\n\nHair: {argument name=\"hair style\" default=\"light brown hair in messy bun, inward curled strands\"}.\n\nOutfit: {argument name=\"outfit\" default=\"yellow summer dress, colorful bead necklace\"}.\n\nBackground: garden with greenery, sunlight, soft leading lines.\n\nComposition: close-up, off-center, soft tilt angle.\n\nNegative prompt: plastic skin, AI distortion, over-blur, stiff composition",
+    "title": "Douyin Makeup Character Shot",
+    "description": "An image-to-image prompt designed to replicate a specific subject in a garden setting with Douyin-style makeup and a CCD digicam aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533361883_4ovj8g_HHCxP5QaEAAQ6Y9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16995,
+    "content": "A hyper-realistic Y2K-era digital photograph of the same subject in the attached image. The image MUST be taken with a direct, bright on-camera flash, creating a harsh light look. The photo has the characteristic of a low-resolution, slightly pixelated quality of an early 2000s point-and-shoot disposable camera. Colors are warm with a cool, blue-ish teal tint in the shadows. Lo-fi film and cinematic. \n\nExpression or mood: dreamy, relaxed, eyes soft and slightly unfocused\nHair: {argument name=\"hair style\" default=\"dark brown, soft waves\"}\nOutfit: {argument name=\"clothing\" default=\"black printed tee\"}\nBackground: {argument name=\"background\" default=\"textured pillow, dim bedroom light\"}\nComposition: close-up, lying down\n\nApply a dirty flash film instagram filter with strong warm and cool color grading. Making all the red colors appear to be muted red orange especially the lips. The image should look like it was taken using a cheap disposable film camera or early-2000s digital camera with direct on-camera flash. Use warm on the highlights and cool teal-green undertone, faded film tone, visible grain, dust, scratches, light leaks, slight vignette, and imperfect snapshot texture. Motion blur.\n\nNegative: purple-ish, over saturated skintone.",
+    "title": "Y2K Disposable Camera Aesthetic",
+    "description": "A prompt to generate a hyper-realistic Y2K-era film photo with a harsh flash and lo-fi digital camera texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533361717_l887a4_HHCcG-VaIAA5ojs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16742,
     "content": "A medium shot of a captivating young woman with a platinum blonde bob, pale skin with delicate beauty marks, steel grey eyes, and a slim graceful silhouette, sitting by a large window in a penthouse looking over the city. She wears an elegant emerald silk slip dress with a plunging neckline. Soft golden hour sunlight streaming through the glass. High-resolution, photorealistic, realistic photography style, cinematic lighting, sharp focus. A half-empty crystal champagne glass rests on the table beside her, condensation gleaming as it catches the warm light. A close-up portrait of the same woman in the penthouse, looking back over her shoulder with a confident, direct gaze. She wears the same emerald silk slip dress. The warm ambient lighting highlights the smooth textures of her pale skin. Highly detailed realistic photography, shallow depth of field, soft bokeh background with out-of-focus city lights. The golden hour light reflects subtly in her steel grey eyes.",
     "title": "Cinematic Penthouse Portrait of Celeste",
@@ -171,8 +237,7 @@
     "title": "Outdoor Hot Tub Night Scene",
     "description": "A cinematic, photorealistic prompt for a woman in a burnt-orange swimsuit laughing in a rustic wooden hot tub at night with atmospheric steam.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777361050000_rm1ewp_HG38leVaIAAyBON.jpg",
-      "https://cms-assets.youmind.com/media/1777361049970_7hvn52_HG38lmCa8AEApYf.jpg"
+      "https://cms-assets.youmind.com/media/1777361050000_rm1ewp_HG38leVaIAAyBON.jpg"
     ],
     "needReferenceImages": true
   },
@@ -377,7 +442,6 @@
     "title": "Sunlit Lifestyle Bedroom Portrait",
     "description": "A highly detailed lifestyle prompt for a warm, sunlit indoor scene featuring a realistic portrait with specific environmental and lighting parameters.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777099778460_1erx8c_HGsWVMiakAAN8KG.jpg",
       "https://cms-assets.youmind.com/media/1777099778595_5hizdm_HGsWV7_aUAAKL0O.jpg",
       "https://cms-assets.youmind.com/media/1777099778749_g6cvv6_HGsWWoWa0AARJzP.jpg"
     ],
@@ -608,7 +672,6 @@
     "title": "Tropical Coastal Photography Scene",
     "description": "A structured JSON prompt for generating an ultra-realistic tropical coastline scene with a focus on realistic water reflections and lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777014241177_fia900_HGjN-VobcAAB8SP.jpg",
       "https://cms-assets.youmind.com/media/1777014241144_mfxkz1_HGjN-fnbEAAQTUE.jpg"
     ],
     "needReferenceImages": true
@@ -702,9 +765,7 @@
     "description": "A prompt for Nano Banana Pro that creates an intimate high-angle close-up of a person, simulating a boyfriend's perspective. It works best when a reference photo is uploaded first.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1776841963390_a2swmm_HGY_qVCa8AAIuzP.jpg",
-      "https://cms-assets.youmind.com/media/1776841963220_xk23ug_HGY_qU_bYAAeKPq.jpg",
-      "https://cms-assets.youmind.com/media/1776841963237_fqbz1m_HGY_qU_aYAAI_ir.jpg",
-      "https://cms-assets.youmind.com/media/1776841963938_fm4j99_HGY_qVGaQAAA9H1.jpg"
+      "https://cms-assets.youmind.com/media/1776841963237_fqbz1m_HGY_qU_aYAAI_ir.jpg"
     ],
     "needReferenceImages": true
   },

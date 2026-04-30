@@ -1,5 +1,48 @@
 [
   {
+    "id": 16990,
+    "content": "Convert the subject in this image into a stylized 3D caricature portrait with {argument name=\"head shape\" default=\"an elongated rectangular head\"}, {argument name=\"facial feature\" default=\"oversized nose\"}, and pristine studio lighting. Use a sculpted, high-end 3D CGI character treatment with strong identity preservation, while amplifying the facial geometry into a bold editorial caricature without changing the subject’s existing hair.\n\nCHARACTER:\nBuild the subject as a tall, narrow caricature bust with a stretched rectangular skull, compressed cheek planes, and a dominant forward-projecting nose that anchors the face. Preserve the subject’s recognizable hair volume by translating it into clean, sculpted strands. Keep the clothing simplified, modern, and rendered as a refined secondary form that supports the face.\n\nFACE & ANATOMY:\nUse a severe angular facial construction with planar transitions, heavy brows, deep-set eyes, and a long tapered lower face. Keep the expression serious and slightly weary, with a rigid jaw rhythm and exaggerated vertical proportions. The body should remain secondary and understated, with the head as the primary silhouette.\n\nENVIRONMENT:\nChange the background into a {argument name=\"background style\" default=\"minimal 'dark gradient' studio\"} that isolates the portrait and enhances its sculptural clarity. Keep the scene clean, controlled, and distraction-free, with no props or narrative clutter. Add subtle depth falloff so the character reads as a premium character-study render.\n\nRENDER PIPELINE:\nUse stylized 3D CGI with a polished sculpt-first workflow, crisp edge definition, and clean subdivision surfaces. Apply controlled toon-leaning shading with smooth form transitions, disciplined specular response, and no photoreal skin microdetail. Finish with a premium character-render presentation, sharp silhouette readability, and zero photographic camera artifacts.\n\nCOLOR & LIGHT:\nUse a restrained palette of 'deep charcoal', 'cool blue' shadows, 'warm peach' skin tones, and 'soft amber' rim accents. Light the face with perfect studio key lighting, gentle fill control, and a balanced rim that carves the silhouette cleanly. Preserve high contrast in the facial planes while keeping the exposure elegant and even.\n\nMATERIALS & TEXTURES:\nRender skin as clean, stylized character material with smooth surface behavior and subtle form shading, not realistic pores. Hair should read as sculpted clumped strands with controlled gloss, and the beard (if presented) should appear as carved fiber-like grooves with crisp separation. Clothing and background surfaces must stay matte and simplified, supporting the caricature focus.\n\nDETAILS:\nEmphasize the rectangular head geometry through faceted forehead planes, sharp temple breaks, and a strong nose bridge structure. Add refined studio-finish highlights along the cheek planes, brow ridge, and hair contours to heighten the premium 3D look. Keep all detail language native to stylized character sculpture, with no comic halftone, no painterly brushwork, and no l",
+    "title": "3D Stylized Caricature Portrait",
+    "description": "A complex prompt for turning a reference subject into a stylized 3D CGI caricature with specific anatomical exaggerations and professional studio rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533356343_4r9nch_HHFkuv0akAIszGh.jpg",
+      "https://cms-assets.youmind.com/media/1777533356275_udrlci_HHFkuvwaoAAWFt5.jpg",
+      "https://cms-assets.youmind.com/media/1777533356295_euhwnd_HHFkuvwbsAAXejH.jpg",
+      "https://cms-assets.youmind.com/media/1777533357190_rcmw10_HHFkuw3akAEN1sb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16986,
+    "content": "Hyper-realistic vertical photograph 4:5 ratio. {argument name=\"location\" default=\"Underground car meet on the third floor of a concrete multi-storey car park in Los Santos at night\"}. Bare pillars covered in graffiti, exposed conduit pipes along low ceilings, tyre marks scarring the oil-stained floor. JDM and American muscle cars with wide-body kits, aggressive splitters, big wings, and vibrant pink, blue and purple underglow lighting reflecting on the concrete.\nA beautiful young woman with long dark wavy hair is the main subject, standing in full pose beside a slammed deep blue Annis Elegy on air suspension. She is wearing a {argument name=\"outfit\" default=\"cropped olive-green bomber jacket, wide-leg beige cargo pants\"}, and has a cigarette tucked behind her ear. One hand in her pocket, confident and relaxed pose, looking straight at the camera with a cool, unbothered expression.\nBehind her, a loose group of guys in streetwear leaning against cars and talking. A {argument name=\"background car\" default=\"bright yellow Nissan GT-R\"} and other modified cars visible in the background. Chain-link fence, half-torn \"NO PARKING\" sign, security cameras on pillars.\nLighting: Dramatic nighttime scene with mixed neon underglow, overhead fluorescent lights, and city lights glowing through the open side of the car park. Cinematic atmosphere.\nPhotography style: Photorealistic, Rockstar Games visual quality, ultra-detailed, sharp focus on the woman and foreground cars, rich colors, cinematic lighting, 8K sharpness, natural skin texture. No plastic look, no AI artifacts.",
+    "title": "Cinematic Urban Car Meet Scene",
+    "description": "A detailed prompt for creating a hyper-realistic, nighttime JDM and American muscle car meet in a Los Santos style car park, featuring a cool female subject and atmospheric neon lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533355040_y745zu_HHFUAPhaUAAyNji.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16973,
+    "content": "Highly detailed 3D render of {argument name=\"characters\" default=\"two AAA game characters in a dynamic face-off pose\"}: {argument name=\"character descriptions\" default=\"a muscular ancient warrior with rugged armor and a heavy spiked mace, and a stealthy ninja in dark layered attire holding a katana and chained sickle\"}. Ultra-realistic anatomy, sharp textures, cinematic sculpting, and realistic fabric physics. Both characters facing each other in combat stance, full-body visible, strong silhouette contrast. Clean white minimalist background, soft studio lighting, subtle ground shadows, high contrast, ultra-sharp details, professional game concept art quality, {argument name=\"aspect ratio\" default=\"16:9\"}. Negative: no background scene, no extra characters, no blur, no noise, no text, no UI elements",
+    "title": "3D Game Character Face-off",
+    "description": "A detailed prompt for a high-quality 3D render of two distinct game characters in a combat stance against a minimalist background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533348708_qdh01a_HHFRE-ibwAAvKKL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16965,
+    "content": "based exactly on the pose in my photo, create a highly detailed {argument name=\"style\" default=\"3d game character\"} of an {argument name=\"character\" default=\"old western gold miner\"} in an {argument name=\"setting\" default=\"American wilderness\"}. same composition",
+    "title": "3D Game Character Transformation",
+    "description": "Generates a detailed 3D game character based on the pose of a reference photo, specifically creating an old western gold miner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777533344095_pobpfi_HHD91THacAAwXhp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16772,
     "content": "{argument name=\"character\" default=\"Neo Goku\"} - Arrives at the {argument name=\"location\" default=\"city of machines\"}",
     "title": "Neo Goku in the Machine City",
@@ -25,7 +68,6 @@
     "title": "Persian Court Robe Portrait",
     "description": "A prompt designed to dress a reference subject in regal Persian court attire with complex pleats and silk textures, set in a luxurious palace interior.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777447794017_fe4x8e_HG_12voaoAAtkDK.jpg",
       "https://cms-assets.youmind.com/media/1777447793902_2oxkox_HG_12_6a4AAG2La.jpg",
       "https://cms-assets.youmind.com/media/1777447793959_loayp8_HG_13R8bkAAw_C_.jpg",
       "https://cms-assets.youmind.com/media/1777447794471_ta95v9_HG_13h3aUAALFQl.jpg"
@@ -58,8 +100,7 @@
     "title": "PS1 Retro Gaming Style Prompt",
     "description": "A comprehensive prompt designed to transform an image into a low-poly PlayStation 1 era video game screenshot, featuring authentic technical artifacts.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777187082916_ohlqg6_HGxfyaUakAAWs9y.jpg",
-      "https://cms-assets.youmind.com/media/1777187082900_3tsbn1_HGxfyZ0WIAAavwQ.jpg"
+      "https://cms-assets.youmind.com/media/1777187082916_ohlqg6_HGxfyaUakAAWs9y.jpg"
     ],
     "needReferenceImages": true
   },
@@ -79,7 +120,6 @@
     "title": "Hyper-Realistic Crochet Doll Transformation",
     "description": "A detailed transformation prompt designed to turn a portrait into a handcrafted crochet doll, emphasizing yarn textures and knitting patterns while maintaining original pose and expression.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777099778896_c21dd2_HGr6f5iaoAA3W9h.jpg",
       "https://cms-assets.youmind.com/media/1777099779128_oh57p8_HGr6f7bbAAAQ-X0.jpg"
     ],
     "needReferenceImages": true

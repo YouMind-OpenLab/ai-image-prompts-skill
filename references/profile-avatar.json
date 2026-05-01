@@ -10,6 +10,116 @@
     "needReferenceImages": false
   },
   {
+    "id": 17222,
+    "content": "​A vertical charcoal and graphite portrait of a {argument name=\"subject\" default=\"handsome young man\"} with {argument name=\"hair style\" default=\"wavy, tousled hair\"}, sitting on a {argument name=\"object\" default=\"wooden stool\"} and playing an acoustic guitar. He has a warm, gentle smile and is looking down at the strings with a focused yet relaxed expression. The style is traditional fine art with visible charcoal strokes, soft blending, and high-contrast shading. The background is a cozy, dimly lit room with blurred bookshelves and a window, creating a soft, atmospheric 'bokeh' effect in charcoal. Rich textures on his sweater and the polished wood of the guitar, rendered on textured cream-colored paper.",
+    "title": "Charcoal Portrait of Guitarist",
+    "description": "A detailed traditional fine art prompt for a charcoal and graphite portrait of a young man playing guitar in a cozy room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620035877_uqbmtg_HHK2IswWcAAx1h4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17261,
+    "content": "A highly detailed studio portrait of a beautiful {argument name=\"subject\" default=\"young woman with fair skin, striking bright blue eyes, and vibrant red hair styled in a sleek high bun\"}. She has a gentle, confident smile with {argument name=\"makeup\" default=\"dark red lipstick\"}, and is wearing an elegant {argument name=\"outfit\" default=\"off-the-shoulder white lace dress featuring intricate floral patterns and delicate scalloped edges\"} along the neckline and short sleeves. The form-fitting lace dress has a sweetheart neckline and sits just above the knees. She is seated gracefully with her arms resting on her sides, looking directly at the viewer with a warm expression. The lighting is soft and professional, highlighting her features and the texture of the lace against a smooth, {argument name=\"background\" default=\"dark gradient studio background\"} in a cinematic, high-resolution photography style.",
+    "title": "Studio Portrait of Woman in Lace Dress",
+    "description": "A studio portrait prompt for a woman with red hair in a white lace dress, emphasizing texture and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620062776_xvhx9t_HHKgKTKawAAWYdQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17252,
+    "content": "highly detailed Persian miniature portrait of the person in the reference image, preserving their exact facial features and expression. Depict the subject in traditional {argument name=\"historical style\" default=\"Safavid-era attire\"} with intricate embroidered fabrics, fine jewelry, and a regal pose. Use flat yet vibrant colors, delicate linework, and ornate detailing characteristic of Persian miniature painting. Place the subject against a richly decorated background featuring floral arabesque patterns, gold leaf accents, and symmetrical geometric motifs. Ensure a soft, stylized face with almond-shaped eyes and refined contours while maintaining likeness. Use a manuscript-style composition with a balanced, elegant layout and subtle storytelling elements",
+    "title": "Safavid-Era Persian Miniature Portrait",
+    "description": "A specialized prompt for transforming a reference person into a highly detailed Persian miniature painting from the Safavid era.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620054975_kaddo0_HHJ7V8fa4AAyJN4.jpg",
+      "https://cms-assets.youmind.com/media/1777620055035_78popw_HHJ7WOlaQAADTaW.jpg",
+      "https://cms-assets.youmind.com/media/1777620055592_haqko5_HHJ7WgWa4AAJwZP.jpg",
+      "https://cms-assets.youmind.com/media/1777620056281_rne81k_HHJ7WxEbgAALEnJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17265,
+    "content": "realistic portrait of the {argument name=\"subject\" default=\"person\"} in the reference image, preserving their exact facial features and expression. Dress the subject in a {argument name=\"clothing type\" default=\"traditional Hittite ceremonial cloak\"}, featuring heavy wool fabric, layered drapery, and ancient Anatolian patterns with symbolic motifs. Include ornate accessories such as a broad belt, metal clasps, and period-accurate jewelry. Use an earthy color palette with {argument name=\"color scheme\" default=\"deep reds, browns, and gold accents\"}. Set the scene in an ancient Hittite setting with stone architecture or temple reliefs in the background. Ensure a dignified, regal posture with soft cinematic lighting and historically inspired detailing",
+    "title": "Hittite Ceremonial Cloak Portrait",
+    "description": "A character transformation prompt that places a subject from a reference image into historical Hittite ceremonial attire with authentic textures and patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620065938_n1iq87_HHJtgafaMAAdJsz.jpg",
+      "https://cms-assets.youmind.com/media/1777620065967_w5pvry_HHJtgp9bcAAzjGX.jpg",
+      "https://cms-assets.youmind.com/media/1777620066286_31vvf2_HHJtg25b0AAj6oJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17224,
+    "content": "{\n  “meta”: {\n    “quality”: “ultra-photorealistic, raw style, masterpiece, highly detailed textures”,\n    “camera”: “A vertical medium close-up shot captured as a mirror reflection. The perspective is at eye-level to the mirror, showing the subject from a slightly behind-three-quarter angle looking back. Natural film grain, sharp focus.”,\n    “lighting”: “Soft, natural ambient daylight from an unseen window, illuminating the bedroom and the subject. Diffused and even lighting.”,\n    “style”: “Candid lifestyle photography, bedroom mirror selfie aesthetic.”,\n    “aspect_ratio”: “9:16”\n  },\n  “scene”: {\n    “location”: “A modern, slightly cluttered bedroom.”,\n“details”: “A dark wood laminate floor with a textured light beige area rug the subject is kneeling on. A bed with a grey upholstered headboard, unmade with a mix of striped and teal fluffy blankets and some dark pilled bedding. A dark wood nightstand with two drawers and gold pulls is visible on the right, with a small bottle on top.”,\n    “background”: “The bed and headboard, with a wooden nightstand and scattered small items on top, are visible, slightly blurred.”,\n    “atmosphere”: “Casual, relaxed, intimate, candid.”\n  },\n  “subject”: {\n    “gender”: “female”,\n    “age”: “young adult”,\n    “hair”: {\n      “color”: “blonde”,\n      “style”: “Long, wavy, natural blonde hair flowing over her shoulder.”\n    },\n    “expression”: “Looking intently at the phone screen in her reflection with a neutral, slightly serious expression.”,\n“pose”: “Kneeling on all fours on a rug, viewed from a slightly behind three-quarter angle. She is looking back over her shoulder, holding a silver iPhone (Pro style) with a clear case and a visible circular MagSafe ring in her right hand to capture the reflection. Her body is arched and twisted to see the phone. Her left hand rests on her left knee. Bare feet are visible, one tucked and one placed near her body.”,\n    “outfit”: {\n      “description”: “A long-sleeved black high-neck top. Dark navy blue booty shorts (briefs). She is barefoot.”,\n      “fabric”: “Detailed cotton or jersey fabric texture on the black top and shorts.”\n    },\n    “accessories”: “A silver iPhone (e.g., iPhone 15 Pro style) with a clear case and a distinct circular MagSafe charging ring, held to face the mirror. Bare feet. No other major accessories visible.”\n  },\n“composition”: “A centered, vertical composition of the mirror reflection. The subject’s figure, particularly her back and legs in the kneeling pose, is the primary focus. The complex arrangement of her body, the phone, and her gaze creates a strong line of sight. The messy bed forms the detailed background texture. Sharp focus on the subject and phone reflection.”\n}",
+    "title": "Intimate Bedroom Mirror Selfie",
+    "description": "A highly detailed JSON prompt for a candid mirror selfie of a young woman kneeling in a modern bedroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620037681_9m67zq_HHJXmR3agAAzRmG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17221,
+    "content": "{\n  \"subject\": {\n    \"description\": \"Young woman with a soft, direct gaze\",\n    \"pose\": \"Sitting cross-legged on a bed, leaning forward slightly, right hand resting near the collarbone\",\n    \"expression\": \"Neutral, calm, and serene\"\n  },\n  \"physical_characteristics\": {\n    \"hair\": \"Long, wavy, dirty blonde hair draped over the right shoulder\",\n    \"facial_features\": {\n      \"eyes\": \"Hazel or light green with winged black eyeliner\",\n      \"skin\": \"Fair complexion with prominent freckles across the nose and cheeks\",\n      \"lips\": \"Full, glossy pink\",\n      \"eyebrows\": \"Groomed, natural arch\"\n    }\n  },\n  \"attire\": {\n    \"outfit_type\": \"Two-piece pajama set\",\n    \"color_pattern\": \"Soft pink with a small white floral print\",\n    \"top_details\": \"Cropped camisole, thin spaghetti straps, ruffled lettuce-edge hem\",\n    \"bottom_details\": \"Matching high-waisted shorts with ruffled lettuce-edge hem\",\n    \"accessories\": [\n      \"Delicate thin gold chain necklace\",\n      \"White crew socks\"\n    ]\n  },\n  \"environment\": {\n    \"location\": \"Indoor bedroom\",\n    \"background_elements\": [\n      \"Dark grey tufted upholstered headboard\",\n      \"Cream/off-white bed linens and stacked pillows\"\n    ],\n    \"lighting\": \"Soft, diffused indoor lighting creating gentle shadows\",\n    \"color_palette\": [\n      \"Pastel pink\",\n      \"Cream\",\n      \"Slate grey\",\n      \"Natural skin tones\"\n    ]\n  },\n  \"image_composition\": {\n    \"shot_type\": \"Medium shot\",\n    \"orientation\": \"Vertical/Portrait\",\n    \"focus\": \"Sharp focus on the subject with a shallow depth of field in the background\"\n  }\n}",
+    "title": "Serene Young Woman Bedroom Portrait",
+    "description": "A highly structured JSON-style prompt for a serene portrait of a young woman with freckles and wavy blonde hair sitting on a bed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620035843_pv7vp4_HHJCh5YXQAA365L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17243,
+    "content": "A mirror selfie prompt focusing on a young woman with reddish-brown space buns in a pastel pink bodycon dress. It specifically describes 'Dark Mocha' style sneakers and a beaded choker, set in an indoor hallway with soft natural daylight and multiple pose options.",
+    "title": "Trendy Mirror Selfie with Sneakers",
+    "description": "A detailed prompt for a mirror selfie of a woman in a pink ruched dress and iconic high-top sneakers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620049671_y3obgc_HHIb3XCXYAEl_l1.jpg",
+      "https://cms-assets.youmind.com/media/1777620049642_b4y77x_HHIb3XCWYAIrCsD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17227,
+    "content": "Ultra-realistic portrait of a young woman with short tousled {argument name=\"hair color\" default=\"dark brown\"} bob hair and soft bangs, natural dewy skin, subtle pink lips, minimal makeup, wearing an oversized {argument name=\"clothing\" default=\"faded charcoal grey sweatshirt\"}, resting her face on her hand, calm slightly tired expression, warm indoor lighting, cozy aesthetic room with shelves and skincare bottles in background, shallow depth of field, soft shadows, 50mm lens, high detail, cinematic, natural texture\n\nUltra-realistic portrait of a young woman with messy short dark bob hair, slightly wet/textured strands, natural glowing skin, soft pink lips, wearing oversized grey sweatshirt, hands lifting her hair back, looking sideways with a thoughtful expression, warm ambient indoor lighting, minimal aesthetic room background with shelves and bottles, shallow depth of field, soft cinematic lighting, high detail, 50mm lens, realistic skin texture",
+    "title": "Cozy Bob Hair Portrait",
+    "description": "Two related prompts for an ultra-realistic portrait of a woman with a short bob in a cozy, aesthetically pleasing room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620039281_eh9lff_HHIW3pkaIAAQTLM.jpg",
+      "https://cms-assets.youmind.com/media/1777620038280_1z8co2_HHIW3pibIAAqMzV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17225,
+    "content": "A hyper-realistic, cinematic vertical split-screen portrait. The right side shows a high-resolution, sharp photograph of {argument name=\"subject\" default=\"[Subject Name]\"} in their youth with smooth skin and vibrant features. The left side shows the same person as an elderly individual, with deep wrinkles, age spots, and graying hair, perfectly aligned at the center. 8k resolution, detailed skin pores, dramatic studio lighting, neutral background, shot on 85mm lens.",
+    "title": "Split Screen Aging Effect",
+    "description": "A cinematic prompt for creating a perfectly aligned vertical split-screen portrait showing the same person in youth and old age.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620037971_0vwxaj_HHINoLdXcAA6Pvc.jpg",
+      "https://cms-assets.youmind.com/media/1777620037890_0b2888_HHINqENWYAAz7VM.jpg",
+      "https://cms-assets.youmind.com/media/1777620038028_nz4680_HHINqWYWEAAUPO9.jpg",
+      "https://cms-assets.youmind.com/media/1777620038802_fbx314_HHINrA0XgAAMfBM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17240,
+    "content": "A detailed prompt for creating a humorous studio portrait based on a reference image. It instructs the AI to maintain the exact appearance of the person and cat while adding an action where the cat covers the person's eyes. The style is ultra-photorealistic with a black background and professional lighting.",
+    "title": "Humorous Cat and Human Studio Portrait",
+    "description": "An image transformation prompt that adds a mischievous cat to a human's shoulder, using a reference image for identity consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620047394_ai0xw2_HHHyVp7aUAAU86d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16990,
     "content": "Convert the subject in this image into a stylized 3D caricature portrait with {argument name=\"head shape\" default=\"an elongated rectangular head\"}, {argument name=\"facial feature\" default=\"oversized nose\"}, and pristine studio lighting. Use a sculpted, high-end 3D CGI character treatment with strong identity preservation, while amplifying the facial geometry into a bold editorial caricature without changing the subject’s existing hair.\n\nCHARACTER:\nBuild the subject as a tall, narrow caricature bust with a stretched rectangular skull, compressed cheek planes, and a dominant forward-projecting nose that anchors the face. Preserve the subject’s recognizable hair volume by translating it into clean, sculpted strands. Keep the clothing simplified, modern, and rendered as a refined secondary form that supports the face.\n\nFACE & ANATOMY:\nUse a severe angular facial construction with planar transitions, heavy brows, deep-set eyes, and a long tapered lower face. Keep the expression serious and slightly weary, with a rigid jaw rhythm and exaggerated vertical proportions. The body should remain secondary and understated, with the head as the primary silhouette.\n\nENVIRONMENT:\nChange the background into a {argument name=\"background style\" default=\"minimal 'dark gradient' studio\"} that isolates the portrait and enhances its sculptural clarity. Keep the scene clean, controlled, and distraction-free, with no props or narrative clutter. Add subtle depth falloff so the character reads as a premium character-study render.\n\nRENDER PIPELINE:\nUse stylized 3D CGI with a polished sculpt-first workflow, crisp edge definition, and clean subdivision surfaces. Apply controlled toon-leaning shading with smooth form transitions, disciplined specular response, and no photoreal skin microdetail. Finish with a premium character-render presentation, sharp silhouette readability, and zero photographic camera artifacts.\n\nCOLOR & LIGHT:\nUse a restrained palette of 'deep charcoal', 'cool blue' shadows, 'warm peach' skin tones, and 'soft amber' rim accents. Light the face with perfect studio key lighting, gentle fill control, and a balanced rim that carves the silhouette cleanly. Preserve high contrast in the facial planes while keeping the exposure elegant and even.\n\nMATERIALS & TEXTURES:\nRender skin as clean, stylized character material with smooth surface behavior and subtle form shading, not realistic pores. Hair should read as sculpted clumped strands with controlled gloss, and the beard (if presented) should appear as carved fiber-like grooves with crisp separation. Clothing and background surfaces must stay matte and simplified, supporting the caricature focus.\n\nDETAILS:\nEmphasize the rectangular head geometry through faceted forehead planes, sharp temple breaks, and a strong nose bridge structure. Add refined studio-finish highlights along the cheek planes, brow ridge, and hair contours to heighten the premium 3D look. Keep all detail language native to stylized character sculpture, with no comic halftone, no painterly brushwork, and no l",
     "title": "3D Stylized Caricature Portrait",
@@ -37,11 +147,11 @@
   },
   {
     "id": 16988,
-    "content": "{\n  \"prompt\": \"A {argument name=\"atmosphere\" default=\"warm, cozy bedroom selfie\"} taken from a high angle. A {argument name=\"subject\" default=\"red-haired woman with freckles and glasses\"} reclines on a bed with dragonfly-patterned pillows and a textured blanket, wearing a soft {argument name=\"clothing\" default=\"lavender sleeveless top\"}. She poses casually with a playful expression, one finger near her lips. A bedside table with a glowing lamp, teapot, and remote control adds to the relaxed, intimate home atmosphere. Soft warm lighting and natural shadows create a calm nighttime mood.\",\n  \"style\": \"realistic lifestyle photography\",\n  \"lighting\": \"warm bedside lamp lighting with soft shadows\",\n  \"composition\": \"high-angle selfie, close framing, bedroom setting\",\n  \"mood\": \"cozy, relaxed, intimate\"\n}",
-    "title": "Cozy Bedroom Selfie Photography",
-    "description": "A JSON-formatted prompt for a realistic lifestyle selfie of a red-haired woman in a cozy, warm-lit bedroom setting.",
+    "content": "{\n  \"prompt\": \"A warm, cozy bedroom selfie taken from a high angle. A {argument name=\"hair color\" default=\"red-haired\"} woman with freckles and glasses reclines on a bed with {argument name=\"pillow pattern\" default=\"dragonfly-patterned\"} pillows and a textured blanket, wearing a soft {argument name=\"clothing color\" default=\"lavender\"} sleeveless top. She poses casually with a playful expression, one finger near her lips. A bedside table with a glowing lamp, teapot, and remote control adds to the relaxed, intimate home atmosphere. Soft warm lighting and natural shadows create a calm nighttime mood.\",\n  \"style\": \"realistic lifestyle photography\",\n  \"lighting\": \"warm bedside lamp lighting with soft shadows\",\n  \"composition\": \"high-angle selfie, close framing, bedroom setting\",\n  \"mood\": \"cozy, relaxed, intimate\"\n}",
+    "title": "Cozy Bedroom Lifestyle Selfie",
+    "description": "A natural and warm prompt for a relaxed bedroom selfie from a high angle, focusing on intimate home lighting and a casual, playful mood.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777533356409_h2qz26_HHFK-VCbwAApYKK.jpg"
+      "https://cms-assets.youmind.com/media/1777620064799_atd4ox_HHFK-VCbwAApYKK.jpg"
     ],
     "needReferenceImages": false
   },

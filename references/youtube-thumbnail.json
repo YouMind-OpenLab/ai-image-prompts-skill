@@ -1,5 +1,15 @@
 [
   {
+    "id": 17257,
+    "content": "2x2 grid, do this for 4 famous books render_target = ( {argument name=\"main object\" default=\"giant_sliced_open_hardcover_fantasy_book\"} * 2.0 ) + ( {argument name=\"inner scene\" default=\"inferred_magical_library_diorama_inside\"} * 1.8 ) + ( miniature_main_characters_fighting_bad_guys * 1.5 ) + ( floating_old_english_map_overlay_top_right * 2.0 ) + ( tiny_ink_bottles_and_quills_exterior * 1.0 ) + ( {argument name=\"background\" default=\"clean_parchment_paper_studio_background\"} * 1.2 ) - ( e_reader / 2.0 ) - ( modern_clothing / 2.0 ) - ( messy_desk )",
+    "title": "Magical Book Visualization Grid",
+    "description": "A creative weighted prompt formula for generating a 2x2 grid of fantasy dioramas inside open books.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620059461_wtbh6l_HHAk_0ZbUAAqjvu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16475,
     "content": "{argument name=\"song title\" default=\"Istanbul Mambo\"} ({argument name=\"artist\" default=\"Eiichi Ohtaki\"})",
     "title": "Song-to-Image Visualization",

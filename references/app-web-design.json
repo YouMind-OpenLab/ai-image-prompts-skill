@@ -1,5 +1,15 @@
 [
   {
+    "id": 17262,
+    "content": "highly detailed 3d game start screen of a {argument name=\"game type\" default=\"fitness game\"}, on the left side the the {argument name=\"character\" default=\"woman sits on a fitness bench with some fitness weights on the ground and a towl over the bench\"}, on the right side are {argument name=\"UI elements\" default=\"5 skill buttons that let the player select some special powers\"}, on a white background",
+    "title": "Fitness Game Start Screen UI Render",
+    "description": "A detailed prompt for creating a 3D game start screen layout featuring a character on a bench and UI elements on the right.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620062836_fbh6hr_HHLBkuvboAAYTQa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16170,
     "content": "A prompt for a wide horizontal frame composed of five distinct vertical panels, each featuring a different character with specific styling, including customizable background colors and foreground elements.",
     "title": "Multi-Panel Cinematic Studio Shot",

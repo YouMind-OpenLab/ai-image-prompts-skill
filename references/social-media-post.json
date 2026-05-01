@@ -41,6 +41,305 @@
     "needReferenceImages": false
   },
   {
+    "id": 17266,
+    "content": "{\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"Young woman with a soft, direct gaze\\\"}\",\n    \"pose\": \"{argument name=\\\"pose\\\" default=\\\"Sitting cross-legged on a bed, leaning forward slightly, right hand resting near the collarbone\\\"}\",\n    \"expression\": \"Neutral, calm, and serene\"\n  },\n  \"physical_characteristics\": {\n    \"hair\": \"Long, wavy, dirty blonde hair draped over the right shoulder\",\n    \"facial_features\": {\n      \"eyes\": \"Hazel or light green with winged black eyeliner\",\n      \"skin\": \"Fair complexion with prominent freckles across the nose and cheeks\",\n      \"lips\": \"Full, glossy pink\",\n      \"eyebrows\": \"Groomed, natural arch\"\n    }\n  },\n  \"attire\": {\n    \"outfit_type\": \"{argument name=\\\"outfit\\\" default=\\\"Two-piece pajama set\\\"}\",\n    \"color_pattern\": \"Soft pink with a small white floral print\",\n    \"top_details\": \"Cropped camisole, thin spaghetti straps, ruffled lettuce-edge hem\",\n    \"bottom_details\": \"Matching high-waisted shorts with ruffled lettuce-edge hem\",\n    \"accessories\": [\n      \"Delicate thin gold chain necklace\",\n      \"White crew socks\"\n    ]\n  },\n  \"environment\": {\n    \"location\": \"Indoor bedroom\",\n    \"background_elements\": [\n      \"Dark grey tufted upholstered headboard\",\n      \"Cream/off-white bed linens and stacked pillows\"\n    ],\n    \"lighting\": \"Soft, diffused indoor lighting creating gentle shadows\",\n    \"color_palette\": [\n      \"Pastel pink\",\n      \"Cream\",\n      \"Slate grey\",\n      \"Natural skin tones\"\n    ]\n  },\n  \"image_composition\": {\n    \"shot_type\": \"Medium shot\",\n    \"orientation\": \"Vertical/Portrait\",\n    \"focus\": \"Sharp focus on the subject with a shallow depth of field in the background\"\n  }\n}",
+    "title": "Detailed Portrait Generation JSON Prompt",
+    "description": "A highly structured JSON-style prompt for generating a detailed portrait of a young woman with specific physical traits, attire, and environment settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620066567_ndpt69_HHNzbhaa4AAGWCu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17226,
+    "content": "Create image: Use the attached reference image as a visual guide for the character’s appearance. Preserve key visual traits such as facial structure and overall proportions, while allowing small natural variations typical of real photography. The generated subject should clearly resemble the reference while remaining a natural photographic interpretation.\nAspect Ratio: 3:4.\nA hyper-realistic, ultra-sharp photograph taken on a modern smartphone, specifically an iPhone 15 Pro, characterized by its digital clarity and shot on a modern high-end smartphone camera with a wide-angle lens at ISO 50 and f/1.8. The subject is a young adult woman captured from a low-angle perspective, leaning her torso forward and angled 15 degrees to the left. Her pose is a study in human asymmetry: her left arm is extended directly toward the lens in a candid, reaching gesture with relaxed, softly curved fingers, while her right arm hangs back, creating a natural weight shift that causes her right shoulder to drop lower than the left. Her {argument name=\"hair color\" default=\"dark\"} hair is styled with wispy bottleneck bangs and two long, symmetrical braids resting on her chest, with fine flyaway strands caught in a soft breeze. Her expression is one of radiant joy, a beaming smile that causes a slight nose scrunch and a genuine \"eye smile\" where her eyes are half-lidded with micro-tightening at the outer corners and a glistening inner corner shine. Her brows are relaxed and slightly raised in spontaneous delight. Her skin exhibits a healthy radiance and a distinct rosy warmth, featuring visible pores and a clear texture with soft highlights on the bridge and tip of her nose. A subtle pinkish-mauve gloss covers her lips with a subtle shimmer, and a high-placed pink blush accents her cheekbones. She is dressed in a {argument name=\"clothing\" default=\"light blue ribbed cotton camisole crop top\"} under an {argument name=\"outerwear\" default=\"oversized, cobalt blue chunky-knit cardigan\"} decorated with large, white intarsia cloud patterns; the heavy knit texture is microscopically detailed where it slips off her shoulders. She wears high-waisted, distressed indigo denim shorts with intricate fraying and white thread tassels at the hem. The entire scene is rendered in incredibly sharp focus against a vast, saturated azure sky, illuminated by bright, natural overhead sunlight that creates a subtle lens flare and gentle shadows under the jawline. Digital texture is paramount, revealing the crisp fabric details and the soft glow of the skin, devoid of film grain but with a hint of subtle digital noise, maintaining a natural, minimal contrast look.",
+    "title": "iPhone Style Joyful Portrait",
+    "description": "A comprehensive prompt using a reference image to generate a hyper-realistic iPhone photo of a woman in a cloud-patterned cardigan.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620039038_fqvrfr_HHML-Dpa0AAwM2d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17255,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"style\": \"Photorealistic contemporary fashion lifestyle photography with on-camera flash aesthetic\",\n    \"aspect_ratio\": \"9:16\",\n    \"subject\": {\n      \"identity\": \"{argument name=\"character name\" default=\"Dafne Keen\"}\",\n      \"appearance\": {\n        \"hair\": \"Long, straight hair, slightly off-center part, falling over the left shoulder\",\n        \"makeup\": \"Subtle makeup with pink lips and defined eyebrows\",\n        \"expression\": \"Soft, confident expression with a slight smile\",\n        \"skin\": \"Smooth, hydrated, slightly glossy skin texture\",\n        \"details\": [\n          \"Small gold hoop earrings\",\n          \"Delicate thin necklace\",\n          \"Thin black bracelet on right wrist\",\n          \"Well-groomed hands with light pink manicure\"\n\"      ]\n      }\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"dress\" default=\"Short, sleeveless white dress, form-fitting with a draped cowl neckline\"}\",\n      \"footwear\": \"Open-toe high-heeled sandals with thin straps and subtle rhinestone details in rose gold or metallic tones\"\n    },\n    \"pose\": {\n      \"position\": \"Seated gracefully on a white staircase step\",\n      \"body\": \"Body slightly angled diagonally, knees bent with feet resting on lower steps\",\n      \"hands\": \"Both hands resting gently on knees or lower thighs, right hand placed over the left\",\n      \"head\": \"Facing directly toward the camera\",\n      \"posture\": \"Relaxed and elegant\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"setting\" default=\"Modern white staircase at night\"}\",\n      \"background\": \"Adjacent white wall with встроенные square-shaped wall lights emitting a warm amber glow\",\n      \"elements\": \"Dark metal handrail running diagonally along the wall\"\n    },\n    \"props\": [\n      \"White quilted leather handbag with chain strap interwoven with metal and leather, placed on the step beside her\"\n    ],\n    \"lighting\": {\n      \"primary\": \"Strong direct frontal lighting (camera flash), creating a well-lit subject with sharp, defined shadows behind\",\n      \"ambient\": \"Warm amber lighting from wall fixtures for contrast\"\n    },\n    \"mood\": \"Glamorous, elegant, confident, and stylish nighttime atmosphere\",\n    \"technical\": {\n      \"framing\": \"Medium shot (American shot), slightly above eye level\",\n      \"orientation\": \"Portrait\",\n      \"quality\": \"Ultra-detailed, sharp focus, realistic skin texture, professional lighting, 8K resolution\"\n    }\n  }\n}",
+    "title": "Dafne Keen Fashion Lifestyle Photography",
+    "description": "A photorealistic contemporary fashion lifestyle prompt featuring a subject seated on a white staircase with on-camera flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620057705_t347g1_HHMHVrBXwAAH1nV.jpg",
+      "https://cms-assets.youmind.com/media/1777620058547_muhovu_HHMHVqrXwAAJhHV.jpg",
+      "https://cms-assets.youmind.com/media/1777620057663_7a643y_HHMHV8KWYAEr8f1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17257,
+    "content": "2x2 grid, do this for 4 famous books render_target = ( {argument name=\"main object\" default=\"giant_sliced_open_hardcover_fantasy_book\"} * 2.0 ) + ( {argument name=\"inner scene\" default=\"inferred_magical_library_diorama_inside\"} * 1.8 ) + ( miniature_main_characters_fighting_bad_guys * 1.5 ) + ( floating_old_english_map_overlay_top_right * 2.0 ) + ( tiny_ink_bottles_and_quills_exterior * 1.0 ) + ( {argument name=\"background\" default=\"clean_parchment_paper_studio_background\"} * 1.2 ) - ( e_reader / 2.0 ) - ( modern_clothing / 2.0 ) - ( messy_desk )",
+    "title": "Magical Book Visualization Grid",
+    "description": "A creative weighted prompt formula for generating a 2x2 grid of fantasy dioramas inside open books.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620059461_wtbh6l_HHAk_0ZbUAAqjvu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17236,
+    "content": "{ \"image_description\": { \"subject\": { \"use_reference_image\": true, \"override\": false, \"physique\": \"slim, toned\" }, \"pose_and_composition\": { \"body_position\": \"tight deep squat\", \"lower_body\": { \"stance\": \"knees fully bent and drawn close to chest\", \"feet\": { \"position\": \"close together, pointed forward\", \"heels\": \"elevated due to high heels\", \"weight_distribution\": \"balanced on balls of feet\" } }, \"upper_body\": { \"posture\": \"leaning forward over knees\", \"arms\": { \"one_arm\": \"forearm resting across knees\", \"other_arm\": \"elbow resting on knee with hand supporting head\" } }, \"head\": { \"tilt\": \"slight tilt to side\", \"direction\": \"angled upward\", \"gaze\": \"direct eye contact with camera above\", \"facial_features\": \"fully derived from reference image\", \"expression\": \"fully derived from reference image\" }, \"camera_angle\": { \"position\": \"well above subject’s head\", \"angle\": \"top-down high angle (approximately 30–45 degrees downward)\", \"lens\": \"slight wide-angle smartphone perspective\", \"distance\": \"close framing, compact composition\", \"effect\": \"knees and feet appear slightly larger due to perspective\" }, \"aspect_ratio\": \"4:5 vertical\" }, \"attire\": { \"outfit\": { \"type\": \"{argument name=\"outfit type\" default=\"long-sleeve fitted mini dress\"}\", \"color\": \"black\", \"fabric\": \"velvet or soft matte\", \"fit\": \"tight, body-contouring\", \"neckline\": \"deep V-neck\" }, \"footwear\": { \"type\": \"high heels\", \"color\": \"black patent\", \"details\": \"pointed toe with ankle embellishments\" }, \"accessories\": { \"bag\": \"small metallic/rhinestone handbag held loosely\", \"necklace\": \"thin silver necklace\" } }, \"environment_and_lighting\": { \"setting\": \"{argument name=\"location\" default=\"modern indoor space (elevator or hallway)\"}\", \"background\": \"{argument name=\"background\" default=\"metallic wall panels\"}\", \"floor\": \"light gray tile floor\", \"lighting\": { \"type\": \"overhead indoor lighting\", \"quality\": \"soft but directional from above\", \"effect\": \"subtle highlights on face and reflective surfaces\" } }, \"technical_details\": { \"style\": \"fashion/editorial photography\", \"resolution\": \"high definition\", \"depth_of_field\": \"moderate, subject sharp\" }, \"rendering_notes\": { \"identity_consistency\": \"all facial features must match reference image exactly\", \"camera_priority\": \"strong top-down perspective must be preserved\", \"pose_accuracy\": \"tight squat with forward lean\", \"perspective_accuracy\": \"slight wide lens distortion (foreground emphasis)\", \"anatomy\": \"natural proportions, no distortion artifacts\", \"consistency\": \"alignment between camera height, gaze direction, and_pose\" } } }",
+    "title": "Top-down fashion squat perspective",
+    "description": "A technical image prompt using a reference image to generate a specific squatting pose with a top-down camera angle in a modern setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620044952_gbyqfo_HHK2cJxbQAAapPX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17250,
+    "content": "{\n  \"prompt_metadata\": {\n    \"type\": \"image_generation\",\n    \"target_model\": \"Gemini 3 Flash Image\",\n    \"aspect_ratio\": \"9:16\"\n  },\n  \"prompt_components\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"person name\" default=\"Millie Bobby Brown\"}\",\n      \"physical_appearance\": \"Long wavy hair cascading down her back and over her left shoulder. Natural-looking makeup, defined eyebrows, lip gloss, and subtle contouring.\",\n      \"expression\": \"Looking directly at the camera with slightly parted lips and a confident expression.\",\n      \"clothing\": \"{argument name=\"outfit style\" default=\"Tight sleeveless black corset-style top with spaghetti straps and structured vertical seams. Short yellow pleated miniskirt\"}. Barefoot.\"\n    },\n    \"pose_and_action\": \"Kneeling sideways inside the basket of a metal shopping cart. Body leaning inside the cart, with the upper torso and head turned sharply backward over the left shoulder to face the viewer. Both hands are resting on the front metal edge and the red plastic handle of the cart.\",\n    \"environment\": {\n      \"setting\": \"Outdoor commercial parking lot on a bright, sunny day.\",\n      \"background\": \"Supermarket with a white and green facade, a yellow awning, and a clearly visible '{argument name=\"store name\" default=\"GiuliaSupermarket\"}' sign.\",\n      \"props\": [\n        \"Metal shopping cart with a red plastic handle\"\n      ]\n    },\n    \"cinematography_and_lighting\": {\n      \"camera_shot\": \"Medium shot from a slightly elevated angle relative to her kneeling position.\",\n      \"depth_of_field\": \"Shallow depth of field creating a soft bokeh effect on the cars and building in the background.\",\n      \"lighting\": \"Natural sunny daylight, bright and clean sunlight, beautifully illuminated skin, soft to moderate shadows, balanced contrast, and vibrant tones.\"\n    },\n    \"style_and_quality\": {\n      \"aesthetic\": \"Photorealistic casual lifestyle portrait. Clear cinematic atmosphere.\",\n      \"rendering\": \"Highly detailed, ultra-sharp focus on the subject, high resolution.\"\n    }\n  }\n}",
+    "title": "High-Fashion Shopping Cart Portrait",
+    "description": "A detailed prompt for generating a celebrity-inspired high-fashion lifestyle portrait involving a shopping cart and a supermarket background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620053695_lk59q5_HHKuwnXXEAAZYF5.jpg",
+      "https://cms-assets.youmind.com/media/1777620054995_3a8c4g_HHKuwogWUAAAcJm.jpg",
+      "https://cms-assets.youmind.com/media/1777620053770_jaielk_HHKuwr3XUAA90VU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17263,
+    "content": "A photorealistic, candid lifestyle photograph of a {argument name=\"subject\" default=\"young woman with fair, freckled skin and wet reddish-brown hair\"} looking into a large framed bathroom mirror. She is wrapped in a {argument name=\"outfit\" default=\"white bath towel\"} and adorned with {argument name=\"jewelry\" default=\"traditional Indian red and gold bangles on both wrists, along with a black beaded mangalsutra necklace\"}. In her reflection, she is touching her wet hair with her right hand and holding a whole green cucumber against her forehead with her left. The setting is a bright, modern bathroom featuring white marble walls, a marble vanity, and a glass shower enclosure visible in the background reflection. Soft, natural daylight illuminates the scene, giving it a raw, natural aesthetic with slightly cool tones. The composition is an over-the-shoulder shot focusing on the mirror reflection.",
+    "title": "Candid Mirror Reflection Lifestyle Portrait",
+    "description": "A prompt for a realistic over-the-shoulder shot of a woman looking into a mirror, combining traditional Indian jewelry with a modern setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620064149_dlu406_HHKtiEvbYAMJpzO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17244,
+    "content": "A comprehensive prompt for creating a composite image using a reference photo. It details isolating the person, generating 3D chibi 'mini-me' characters that match the person's features, and placing them in interactive poses with shadows, doodles, and aesthetic titles for a social media 'lifestyle' story vibe.",
+    "title": "Mini-Me Character Composite Image",
+    "description": "A complex prompt for creating a composite image with 3D chibi characters interacting with a real person isolated from a photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620049126_433hk3_HHKKYD9a4AA5JV0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17242,
+    "content": "A structured image-to-image prompt for a Tokyo ramen bar scene. It emphasizes preserving the identity of a reference woman while placing her in a colorful restaurant setting with a giant ramen bowl in the foreground. The style is photorealistic flash editorial with a 24mm wide lens.",
+    "title": "Tokyo Ramen Bar Candid Portrait",
+    "description": "An image-to-image prompt for a playful, candid shot of a woman at a Tokyo ramen bar with a focus on food and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620047658_vr00mq_HHKIQSsXoAALgXI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17238,
+    "content": "A natural lifestyle photography prompt featuring a blonde woman in a blue lounge set relaxing in a sunlit room. It emphasizes warm sunlight, soft shadows, and a cozy, playful mood with a slightly angled top-down composition.",
+    "title": "Cozy Indoor Lifestyle Portrait",
+    "description": "A lifestyle photography prompt for a relaxed scene of a woman reclining near a couch in a sunlit room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620046284_a5opm2_HHKHv9AaIAAbl7i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17258,
+    "content": "High-angle wide-angle (slight fisheye) fashion portrait of a {argument name=\"subject\" default=\"young woman looking up at the camera\"}, wearing {argument name=\"accessories\" default=\"black oversized sunglasses, a beige baseball cap\"}, and a {argument name=\"outfit\" default=\"color-block puffer jacket (olive green, tan, rust) over a black top\"}, white sneakers visible; hand adjusting sunglasses; confident neutral expression; clean studio setup with smooth green gradient background; soft diffused lighting, sharp focus, minimal shadows, vibrant colors, editorial streetwear style, 4K, ultra-detailed.",
+    "title": "High-Angle Editorial Fashion Portrait",
+    "description": "A wide-angle fisheye fashion portrait prompt featuring a woman in streetwear with specific lighting and studio setup details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620061008_jdsb6x_HHJ9pgSboAAkbLr.jpg",
+      "https://cms-assets.youmind.com/media/1777620061274_zec1fn_HHJ9picaYAAKOx5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17231,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"style\": \"Photorealistic lifestyle portrait with a cozy aesthetic, highly stylized indoor shoot\",\n    \"aspect_ratio\": \"9:16\",\n\n    \"subject\": {\n      \"identity\": \"{argument name=\"identity\" default=\"[NAME]\"}\",\n      \"view\": \"Side profile\",\n      \"expression\": \"Serene and relaxed, softly looking towards the camera\",\n      \"details\": \"Natural and minimalist makeup, soft skin texture with a light glow, visible shoulder blades and defined back contour, hair softly falling around the face and shoulders\",\n      \"hair_accessory\": \"White and purple plumeria flower clip on the left side\"\n    },\n\n    \"clothing\": {\n      \"type\": \"Fitted mini dress\",\n      \"material\": \"Ribbed knit\",\n      \"color\": \"{argument name=\"clothing color\" default=\"Light purple\"}\",\n      \"details\": \"Delicate pattern of pink tulips with green stems\",\n      \"design\": \"Halter neck and deep open back\",\n      \"extra\": \"Intricate white floral lace panels on the back and pink scalloped hem finish\"\n    },\n\n    \"pose\": \"Lying face down on a soft bed, propped up on forearms, with the torso slightly twisted to highlight the back and side profile. Holding a coffee cup with saucer near the face, as if about to drink.\",\n\n    \"setting\": {\n      \"location\": \"Cozy indoor bedroom\",\n      \"surface\": \"Thick, soft, and textured gray blanket, similar to synthetic fur\"\n    },\n\n    \"props\": [\n      \"{argument name=\"stuffed animal\" default=\"Large light orange teddy bear\"} in the background (top left side)\",\n      \"Bouquet of freshly cut dark red roses with green stems on the blanket\",\n      \"Vintage style coffee cup with saucer and floral print\",\n      \"Decorative pillow with floral pattern and embroidery behind the bear\"\n    ],\n\n    \"lighting\": {\n      \"type\": \"High-key\",\n      \"description\": \"Bright, soft, and diffused lighting, with extremely soft shadows, low contrast, and uniform illumination on the face\"\n    },\n\n    \"mood\": \"Cozy, intimate, delicate, evoking a calm and relaxing morning moment\",\n\n    \"technical\": {\n      \"camera\": \"Medium shot at a slightly elevated angle, framing from the thigh up\",\n      \"depth_of_field\": \"Shallow, with sharp focus on the subject and softly blurred background\",\n      \"quality\": \"Highly detailed, precise focus on the face, natural skin texture, realistic fabric rendering\",\n      \"resolution\": \"8K\"\n    }\n  }\n}",
+    "title": "Cozy morning lifestyle coffee portrait",
+    "description": "A detailed image prompt for a cozy morning scene featuring a woman in a lavender dress relaxing on a bed with coffee and red roses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620041082_50dv5d_HHJzmADXsAAQ7RQ.jpg",
+      "https://cms-assets.youmind.com/media/1777620041030_ygc6md_HHJzmCzWQAAo5b4.jpg",
+      "https://cms-assets.youmind.com/media/1777620041121_65gv7k_HHJzmJRWgAA3nKa.jpg",
+      "https://cms-assets.youmind.com/media/1777620042053_94j1xz_HHJzmLaXYAAThD8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17256,
+    "content": "{\n  \"prompt_details\": {\n    \"subject\": \"{argument name=\"subject\" default=\"Young woman with fair skin and light eyes. Striking copper-red hair styled in a voluminous high bun with loose, wavy face-framing tendrils. She has a neutral, contemplative expression.\"}\",\n    \"clothing_and_accessories\": \"{argument name=\"outfit\" default=\"Wearing a matching light grey or off-white lounge set consisting of a ribbed knit low-cut crop top, a matching ribbed long-sleeve bolero shrug, and high-waisted sweatpants. Accessorized with delicate gold jewelry: small hoop earrings, a thin chain necklace, and gold bracelets on her wrists.\"}\",\n    \"pose\": \"Standing with her body slightly angled, hands gently clasped in front of her waist, gazing slightly off-camera.\",\n    \"setting\": \"An elegant, modern bathroom featuring cream-colored square wall tiles. A portion of a white bathtub is visible on the lower left. Behind the subject hangs a large, framed piece of abstract, colorful, cubist-style artwork.\",\n    \"lighting\": \"Soft, diffused, warm indoor lighting that highlights the textures of the knit clothing and creates gentle, flattering shadows on the subject's face.\",\n    \"style\": \"Photorealistic, candid lifestyle photography, high-resolution, soft editorial aesthetic.\"\n  }\n}",
+    "title": "Editorial Lifestyle Portrait of a Woman in Knitwear",
+    "description": "A structured prompt for a photorealistic candid lifestyle photo of a woman in a lounge set, set in a modern bathroom with artistic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620059829_8koakx_HHJdykcawAAorUu.jpg",
+      "https://cms-assets.youmind.com/media/1777620059834_jfj79h_HHJdyk4b0AE5YUn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17229,
+    "content": "{\n  “meta”: {\n    “quality”: “ultra-photorealistic, raw style, 8k, masterpiece, highly detailed textures”,\n    “camera”: “A vertical medium full-body photograph captured at eye level. High-resolution digital camera with a prime lens. Natural depth of field with a clean indoor focus. Natural colors.”,\n    “lighting”: “Bright, even overhead indoor lighting typical of a locker room or gymnasium. Soft shadows and clear visibility of textures.”,\n    “style”: “Candid lifestyle photography, athletic aesthetic, high-resolution digital image.”,\n    “aspect_ratio”: “9:16”\n  },\n  “scene”: {\n    “location”: “A spacious, clean gymnasium locker room.”,\n    “details”: “Rows of grey and light wood-textured lockers in the background. Long wooden benches placed between the rows. White tiled walls and pillars with small blue square accent tiles. Clean, grey floor.”,\n“background”: “Locker room interior with visible lockers, benches, and a fire alarm or sensor on the white ceiling.”,\n    “atmosphere”: “Youthful, energetic, and casual.”\n  },\n  “subject”: {\n    “gender”: “female”,\n    “age”: “young adult”,\n    “hair”: {\n      “color”: “light brown with honey highlights”,\n      “style”: “Long, straight, flowing naturally down her back, reaching past her waist.”\n    },\n    “expression”: “A bright, genuine smile, looking back over her left shoulder directly into the camera lens. Friendly and confident gaze.”,\n    “pose”: “Standing in a three-quarter back view, twisting her upper body to face the camera. Her body is angled away while her face is turned back. Her posture is relaxed and athletic.”,\n    “outfit”: {\n      “description”: “A {argument name=\"outfit color\" default=\"classic, deep navy blue\"} one-piece athletic swimsuit. Features thick straps and a large, rounded open-back cutout. High-cut leg design.”,\n“fabric”: “Smooth, high-quality spandex/nylon blend with a subtle sheen and visible stitching around the edges.”\n    },\n    “accessories”: “Minimalist style, no visible jewelry or tattoos. Bare skin.”\n  },\n  “composition”: “A centered vertical medium full-body composition. The subject is the clear focal point, positioned against the geometric lines of the locker room. Sharp focus on her face and the texture of the swimsuit. Natural skin tones and textures.”,\n  “additional_details”: [\n    “Hyper-realistic skin detail: pores, subtle skin textures, and a natural complexion.”,\n    “Visible fabric texture and clean seams of the navy swimsuit.”,\n    “Fine detail in the long hair strands.”,\n    “Accurate representation of the locker room background elements like the wooden benches and metal lockers.”,\n    “Clean color grading with balanced cool and warm tones.”\n  ]\n}",
+    "title": "Gymnastic locker room lifestyle photography",
+    "description": "A photorealistic image prompt for a candid lifestyle shot of athletic subjects in a gymnasium setting, featuring detailed textures and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620040440_ys7uac_HHJdQ7dWgAAukRD.jpg",
+      "https://cms-assets.youmind.com/media/1777620040459_pdvne4_HHJdQ-BWUAAiZPq.jpg",
+      "https://cms-assets.youmind.com/media/1777620040432_pjtojx_HHJdRIkWsAAyHtA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17237,
+    "content": "A photorealistic image generation prompt for a lifestyle influencer aesthetic. It features a subject with long hair in a short yellow floral dress, sitting on a balcony with terracotta tiles. The shot simulates an iPhone 16 Pro Max photo with natural golden hour lighting and a relaxed, confident mood.",
+    "title": "Lifestyle Influencer Balcony Selfie",
+    "description": "A detailed photorealistic prompt for a casual lifestyle shot of a woman taking a mirror selfie on a sunlit balcony.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620046213_sazjq0_HHJZeeZaIAAHZW_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17224,
+    "content": "{\n  “meta”: {\n    “quality”: “ultra-photorealistic, raw style, masterpiece, highly detailed textures”,\n    “camera”: “A vertical medium close-up shot captured as a mirror reflection. The perspective is at eye-level to the mirror, showing the subject from a slightly behind-three-quarter angle looking back. Natural film grain, sharp focus.”,\n    “lighting”: “Soft, natural ambient daylight from an unseen window, illuminating the bedroom and the subject. Diffused and even lighting.”,\n    “style”: “Candid lifestyle photography, bedroom mirror selfie aesthetic.”,\n    “aspect_ratio”: “9:16”\n  },\n  “scene”: {\n    “location”: “A modern, slightly cluttered bedroom.”,\n“details”: “A dark wood laminate floor with a textured light beige area rug the subject is kneeling on. A bed with a grey upholstered headboard, unmade with a mix of striped and teal fluffy blankets and some dark pilled bedding. A dark wood nightstand with two drawers and gold pulls is visible on the right, with a small bottle on top.”,\n    “background”: “The bed and headboard, with a wooden nightstand and scattered small items on top, are visible, slightly blurred.”,\n    “atmosphere”: “Casual, relaxed, intimate, candid.”\n  },\n  “subject”: {\n    “gender”: “female”,\n    “age”: “young adult”,\n    “hair”: {\n      “color”: “blonde”,\n      “style”: “Long, wavy, natural blonde hair flowing over her shoulder.”\n    },\n    “expression”: “Looking intently at the phone screen in her reflection with a neutral, slightly serious expression.”,\n“pose”: “Kneeling on all fours on a rug, viewed from a slightly behind three-quarter angle. She is looking back over her shoulder, holding a silver iPhone (Pro style) with a clear case and a visible circular MagSafe ring in her right hand to capture the reflection. Her body is arched and twisted to see the phone. Her left hand rests on her left knee. Bare feet are visible, one tucked and one placed near her body.”,\n    “outfit”: {\n      “description”: “A long-sleeved black high-neck top. Dark navy blue booty shorts (briefs). She is barefoot.”,\n      “fabric”: “Detailed cotton or jersey fabric texture on the black top and shorts.”\n    },\n    “accessories”: “A silver iPhone (e.g., iPhone 15 Pro style) with a clear case and a distinct circular MagSafe charging ring, held to face the mirror. Bare feet. No other major accessories visible.”\n  },\n“composition”: “A centered, vertical composition of the mirror reflection. The subject’s figure, particularly her back and legs in the kneeling pose, is the primary focus. The complex arrangement of her body, the phone, and her gaze creates a strong line of sight. The messy bed forms the detailed background texture. Sharp focus on the subject and phone reflection.”\n}",
+    "title": "Intimate Bedroom Mirror Selfie",
+    "description": "A highly detailed JSON prompt for a candid mirror selfie of a young woman kneeling in a modern bedroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620037681_9m67zq_HHJXmR3agAAzRmG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17239,
+    "content": "A photographic prompt for a gym mirror selfie involving three subjects, including Victoria Justice and Selena Gomez, wearing specific workout attire. It details the composition as a medium shot with mirror reflections and realistic gym equipment in the background.",
+    "title": "Celebrity Gym Mirror Selfie",
+    "description": "A prompt designed to create a realistic mirror selfie of celebrities in a gym setting with specific attire and poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620045516_yyq9v4_HHJOUeYW8AA24xS.jpg",
+      "https://cms-assets.youmind.com/media/1777620045505_skib4q_HHJOUh2XoAA4Ycc.jpg",
+      "https://cms-assets.youmind.com/media/1777620045527_wc14js_HHJOUwQWkAAUJYr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17234,
+    "content": "{\n  \"prompt\": \"Stunning young woman with {argument name=\"hair style\" default=\"long wavy blonde hair\"}, posing confidently in a bright bedroom with red curtains, wearing a {argument name=\"outfit\" default=\"form-fitting white long-sleeve crop top and a blue plaid pleated skirt\"}, hands on hips, looking at the camera with a confident expression, toned midriff, add a small elegant 'Keor' embroidered in white thread on the lower border/hem of the plaid skirt, change the tattoo on her lower abdomen to the {argument name=\"tattoo text\" default=\"Latin phrase 'Fortis Fortuna Adiuvat' in elegant black script\"}, photorealistic, ultra-detailed skin texture, realistic fabric details on the crop top and skirt, high-resolution glamour photography, 8k resolution\",\n  \"negative_prompt\": \"blurry, low resolution, deformed body, extra limbs, bad anatomy, ugly face, cartoon, anime, overexposed, harsh shadows, text artifacts except small 'Keor' embroidery and 'Fortis Fortuna Adiuvat' tattoo, watermark, other people, different hair style, plastic skin, distorted proportions, light curtains\",\n  \"parameters\": {\n    \"style\": \"photorealistic glamour portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"lighting\": \"bright natural indoor lighting\",\n    \"detail_level\": \"ultra high\",\n    \"resolution\": \"8k\",\n    \"model_version\": \"latest photoreal checkpoint\"\n  },\n  \"seed\": null,\n  \"cfg_scale\": 7.5,\n  \"steps\": 50,\n  \"sampler\": \"DPM++ 2M Karras\"\n}",
+    "title": "Photorealistic bedroom glamour portrait",
+    "description": "A comprehensive image prompt for a high-resolution glamour portrait in a bedroom setting with specific outfit and tattoo details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620043693_kcqqj6_HHJGbsPWEAAWQzv.jpg",
+      "https://cms-assets.youmind.com/media/1777620043650_8eyifu_HHJGb0WXIAA9LcC.jpg",
+      "https://cms-assets.youmind.com/media/1777620043628_h7d9ui_HHJGb5DXsAAC_Ql.jpg",
+      "https://cms-assets.youmind.com/media/1777620044405_pybypv_HHJGcAEXwAEUTdk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17221,
+    "content": "{\n  \"subject\": {\n    \"description\": \"Young woman with a soft, direct gaze\",\n    \"pose\": \"Sitting cross-legged on a bed, leaning forward slightly, right hand resting near the collarbone\",\n    \"expression\": \"Neutral, calm, and serene\"\n  },\n  \"physical_characteristics\": {\n    \"hair\": \"Long, wavy, dirty blonde hair draped over the right shoulder\",\n    \"facial_features\": {\n      \"eyes\": \"Hazel or light green with winged black eyeliner\",\n      \"skin\": \"Fair complexion with prominent freckles across the nose and cheeks\",\n      \"lips\": \"Full, glossy pink\",\n      \"eyebrows\": \"Groomed, natural arch\"\n    }\n  },\n  \"attire\": {\n    \"outfit_type\": \"Two-piece pajama set\",\n    \"color_pattern\": \"Soft pink with a small white floral print\",\n    \"top_details\": \"Cropped camisole, thin spaghetti straps, ruffled lettuce-edge hem\",\n    \"bottom_details\": \"Matching high-waisted shorts with ruffled lettuce-edge hem\",\n    \"accessories\": [\n      \"Delicate thin gold chain necklace\",\n      \"White crew socks\"\n    ]\n  },\n  \"environment\": {\n    \"location\": \"Indoor bedroom\",\n    \"background_elements\": [\n      \"Dark grey tufted upholstered headboard\",\n      \"Cream/off-white bed linens and stacked pillows\"\n    ],\n    \"lighting\": \"Soft, diffused indoor lighting creating gentle shadows\",\n    \"color_palette\": [\n      \"Pastel pink\",\n      \"Cream\",\n      \"Slate grey\",\n      \"Natural skin tones\"\n    ]\n  },\n  \"image_composition\": {\n    \"shot_type\": \"Medium shot\",\n    \"orientation\": \"Vertical/Portrait\",\n    \"focus\": \"Sharp focus on the subject with a shallow depth of field in the background\"\n  }\n}",
+    "title": "Serene Young Woman Bedroom Portrait",
+    "description": "A highly structured JSON-style prompt for a serene portrait of a young woman with freckles and wavy blonde hair sitting on a bed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620035843_pv7vp4_HHJCh5YXQAA365L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17243,
+    "content": "A mirror selfie prompt focusing on a young woman with reddish-brown space buns in a pastel pink bodycon dress. It specifically describes 'Dark Mocha' style sneakers and a beaded choker, set in an indoor hallway with soft natural daylight and multiple pose options.",
+    "title": "Trendy Mirror Selfie with Sneakers",
+    "description": "A detailed prompt for a mirror selfie of a woman in a pink ruched dress and iconic high-top sneakers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620049671_y3obgc_HHIb3XCXYAEl_l1.jpg",
+      "https://cms-assets.youmind.com/media/1777620049642_b4y77x_HHIb3XCWYAIrCsD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17227,
+    "content": "Ultra-realistic portrait of a young woman with short tousled {argument name=\"hair color\" default=\"dark brown\"} bob hair and soft bangs, natural dewy skin, subtle pink lips, minimal makeup, wearing an oversized {argument name=\"clothing\" default=\"faded charcoal grey sweatshirt\"}, resting her face on her hand, calm slightly tired expression, warm indoor lighting, cozy aesthetic room with shelves and skincare bottles in background, shallow depth of field, soft shadows, 50mm lens, high detail, cinematic, natural texture\n\nUltra-realistic portrait of a young woman with messy short dark bob hair, slightly wet/textured strands, natural glowing skin, soft pink lips, wearing oversized grey sweatshirt, hands lifting her hair back, looking sideways with a thoughtful expression, warm ambient indoor lighting, minimal aesthetic room background with shelves and bottles, shallow depth of field, soft cinematic lighting, high detail, 50mm lens, realistic skin texture",
+    "title": "Cozy Bob Hair Portrait",
+    "description": "Two related prompts for an ultra-realistic portrait of a woman with a short bob in a cozy, aesthetically pleasing room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620039281_eh9lff_HHIW3pkaIAAQTLM.jpg",
+      "https://cms-assets.youmind.com/media/1777620038280_1z8co2_HHIW3pibIAAqMzV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17245,
+    "content": "A text-to-image prompt for a cinematic street photo in London. It features a woman in a wax jacket and turtleneck in a rainy alleyway with wet cobblestones and vintage lamps, shot on a 35mm lens with a 9:16 aspect ratio.",
+    "title": "Cinematic London Rain Street Photography",
+    "description": "A prompt for a moody urban street shot of a woman in a London alleyway during light rain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620050701_p4mcv2_HHIWCayXQAAiRGD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17248,
+    "content": "Create an ultra-realistic cinematic 4x4 grid collage ({argument name=\"grid size\" default=\"16 frames\"}) of the same beautiful young woman, each frame representing a different country’s traditional fashion reimagined as luxury high-fashion couture, including {argument name=\"featured country\" default=\"Nepal\"}.\n\nCountries: Japan, India, South Korea, France, Italy, Turkey, Egypt, China, Thailand, UK, USA, Spain, Saudi Arabia, Indonesia, Russia, and Nepal.\n\nKeep the same face in all frames with strong consistency, but vary poses and expressions (confident, elegant, editorial). Include a small flag in the top-right corner of each frame. Use culturally inspired backgrounds (temples, streets, mountains, palaces).\n\nStyle: ultra-realistic, 8K, cinematic lighting, Vogue editorial, soft depth of field, clean symmetrical grid, highly detailed, luxury aesthetic.\n\nImportant: same face consistency, no distortion, perfect alignment, balanced composition.",
+    "title": "Global High-Fashion Couture Collage",
+    "description": "A complex prompt for generating a 4x4 grid collage showing a consistent face styled in luxury traditional couture from 16 different countries.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620053457_4g6b91_HHH226xa4AAwB15.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17253,
+    "content": "{\n  \"image_generation_parameters\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"identity\" default=\"Young South Asian woman\"}\",\n      \"action\": \"{argument name=\"action\" default=\"Standing in a garden, holding and smelling a bouquet of fresh flowers\"}\",\n      \"attributes\": {\n        \"facial_features\": [\"Healthy, glowing skin\", \"Creamy complexion\", \"Fresh-faced appearance\", \"Serene expression\"],\n        \"hair\": \"Long, dark, wavy hair with small white flowers tucked in\",\n        \"posture\": \"Graceful profile view\"\n      }\n    },\n    \"attire\": {\n      \"clothing_type\": \"{argument name=\"clothing style\" default=\"Traditional Indian Anarkali suit\"}\",\n      \"color\": \"Off-white / Cream\",\n      \"details\": [\"Delicate red floral embroidery\", \"Full-length flare\", \"Matching trousers\"],\n      \"footwear\": \"Barefoot (on grass)\"\n    },\n    \"environment\": {\n      \"location\": \"Lush green nature garden\",\n      \"background_elements\": [\"Dense tropical foliage\", \"Blooming shrubs\", \"Dappled sunlight\"],\n      \"foreground\": \"Soft, vibrant green grass lawn\",\n      \"lighting\": \"Natural golden hour sunlight, soft shadows\"\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8K UHD\",\n      \"quality\": [\"High Definition\", \"Photorealistic\", \"Masterpiece\"],\n      \"camera_settings\": {\n        \"depth_of_field\": \"Slightly blurred background (bokeh)\",\n        \"focus\": \"Sharp focus on the subject and flowers\"\n      }\n    }\n  }\n}",
+    "title": "South Asian Woman in Garden Portrait",
+    "description": "A detailed prompt for generating a photorealistic portrait of a young South Asian woman in traditional attire within a lush garden setting, utilizing structured JSON parameters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620057100_gyg2nq_HHHsEo3bMAAVNXC.jpg",
+      "https://cms-assets.youmind.com/media/1777620057378_yeoirj_HHHsEnoawAA6NIw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17254,
+    "content": "Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, dewy skin, {argument name=\"makeup style\" default=\"Douyin makeup\"}, glossy lips, aegyosal, pink blush, grey contacts\n\nExpression / Pose:\nSoft relaxed pose sitting outdoors, chin slightly tilted, natural gaze\n\nCamera:\nOld CCD camera, harsh flash, warm highlights, grain, slight blur\n\nMakeup:\nGlass skin, glossy lips, pink blush, aegyosal, grey contacts\n\nHair:\nLong brown hair, smooth with inward curls\n\nOutfit:\n{argument name=\"clothing\" default=\"White crocher bucket hat with 3d flower design at the side, white sleeveless lace crochet top\"}, minimal jewelry, summer aesthetic\n\nBackground:\n{argument name=\"setting\" default=\"Stone wall, outdoor seating, umbrella shade, warm sunlight\"}\n\nComposition:\nClose-up framing, soft depth, subject off-center\n\nNegative prompt:\nplastic skin, stiff pose, unrealistic lighting",
+    "title": "Hyper-Photorealistic CCD Aesthetic Portrait",
+    "description": "A prompt for a hyper-realistic outdoor portrait using a CCD camera aesthetic, focusing on skin texture and specific summer fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620057419_gul8v7_HHHopxgb0AAjnjT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17247,
+    "content": "A hyper-photorealistic prompt mimicking a CCD camera aesthetic with flash and grain. It features a subject in an edgy retro outfit (vintage tee and fishnets) in a room with MTV-style decor, using diagonal framing and a dynamic pose across a dresser.",
+    "title": "Edgy Retro CCD Aesthetic Portrait",
+    "description": "A prompt for a retro-styled shot using CCD camera aesthetics, focusing on high contrast and flash effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620051125_03596l_HHHkqwoaEAAwKAF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17228,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed skin, visible pores, dewy glass-skin makeup, glossy lips, aegyosal, pink blush, grey contacts\n\nExpression / Pose:\nConfident relaxed pose sitting on stairs, legs bent, holding iced drink, direct gaze with subtle attitude\n\nCamera:\nOld CCD digicam, harsh flash, grain, slight motion blur, overexposed highlights, low contrast\n\nMakeup:\nGlass-skin glow, glossy lips, aegyosal, pink blush, soft contour, grey lenses\n\nHair:\nLong straight layered black\n\nOutfit:\nGraphic tee, ripped light-wash jeans, casual streetwear vibe, hoop earrings\n\nBackground:\nOutdoor urban steps, bright sky, signage in background, modern city aesthetic\n\nComposition:\nLow-angle perspective, dynamic framing, subject dominant in foreground, strong leading lines",
+    "title": "Digicam Style Urban Streetwear Shot",
+    "description": "A detailed prompt for creating a low-angle, flash-heavy urban portrait in the style of an old digital camera.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620040437_zjb06t_HHHR403aUAA0yjp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17259,
+    "content": "{\n  \"subject_parameters\": {\n    \"identity\": \"female, consistent facial features from reference\",\n    \"expression\": \"natural smile, glowing skin, radiant beauty\",\n    \"physical_state\": \"visibly sweaty, post-workout sheen, athletic posture\",\n    \"attire\": {\n      \"top\": \"{argument name=\"clothing top\" default=\"grey heathered racerback crop top\"}\",\n      \"bottom\": \"{argument name=\"clothing bottom\" default=\"black high-waisted leggings\"}\",\n      \"footwear\": \"bright red athletic sneakers\"\n    }\n  },\n  \"environment_logic\": {\n    \"location\": \"{argument name=\"setting\" default=\"modern luxury gym interior\"}\",\n    \"lighting\": \"bright, overhead linear LED strips, natural window light\",\n    \"background_elements\": [\n      \"treadmills with blurred motion\",\n      \"weight racks and smith machines\",\n      \"reflective mirrors\",\n      \"wooden flooring\"\n    ]\n  },\n  \"foreground_objects\": {\n    \"table\": \"minimalist wooden coffee table\",\n    \"drinks\": [\n      \"glass of vibrant orange juice\",\n      \"protein shaker bottle with beige liquid\"\n    ]\n  },\n  \"technical_directives\": [\n    \"8k resolution\",\n    \"photorealistic\",\n    \"shallow depth of field\",\n    \"highly detailed skin texture\",\n    \"sharp focus on subject\",\n    \"hyper-realistic lighting\"\n  ]\n}",
+    "title": "Post-Workout Fitness Portrait",
+    "description": "A JSON-structured prompt for generating a photorealistic image of a female subject in a luxury gym environment after a workout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620060927_yhycjw_HHHQWyybUAAe8Ls.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16966,
     "content": "A cinematic, high-energy digital art piece in a {argument name=\"color palette\" default=\"monochromatic crimson red color palette\"}. Centered is a {argument name=\"subject\" default=\"young male model\"} with a sharp, intense expression, wearing a stylish, oversized red streetwear outfit including a cropped jacket and cargo pants with long, flowing fabric ribbons caught in motion. He is surrounded by multiple floating, translucent UI screens displaying the interface of an X (formerly Twitter) profile. The screens feature the handle \"{argument name=\"handle\" default=\"@OzairAI\"},\" a verified blue checkmark, profile bio text about AI influencing, and a feed of posts showing \"PROMPT\" art thumbnails. In the background, a large neon glowing X logo sits on a wall with dark, metallic circuit-board textures. The ground is a red industrial metal grate. The lighting is dramatic, with high contrast, glowing red neon accents, and a shallow depth of field with blurred UI elements in the foreground. High-resolution, 8k, futuristic tech-wear aesthetic.",
     "title": "Crimson Tech-wear Aesthetic Portrait",
@@ -88,11 +387,11 @@
   },
   {
     "id": 16988,
-    "content": "{\n  \"prompt\": \"A {argument name=\"atmosphere\" default=\"warm, cozy bedroom selfie\"} taken from a high angle. A {argument name=\"subject\" default=\"red-haired woman with freckles and glasses\"} reclines on a bed with dragonfly-patterned pillows and a textured blanket, wearing a soft {argument name=\"clothing\" default=\"lavender sleeveless top\"}. She poses casually with a playful expression, one finger near her lips. A bedside table with a glowing lamp, teapot, and remote control adds to the relaxed, intimate home atmosphere. Soft warm lighting and natural shadows create a calm nighttime mood.\",\n  \"style\": \"realistic lifestyle photography\",\n  \"lighting\": \"warm bedside lamp lighting with soft shadows\",\n  \"composition\": \"high-angle selfie, close framing, bedroom setting\",\n  \"mood\": \"cozy, relaxed, intimate\"\n}",
-    "title": "Cozy Bedroom Selfie Photography",
-    "description": "A JSON-formatted prompt for a realistic lifestyle selfie of a red-haired woman in a cozy, warm-lit bedroom setting.",
+    "content": "{\n  \"prompt\": \"A warm, cozy bedroom selfie taken from a high angle. A {argument name=\"hair color\" default=\"red-haired\"} woman with freckles and glasses reclines on a bed with {argument name=\"pillow pattern\" default=\"dragonfly-patterned\"} pillows and a textured blanket, wearing a soft {argument name=\"clothing color\" default=\"lavender\"} sleeveless top. She poses casually with a playful expression, one finger near her lips. A bedside table with a glowing lamp, teapot, and remote control adds to the relaxed, intimate home atmosphere. Soft warm lighting and natural shadows create a calm nighttime mood.\",\n  \"style\": \"realistic lifestyle photography\",\n  \"lighting\": \"warm bedside lamp lighting with soft shadows\",\n  \"composition\": \"high-angle selfie, close framing, bedroom setting\",\n  \"mood\": \"cozy, relaxed, intimate\"\n}",
+    "title": "Cozy Bedroom Lifestyle Selfie",
+    "description": "A natural and warm prompt for a relaxed bedroom selfie from a high angle, focusing on intimate home lighting and a casual, playful mood.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777533356409_h2qz26_HHFK-VCbwAApYKK.jpg"
+      "https://cms-assets.youmind.com/media/1777620064799_atd4ox_HHFK-VCbwAApYKK.jpg"
     ],
     "needReferenceImages": false
   },

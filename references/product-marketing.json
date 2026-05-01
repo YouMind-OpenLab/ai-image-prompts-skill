@@ -21,6 +21,172 @@
     "needReferenceImages": true
   },
   {
+    "id": 17255,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"style\": \"Photorealistic contemporary fashion lifestyle photography with on-camera flash aesthetic\",\n    \"aspect_ratio\": \"9:16\",\n    \"subject\": {\n      \"identity\": \"{argument name=\"character name\" default=\"Dafne Keen\"}\",\n      \"appearance\": {\n        \"hair\": \"Long, straight hair, slightly off-center part, falling over the left shoulder\",\n        \"makeup\": \"Subtle makeup with pink lips and defined eyebrows\",\n        \"expression\": \"Soft, confident expression with a slight smile\",\n        \"skin\": \"Smooth, hydrated, slightly glossy skin texture\",\n        \"details\": [\n          \"Small gold hoop earrings\",\n          \"Delicate thin necklace\",\n          \"Thin black bracelet on right wrist\",\n          \"Well-groomed hands with light pink manicure\"\n\"      ]\n      }\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"dress\" default=\"Short, sleeveless white dress, form-fitting with a draped cowl neckline\"}\",\n      \"footwear\": \"Open-toe high-heeled sandals with thin straps and subtle rhinestone details in rose gold or metallic tones\"\n    },\n    \"pose\": {\n      \"position\": \"Seated gracefully on a white staircase step\",\n      \"body\": \"Body slightly angled diagonally, knees bent with feet resting on lower steps\",\n      \"hands\": \"Both hands resting gently on knees or lower thighs, right hand placed over the left\",\n      \"head\": \"Facing directly toward the camera\",\n      \"posture\": \"Relaxed and elegant\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"setting\" default=\"Modern white staircase at night\"}\",\n      \"background\": \"Adjacent white wall with встроенные square-shaped wall lights emitting a warm amber glow\",\n      \"elements\": \"Dark metal handrail running diagonally along the wall\"\n    },\n    \"props\": [\n      \"White quilted leather handbag with chain strap interwoven with metal and leather, placed on the step beside her\"\n    ],\n    \"lighting\": {\n      \"primary\": \"Strong direct frontal lighting (camera flash), creating a well-lit subject with sharp, defined shadows behind\",\n      \"ambient\": \"Warm amber lighting from wall fixtures for contrast\"\n    },\n    \"mood\": \"Glamorous, elegant, confident, and stylish nighttime atmosphere\",\n    \"technical\": {\n      \"framing\": \"Medium shot (American shot), slightly above eye level\",\n      \"orientation\": \"Portrait\",\n      \"quality\": \"Ultra-detailed, sharp focus, realistic skin texture, professional lighting, 8K resolution\"\n    }\n  }\n}",
+    "title": "Dafne Keen Fashion Lifestyle Photography",
+    "description": "A photorealistic contemporary fashion lifestyle prompt featuring a subject seated on a white staircase with on-camera flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620057705_t347g1_HHMHVrBXwAAH1nV.jpg",
+      "https://cms-assets.youmind.com/media/1777620058547_muhovu_HHMHVqrXwAAJhHV.jpg",
+      "https://cms-assets.youmind.com/media/1777620057663_7a643y_HHMHV8KWYAEr8f1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17236,
+    "content": "{ \"image_description\": { \"subject\": { \"use_reference_image\": true, \"override\": false, \"physique\": \"slim, toned\" }, \"pose_and_composition\": { \"body_position\": \"tight deep squat\", \"lower_body\": { \"stance\": \"knees fully bent and drawn close to chest\", \"feet\": { \"position\": \"close together, pointed forward\", \"heels\": \"elevated due to high heels\", \"weight_distribution\": \"balanced on balls of feet\" } }, \"upper_body\": { \"posture\": \"leaning forward over knees\", \"arms\": { \"one_arm\": \"forearm resting across knees\", \"other_arm\": \"elbow resting on knee with hand supporting head\" } }, \"head\": { \"tilt\": \"slight tilt to side\", \"direction\": \"angled upward\", \"gaze\": \"direct eye contact with camera above\", \"facial_features\": \"fully derived from reference image\", \"expression\": \"fully derived from reference image\" }, \"camera_angle\": { \"position\": \"well above subject’s head\", \"angle\": \"top-down high angle (approximately 30–45 degrees downward)\", \"lens\": \"slight wide-angle smartphone perspective\", \"distance\": \"close framing, compact composition\", \"effect\": \"knees and feet appear slightly larger due to perspective\" }, \"aspect_ratio\": \"4:5 vertical\" }, \"attire\": { \"outfit\": { \"type\": \"{argument name=\"outfit type\" default=\"long-sleeve fitted mini dress\"}\", \"color\": \"black\", \"fabric\": \"velvet or soft matte\", \"fit\": \"tight, body-contouring\", \"neckline\": \"deep V-neck\" }, \"footwear\": { \"type\": \"high heels\", \"color\": \"black patent\", \"details\": \"pointed toe with ankle embellishments\" }, \"accessories\": { \"bag\": \"small metallic/rhinestone handbag held loosely\", \"necklace\": \"thin silver necklace\" } }, \"environment_and_lighting\": { \"setting\": \"{argument name=\"location\" default=\"modern indoor space (elevator or hallway)\"}\", \"background\": \"{argument name=\"background\" default=\"metallic wall panels\"}\", \"floor\": \"light gray tile floor\", \"lighting\": { \"type\": \"overhead indoor lighting\", \"quality\": \"soft but directional from above\", \"effect\": \"subtle highlights on face and reflective surfaces\" } }, \"technical_details\": { \"style\": \"fashion/editorial photography\", \"resolution\": \"high definition\", \"depth_of_field\": \"moderate, subject sharp\" }, \"rendering_notes\": { \"identity_consistency\": \"all facial features must match reference image exactly\", \"camera_priority\": \"strong top-down perspective must be preserved\", \"pose_accuracy\": \"tight squat with forward lean\", \"perspective_accuracy\": \"slight wide lens distortion (foreground emphasis)\", \"anatomy\": \"natural proportions, no distortion artifacts\", \"consistency\": \"alignment between camera height, gaze direction, and_pose\" } } }",
+    "title": "Top-down fashion squat perspective",
+    "description": "A technical image prompt using a reference image to generate a specific squatting pose with a top-down camera angle in a modern setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620044952_gbyqfo_HHK2cJxbQAAapPX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17250,
+    "content": "{\n  \"prompt_metadata\": {\n    \"type\": \"image_generation\",\n    \"target_model\": \"Gemini 3 Flash Image\",\n    \"aspect_ratio\": \"9:16\"\n  },\n  \"prompt_components\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"person name\" default=\"Millie Bobby Brown\"}\",\n      \"physical_appearance\": \"Long wavy hair cascading down her back and over her left shoulder. Natural-looking makeup, defined eyebrows, lip gloss, and subtle contouring.\",\n      \"expression\": \"Looking directly at the camera with slightly parted lips and a confident expression.\",\n      \"clothing\": \"{argument name=\"outfit style\" default=\"Tight sleeveless black corset-style top with spaghetti straps and structured vertical seams. Short yellow pleated miniskirt\"}. Barefoot.\"\n    },\n    \"pose_and_action\": \"Kneeling sideways inside the basket of a metal shopping cart. Body leaning inside the cart, with the upper torso and head turned sharply backward over the left shoulder to face the viewer. Both hands are resting on the front metal edge and the red plastic handle of the cart.\",\n    \"environment\": {\n      \"setting\": \"Outdoor commercial parking lot on a bright, sunny day.\",\n      \"background\": \"Supermarket with a white and green facade, a yellow awning, and a clearly visible '{argument name=\"store name\" default=\"GiuliaSupermarket\"}' sign.\",\n      \"props\": [\n        \"Metal shopping cart with a red plastic handle\"\n      ]\n    },\n    \"cinematography_and_lighting\": {\n      \"camera_shot\": \"Medium shot from a slightly elevated angle relative to her kneeling position.\",\n      \"depth_of_field\": \"Shallow depth of field creating a soft bokeh effect on the cars and building in the background.\",\n      \"lighting\": \"Natural sunny daylight, bright and clean sunlight, beautifully illuminated skin, soft to moderate shadows, balanced contrast, and vibrant tones.\"\n    },\n    \"style_and_quality\": {\n      \"aesthetic\": \"Photorealistic casual lifestyle portrait. Clear cinematic atmosphere.\",\n      \"rendering\": \"Highly detailed, ultra-sharp focus on the subject, high resolution.\"\n    }\n  }\n}",
+    "title": "High-Fashion Shopping Cart Portrait",
+    "description": "A detailed prompt for generating a celebrity-inspired high-fashion lifestyle portrait involving a shopping cart and a supermarket background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620053695_lk59q5_HHKuwnXXEAAZYF5.jpg",
+      "https://cms-assets.youmind.com/media/1777620054995_3a8c4g_HHKuwogWUAAAcJm.jpg",
+      "https://cms-assets.youmind.com/media/1777620053770_jaielk_HHKuwr3XUAA90VU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17261,
+    "content": "A highly detailed studio portrait of a beautiful {argument name=\"subject\" default=\"young woman with fair skin, striking bright blue eyes, and vibrant red hair styled in a sleek high bun\"}. She has a gentle, confident smile with {argument name=\"makeup\" default=\"dark red lipstick\"}, and is wearing an elegant {argument name=\"outfit\" default=\"off-the-shoulder white lace dress featuring intricate floral patterns and delicate scalloped edges\"} along the neckline and short sleeves. The form-fitting lace dress has a sweetheart neckline and sits just above the knees. She is seated gracefully with her arms resting on her sides, looking directly at the viewer with a warm expression. The lighting is soft and professional, highlighting her features and the texture of the lace against a smooth, {argument name=\"background\" default=\"dark gradient studio background\"} in a cinematic, high-resolution photography style.",
+    "title": "Studio Portrait of Woman in Lace Dress",
+    "description": "A studio portrait prompt for a woman with red hair in a white lace dress, emphasizing texture and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620062776_xvhx9t_HHKgKTKawAAWYdQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17249,
+    "content": "An elegant, high-end advertisement for \"{argument name=\"brand name\" default=\"AM Cosmetics\"}\" showcases a colossal, {argument name=\"lipstick color\" default=\"rose-pink\"} lipstick as the centerpiece of a palatial, silver-toned ballroom. The lipstick tube is encrusted with brilliant, shimmering diamonds on its base and sits atop a plush, circular velvet ottoman. A woman in a sparkling, floor-length silver evening gown leans gracefully against the oversized cosmetic, holding a standard-sized version of the same lipstick.\n​The background exudes regal opulence, featuring towering marble arches, draped {argument name=\"curtain color\" default=\"lilac\"} silk curtains, and massive crystal chandeliers that bathe the room in a soft, ethereal light. In the distance, several figures in formal attire and suits of armor stand as silent guardians of the hall, adding to the theme of royal sophistication. The text at the top reads \"AM COSMETICS Est. 2024,\" while the bottom features the elegant script: \"Elevate your beauty. The Diamond Collection.\" The overall atmosphere is one of surreal luxury and timeless glamour.",
+    "title": "Surreal Cosmetic Ballroom Advertisement",
+    "description": "A luxurious surreal advertisement prompt for cosmetics, featuring a giant lipstick in a regal diamond-encrusted ballroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620053792_9gse50_HHKJxsEXMAA3ul-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17241,
+    "content": "A nostalgic fashion prompt featuring a platinum blonde woman leaning from a vintage Beetle car window on a beach at sunset. It details the crimson monokini, coastal sky, and a wooden surfboard, aiming for a mood of timeless elegance and balanced composition.",
+    "title": "Ethereal Coastal Vintage Car Portrait",
+    "description": "A descriptive prompt for a nostalgic, ethereal portrait of a woman in a vintage car on a beach.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620047581_n18iul_HHKIWqGaUAA03-A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17258,
+    "content": "High-angle wide-angle (slight fisheye) fashion portrait of a {argument name=\"subject\" default=\"young woman looking up at the camera\"}, wearing {argument name=\"accessories\" default=\"black oversized sunglasses, a beige baseball cap\"}, and a {argument name=\"outfit\" default=\"color-block puffer jacket (olive green, tan, rust) over a black top\"}, white sneakers visible; hand adjusting sunglasses; confident neutral expression; clean studio setup with smooth green gradient background; soft diffused lighting, sharp focus, minimal shadows, vibrant colors, editorial streetwear style, 4K, ultra-detailed.",
+    "title": "High-Angle Editorial Fashion Portrait",
+    "description": "A wide-angle fisheye fashion portrait prompt featuring a woman in streetwear with specific lighting and studio setup details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620061008_jdsb6x_HHJ9pgSboAAkbLr.jpg",
+      "https://cms-assets.youmind.com/media/1777620061274_zec1fn_HHJ9picaYAAKOx5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17256,
+    "content": "{\n  \"prompt_details\": {\n    \"subject\": \"{argument name=\"subject\" default=\"Young woman with fair skin and light eyes. Striking copper-red hair styled in a voluminous high bun with loose, wavy face-framing tendrils. She has a neutral, contemplative expression.\"}\",\n    \"clothing_and_accessories\": \"{argument name=\"outfit\" default=\"Wearing a matching light grey or off-white lounge set consisting of a ribbed knit low-cut crop top, a matching ribbed long-sleeve bolero shrug, and high-waisted sweatpants. Accessorized with delicate gold jewelry: small hoop earrings, a thin chain necklace, and gold bracelets on her wrists.\"}\",\n    \"pose\": \"Standing with her body slightly angled, hands gently clasped in front of her waist, gazing slightly off-camera.\",\n    \"setting\": \"An elegant, modern bathroom featuring cream-colored square wall tiles. A portion of a white bathtub is visible on the lower left. Behind the subject hangs a large, framed piece of abstract, colorful, cubist-style artwork.\",\n    \"lighting\": \"Soft, diffused, warm indoor lighting that highlights the textures of the knit clothing and creates gentle, flattering shadows on the subject's face.\",\n    \"style\": \"Photorealistic, candid lifestyle photography, high-resolution, soft editorial aesthetic.\"\n  }\n}",
+    "title": "Editorial Lifestyle Portrait of a Woman in Knitwear",
+    "description": "A structured prompt for a photorealistic candid lifestyle photo of a woman in a lounge set, set in a modern bathroom with artistic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620059829_8koakx_HHJdykcawAAorUu.jpg",
+      "https://cms-assets.youmind.com/media/1777620059834_jfj79h_HHJdyk4b0AE5YUn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17230,
+    "content": "Ultra-realistic high-end fashion editorial photograph, cinematic outdoor spring/summer atmosphere. A young woman standing in a lush field of {argument name=\"flowers\" default=\"blooming blue hydrangeas\"}, surrounded by large round flower clusters at different heights, some very close to the lens creating a strong foreground frame. Pose: the woman is standing still in profile (side view), body facing sideways, arms relaxed naturally down. Head slightly raised, gaze directed forward into the distance (not at the camera), calm and serene expression. Camera angle: low-angle shot (from below), looking slightly upward, emphasizing height of flowers and subject. Composition: subject placed slightly off-center, framed by large hydrangea blooms in the foreground (top and sides), creating depth and immersion. Outfit: {argument name=\"dress\" default=\"voluminous white couture dress with textured fabric, oversized puff sleeves, structured silhouette\"}, elegant and minimal. Environment: dense hydrangea field with rich green leaves and soft blue blossoms, flowers at multiple depths. Background: {argument name=\"sky\" default=\"clear blue sky with soft natural light, minimal clouds\"}. Lighting: natural sunlight, soft but directional, gentle highlights and soft shadows, slightly backlit creating a subtle glow around hair and dress. Color palette: soft blue, white, green, airy natural tones, fresh and clean aesthetic. Depth of field: moderate, foreground flowers slightly blurred, subject in focus, background softly fading. Mood: calm, elegant, airy, high fashion editorial, slightly dreamy. Skin: natural, realistic texture, soft highlights. Quality: 8K, ultra-detailed, photorealistic, medium format camera, fashion editorial, no distortions, no artifacts.",
+    "title": "Summer fashion hydrangea field editorial",
+    "description": "A high-fashion editorial prompt featuring a woman in a white puff-sleeve dress standing in a lush field of blue hydrangeas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620042302_clfzkj_HHJJ6yzaEAAA_R0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17251,
+    "content": "A professional 3D-rendered advertisement for \"{argument name=\"brand name\" default=\"AM Cosmetics\"}.\" Centered in the frame is a giant, elegant {argument name=\"product style\" default=\"matte black eyebrow pencil with gold lettering\"}, standing vertically. Next to the pencil, a stylish miniature 3D stylized female character with short wavy blonde hair and a flowing cream-colored silk gown leans against the product. In the foreground, a detached spoolie brush cap lies on a rugged dark rock. The background features a soft-focus, cinematic mountain range under a clear blue sky with golden particles and bokeh lights floating in the air. High-end cosmetic photography style, soft studio lighting, hyper-realistic textures, 8k resolution, elegant and luxurious aesthetic.",
+    "title": "3D Rendered Eyebrow Pencil Advertisement",
+    "description": "A professional 3D-rendered cosmetic advertisement prompt featuring an elegant eyebrow pencil and a stylized miniature character against a mountain range.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620055708_iqpntu_HHI8Qq8WYAAZjOZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17223,
+    "content": "{\n  \"prompt_details\": {\n    \"core_subject\": \"Smiling South Asian woman with dark hair and gold jhumka earrings.\",\n    \"container\": {\n      \"type\": \"Clear glass soda bottle\",\n      \"label\": \"Green Sprite label with classic logo, text reads 'LEMON-LIME NATURAL FLAVORS'\",\n      \"contents\": \"Bubbly, glowing golden-orange liquid\",\n      \"surreal_element\": \"The woman's head and shoulders are magically enclosed inside the bottle's liquid.\"\n    },\n    \"environment\": {\n      \"setting\": \"Underwater ocean scene\",\n      \"background_color\": \"Vibrant, bright blue water\"\n    },\n    \"surrounding_elements\": [\n      \"Silver and black striped angelfish swimming around the bottle\",\n      \"Orange and white clownfish swimming around the bottle\"\n    ],\n    \"style_and_modifiers\": [\n      \"Surrealism\",\n      \"Hyper-realistic\",\n      \"Photorealistic\",\n      \"Cinematic lighting\",\n      \"Vibrant colors\",\n      \"8k resolution\",\n      \"Commercial advertising style\"\n    ]\n  },\n  \"generation_parameters\": {\n    \"aspect_ratio\": \"4:5\",\n    \"negative_prompt\": \"blurry, low quality, distorted text, ugly, badly drawn faces, murky water, realistic sprite liquid (must be orange)\"\n  }\n}",
+    "title": "Surreal Sprite Bottle Artwork",
+    "description": "A structured surrealist prompt depicting a woman enclosed in a Sprite bottle filled with golden liquid underwater.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620037093_guq0i9_HHI7Q1dboAAgJyM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17260,
+    "content": "A close-up, high-fashion portrait of a {argument name=\"subject\" default=\"woman with distinct features\"}, looking directly at the camera with {argument name=\"eye color\" default=\"striking green-grey eyes\"}. She has {argument name=\"hair style\" default=\"voluminous, wavy, golden-brown shoulder-length hair\"} and abundant freckles across her nose and cheeks. Her lips are painted with a {argument name=\"lipstick\" default=\"bold, matte red lipstick\"}. She is wearing an {argument name=\"outfit\" default=\"ornate, mustard-yellow lace blouse with a large bow tied at the neck\"}. The background is a solid, textured olive green. The lighting is strong, casting natural shadows that define her bone structure. The style is that of a professional magazine cover photograph, but with all typography removed. A thin dark border surrounds the composition.",
+    "title": "High-Fashion Magazine Cover Portrait",
+    "description": "A prompt for a close-up magazine-style portrait of a woman with freckles, featuring bold colors and professional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620062376_gqd0s6_HHIpRRBb0AEGU_J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17246,
+    "content": "Ultra-realistic surreal conceptual advertisement photo of a distressed {argument name=\"subject\" default=\"young woman\"} trapped inside a giant {argument name=\"brand\" default=\"Coca-Cola\"} soda bottle. The tall classic contour Coca-Cola PET plastic bottle stands upright in the center like a transparent prison. The bottle has authentic Coca-Cola branding: a recognizable Coca-Cola logo label with white cursive lettering on a bright red background, wrapped around the center of the bottle, with a red ridged cap.\n\nThe bottle plastic is semi-transparent with realistic PET material, subtle scratches, molded seams, condensation droplets, and embossed grip patterns. Strong optical refraction through the curved clear plastic distorts the view inside.\n\nInside the bottle, the man(uploaded pic) is crouched tightly with bent knees, partially submerged in dark caramel-colored carbonated cola with rising bubbles and sparkling effervescent streams. Tiny carbonation bubbles float upward around his body. The soda emits faint warm amber highlights with deep brown tones.\n\nHe wears a {argument name=\"clothing\" default=\"dark charcoal t-shirt\"} and black pants with natural wrinkles. His short messy hair is slightly damp from condensation. His expression shows anxiety and exhaustion, eyes wide with panic.\n\nHis palms press against the curved bottle wall, fingers splayed as if trying to escape. His face and hands appear warped and refracted through the clear plastic and cola liquid.\n\nCold cinematic studio lighting from the upper right creates sharp highlights on wet plastic, glowing reflections on the Coca-Cola label, deep red and amber shadows, and caustic light patterns through the fizzy liquid. Volumetric light reveals mist, floating particles, and carbonation trails.\n\nHyper-detailed skin texture, ultra-realistic plastic and liquid physics, shallow depth of field, ultra-sharp focus, dark moody studio background, high-end surreal beverage advertisement photography style, symbolic concept of refreshment turning into confinement, 4K quality, vertical composition.",
+    "title": "Surreal Coke Bottle Confinement Portrait",
+    "description": "A striking conceptual prompt that generates a surreal image of a person trapped inside a giant, hyper-realistic Coca-Cola bottle, featuring detailed liquid physics and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620051181_j6wecq_HHH_TDwa8AAo19i.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17248,
+    "content": "Create an ultra-realistic cinematic 4x4 grid collage ({argument name=\"grid size\" default=\"16 frames\"}) of the same beautiful young woman, each frame representing a different country’s traditional fashion reimagined as luxury high-fashion couture, including {argument name=\"featured country\" default=\"Nepal\"}.\n\nCountries: Japan, India, South Korea, France, Italy, Turkey, Egypt, China, Thailand, UK, USA, Spain, Saudi Arabia, Indonesia, Russia, and Nepal.\n\nKeep the same face in all frames with strong consistency, but vary poses and expressions (confident, elegant, editorial). Include a small flag in the top-right corner of each frame. Use culturally inspired backgrounds (temples, streets, mountains, palaces).\n\nStyle: ultra-realistic, 8K, cinematic lighting, Vogue editorial, soft depth of field, clean symmetrical grid, highly detailed, luxury aesthetic.\n\nImportant: same face consistency, no distortion, perfect alignment, balanced composition.",
+    "title": "Global High-Fashion Couture Collage",
+    "description": "A complex prompt for generating a 4x4 grid collage showing a consistent face styled in luxury traditional couture from 16 different countries.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620053457_4g6b91_HHH226xa4AAwB15.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17259,
+    "content": "{\n  \"subject_parameters\": {\n    \"identity\": \"female, consistent facial features from reference\",\n    \"expression\": \"natural smile, glowing skin, radiant beauty\",\n    \"physical_state\": \"visibly sweaty, post-workout sheen, athletic posture\",\n    \"attire\": {\n      \"top\": \"{argument name=\"clothing top\" default=\"grey heathered racerback crop top\"}\",\n      \"bottom\": \"{argument name=\"clothing bottom\" default=\"black high-waisted leggings\"}\",\n      \"footwear\": \"bright red athletic sneakers\"\n    }\n  },\n  \"environment_logic\": {\n    \"location\": \"{argument name=\"setting\" default=\"modern luxury gym interior\"}\",\n    \"lighting\": \"bright, overhead linear LED strips, natural window light\",\n    \"background_elements\": [\n      \"treadmills with blurred motion\",\n      \"weight racks and smith machines\",\n      \"reflective mirrors\",\n      \"wooden flooring\"\n    ]\n  },\n  \"foreground_objects\": {\n    \"table\": \"minimalist wooden coffee table\",\n    \"drinks\": [\n      \"glass of vibrant orange juice\",\n      \"protein shaker bottle with beige liquid\"\n    ]\n  },\n  \"technical_directives\": [\n    \"8k resolution\",\n    \"photorealistic\",\n    \"shallow depth of field\",\n    \"highly detailed skin texture\",\n    \"sharp focus on subject\",\n    \"hyper-realistic lighting\"\n  ]\n}",
+    "title": "Post-Workout Fitness Portrait",
+    "description": "A JSON-structured prompt for generating a photorealistic image of a female subject in a luxury gym environment after a workout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620060927_yhycjw_HHHQWyybUAAe8Ls.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17264,
+    "content": "High-fashion editorial advertisement for a luxury brand named \"LUXORA\". A {argument name=\"subject\" default=\"sophisticated woman with a sleek ponytail\"} poses elegantly while seated inside the frame of a {argument name=\"prop\" default=\"massive, oversized black tennis racket that serves as a chair\"}. She wears a {argument name=\"outfit\" default=\"floor-length, avant-garde velvet gown in deep navy blue with sharp, cream-colored pleated accents\"}. The background is a minimalist, high-gloss champagne gold studio with the word \"LUXORA\" embossed in large, metallic gold typography. In the foreground, a diamond-encrusted gold star brooch sits on the reflective floor. Lighting is soft, cinematic, and expensive-looking, emphasizing textures of velvet, carbon fiber, and polished gold. 8k resolution, photorealistic, Vogue aesthetic.",
+    "title": "Avant-Garde Luxury Editorial Advertisement",
+    "description": "A high-fashion advertisement prompt for a luxury brand, featuring surreal oversized props and specific fabric textures like velvet and carbon fiber.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620064483_lcze5z_HHHJ13uWQAAGzd5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17000,
     "content": "{\n  \"vibe_title_en\": \"Bark's Resistance\",\n  \"master_prompt\": \"A hyper-realistic, medium format surreal portrait of {argument name=\"subject\" default=\"The Protagonist\"}. The subject features incredible practical-effect prosthetic makeup: their skin is cracking open down the neck and torso like dry, rough birch bark, revealing raw, fibrous wood underneath. Autumn leaves are organically intertwined into their hair. The subject stares directly into the camera with an unwavering, fierce 'Warrior's Resolve' and confrontational energy. Shot 'Through the Element': the camera peers through out-of-focus, decaying autumn foliage in the extreme foreground, creating profound depth. The setting is a shattered, overgrown dark botanical greenhouse. Dramatic dual-color lighting: a piercing deep blue ambient moonlight clashes with an intense, striking crimson red rim light that highlights the physical weight and jagged edges of the bark prosthetics. Captured on a Hasselblad H6D-100c, 100mm f/1.8 lens. Analog texture, Cinestill 800T halation, visible skin pores blending flawlessly into wood grain, physical light refraction, profound cinematic tension. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Surreal high-fashion editorial\",\n    \"priorities\": \"Surreal practical effects, dual lighting, intense gaze, foreground framing\",\n    \"device_profile\": \"High-end cinematic photography\"\n  },\n  \"frame\": {\n    \"aspect\": \"3:4\",\n    \"composition\": \"Through the Element (foreground foliage), central subject alignment\",\n    \"layout\": \"Medium close-up portrait\",\n    \"camera_angle\": \"Eye-level, straight on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless surreal entity\",\n    \"face\": \"Fierce, direct eye contact, warrior's resolve\",\n    \"hair\": \"Interwoven with dry autumn leaves\",\n    \"body\": \"Skin cracking like birch bark, revealing fibrous wood inside the torso\",\n    \"expression\": \"Confrontational, defiant, unwavering\",\n    \"pose\": \"Standing firm, squaring shoulders to the lens\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Birch bark skin integration (prosthetic surrealism)\",\n        \"material\": \"Wood and human skin\",\n        \"color\": \"White, brown, dark fissures\",\n        \"fit\": \"Body-mod\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Autumn leaves crown\",\n        \"color\": \"Golden, rust orange\",\n        \"material\": \"Organic dried leaves\",\n        \"brand_style\": \"Avant-garde nature\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Shattered, overgrown botanical glasshouse\",\n    \"surfaces\": \"Cracked glass, creeping vines, dry earth\",\n    \"depth\": \"Shallow depth of field with heavy foreground occlusion\",\n    \"atmosphere\": \"Tense, cold ambient with harsh aggressive localized heat\",\n    \"lens_interaction\": \"Shooting through out-of-focus foreground leaves\"\n  },\n  \"lighting\": {\n    \"key\": \"Deep blue ambient (moonlight)\",\n    \"fill\": \"Soft cool shadow\"\n}",
     "title": "Surreal Birch Bark Portrait Prompt",

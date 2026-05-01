@@ -1,5 +1,40 @@
 [
   {
+    "id": 17235,
+    "content": "Do not change facial features. Photorealistic first-person view inside a {argument name=\"location\" default=\"bright subway car\"}. In hand is a {argument name=\"drawing tool\" default=\"spiral sketchbook with a pencil\"}. On the sketchbook page is a {argument name=\"sketch style\" default=\"black-and-white portrait sketch\"} of the exact same person, where the only colored element is their clothing. Sitting opposite is this same person looking at a phone. Outside the window is a green landscape. On both sides, other passengers are partially visible, unblurred. Soft natural daylight, shallow depth of field, cinematic atmosphere. Hyperrealistic skin, detailed facial textures, natural expression. 8K photorealism quality. Aspect ratio 9:16.",
+    "title": "Subway artist sketching perspective",
+    "description": "A first-person perspective prompt for generating a scene of an artist sketching a passenger in a subway car.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620043515_o2p3pz_HHLHqz_asAAYqw6.jpg",
+      "https://cms-assets.youmind.com/media/1777620043472_qfbgae_HHLHq0JbsAAvGva.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17233,
+    "content": "ultra realistic photo, young woman with {argument name=\"subject appearance\" default=\"pale skin and long black hair\"}, same face as reference, emotionless expression, slightly tired eyes, standing with hands behind her back as if handcuffed, relaxed posture, slight head tilt, confident “I regret nothing” attitude\n\n{argument name=\"location\" default=\"luxury modern apartment at night, panoramic windows with city lights, expensive minimalistic interior\"}, cinematic atmosphere\n\nlarge wooden table in front of her covered with:\nhuge stacks of {argument name=\"currency\" default=\"US dollars and euro banknotes\"}, slightly messy but mostly organized,\nblack duffel bag filled with cash, partially open,\nmultiple smartphones (latest models),\n2-3 laptops (MacBook style),\nmany bank cards spread in rows across the table\n\nbehind and around her:\ntactical officers in black uniforms (special forces style), faces covered, actively searching the apartment,\nsome opening шкафы and shelves,\nsome walking in the background,\none officer standing near the table pointing at the money\n\ncinematic lighting, soft cold light from windows mixed with warm interior light, realistic shadows, reflections on table\n\nmedium shot, slightly low angle, focus on the girl, shallow depth of field, background slightly blurred\n\ndark luxury, tension, realistic raid scene, controlled chaos.",
+    "title": "Cinematic police raid scene",
+    "description": "A complex image prompt depicting a realistic scene of a woman being arrested in a luxury apartment surrounded by cash and special forces officers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620043922_sr9jmd_HHKWo8SaoAEC2b5.jpg",
+      "https://cms-assets.youmind.com/media/1777620043867_3l2k81_HHKWo8YboAEdGCI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17232,
+    "content": "Rotoscoping style illustration of a {argument name=\"subject\" default=\"real person\"} based on the reference image, preserving exact facial features, pose, and expression, clean hand-drawn outlines, smooth vector-like shading, semi-realistic proportions, subtle color gradients, minimal but accurate background, cinematic lighting, high detail, crisp edges, animation frame aesthetic, inspired by {argument name=\"animation style\" default=\"classic rotoscope animation techniques\"}, 4k quality, sharp focus",
+    "title": "Rotoscoping animation style conversion",
+    "description": "A prompt to transform a reference person into a rotoscoping style illustration with hand-drawn outlines and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620042121_8qa0nm_HHKI-Zka0AIMRYC.jpg",
+      "https://cms-assets.youmind.com/media/1777620042108_oshvm9_HHKI-oHa0AABUZm.jpg",
+      "https://cms-assets.youmind.com/media/1777620042146_oqh777_HHKI-1LaQAAD3qN.jpg",
+      "https://cms-assets.youmind.com/media/1777620042777_hdrc05_HHKI_CDbMAAyWpl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16967,
     "content": "\"{argument name=\"subject\" default=\"Boy and dragon\"} become friend, {argument name=\"style\" default=\"american comic multi-panel illustration\"}, diagonal layout, {argument name=\"panel count\" default=\"six panels\"}, cinematic storytelling, clear reading flow, with speech bubbles.\"",
     "title": "Multi-Panel Comic Illustration",

@@ -20,6 +20,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 17249,
+    "content": "An elegant, high-end advertisement for \"{argument name=\"brand name\" default=\"AM Cosmetics\"}\" showcases a colossal, {argument name=\"lipstick color\" default=\"rose-pink\"} lipstick as the centerpiece of a palatial, silver-toned ballroom. The lipstick tube is encrusted with brilliant, shimmering diamonds on its base and sits atop a plush, circular velvet ottoman. A woman in a sparkling, floor-length silver evening gown leans gracefully against the oversized cosmetic, holding a standard-sized version of the same lipstick.\n​The background exudes regal opulence, featuring towering marble arches, draped {argument name=\"curtain color\" default=\"lilac\"} silk curtains, and massive crystal chandeliers that bathe the room in a soft, ethereal light. In the distance, several figures in formal attire and suits of armor stand as silent guardians of the hall, adding to the theme of royal sophistication. The text at the top reads \"AM COSMETICS Est. 2024,\" while the bottom features the elegant script: \"Elevate your beauty. The Diamond Collection.\" The overall atmosphere is one of surreal luxury and timeless glamour.",
+    "title": "Surreal Cosmetic Ballroom Advertisement",
+    "description": "A luxurious surreal advertisement prompt for cosmetics, featuring a giant lipstick in a regal diamond-encrusted ballroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620053792_9gse50_HHKJxsEXMAA3ul-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17230,
+    "content": "Ultra-realistic high-end fashion editorial photograph, cinematic outdoor spring/summer atmosphere. A young woman standing in a lush field of {argument name=\"flowers\" default=\"blooming blue hydrangeas\"}, surrounded by large round flower clusters at different heights, some very close to the lens creating a strong foreground frame. Pose: the woman is standing still in profile (side view), body facing sideways, arms relaxed naturally down. Head slightly raised, gaze directed forward into the distance (not at the camera), calm and serene expression. Camera angle: low-angle shot (from below), looking slightly upward, emphasizing height of flowers and subject. Composition: subject placed slightly off-center, framed by large hydrangea blooms in the foreground (top and sides), creating depth and immersion. Outfit: {argument name=\"dress\" default=\"voluminous white couture dress with textured fabric, oversized puff sleeves, structured silhouette\"}, elegant and minimal. Environment: dense hydrangea field with rich green leaves and soft blue blossoms, flowers at multiple depths. Background: {argument name=\"sky\" default=\"clear blue sky with soft natural light, minimal clouds\"}. Lighting: natural sunlight, soft but directional, gentle highlights and soft shadows, slightly backlit creating a subtle glow around hair and dress. Color palette: soft blue, white, green, airy natural tones, fresh and clean aesthetic. Depth of field: moderate, foreground flowers slightly blurred, subject in focus, background softly fading. Mood: calm, elegant, airy, high fashion editorial, slightly dreamy. Skin: natural, realistic texture, soft highlights. Quality: 8K, ultra-detailed, photorealistic, medium format camera, fashion editorial, no distortions, no artifacts.",
+    "title": "Summer fashion hydrangea field editorial",
+    "description": "A high-fashion editorial prompt featuring a woman in a white puff-sleeve dress standing in a lush field of blue hydrangeas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620042302_clfzkj_HHJJ6yzaEAAA_R0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17260,
+    "content": "A close-up, high-fashion portrait of a {argument name=\"subject\" default=\"woman with distinct features\"}, looking directly at the camera with {argument name=\"eye color\" default=\"striking green-grey eyes\"}. She has {argument name=\"hair style\" default=\"voluminous, wavy, golden-brown shoulder-length hair\"} and abundant freckles across her nose and cheeks. Her lips are painted with a {argument name=\"lipstick\" default=\"bold, matte red lipstick\"}. She is wearing an {argument name=\"outfit\" default=\"ornate, mustard-yellow lace blouse with a large bow tied at the neck\"}. The background is a solid, textured olive green. The lighting is strong, casting natural shadows that define her bone structure. The style is that of a professional magazine cover photograph, but with all typography removed. A thin dark border surrounds the composition.",
+    "title": "High-Fashion Magazine Cover Portrait",
+    "description": "A prompt for a close-up magazine-style portrait of a woman with freckles, featuring bold colors and professional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620062376_gqd0s6_HHIpRRBb0AEGU_J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17264,
+    "content": "High-fashion editorial advertisement for a luxury brand named \"LUXORA\". A {argument name=\"subject\" default=\"sophisticated woman with a sleek ponytail\"} poses elegantly while seated inside the frame of a {argument name=\"prop\" default=\"massive, oversized black tennis racket that serves as a chair\"}. She wears a {argument name=\"outfit\" default=\"floor-length, avant-garde velvet gown in deep navy blue with sharp, cream-colored pleated accents\"}. The background is a minimalist, high-gloss champagne gold studio with the word \"LUXORA\" embossed in large, metallic gold typography. In the foreground, a diamond-encrusted gold star brooch sits on the reflective floor. Lighting is soft, cinematic, and expensive-looking, emphasizing textures of velvet, carbon fiber, and polished gold. 8k resolution, photorealistic, Vogue aesthetic.",
+    "title": "Avant-Garde Luxury Editorial Advertisement",
+    "description": "A high-fashion advertisement prompt for a luxury brand, featuring surreal oversized props and specific fabric textures like velvet and carbon fiber.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777620064483_lcze5z_HHHJ13uWQAAGzd5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16966,
     "content": "A cinematic, high-energy digital art piece in a {argument name=\"color palette\" default=\"monochromatic crimson red color palette\"}. Centered is a {argument name=\"subject\" default=\"young male model\"} with a sharp, intense expression, wearing a stylish, oversized red streetwear outfit including a cropped jacket and cargo pants with long, flowing fabric ribbons caught in motion. He is surrounded by multiple floating, translucent UI screens displaying the interface of an X (formerly Twitter) profile. The screens feature the handle \"{argument name=\"handle\" default=\"@OzairAI\"},\" a verified blue checkmark, profile bio text about AI influencing, and a feed of posts showing \"PROMPT\" art thumbnails. In the background, a large neon glowing X logo sits on a wall with dark, metallic circuit-board textures. The ground is a red industrial metal grate. The lighting is dramatic, with high contrast, glowing red neon accents, and a shallow depth of field with blurred UI elements in the foreground. High-resolution, 8k, futuristic tech-wear aesthetic.",
     "title": "Crimson Tech-wear Aesthetic Portrait",

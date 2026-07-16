@@ -102,11 +102,11 @@ Then use the `slug` and `title` fields to match user intent to the right file.
 | `social-media-post.json` | Social Media Post | 9241 |
 | `infographic-edu-visual.json` | Infographic / Edu Visual | 586 |
 | `youtube-thumbnail.json` | YouTube Thumbnail | 215 |
-| `comic-storyboard.json` | Comic / Storyboard | 610 |
-| `product-marketing.json` | Product Marketing | 5415 |
+| `comic-storyboard.json` | Comic / Storyboard | 611 |
+| `product-marketing.json` | Product Marketing | 5416 |
 | `ecommerce-main-image.json` | E-commerce Main Image | 550 |
 | `game-asset.json` | Game Asset | 668 |
-| `poster-flyer.json` | Poster / Flyer | 898 |
+| `poster-flyer.json` | Poster / Flyer | 899 |
 | `app-web-design.json` | App / Web Design | 223 |
 | `others.json` | Uncategorized | 1081 |
 

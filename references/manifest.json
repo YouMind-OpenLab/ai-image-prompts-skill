@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T01:28:12.137Z",
-  "totalPrompts": 14802,
+  "updatedAt": "2026-07-16T14:00:54.152Z",
+  "totalPrompts": 14804,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -30,13 +30,13 @@
       "slug": "comic-storyboard",
       "title": "Comic / Storyboard",
       "file": "comic-storyboard.json",
-      "count": 610
+      "count": 611
     },
     {
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5415
+      "count": 5416
     },
     {
       "slug": "ecommerce-main-image",
@@ -54,7 +54,7 @@
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 898
+      "count": 899
     },
     {
       "slug": "app-web-design",

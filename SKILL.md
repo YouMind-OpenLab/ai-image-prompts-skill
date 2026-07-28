@@ -98,12 +98,12 @@ Then use the `slug` and `title` fields to match user intent to the right file.
 
 | File | Category | Count |
 |------|----------|-------|
-| `profile-avatar.json` | Profile / Avatar | 1896 |
-| `social-media-post.json` | Social Media Post | 9341 |
+| `profile-avatar.json` | Profile / Avatar | 1906 |
+| `social-media-post.json` | Social Media Post | 9352 |
 | `infographic-edu-visual.json` | Infographic / Edu Visual | 588 |
 | `youtube-thumbnail.json` | YouTube Thumbnail | 215 |
 | `comic-storyboard.json` | Comic / Storyboard | 628 |
-| `product-marketing.json` | Product Marketing | 5465 |
+| `product-marketing.json` | Product Marketing | 5474 |
 | `ecommerce-main-image.json` | E-commerce Main Image | 555 |
 | `game-asset.json` | Game Asset | 679 |
 | `poster-flyer.json` | Poster / Flyer | 926 |

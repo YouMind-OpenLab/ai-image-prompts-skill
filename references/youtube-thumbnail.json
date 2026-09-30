@@ -1,13 +1,14 @@
 [
   {
-    "id": 35617,
-    "content": "Create an ultra-photorealistic 4K cinematic full-body scene of the same woman from the reference image, sitting naturally on an elegant railway station chair while waiting for her train in heavy rain.\n\nPreserve her exact reference face and identity. She looks naturally toward the camera with a calm, elegant expression.\n\nShow her entire body from head to toe, with both shoes completely visible. Place her full leather suitcase beside the chair, including wheels and handle. A normal-sized black umbrella rests naturally beside the chair.\n\nLuxury camel trench coat, black trousers, polished black ankle boots, subtle gold jewelry, and elegant handbag.\n\nHeavy rain is visible through the large station windows, with wet railway tracks, puddles, mist, reflections, and an approaching train in the background. Premium luxury railway-station architecture with warm golden lighting and polished marble floor\n\nWide full-body composition, eye-level camera, 45–50mm lens, natural proportions, sharp face, detailed clothing and leather, realistic rain, cinematic depth of field.\n\nQuality: 4K UHD, photorealistic live-action, HDR, realistic skin pores, natural hair, cinematic lighting, premium color grading, subtle film grain.\n\nNegative prompt: cropped feet, cropped shoes, cropped suitcase, oversized umbrella, distorted hands, extra fingers, face drift, different identity, plastic skin, cartoon, anime, CGI, 3D render, unrealistic rain, blurry face, low resolution, unwanted text, extra logos, watermark.",
-    "title": "Rainy Station Full Body Portrait",
-    "description": "A prompt for Nano Banana Pro to generate a cinematic full-body scene of a woman waiting at a railway station in heavy rain, preserving reference identity.",
+    "id": 35664,
+    "content": "Raw archival black and white photograph from a 1923 Antarctic expedition, grain, scratches, flash illumination. Weary explorers bundled in vintage heavy winter coats staring in shock at a massive, intricate glowing metallic monolith partially frozen inside a sheer ice cavern, photorealistic, historical documentary photography, hyper-detailed textures.",
+    "title": "Antarctic Expedition Historical Realism Comparison",
+    "description": "A comparison between Nano Banana Pro and Flux 2 Pro using a historical realism prompt. The prompt is explicitly shared in the tweet text.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790663666484_erocbu_HTT7pQAbAAAWE68.jpg"
+      "https://cms-assets.youmind.com/media/1790750134770_06nj5i_HTY2GKfX0AEWI56.jpg",
+      "https://cms-assets.youmind.com/media/1790750134767_oifjv1_HTY2GK-WUAAJIWR.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 35313,

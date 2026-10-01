@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 35748,
+    "content": "A beautiful young South Asian woman taking a confident selfie in front of a large glowing arched mirror. She has long, voluminous wavy brown hair with golden highlights, fair skin, and a radiant smile showing her teeth. She is wearing stylish gold-framed aviator sunglasses.\nShe is dressed in an elegant white traditional Pakistani/Indian kurta with delicate pink floral embroidery and patterns, paired with a sheer pink floral dupatta gracefully draped around her neck and shoulders. Her right hand is giving a cheerful thumbs-up, while her left hand holds a white iPhone 13/14 Pro. She is wearing a black smartwatch on her left wrist.\nThe background features a modern minimalist interior with a large illuminated warm golden archway creating a soft, dreamy glow around her. Bright, cinematic lighting, highly detailed, realistic skin texture, sharp focus, elegant and vibrant color palette, professional photography style, 8k quality.",
+    "title": "South Asian Selfie Mirror Prompt",
+    "description": "A detailed prompt for generating a selfie of a South Asian woman in traditional attire in front of a glowing arched mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790836515897_176p7g_HTgTEoOW4AAUHrD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35744,
+    "content": "A highly detailed, photorealistic portrait of a beautiful South Asian woman with long, voluminous wavy brown hair. She is looking downward with a gentle, serene smile. With both hands, she is elegantly lifting a sheer, deep magenta dupatta (veil) over her head. The veil features delicate pearl embellishments along its border and scattered across the fabric. She is wearing a rich, dark burgundy velvet kurta decorated with ornate gold floral button closures down the center front. Her traditional jewelry includes large gold jhumka earrings and multiple stacked gold and pearl bangles on both wrists. She has soft, flawless glamour makeup with subtle eyeliner and peachy-pink lips. The background is a dreamy, soft-focus warm bokeh created by glowing festive fairy lights. Cinematic lighting, romantic atmosphere, hyper-realistic, 8k resolution, masterpiece. keep original face and hairstyle 100% reference",
+    "title": "South Asian Woman Portrait Prompt",
+    "description": "A detailed prompt for generating a photorealistic portrait of a South Asian woman lifting a magenta dupatta, suitable for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790836513512_8cn0zw_HTejU-ybYAAEcty.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35670,
     "content": "Photorealistic professional 8K photograph of a 20-year-old athletic Korean woman with a feminine figure. Fit, toned, and defined but not overly muscular or masculine. High ponytail. Tennis visor-style headband with no crown, sitting on her forehead like a clip. Fitted black skinny t-shirt ending at the navel, natural abs visible. She pulls the hem of the t-shirt slightly upward with one fingertip to reveal her abs. Other arm slightly away from the body, outward, clenched fist hanging down, arm flexed with visible veins. Slight S-curve standing pose, head tilted slightly forward. Black modern breathable athletic tights with perforated panels. Gym interior, slightly blurred background. Cinematic dramatic lighting, professional photoshoot, slightly sweaty realistic skin, masterpiece, protagonist presence, ultra-realistic details, natural feminine proportions.",
     "title": "Athletic Korean Woman Tennis Pose",
@@ -26,9 +46,9 @@
     "id": 35668,
     "content": "A young American woman, wearing a swimsuit, is taking photos on the beach. Request high-quality photo-style shooting",
     "title": "Simple Beach Photo Prompt",
-    "description": "A simple prompt for generating a high-quality photo-style image of a woman taking photos on the beach.",
+    "description": "A very simple prompt for generating a high-quality photo of a young American woman taking photos on the beach.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790750136995_l0y8bl_HTb0m9SbwAA-Vft.jpg"
+      "https://cms-assets.youmind.com/media/1790836515827_nw2xzh_HTb0m9SbwAA-Vft.jpg"
     ],
     "needReferenceImages": false
   },

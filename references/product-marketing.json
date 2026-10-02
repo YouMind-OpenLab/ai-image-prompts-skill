@@ -21,6 +21,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 35800,
+    "content": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers.Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.",
+    "title": "Editorial Fashion Portrait in Boutique",
+    "description": "A prompt for generating a photorealistic editorial fashion photograph of a woman in an upscale boutique, featuring specific clothing details and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790922802947_5rwoxb_HTmmzRYbAAA0cV-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35747,
     "content": "Create a photorealistic cinematic nighttime bedroom scene featuring an adult woman peacefully reading an open hardcover novel while sitting comfortably on a luxurious bed. She has delicate natural facial features, realistic skin texture, subtle makeup, and blonde hair styled in a relaxed messy low bun with a few soft strands framing her face.\n\nShe is wearing elegant champagne-cream satin pajamas with a classic notched collar, black piping, long sleeves, and subtle buttons. Her posture is relaxed and natural as she looks down at the book with a calm, gentle expression.\n\nThe bedroom feels warm, sophisticated, and cozy: plush cream bedding, oversized pillows, a soft upholstered beige headboard, elegant framed artwork, and a warm bedside lamp casting soft golden light. Beside her, a fluffy white cat is peacefully sleeping on the bed.\n\nThrough the large window, a deep blue night sky, glowing full moon, and subtle distant city lights are visible. Add a small bedside table with a delicate cup of tea and a vase of fresh white flowers.\n\nLighting: warm cinematic bedside lighting mixed with cool moonlight from the window, soft shadows, natural highlights, realistic skin tones, cozy evening atmosphere.\n\nPhotography: photorealistic, luxury lifestyle editorial photography, 50mm lens, shallow depth of field, natural bokeh, soft film grain, realistic fabric textures, detailed hair strands, authentic skin pores, balanced exposure, cinematic composition, highly detailed, 8K.\n\nNegative prompt: CGI, cartoon, illustration, plastic skin, excessive makeup, distorted hands, extra fingers, deformed face, blurry details, artificial lighting, oversaturated colors, text, subtitles, logo, watermark.",
     "title": "Nighttime Bedroom Reading Scene",

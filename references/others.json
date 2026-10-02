@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 35802,
+    "content": "Generate a sophisticated, typography on black background with white lettering. It should say \"{argument name=\"text\" default=\"Beauty and the Beach\"}\" . Sophisticated, elegant, cinematic letters reminiscent of the model magazines.",
+    "title": "Elegant Typography on Black Background",
+    "description": "A prompt for Nano Banana Pro to generate sophisticated white typography reading 'Beauty and the Beach' on a black background, styled like elegant model magazines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790922804509_ap4wzw_HTjHNqQXgAAtI1G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34665,
     "content": "Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones (ochre, sienna, umber), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!",
     "title": "Senior Junior Oil Painting Prompt",

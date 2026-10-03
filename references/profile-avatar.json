@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 35847,
+    "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent.\nFace: keep the exact same person as the reference picture. Format:\nfeaturing a young South Asian man with green eyes and a well-groomed beard. In the foreground, he is shown full-body, dressed in a {argument name=\"suit color\" default=\"green\"} linen casual suit, leaning casually against a stone ledge, with a gold necklace and a watch. His eyes are {argument name=\"eye color\" default=\"green\"}. Overlaid in the background is a large, close-up portrait of his face, with his striking {argument name=\"eye color\" default=\"green\"} eyes as a focus. The entire composition has a dreamlike, brushstroke texture, set against a backdrop of a blurred mountain valley at dusk, creating an artistic and nostalgic atmosphere.",
+    "title": "Dreamlike Portrait Composition Prompt",
+    "description": "A prompt for creating a dreamlike, brushstroke-textured portrait composition featuring a young South Asian man in a green suit, combining full-body and close-up elements against a mountain backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791009136635_2eiqd7_HTq-v_absAA_fS_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35846,
+    "content": "Create a photorealistic high-quality lifestyle portrait of a beautiful young adult woman relaxing on a soft neutral sofa in a cozy modern home. She has long, naturally wavy dark-brown hair, warm fair-to-light olive skin, expressive brown eyes, soft natural makeup, subtle rosy cheeks, and a gentle confident smile. She rests her cheek naturally on one hand while looking directly into the camera.\n\nShe wears an oversized cream-white textured knit sweater, light-wash relaxed-fit jeans, delicate small gold earrings, and a thin gold necklace with a tiny pendant. Natural elegant styling, minimal accessories.\n\nWarm late-afternoon sunlight enters from the side, creating soft highlights on her hair and natural skin texture. Background includes a beige sofa, neutral walls, a small vase of white flowers, books, cushions, and a dark doorway, all softly blurred with shallow depth of field.\n\nPhotography: realistic DSLR photography, 50mm lens, f/1.8, soft natural window light, subtle cinematic tones, realistic skin pores, detailed hair strands, natural fabric texture, realistic proportions, gentle shadows, professional lifestyle editorial photography, authentic candid feeling, high dynamic range, sharp eyes, 4K detail.\n\nNegative prompt: plastic skin, excessive retouching, artificial face, distorted hands, extra fingers, deformed anatomy, blurry eyes, CGI, cartoon, illustration, oversaturated colors, text, logo, watermark.",
+    "title": "Cozy Home Lifestyle Portrait",
+    "description": "Generates a photorealistic lifestyle portrait of a woman relaxing on a sofa with warm sunlight, suitable for personal branding or stock imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791009134382_gd6asb_HTog6qDbcAA-QGA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35748,
     "content": "A beautiful young South Asian woman taking a confident selfie in front of a large glowing arched mirror. She has long, voluminous wavy brown hair with golden highlights, fair skin, and a radiant smile showing her teeth. She is wearing stylish gold-framed aviator sunglasses.\nShe is dressed in an elegant white traditional Pakistani/Indian kurta with delicate pink floral embroidery and patterns, paired with a sheer pink floral dupatta gracefully draped around her neck and shoulders. Her right hand is giving a cheerful thumbs-up, while her left hand holds a white iPhone 13/14 Pro. She is wearing a black smartwatch on her left wrist.\nThe background features a modern minimalist interior with a large illuminated warm golden archway creating a soft, dreamy glow around her. Bright, cinematic lighting, highly detailed, realistic skin texture, sharp focus, elegant and vibrant color palette, professional photography style, 8k quality.",
     "title": "South Asian Woman Selfie Prompt",

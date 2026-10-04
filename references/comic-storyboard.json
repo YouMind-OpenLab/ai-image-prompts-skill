@@ -6967,16 +6967,6 @@
     "needReferenceImages": false
   },
   {
-    "id": 31356,
-    "content": "A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A {argument name=\"character\" default=\"fairy\"} in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a {argument name=\"modern item\" default=\"circular black robotic vacuum cleaner\"}",
-    "title": "Fairy on Robotic Vacuum Ink Painting",
-    "description": "A unique Gongbi-style ink painting prompt featuring a Tang Dynasty fairy standing on a modern robotic vacuum cleaner.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690137801_5ti1th_G6aa9VgWcAAklY6.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 518,
     "content": "Please create a detailed character design sheet of the person in this photo. It will be used in a live-action movie, so be careful not to make it look like anime-style artwork. Be sure to structure it with the following three character elements:\n - A turnaround (three-view) sheet showing the character from multiple angles\n - An expression sheet showing basic emotional states such as joy, sadness, anger, surprise, fear, and neutral\n - A pose sheet showing typical actions, such as the character running, jumping, laughing, and crying\n\nOnce it is created, remove the original image of the person.",
     "title": "Realistic character design sheet from a photo",

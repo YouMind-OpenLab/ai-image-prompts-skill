@@ -41,6 +41,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 36257,
+    "content": "Japan Osaka JR station, random secret scene, white bride's gown, standing on an upward escalator staircase, spread arms, both hands on both handrails, leaning forward, gazing away from camera, messy low updo, sharp focus on subject, background bokeh, extreme close up, dutch angle",
+    "title": "Escalator Dreaming Bride in Osaka Station",
+    "description": "Generates a cinematic portrait of a bride on an escalator in a Japanese train station with specific camera angles and lighting effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791700277564_wahg4h_HUSvm9zasAA-V6r.jpg",
+      "https://cms-assets.youmind.com/media/1791700276083_cn3es3_HUSvm9xbgAADKq9.jpg",
+      "https://cms-assets.youmind.com/media/1791700277609_b8ultp_HUSvp4TbMAEm9me.jpg",
+      "https://cms-assets.youmind.com/media/1791700277276_fynygu_HUSvr_MbQAApSrR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36256,
+    "content": "Use the uploaded reference image as the exact face and identity reference. Preserve 100% facial identity, including face shape, eyes, eyebrows, nose, lips, smile, skin tone, and natural facial proportions. Do not recreate or replace the face. Keep the same person recognizable with zero identity drift.\n\nCreate an ultra-realistic portrait of the same woman wearing a dusty blush-pink satin dress with delicate floral lace, a pearl necklace, and matching pearl drop earrings. Her chestnut-brown curly hair is styled in a soft, romantic updo with loose curls framing her face. She sits elegantly beside a tall vintage window with sheer white curtains, surrounded by beautiful pink roses on an antique ivory table and windowsill.\n\nSoft natural sunlight illuminates her face, showing realistic skin texture, natural pores, and lifelike details. Gentle smile, direct eye contact, relaxed hands resting on her lap, luxurious satin reflections, intricate lace textures, warm beige interior, shallow depth of field, professional 85mm portrait photography, cinematic golden light, photorealistic 4K quality, vertical 4:5 composition.\n\nNegative prompt: Different face, identity change, altered facial features, skin tone change, artificial skin, beauty filter, excessive retouching, distorted hands, extra fingers, blurry face, CGI, cartoon, watermark, text.",
+    "title": "Identity-Preserving Satin Dress Portrait",
+    "description": "Creates an ultra-realistic portrait using an uploaded reference image, preserving facial identity while changing attire to a pink satin dress in a vintage window setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791700277406_ma7l85_HURf1HbbQAEvhGL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36255,
+    "content": "Whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style.",
+    "title": "Rainforest Wildlife Observation Station Miniature World",
+    "description": "A whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style, generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791700277632_w8cy78_HURL40sboAEcPGw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36158,
     "content": "Create an ultra-photorealistic, cinematic vertical 9:16 travel portrait of a beautiful adult South Asian Indian woman in her early twenties, crouching gracefully beside the crystal-clear turquoise waters of a picturesque Greek island harbor reminiscent of Paros or Mykonos.\nShe has fair ivory-beige skin with warm-neutral undertones, a softly elongated oval face, delicate cheekbones, a slender tapered jawline, expressive dark-brown almond eyes, naturally defined eyebrows, a straight delicate nose, and softly rosy full lips. Her features are distinctly Indian, naturally feminine, and elegant, with minimal makeup and realistic luminous skin texture. She has a slender, graceful figure with narrow shoulders, a long neck, and a naturally defined waist.\nHer dark black hair is arranged in a voluminous, loosely braided curly updo with romantic tendrils framing her face. Delicate silver hair chains decorate her crown, while sunlight creates subtle warm highlights in her curls.\nShe wears a delicate white floral crochet lace dress with a relaxed off-shoulder neckline, visible camisole strap, and loose three-quarter sleeves with scalloped edges. An oversized blue-and-white Mediterranean shawl featuring intricate cobalt floral patterns, embroidered borders, and blue tassels drapes across her shoulders and flows dramatically onto the ancient stone walkway. She is barefoot.\nCaptured from a slightly elevated three-quarter rear-side perspective, she crouches naturally at the harbor's edge, knees bent close to her body, gazing peacefully downward at the sea. Her delicate side profile is visible. One arm rests near her knees while the other extends gracefully toward the water, fingertips lightly touching the surface and creating gentle concentric ripples. Her expression is dreamy, contemplative, and serene.\nThe ancient limestone promenade extends diagonally into the background, lined with charming whitewashed Greek buildings, cobalt-blue doors and balconies, pink bougainvillea, terracotta flowerpots, waterfront cafés with white parasols, and small fishing boats moored along the harbor. A sunlit rocky hillside rises behind the village.\nThe right half of the composition features exceptionally transparent Mediterranean seawater transitioning from deep sapphire blue to brilliant turquoise, aquamarine, and pale sea-green. Submerged rocks and the sandy seabed are clearly visible beneath the surface, illuminated by realistic underwater sunlight patterns and delicate shimmering reflections.\nBright, warm Mediterranean afternoon sunlight illuminates her skin, curly hair, intricate lace dress, and flowing shawl. Natural shadows, realistic fabric textures, weathered limestone, sparkling water, and vivid yet believable colors create a romantic, nostalgic summer atmosphere.\nShot with a professional 35mm editorial travel-photography perspective, realistic lighting.",
     "title": "Greek Island Travel Portrait Comparison",

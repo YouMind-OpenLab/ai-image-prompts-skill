@@ -41,6 +41,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 36315,
+    "content": "Retro Hong Kong cha chaan teng portrait, 90s Hong Kong film still aesthetic, candid documentary vibe.\n\nSubject: 25-year-old East Asian female, oval face, thin eyebrows, dark eyes; fair skin with fine pores and natural texture, no plastic smoothing; light makeup, reddish lips. Long black hair draped over shoulders, slightly curled at ends, a few loose strands framing the face.\n\nExpression: Gaze falling off-camera to the left, lazy and relaxed demeanor, a faint smile on the corner of the mouth, as if caught daydreaming in the afternoon.\n\nClothing: Cream-white pure cotton short-sleeved shirt, collar open by one button; dark brown high-waisted corduroy wide-leg pants; black thin belt; pearl earrings. Clean and neat outfit, vintage feel hidden in details.\n\nPose/Action: Sitting in a window booth of the cha chaan teng, body slightly turned towards the window, one elbow resting on the table, fingers lightly holding a steaming silk stocking milk tea, the other hand casually supporting the chin. Relaxed sitting posture, not stiff.\n\nProps: On the table are pineapple bun, shrimp dumplings in bamboo steamer, metal milk tea cup, menu board, wooden chopstick holder.\n\nEnvironment: Foreground is slightly blurred milk tea cup and steamer; mid-ground is the subject and booth table; background is the interior of the cha chaan teng — green mosaic tile walls, red neon sign \"Cha Chaan Teng\", old-fashioned ceiling fan, egg tarts and pastries in glass cabinet; distant diners are soft blurs.\n\nLighting: Indoor warm yellow pendant lights as key light, color temperature approx 3200K, wrapped in a thin layer of oil smoke mist; cold daylight from cloudy sky outside the window as rim light, contrasting warm and cool tones. Soft highlights reflections on glass cabinets and tiles.\n\nCamera: 50mm prime lens, f/2.0, half-body shot, camera position slightly lower than eye level, shallow depth of field, subject clear, foreground/background naturally blurred, slightly handheld casual framing, film grain, Kodak Gold film simulation, Eastmancolor palette.\n\nMood: Nostalgic, slow-paced afternoon laziness, like a frozen frame from an old Hong Kong movie.\n\nQuality tags: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.\n\nNegative constraints: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.",
+    "title": "Retro Hong Kong Cha Chaan Teng Portrait Prompt",
+    "description": "A detailed prompt for generating a photorealistic image of a woman in a retro Hong Kong tea restaurant, capturing the 90s film aesthetic with specific lighting, camera settings, and negative constraints.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791787584694_3kaa7s_HUY1Uu-agAAlRrb.jpg",
+      "https://cms-assets.youmind.com/media/1791787584656_028kwj_HUY1XXxaEAAxTgm.jpg",
+      "https://cms-assets.youmind.com/media/1791787584618_jc2di5_HUY1Z0oaUAAPK9H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36316,
+    "content": "Without changing the appearance of the woman from the photo (exact facial identity), a large 4/5 studio portrait in 8K, a night shot with flash.\n\nThe woman is sitting on a transparent fashionable chair (part of the backrest is visible), turned in a three-quarter view. Hands are clasped in front of her face, chin resting on her hands. Confident gaze, eyebrows slightly raised, lips slightly parted.\n\nClothing: Loose strict white shirt with long slightly tousled sleeves, the bottom is tied in a knot at the waist, black tie. Hair is light, long, thick, with a mirror shine. Makeup is light: eyeliner, fox lashes, “dusty rose” lips with a clear contour.\n\nLighting at an angle + flash: Sculptural shadows, expressive chiaroscuro. Background is neutral, evenly lit. Coarse film grain, RAW feel, natural skin texture (pores, peach fuzz on the cheeks, capillaries around the eyes), super-detailed iris, SSS/Tyndall effect.\n\nCamera: Fujifilm GFX 100, 100mm, controlled grip.\nTake the setting/set completely from the second attached photo.",
+    "title": "Studio portrait identity preservation",
+    "description": "A prompt for generating a studio portrait while strictly preserving the facial identity from a reference photo, featuring specific lighting and clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791787584707_zvltra_HUXCPRLaoAAniC9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36314,
+    "content": "A hyper-realistic 8K outdoor photograph of a beautiful East Asian woman , standing three-quarter against a pale concrete wall. Long straight dark-violet hair with blunt bangs, individual strands catching the sun. Round thin metal glasses, fair realistic skin with visible pores, brown eyes, glossy muted rose lips.\n\nShe wears a fitted gray ribbed short-sleeve turtleneck; the vertical ribs stretch across the bust with small highlights on each ridge. Matching gray arm sleeves sit below the short sleeves. Black high-waist trousers. Arms crossed loosely in front, one hand resting on the other forearm.\n\nLighting: hard midday sun from upper left, sharp shadow under the chin and across the torso, thin speculars on the rib-knit and the glasses frames. Soft wall bounce on the right side of the face. Shot on an 85mm f/2, shallow depth of field, photorealistic skin, peach fuzz, knit micro-texture, fashion editorial look.",
+    "title": "East Asian Woman in Gray Turtleneck Concrete Wall",
+    "description": "Creates a hyper-realistic outdoor portrait of an East Asian woman with violet hair and glasses, wearing a gray ribbed turtleneck against a concrete wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791787584625_zo5l88_HUVYITwWcAA_zwI.jpg",
+      "https://cms-assets.youmind.com/media/1791787583198_ef81fh_HUVYIr2WMAA3PXq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36257,
     "content": "Japan Osaka JR station, random secret scene, white bride's gown, standing on an upward escalator staircase, spread arms, both hands on both handrails, leaning forward, gazing away from camera, messy low updo, sharp focus on subject, background bokeh, extreme close up, dutch angle",
     "title": "Escalator Dreaming Bride in Osaka Station",

@@ -10,6 +10,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 36316,
+    "content": "Without changing the appearance of the woman from the photo (exact facial identity), a large 4/5 studio portrait in 8K, a night shot with flash.\n\nThe woman is sitting on a transparent fashionable chair (part of the backrest is visible), turned in a three-quarter view. Hands are clasped in front of her face, chin resting on her hands. Confident gaze, eyebrows slightly raised, lips slightly parted.\n\nClothing: Loose strict white shirt with long slightly tousled sleeves, the bottom is tied in a knot at the waist, black tie. Hair is light, long, thick, with a mirror shine. Makeup is light: eyeliner, fox lashes, “dusty rose” lips with a clear contour.\n\nLighting at an angle + flash: Sculptural shadows, expressive chiaroscuro. Background is neutral, evenly lit. Coarse film grain, RAW feel, natural skin texture (pores, peach fuzz on the cheeks, capillaries around the eyes), super-detailed iris, SSS/Tyndall effect.\n\nCamera: Fujifilm GFX 100, 100mm, controlled grip.\nTake the setting/set completely from the second attached photo.",
+    "title": "Studio portrait identity preservation",
+    "description": "A prompt for generating a studio portrait while strictly preserving the facial identity from a reference photo, featuring specific lighting and clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791787584707_zvltra_HUXCPRLaoAAniC9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36257,
     "content": "Japan Osaka JR station, random secret scene, white bride's gown, standing on an upward escalator staircase, spread arms, both hands on both handrails, leaning forward, gazing away from camera, messy low updo, sharp focus on subject, background bokeh, extreme close up, dutch angle",
     "title": "Escalator Dreaming Bride in Osaka Station",

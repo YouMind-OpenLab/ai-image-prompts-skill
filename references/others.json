@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 36355,
+    "content": "A bustling downtown street intersection in an artistic cattlepunk style.",
+    "title": "Artistic Cattlepunk Street Scene",
+    "description": "A prompt for generating a bustling downtown street intersection in an artistic cattlepunk style using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791873550741_lsng7b_HUboCjeacAAoZRG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36076,
     "content": "Create an image of the content as shown in [image 1] but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of [image 2]. Objective: Style transfer from [image 1] to [image 2]",
     "title": "Nano Banana Pro Style Transfer Prompt",
@@ -9074,6 +9084,19 @@
       "https://cms-assets.youmind.com/media/1764577533011_80mx1g_G609phBbAAAxC4b.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 36358,
+    "content": "Please create a cute, stylish calendar illustration in a vertical (9:16) layout featuring a fresh, bright, hand-drawn style:\n\nIllustration Requirements:\n\n- The main character is a young,",
+    "title": "Cute Stylish Calendar Illustration",
+    "description": "A prompt for nano-banana-pro that creates cute, hand-drawn style calendar illustrations in a vertical layout, featuring a young main character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791873552732_7zw62e_G6s8yReWEAAHNnR.jpg",
+      "https://cms-assets.youmind.com/media/1791873552789_5ap2mx_G6s8znOaoAAhJxy.jpg",
+      "https://cms-assets.youmind.com/media/1791873552702_80r5t2_G6s9DrSWwAIIUen.jpg",
+      "https://cms-assets.youmind.com/media/1791873553695_ycklwy_G6s9JACXAAAQnJs.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 635,

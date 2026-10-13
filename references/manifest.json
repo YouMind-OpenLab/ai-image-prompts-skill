@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T04:22:04.270Z",
-  "totalPrompts": 15774,
+  "updatedAt": "2026-10-13T19:07:15.765Z",
+  "totalPrompts": 15778,
   "categories": [
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 2134
+      "count": 2136
     },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9827
+      "count": 9829
     },
     {
       "slug": "infographic-edu-visual",
@@ -36,7 +36,7 @@
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5752
+      "count": 5753
     },
     {
       "slug": "ecommerce-main-image",
@@ -54,7 +54,7 @@
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 1039
+      "count": 1038
     },
     {
       "slug": "app-web-design",
@@ -66,7 +66,7 @@
       "slug": "others",
       "title": "Uncategorized",
       "file": "others.json",
-      "count": 1102
+      "count": 1104
     }
   ]
 }

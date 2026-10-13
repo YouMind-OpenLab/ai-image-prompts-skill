@@ -10,6 +10,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 36356,
+    "content": "Ultra-realistic cinematic portrait of a beautiful young South Asian woman with long wavy brown hair, hazel-green eyes, a small black bindi, nose pin, golden jhumka earrings, and silver bangles. Wearing a cream embroidered lace suit, resting her chin on folded hands, gazing softly at the camera. Warm diya candle bokeh, dark blurred background, golden cinematic lighting, natural skin texture, shallow depth of field, 8K, 85mm lens, vertical 2:3.",
+    "title": "South Asian Woman Cinematic Portrait",
+    "description": "A prompt for generating an ultra-realistic cinematic portrait of a South Asian woman in traditional attire with warm candlelight bokeh and golden lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791873550893_7jvebv_HUZikAoboAAQZGr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36315,
+    "content": "Retro Hong Kong cha chaan teng portrait, 90s Hong Kong film still aesthetic, candid documentary vibe.\n\nSubject: A 25-year-old adult East Asian female with an oval face, thin eyebrows, and dark pupils; fair skin preserving fine pores and natural textures, rejecting plastic-like smoothing; light makeup with reddish lips. Long black hair draped over shoulders with naturally curled ends, strands falling by the face.\n\nExpression: Eyes looking off-camera to the left, relaxed and lazy demeanor, a faint smile at the corners of the mouth, like being caught daydreaming in the afternoon.\n\nClothing: Cream white pure cotton short-sleeved shirt with one button open at the collar; dark brown high-waisted corduroy wide-leg pants; black thin belt; pearl earrings. Outfit is clean and sharp, with vintage vibes hidden in details.\n\nPose/Action: Sitting in a window-side booth at a cha chaan teng, body slightly turned towards the window, one elbow resting on the table holding a steaming silk stocking milk tea, the other hand casually supporting her chin. Relaxed posture, not stiff.\n\nProps: On the table are pineapple buns, shrimp dumplings in bamboo steamers, metal milk tea cups, menu boards, wooden chopstick holders.\n\nEnvironment: Foreground features slightly blurred milk tea cups and steamers; mid-ground shows the subject and booth table; background reveals the interior of the cha chaan teng—green mosaic tile walls, red neon sign 'Cha Chaan Teng', old-style ceiling fans, glass cabinets displaying egg tarts and pastries; distant diners appear as soft blurs.\n\nLighting: Warm yellow indoor pendant lights as main light, color temperature around 3200K, wrapped in a thin haze of cooking oil smoke; cool daylight from outside serves as rim light, creating warm-cool contrast. Soft highlights reflect on glass cabinets and tiles.\n\nCamera: 50mm prime lens, f/2.0, half-body shot, eye-level slightly low angle, shallow depth of field, subject clear while foreground/background naturally blurred, slightly handheld casual framing, film grain, Kodak Gold film simulation, Eastmancolor palette.\n\nMood: Nostalgic, slow-paced afternoon laziness, like a frozen frame from an old Hong Kong movie.\n\nQuality Tags: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.\n\nNegative Constraints: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.",
+    "title": "Retro Hong Kong Cha Chaan Teng Portrait Prompt",
+    "description": "A detailed prompt for generating a photorealistic portrait of a woman in a retro Hong Kong cafe setting, used in a comparison between GPT-image-2.5, Nano Banana 2, and Grok-imagine2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg",
+      "https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg",
+      "https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36316,
     "content": "Without changing the appearance of the woman from the photo (exact facial identity), a large 4/5 studio portrait in 8K, a night shot with flash.\n\nThe woman is sitting on a transparent fashionable chair (part of the backrest is visible), turned in a three-quarter view. Hands are clasped in front of her face, chin resting on her hands. Confident gaze, eyebrows slightly raised, lips slightly parted.\n\nClothing: Loose strict white shirt with long slightly tousled sleeves, the bottom is tied in a knot at the waist, black tie. Hair is light, long, thick, with a mirror shine. Makeup is light: eyeliner, fox lashes, “dusty rose” lips with a clear contour.\n\nLighting at an angle + flash: Sculptural shadows, expressive chiaroscuro. Background is neutral, evenly lit. Coarse film grain, RAW feel, natural skin texture (pores, peach fuzz on the cheeks, capillaries around the eyes), super-detailed iris, SSS/Tyndall effect.\n\nCamera: Fujifilm GFX 100, 100mm, controlled grip.\nTake the setting/set completely from the second attached photo.",
     "title": "Studio portrait identity preservation",

@@ -10,6 +10,49 @@
     "needReferenceImages": false
   },
   {
+    "id": 36396,
+    "content": "Create an ultra-realistic luxury beauty portrait of a stunning young woman with long, straight, glossy dark-brown hair, center-parted and falling naturally over both shoulders. She wears a fitted black turtleneck and elegant round sunglasses with thin rose-gold metal frames and dark tinted lenses. Her makeup is flawless and glamorous, featuring softly contoured cheeks, perfectly shaped eyebrows, subtle blush, and bold matte deep-red lipstick. Her fair, smooth skin has a natural luminous finish. One hand rests elegantly across her shoulder, displaying delicate pink manicured nails and a thin gold ring.\n\nFront-facing close-up portrait, head and shoulders composition, calm confident expression, soft diffused studio lighting illuminating her face, subtle shadows, dark blurred charcoal-black background, sophisticated luxury fashion editorial photography, realistic skin texture, sharp facial details, professional DSLR quality, 85mm portrait lens, shallow depth of field, rich contrast, premium beauty campaign aesthetic, photorealistic, 8K detail.\n\nNegative prompt: Cartoon, illustration, plastic skin, excessive retouching, distorted hands, extra fingers, asymmetrical sunglasses, blurry face, unnatural makeup, text, watermark, logo.",
+    "title": "Luxury Beauty Portrait Prompt for Nano Banana Pro",
+    "description": "Generates an ultra-realistic luxury beauty portrait of a woman with dark hair and sunglasses, suitable for fashion editorial or high-end advertising visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791959720078_0s2lru_HUhPbG_aoAAKOq9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36395,
+    "content": "Create an ultra-realistic, high-quality fashion portrait of a beautiful young woman with long, straight, silky black hair, striking grey-green eyes, soft rosy cheeks, natural pink lips, delicate facial features, and elegant makeup with winged eyeliner. She is wearing an oversized two-tone blazer, burgundy on one side and olive green on the other, over a white lace-trimmed camisole, paired with a sheer white neck scarf tied in a graceful bow. Her hands are casually tucked into the blazer pockets, showing delicate rings and black nail art. Her head is slightly tilted, with a calm, confident expression, looking directly at the camera. Minimalist white studio background, soft diffused lighting, realistic skin texture, luxury fashion editorial photography, sharp focus, natural proportions, detailed fabric textures, waist-up composition, 85mm portrait lens, 4K quality. No text, no watermark, no extra fingers, no distorted hands.",
+    "title": "Fashion Editorial Portrait Prompt for Nano Banana Pro",
+    "description": "Creates a high-quality fashion portrait of a woman in a two-tone blazer with detailed styling, ideal for clothing brands or editorial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791959720278_0j9145_HUhImPAa4AAN3_U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36398,
+    "content": "Create an ultra-photorealistic luxury corporate fashion portrait using the uploaded reference image for the exact face and identity. A confident young woman standing full-body outside a modern glass-and-concrete office building, wearing an elegant all-black tailored pantsuit with a structured blazer, black satin camisole, high-waisted wide-leg trousers, and pointed-toe black stiletto heels.\n\nHer hair is neatly styled in a sleek, center-parted low bun. Minimal gold hoop earrings, a delicate gold necklace, and natural sophisticated makeup. She stands confidently with relaxed arms, shoulders straight, and one leg slightly forward, looking directly at the camera with a calm, professional expression.\n\nIdentity preservation: Maintain the exact facial identity from the uploaded reference image, including face shape, eyes, eyebrows, nose, lips, skin tone, facial proportions, and natural skin texture. Do not change or beautify the face. Keep the same recognizable person throughout.\n\nPhotography and environment: Full-body vertical fashion photograph, modern corporate architecture, large glass windows, pale concrete columns, clean stone pavement, soft natural daylight, subtle shadows, realistic fabric folds, premium black tailoring, natural skin pores, sharp facial details, sophisticated neutral color grading, shot on an 85mm portrait lens, professional editorial photography, realistic proportions, high dynamic range, 8K-quality detail.\n\nComposition: 4:5 vertical aspect ratio, entire body visible from head to shoes, both feet completely inside the frame, subject centered, realistic camera perspective, background slightly blurred while architectural details remain visible.\n\nNegative prompt: Different face, identity drift, altered facial features, artificial skin, plastic texture, excessive retouching, cartoon, CGI, distorted hands, extra fingers, incorrect anatomy, unnatural legs, warped clothing, cropped feet, blurry face, oversaturated colors, text, logo, watermark.",
+    "title": "Luxury Corporate Fashion Portrait",
+    "description": "A detailed prompt for creating an ultra-photorealistic luxury corporate fashion portrait of a woman in a black tailored pantsuit, emphasizing identity preservation from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36400,
+    "content": "[Overall Theme] An eye-level medium shot capturing a young woman with a calm expression in a bright, minimalist interior.\n\n[Subject - Face & Clothing] Refer to the attached image for face and clothing.\n\n[Subject - Expression] A gentle, pensive expression, eyes directed towards the viewer ahead, mouth closed.\n\n[Action] Right hand grasping hair above the head for a ponytail, left hand lightly placed on the chest at the collar, torso facing straight forward, weight supported by both feet on the floor.\n\n[Subject - Pose] Right arm raised and bent at the elbow, hand grasping a bundle of hair near the crown. Left arm bent, fingers touching clothes near the center of the chest. Head slightly tilted. Shoulders level. Body kept vertical, weight evenly distributed on both feet placed on a flat floor.\n\n[Composition & Photography] Eye-level medium shot with subject centered. Shallow depth of field softly blurring the white wall background. Natural window light from the side.\n\n[Light & Atmosphere] Softly diffused natural light creating gentle shadows on the person and wall, evoking a clean and airy daily atmosphere.\n\nPhotorealistic. RAW photo. Smooth, glowing skin. Create a vertical portrait image with aspect ratio 9:16 optimized for smartphone screens.",
+    "title": "Ponytail Portrait Prompt",
+    "description": "A detailed prompt for generating a realistic portrait of a young woman tying her ponytail, tested on gemini-3-pro-image-2k (nano-banana-pro).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791959723678_289522_HUgewkjaoAAdnPA.jpg",
+      "https://cms-assets.youmind.com/media/1791959724066_h8oahz_HUgezN_b0AARnNJ.jpg",
+      "https://cms-assets.youmind.com/media/1791959724064_90lrsb_HUge39RbwAAIghu.jpg",
+      "https://cms-assets.youmind.com/media/1791959724909_xhvf83_HUgfGExbwAEs6Qp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36356,
     "content": "Ultra-realistic cinematic portrait of a beautiful young South Asian woman with long wavy brown hair, hazel-green eyes, a small black bindi, nose pin, golden jhumka earrings, and silver bangles. Wearing a cream embroidered lace suit, resting her chin on folded hands, gazing softly at the camera. Warm diya candle bokeh, dark blurred background, golden cinematic lighting, natural skin texture, shallow depth of field, 8K, 85mm lens, vertical 2:3.",
     "title": "South Asian Woman Cinematic Portrait",

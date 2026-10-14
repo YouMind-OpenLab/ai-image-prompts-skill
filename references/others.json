@@ -9139,6 +9139,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 36399,
+    "content": "A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings,",
+    "title": "Tang Dynasty Noblewoman with Hairdryer in Gongbi Style",
+    "description": "A prompt for generating a traditional Chinese ink and color painting in Gongbi style featuring a Tang Dynasty noblewoman using a modern hairdryer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791959721843_z9k8j3_G6ZOMb_WEAAVKF6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 483,
     "content": "A doodle‑style illustration of {argument name=\"subject_en\" default=\"[subject]\"}, with naive lines and humorous exaggeration of shapes.",
     "title": "Naive doodle-style subject illustration",

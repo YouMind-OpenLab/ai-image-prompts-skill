@@ -41,6 +41,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 36586,
+    "content": "A close-up portrait of a young East Asian woman with short blonde pixie and side-swept bangs and winged eyeliner. She wears a dark top with thin straps visible at the shoulders and looks directly at the camera with a calm, neutral expression and slightly parted lips. A small earring is visible in her left ear.\n\nThe scene is set in a dark environment with dramatic, multi-colored lighting. A bright warm light source to the left creates a strong highlight and lens flare effect near her hair, while cool blue light from the right and a soft red glow in the background cast colored shadows across her face and neck. The background is heavily blurred with bokeh lights. The overall style is cinematic and moody, with high contrast, rich teal and amber tones, and a filmic texture.",
+    "title": "Cinematic portrait with dramatic lighting",
+    "description": "A detailed prompt for generating a close-up portrait of an East Asian woman with cinematic lighting and bokeh effects, created with Gemini Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792304896700_skxkmm_HU28jWHaEAAdgs1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36495,
     "content": "[Overall Theme] A daily snapshot of a smiling girl looking at her own shoes on a country road at dusk.\n\n[Subject - Face/Clothing] Refer to attached images for face and clothing.\n\n[Subject - Expression]\nA gentle and bright smile with closed lips, looking towards the raised foot.\n\n[Action]\nWeight is supported only by the left foot on the gravel road; the right leg is lifted forward and bent at the knee, with the right hand reaching down to grab the heel of the right shoe. The torso is tilted forward and to the right.\n\n[Subject - Pose]\nThe left foot is flat on the gravel ground, supporting the entire body's weight. The right leg is raised forward with the knee bent so the sole is visible. The right hand holds the edge of the right shoe's heel. The left arm hangs naturally by the side. The upper body tilts forward and twists slightly toward the raised foot. The head is lowered, looking at the shoe. The entire pose balances on just one point of contact with the ground (the left foot).\n\n[Composition/Shooting]\nFull-body shot at eye level, subject centered. The gravel road continues into the distance, flanked by lush rice paddies under a pale sky.\n\n[Light/Atmosphere]\nSoft, diffused sunlight from the side casts soft shadows and golden hour glow on the rural landscape.\n\nPhotorealistic. RAW photo. Smooth, glowing skin. Create a vertical portrait image with an aspect ratio of 9:16 optimized for smartphone screens.",
     "title": "Girl Looking at Shoe on Country Road",

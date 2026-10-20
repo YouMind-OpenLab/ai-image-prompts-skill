@@ -1,5 +1,18 @@
 [
   {
+    "id": 36685,
+    "content": "Theme:\n1990s Noir-Action Cinema\n\nSubject:\nAn athletic adult woman in her early thirties with a classic action-heroine aesthetic, positioned in a high-stakes industrial setting.\n\nPerson · Expression:\nPlatinum blonde hair styled in voluminous, wild waves. Features include high cheekbones, piercing blue eyes with a focused gaze, and smoky eye makeup. The expression is one of intense tactical readiness. A sharp black-ink barbed-wire tattoo is visible on the upper arm.\n\nClothing · Pose:\nA structured bodice made of polished black leather with visible stitching and realistic grain. She is in a professional two-handed aiming stance, holding a large silver film-prop pistol. A chrome spiked gauntlet cuff is visible on the wrist. The pose is a dynamic profile with locked elbows and a steady grip.\n\nBackground · Light:\nA dark, moody industrial studio with concrete walls and a hazy atmosphere. The scene is side-lit by a cool white key light, complemented by a teal rim light on the hair. Deep shadows and specular highlights on the metallic prop and leather clothing create a high-contrast environment.\n\nComposition · Camera:\nMedium shot from a low angle to establish a heroic perspective. Captured with an anamorphic lens simulation, featuring a shallow depth of field and oval bokeh. The framing is a 16:9 cinematic landscape.\n\nTexture · Style:\n35mm film photography style with fine grain and a hyper-realistic finish. Skin textures are highly detailed with visible pores and a light cinematic sheen. The overall aesthetic follows a 1990s film scan with punchy contrast and a cool color palette.",
+    "title": "90s Action Heroine Noir Prompt",
+    "description": "A structured text prompt for generating a 1990s noir-action style portrait of an athletic blonde woman aiming a pistol in an industrial setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792477958090_jvppes_HU-e7l5WwAAJhWB.jpg",
+      "https://cms-assets.youmind.com/media/1792477958240_7bbciu_HU-e7lvWAAAE-Rj.jpg",
+      "https://cms-assets.youmind.com/media/1792477956694_nmpp4j_HU-e7mCWkAAEt36.jpg",
+      "https://cms-assets.youmind.com/media/1792477957747_6rilf4_HU-e7mHW8AAvYH2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36075,
     "content": "Still from a Hollywood sci-fi movie. Over-the-shoulder shot of the man in image 1. He is on the left side of the frame in the foreground. The woman from image 2 is on the right side of the frame in focus. The setting is a different angle of image 3. Use image 4 as the influence for the color grade, lighting, style, and film stock type.",
     "title": "Sci-Fi Movie Still with Reference Images",

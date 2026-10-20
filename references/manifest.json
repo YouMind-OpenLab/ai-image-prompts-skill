@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T02:31:52.774Z",
-  "totalPrompts": 15793,
+  "updatedAt": "2026-10-20T16:37:08.235Z",
+  "totalPrompts": 15795,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -12,7 +12,7 @@
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9835
+      "count": 9836
     },
     {
       "slug": "infographic-edu-visual",
@@ -24,7 +24,7 @@
       "slug": "youtube-thumbnail",
       "title": "YouTube Thumbnail",
       "file": "youtube-thumbnail.json",
-      "count": 227
+      "count": 228
     },
     {
       "slug": "comic-storyboard",
@@ -54,7 +54,7 @@
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 1039
+      "count": 1041
     },
     {
       "slug": "app-web-design",

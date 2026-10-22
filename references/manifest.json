@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-22T02:19:32.111Z",
-  "totalPrompts": 15798,
+  "updatedAt": "2026-10-22T16:55:38.422Z",
+  "totalPrompts": 15801,
   "categories": [
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 2144
+      "count": 2147
     },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9838
+      "count": 9841
     },
     {
       "slug": "infographic-edu-visual",

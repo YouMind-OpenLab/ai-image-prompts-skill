@@ -41,6 +41,58 @@
     "needReferenceImages": false
   },
   {
+    "id": 36836,
+    "content": "Extremely close-up photorealistic portrait of a young East Asian woman. She is looking down with a gentle, tender expression at a small glowing star-shaped night light held carefully in both hands, the warm light illuminating her face.\nShe wears a soft cream-colored floral pajama top. Intimate and delicate atmosphere.\nSoft warm lighting from the glowing star casting a gentle glow on her face and hands, shallow depth of field, highly detailed skin texture, dreamy and emotional mood, sharp focus on the eyes and the star, stunning and intimate composition, 8k photorealistic.",
+    "title": "Cute Star Night Light Portrait Comparison",
+    "description": "A comparison of GPT2.5 Flare, Nano Pro, Grok, and SeeDream using a prompt for a photorealistic portrait of a woman holding a glowing star-shaped night light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792823502170_5dzm3u_HVUxhdMbIAA9_Av.jpg",
+      "https://cms-assets.youmind.com/media/1792823502062_bsbp7w_HVUyBgxboAAuN4Z.jpg",
+      "https://cms-assets.youmind.com/media/1792823501908_0zrn6a_HVUyGdPa8AAl33A.jpg",
+      "https://cms-assets.youmind.com/media/1792823502849_k0pq4j_HVUzcXraoAAfjWr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36837,
+    "content": "Highly stylish cinematic portrait of a young East Asian woman with hair styled in an elegant high bun. She stands in a graceful pose, head tilted upward with a serene expression, one hand resting on her hip.\n\nShe wears a deep burgundy velvet figure-skating leotard with intricate black lace embroidery, sheer mesh long sleeves, a high ruffled collar, and delicate ruffle details along the hips. Slim athletic body with elegant posture.\n\nClean minimal background with soft dramatic lighting that highlights the rich velvet texture and lace details. High-fashion editorial style, refined composition, luxurious fabric rendering, sharp focus, visually stunning and elegant atmosphere, 8k.",
+    "title": "Red Velvet Leotard Portrait Comparison",
+    "description": "A multi-model comparison including Nano Pro, featuring a stylish cinematic portrait of a woman in a red velvet leotard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792823502150_tlvloh_HVUuzN4bUAAJI64.jpg",
+      "https://cms-assets.youmind.com/media/1792823502105_kotbqn_HVUu57maQAAOD7F.jpg",
+      "https://cms-assets.youmind.com/media/1792823502143_ge539f_HVUu-jfaIAEPjKc.jpg",
+      "https://cms-assets.youmind.com/media/1792823503083_n18j4m_HVUwD3EbYAAps9j.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36835,
+    "content": "Photorealistic upper-body close-up of a young East Asian woman. She is sitting on a large rock in a calm lake, looking slightly to the side with a soft, contemplative expression.\n\nShe wears a light dusty blue slip dress with thin spaghetti straps. Slim athletic body with natural skin texture.\n\nSerene lake setting with gentle water reflections, soft overcast natural lighting, and blurred greenery in the background. Highly detailed skin, realistic fabric, sharp focus on the face and upper body, 8k photorealistic.",
+    "title": "Nano Banana Pro Lake Portrait Comparison",
+    "description": "A comparison of four models (Grok, SeeDream, Nano Pro x2) using a prompt for a photorealistic portrait of an East Asian woman sitting on a rock in a lake. The prompt is provided for all models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792823502245_imdqpo_HVUH5vAbEAAMeK3.jpg",
+      "https://cms-assets.youmind.com/media/1792823502158_mzpa4p_HVUIDlga8AAcbW-.jpg",
+      "https://cms-assets.youmind.com/media/1792823500635_7at47x_HVUIL3XboAALEyJ.jpg",
+      "https://cms-assets.youmind.com/media/1792823501674_oa3gne_HVUIQTobIAAkGpp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36838,
+    "content": "Photorealistic ultra close-up portrait of a young East Asian woman with soft dusty pink short hair styled in a loose side braid. She is looking at the camera with a gentle, warm smile.\n\nShe wears a light lavender knit sweater and small pearl earrings. Slim athletic body.\n\nSoft indoor setting with warm natural lighting and a clean, slightly blurred background. Highly detailed skin texture, realistic fabric, sharp focus, elegant and natural portrait photography, 8k photorealistic.",
+    "title": "Purple Sweater Portrait Comparison",
+    "description": "A comparison of Nano Pro, SeeDream Lite, ChatGPT, and Flux 2 using a prompt for a photorealistic ultra close-up portrait of a woman with pink hair wearing a lavender sweater.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792823504000_5cnt87_HVTKQEYbUAAzju-.jpg",
+      "https://cms-assets.youmind.com/media/1792823504142_xddwdq_HVTKTiJbYAABBqC.jpg",
+      "https://cms-assets.youmind.com/media/1792823504022_dniklv_HVTKZXkbQAA8c7e.jpg",
+      "https://cms-assets.youmind.com/media/1792823504942_qm7qxx_HVTKfgbawAAvrc0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36790,
     "content": "Use the master reference image for face identity only. Create the same woman wearing a sculptural silver metallic gown that looks like flowing liquid metal, with realistic reflective folds and a fitted silhouette. She poses against a simple light-gray studio background, one hand resting at her waist, chin slightly raised, confident expression. Natural facial details, visible pores, accurate hands, realistic metallic reflections, luxury magazine photography, head-to-toe composition, both feet visible\n\nNegative prompt: no CGI appearance, no plastic skin, different face, identity drift, face morphing, altered facial structure, asymmetrical eyes caused by errors, plastic skin, excessive retouching, doll-like face, blurry face, unnatural body proportions, extra fingers, missing fingers, fused hands, deformed feet, missing shoes, cropped legs, cropped head, floating accessories, unrealistic fabric, oversaturated colors, CGI, cartoon, artificial skin, duplicate person, text, logo, watermark, low resolution, motion blur.",
     "title": "Nano Banana Pro Silver Metallic Gown Portrait",

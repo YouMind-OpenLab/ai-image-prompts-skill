@@ -41,6 +41,32 @@
     "needReferenceImages": false
   },
   {
+    "id": 36877,
+    "content": "{\n  \"vibe_title_en\": \"Marble Apathy\",\n  \"master_prompt\": \"A cinematic, voyeuristic photograph of The Protagonist immersed in a surreal, impossibly dense archive of overlapping classical white marble busts. The image strictly mirrors the visual geometry of a claustrophobic crowd of statues pressing in, but is captured with high-budget practical effects and photographic realism. The subject exudes 'Haute Apathy'—a deadpan, neutral facial expression with heavy, relaxed eyelids, their posture limp but chic, casually leaning against a priceless marble head in extreme nonchalance. They wear a minimalist, stark black turtleneck that severely contrasts against the sea of white stone. Shot with a 200mm long focal length lens to aggressively compress the space. The composition is a 'Voyeuristic Glimpse', captured through a narrow, heavily out-of-focus gap between two foreground marble statues, framing the subject's face as if spying on a private moment. High-key, clean, soft studio lighting emphasizes the flawless, hyper-realistic finish of both the porous marble and the subject's natural skin texture. Shot on Hasselblad H6D-100c, Kodak Portra 160 film stock, capturing authentic micro-details, skin pores, stray hairs, and subtle marble dust suspended in the air. Absolutely no neon, no CGI look; pure analog photographic texture.\",\n  \"meta\": {\n    \"intent\": \"Surreal Avant-Garde Editorial\",\n    \"priorities\": \"Foreground occlusion, heavy telephoto compression, textural contrast between skin and marble\",\n    \"device_profile\": \"Medium Format Analog\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Voyeuristic framing heavily obscured by foreground elements\",\n    \"layout\": \"Subject tightly framed and engulfed by dense surrounding objects\",\n    \"camera_angle\": \"Eye-level from a distant, hidden vantage point\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, ethereal yet grounded\",\n    \"face\": \"Neutral, deadpan with heavy, relaxed eyelids and sharp, graphic eyeliner\",\n    \"hair\": \"Sleek, parted tightly down the middle\",\n    \"body\": \"Relaxed, limp but chic posture\",\n    \"expression\": \"Extreme nonchalance, 'too cool for the room' apathy\",\n    \"pose\": \"Slumped shoulders, leaning effortlessly against a marble statue\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Turtleneck sweater\",\n        \"material\": \"Fine merino wool\",\n        \"color\": \"Stark matte black\",\n        \"fit\": \"Form-fitting but relaxed\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Graphic winged eyeliner\",\n        \"color\": \"Vantablack\",\n        \"material\": \"Matte makeup pigment\",\n        \"brand_style\": \"High-fashion editorial\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"An infinitely dense, surreal archive of classical white marble busts\",\n    \"surfaces\": \"Cold, smooth but porous white marble, subtle dust\"",
+    "title": "Marble Apathy Editorial Portrait Prompt",
+    "description": "A complex JSON-formatted prompt for generating a surreal editorial photograph of a woman surrounded by marble busts, emphasizing high-end analog photographic aesthetics and voyeuristic framing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg",
+      "https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg",
+      "https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg",
+      "https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36878,
+    "content": "Elegant portrait of a young East Asian woman. She stands gracefully at night, looking at the camera with a gentle, confident smile, one hand lightly resting near the hem of her dress.\n\nShe wears a delicate light pink satin slip dress with thin straps and subtle lace detailing. Slim athletic body with a refined silhouette.\n\nNighttime outdoor setting near a softly lit fountain and classic architecture, warm golden bokeh lights in the background. Soft cinematic lighting, elegant and sensual atmosphere, classy fashion photography style, highly detailed skin and fabric texture, tasteful and sophisticated composition, SFW, 8k.",
+    "title": "Elegant Night Portrait in Pink Satin Dress",
+    "description": "A prompt for generating an elegant fashion photograph of a woman in a pink satin slip dress near a fountain at night, focusing on texture and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792909738848_mcn9bb_HVXS6kuaIAA3SKL.jpg",
+      "https://cms-assets.youmind.com/media/1792909738870_85oybi_HVXTEpcbEAA3IDA.jpg",
+      "https://cms-assets.youmind.com/media/1792909738853_0vd42m_HVXTOYgb0AAqD4A.jpg",
+      "https://cms-assets.youmind.com/media/1792909739647_1r1a3x_HVXTsA-bgAItzHc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36836,
     "content": "Extremely close-up photorealistic portrait of a young East Asian woman. She is looking down with a gentle, tender expression at a small glowing star-shaped night light held carefully in both hands, the warm light illuminating her face.\nShe wears a soft cream-colored floral pajama top. Intimate and delicate atmosphere.\nSoft warm lighting from the glowing star casting a gentle glow on her face and hands, shallow depth of field, highly detailed skin texture, dreamy and emotional mood, sharp focus on the eyes and the star, stunning and intimate composition, 8k photorealistic.",
     "title": "Cute Star Night Light Portrait Comparison",

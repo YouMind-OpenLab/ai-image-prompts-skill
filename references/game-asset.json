@@ -1,5 +1,15 @@
 [
   {
+    "id": 36908,
+    "content": "Photorealistic Rogue One/Andor film still. Exact ref face: same structure, skin tone, pores/freckles/moles/scars. Gritty desaturated military sci-fi: industrial grey, dirty orange, olive drab, cold hangar light, canvas/metal textures, film grain.",
+    "title": "Rogue One Style Film Still Prompt",
+    "description": "A detailed prompt for generating photorealistic Rogue One/Andor style film stills with specific lighting and texture requirements using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792996786802_v5du1j_HVdmGEcb0AAcdbt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36255,
     "content": "Whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style.",
     "title": "Rainforest Wildlife Observation Station Miniature World",

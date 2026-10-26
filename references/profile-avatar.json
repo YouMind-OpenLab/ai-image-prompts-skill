@@ -10,6 +10,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 36909,
+    "content": "Face/Hair: Follow the attached face photo.\nHair Condition: Dry, normal state.\nExpression: Natural eye opening, gaze directed slightly downward forward, mouth slightly open in relaxation, natural eyebrows, calm emotion.\nTop: Black satin camisole, no patterns or logos, hem tucked into bottoms, not disheveled, dry condition.\nBottoms: Pleated skirt, black polyester material, knee-length, no processing or damage, no belt or waist details.\nFeet: Out of frame.\nAccessories: Small heart-motif silver necklace and one small stud earring on one ear, holding a removed blouse in hand.\nPose: Standing sideways facing right inside, hips and legs facing right, shoulders facing right, torso upright, head directly above hips, vertical body axis, face looking back over right shoulder towards camera, right arm bent with palm lightly touching chin, left arm hanging by side with hand at waistline of bottoms, both legs aligned.\nDepth/Distance: Right arm is closest to camera occupying ~20% of screen, focus on face and upper body, background moderately blurred, no exaggerated perspective, whole body at roughly same distance.\nComposition: Shot size cut at upper thighs, top of head ~10% from top edge, skirt hem near bottom edge, person occupies ~60% width and ~80% height positioned slightly left of center, camera height at chest level, standard lens angle of view.\nLocation: By school window, daytime, vertical white window frames arranged vertically on right side of background, deep space with blurred background, ground/trees/buildings not visible.\nLighting: Main light source is natural light from window at right rear, neutral white color temperature, medium contrast overall, shadows tightened but soft, weak rim light from right rear, no light sources or lens flares in frame, no blowouts or halation.\nPhotography: Indoor portrait snap, subject distance approx 1.5 meters, standard focal length feel, shallow depth of field, smooth texture without graininess, medium saturation and contrast, clean atmosphere.\nTexture: Skin is smooth and matte, no sweat or wetness, shallow depth of field, neutral white balance.\nStyle: Photorealistic.\nRatio: Vertical 9:16 / 1080x1920px",
+    "title": "Realistic School Portrait with Reference Photo",
+    "description": "A detailed prompt for generating a photorealistic portrait of a girl in school uniform, designed to use an uploaded face photo as reference while maintaining specific lighting and composition details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792996788109_3lkttr_HVhqXV-aYAAwNUo.jpg",
+      "https://cms-assets.youmind.com/media/1792996788541_627aj2_HVhqYPNbkAE8sPC.jpg",
+      "https://cms-assets.youmind.com/media/1792996788365_4ng4lm_HVhqbGDacAA53sr.jpg",
+      "https://cms-assets.youmind.com/media/1792996789201_zdx66t_HVhqcC7bMAA-bOq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36878,
     "content": "Elegant portrait of a young East Asian woman. She stands gracefully at night, looking at the camera with a gentle, confident smile, one hand lightly resting near the hem of her dress.\n\nShe wears a delicate light pink satin slip dress with thin straps and subtle lace detailing. Slim athletic body with a refined silhouette.\n\nNighttime outdoor setting near a softly lit fountain and classic architecture, warm golden bokeh lights in the background. Soft cinematic lighting, elegant and sensual atmosphere, classy fashion photography style, highly detailed skin and fabric texture, tasteful and sophisticated composition, SFW, 8k.",
     "title": "Elegant Night Portrait in Pink Satin Dress",

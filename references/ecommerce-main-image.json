@@ -1,5 +1,15 @@
 [
   {
+    "id": 36790,
+    "content": "Use the master reference image for face identity only. Create the same woman wearing a sculptural silver metallic gown that looks like flowing liquid metal, with realistic reflective folds and a fitted silhouette. She poses against a simple light-gray studio background, one hand resting at her waist, chin slightly raised, confident expression. Natural facial details, visible pores, accurate hands, realistic metallic reflections, luxury magazine photography, head-to-toe composition, both feet visible\n\nNegative prompt: no CGI appearance, no plastic skin, different face, identity drift, face morphing, altered facial structure, asymmetrical eyes caused by errors, plastic skin, excessive retouching, doll-like face, blurry face, unnatural body proportions, extra fingers, missing fingers, fused hands, deformed feet, missing shoes, cropped legs, cropped head, floating accessories, unrealistic fabric, oversaturated colors, CGI, cartoon, artificial skin, duplicate person, text, logo, watermark, low resolution, motion blur.",
+    "title": "Liquid Metal Gown Portrait Prompt",
+    "description": "A detailed prompt for generating a realistic portrait of a woman in a sculptural silver metallic gown, emphasizing identity preservation from a reference image and high-end fashion photography aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792996786516_wexhp0_HVPZm52acAAAjdF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36496,
     "content": "Keep the pastry exactly as it is. Replace the background with a warm wooden bakery counter by a sunny window, soft morning light. No text, no people, no hands.",
     "title": "Nano Banana Pro Edit Tutorial",

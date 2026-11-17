@@ -108,7 +108,7 @@ Then use the `slug` and `title` fields to match user intent to the right file.
 | `game-asset.json` | Game Asset | 732 |
 | `poster-flyer.json` | Poster / Flyer | 1050 |
 | `app-web-design.json` | App / Web Design | 240 |
-| `others.json` | Uncategorized | 1107 |
+| `others.json` | Uncategorized | 1108 |
 
 <!-- REFERENCES_END -->
 
